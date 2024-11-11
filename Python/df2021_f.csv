@@ -1,0 +1,1001 @@
+World Rank,Institution,Location,Year,National Rank,Education Rank,Employability Rank,Faculty Rank,Research Rank,Score
+1,Harvard University,USA,2021,1,1.0,1.0,1.0,1.0,100.0
+2,Massachusetts Institute of Technology,USA,2021,2,4.0,12.0,2.0,8.0,96.7
+3,Stanford University,USA,2021,3,10.0,4.0,3.0,2.0,95.1
+4,University of Cambridge,United Kingdom,2021,1,3.0,25.0,4.0,10.0,94.1
+5,University of Oxford,United Kingdom,2021,2,7.0,27.0,9.0,4.0,93.3
+6,Princeton University,USA,2021,4,5.0,15.0,7.0,70.0,92.6
+7,Columbia University,USA,2021,5,11.0,14.0,10.0,15.0,92.0
+8,University of Chicago,USA,2021,6,8.0,16.0,27.0,22.0,91.5
+9,University of Pennsylvania,USA,2021,7,14.0,10.0,42.0,12.0,91.1
+10,Yale University,USA,2021,8,6.0,36.0,13.0,20.0,90.7
+11,California Institute of Technology,USA,2021,9,2.0,111.0,8.0,75.0,90.4
+12,"University of California, Berkeley",USA,2021,10,9.0,60.0,5.0,13.0,90.1
+13,University of Tokyo,Japan,2021,1,39.0,6.0,107.0,27.0,89.8
+14,Cornell University,USA,2021,11,15.0,28.0,18.0,24.0,89.5
+15,"University of Michigan, Ann Arbor",USA,2021,12,29.0,38.0,79.0,5.0,89.2
+16,Johns Hopkins University,USA,2021,13,23.0,206.0,22.0,6.0,89.0
+17,Northwestern University,USA,2021,14,137.0,18.0,46.0,30.0,88.8
+18,"University of California, Los Angeles",USA,2021,15,44.0,63.0,16.0,14.0,88.6
+19,University College London,United Kingdom,2021,3,36.0,668.0,15.0,7.0,88.4
+20,Duke University,USA,2021,16,64.0,50.0,17.0,23.0,88.2
+21,PSL University,France,2021,1,18.0,30.0,104.0,126.0,88.0
+22,University of Illinois at Urbana–Champaign,USA,2021,17,24.0,132.0,11.0,62.0,87.8
+23,University of Washington - Seattle,USA,2021,18,67.0,199.0,23.0,9.0,87.6
+24,University of Toronto,Canada,2021,1,230.0,158.0,21.0,3.0,87.5
+25,University of Wisconsin–Madison,USA,2021,19,33.0,97.0,29.0,32.0,87.3
+26,New York University,USA,2021,20,47.0,45.0,38.0,48.0,87.2
+27,McGill University,Canada,2021,2,25.0,101.0,40.0,44.0,87.0
+28,Kyoto University,Japan,2021,2,42.0,32.0,63.0,64.0,86.9
+29,ETH Zurich,Switzerland,2021,1,58.0,96.0,20.0,39.0,86.8
+30,Imperial College London,United Kingdom,2021,4,69.0,109.0,52.0,17.0,86.6
+31,Seoul National University,South Korea,2021,1,315.0,21.0,135.0,58.0,86.5
+32,Paris-Saclay University,France,2021,2,173.0,138.0,43.0,11.0,86.4
+33,University of Texas at Austin,USA,2021,21,94.0,62.0,14.0,56.0,86.3
+34,"University of California, San Diego",USA,2021,22,120.0,1001.0,12.0,19.0,86.1
+35,Karolinska Institute,Sweden,2021,1,37.0,1001.0,34.0,60.0,86.0
+36,Sorbonne University,France,2021,3,85.0,292.0,92.0,16.0,85.9
+37,University of Copenhagen,Denmark,2021,1,90.0,376.0,44.0,26.0,85.8
+38,"University of California, San Francisco",USA,2021,23,527.0,1001.0,19.0,25.0,85.7
+39,University of North Carolina at Chapel Hill,USA,2021,24,80.0,102.0,76.0,35.0,85.6
+40,Dartmouth College,USA,2021,25,53.0,17.0,95.0,273.0,85.5
+41,Institut Polytechnique de Paris,France,2021,4,100.0,8.0,219.0,316.0,85.4
+42,University of Paris,France,2021,5,233.0,932.0,56.0,18.0,85.3
+43,King's College London,United Kingdom,2021,5,57.0,420.0,31.0,55.0,85.2
+44,Ludwig Maximilian University of Munich,Germany,2021,1,60.0,255.0,53.0,51.0,85.1
+45,University of Edinburgh,United Kingdom,2021,6,55.0,421.0,60.0,50.0,85.0
+46,University of Minnesota - Twin Cities,USA,2021,26,74.0,313.0,119.0,28.0,85.0
+47,Washington University in St. Louis,USA,2021,27,128.0,190.0,36.0,47.0,84.9
+48,University of British Columbia,Canada,2021,3,103.0,616.0,84.0,31.0,84.8
+49,Rockefeller University,USA,2021,28,13.0,1001.0,6.0,416.0,84.7
+50,Rutgers University–New Brunswick,USA,2021,29,189.0,115.0,24.0,87.0,84.6
+51,University of Southern California,USA,2021,30,314.0,131.0,26.0,71.0,84.5
+52,"University of California, Davis",USA,2021,31,97.0,567.0,65.0,46.0,84.5
+53,Vanderbilt University,USA,2021,32,374.0,85.0,61.0,67.0,84.4
+54,Pennsylvania State University,USA,2021,33,293.0,154.0,58.0,53.0,84.3
+55,Free University of Berlin,Germany,2021,2,79.0,1001.0,35.0,77.0,84.2
+56,Ohio State University,USA,2021,34,124.0,254.0,137.0,37.0,84.2
+57,University of Manchester,United Kingdom,2021,7,106.0,356.0,77.0,52.0,84.1
+58,Tsinghua University,China,2021,1,514.0,76.0,274.0,29.0,84.0
+59,Peking University,China,2021,2,363.0,72.0,274.0,33.0,84.0
+60,Humboldt University of Berlin,Germany,2021,3,82.0,1001.0,49.0,72.0,83.9
+61,Purdue University,USA,2021,35,92.0,89.0,67.0,104.0,83.8
+62,University of Texas Southwestern Medical Center,USA,2021,36,35.0,1001.0,28.0,158.0,83.8
+63,University of Melbourne,Australia,2021,1,133.0,387.0,130.0,36.0,83.7
+64,Hebrew University of Jerusalem,Israel,2021,1,27.0,397.0,33.0,183.0,83.6
+65,University of Zurich,Switzerland,2021,2,89.0,626.0,55.0,74.0,83.6
+66,Brown University,USA,2021,37,73.0,58.0,115.0,132.0,83.5
+67,Weizmann Institute of Science,Israel,2021,2,20.0,1001.0,45.0,267.0,83.4
+68,University of Colorado Boulder,USA,2021,38,148.0,173.0,48.0,93.0,83.4
+69,University of Virginia,USA,2021,39,324.0,35.0,182.0,129.0,83.3
+70,Heidelberg University,Germany,2021,4,138.0,903.0,80.0,57.0,83.3
+71,Utrecht University,Netherlands,2021,1,172.0,431.0,160.0,40.0,83.2
+72,University of Pittsburgh,USA,2021,40,231.0,210.0,262.0,34.0,83.1
+73,University of Chinese Academy of Sciences,China,2021,3,527.0,1001.0,274.0,21.0,83.1
+74,"Texas A&M University, College Station",USA,2021,41,527.0,127.0,68.0,91.0,83.0
+75,"University of Maryland, College Park",USA,2021,42,113.0,477.0,133.0,61.0,83.0
+76,Georgia Institute of Technology,USA,2021,43,309.0,194.0,41.0,111.0,82.9
+77,University of Oslo,Norway,2021,1,98.0,701.0,75.0,92.0,82.9
+78,Osaka University,Japan,2021,3,141.0,67.0,120.0,125.0,82.8
+79,University of Birmingham,United Kingdom,2021,8,50.0,428.0,169.0,107.0,82.8
+80,Technical University of Munich,Germany,2021,5,76.0,371.0,136.0,84.0,82.7
+81,University of Alberta,Canada,2021,4,329.0,458.0,70.0,83.0,82.6
+82,"University of California, Irvine",USA,2021,44,527.0,1001.0,32.0,103.0,82.6
+83,University of Rochester,USA,2021,45,63.0,75.0,129.0,159.0,82.5
+84,University of Amsterdam,Netherlands,2021,2,239.0,817.0,192.0,42.0,82.5
+85,Carnegie Mellon University,USA,2021,46,56.0,145.0,37.0,204.0,82.4
+86,University of Florida,USA,2021,47,318.0,465.0,140.0,59.0,82.4
+87,Leiden University,Netherlands,2021,3,107.0,1001.0,73.0,99.0,82.3
+88,Uppsala University,Sweden,2021,2,140.0,464.0,69.0,101.0,82.3
+89,National University of Singapore,Singapore,2021,1,322.0,155.0,274.0,41.0,82.2
+90,National Taiwan University,Taiwan,2021,1,301.0,40.0,274.0,120.0,82.2
+91,University of Bristol,United Kingdom,2021,9,188.0,353.0,74.0,98.0,82.2
+92,University of Göttingen,Germany,2021,6,46.0,307.0,114.0,150.0,82.1
+93,University of Arizona,USA,2021,48,480.0,221.0,71.0,106.0,82.1
+94,Boston University,USA,2021,49,515.0,123.0,215.0,69.0,82.0
+95,"University of California, Santa Barbara",USA,2021,50,213.0,495.0,25.0,134.0,82.0
+96,Erasmus University Rotterdam,Netherlands,2021,4,527.0,73.0,266.0,81.0,81.9
+97,Keio University,Japan,2021,4,494.0,13.0,274.0,385.0,81.9
+98,University of Sydney,Australia,2021,2,199.0,649.0,274.0,38.0,81.8
+99,University of Geneva,Switzerland,2021,3,72.0,391.0,113.0,119.0,81.8
+100,University of Basel,Switzerland,2021,4,59.0,309.0,82.0,155.0,81.8
+101,University of Leeds,United Kingdom,2021,10,125.0,389.0,50.0,137.0,81.7
+102,Shanghai Jiao Tong University,China,2021,4,527.0,185.0,274.0,45.0,81.7
+103,University of Groningen,Netherlands,2021,5,266.0,569.0,127.0,80.0,81.6
+104,École Polytechnique Fédérale de Lausanne,Switzerland,2021,5,527.0,95.0,146.0,117.0,81.6
+105,University of São Paulo,Brazil,2021,1,518.0,333.0,131.0,85.0,81.5
+106,University of Texas MD Anderson Cancer Center,USA,2021,51,527.0,1001.0,88.0,94.0,81.5
+107,Aarhus University,Denmark,2021,2,248.0,315.0,153.0,86.0,81.5
+108,University of Tübingen,Germany,2021,7,54.0,1001.0,103.0,149.0,81.4
+109,University of Queensland,Australia,2021,3,410.0,641.0,238.0,54.0,81.4
+110,Zhejiang University,China,2021,5,527.0,393.0,274.0,43.0,81.3
+111,Indiana University Bloomington,USA,2021,52,255.0,91.0,177.0,118.0,81.3
+112,University of Utah,USA,2021,53,247.0,201.0,132.0,109.0,81.3
+113,Sapienza University of Rome,Italy,2021,1,473.0,501.0,118.0,100.0,81.2
+114,University of New South Wales,Australia,2021,4,512.0,120.0,274.0,73.0,81.2
+115,Fudan University,China,2021,6,311.0,108.0,274.0,78.0,81.1
+116,KU Leuven,Belgium,2021,1,527.0,416.0,274.0,49.0,81.1
+117,University of Southampton,United Kingdom,2021,11,447.0,311.0,98.0,114.0,81.1
+118,University of Helsinki,Finland,2021,1,202.0,913.0,167.0,88.0,81.0
+119,INSEAD,France,2021,6,527.0,2.0,274.0,1001.0,81.0
+120,University of Montreal,Canada,2021,5,452.0,481.0,124.0,102.0,81.0
+121,Ghent University,Belgium,2021,2,336.0,590.0,194.0,82.0,80.9
+122,University of Freiburg,Germany,2021,8,102.0,211.0,105.0,153.0,80.9
+123,University of Bonn,Germany,2021,9,123.0,573.0,86.0,142.0,80.9
+124,Emory University,USA,2021,54,471.0,234.0,274.0,66.0,80.8
+125,Australian National University,Australia,2021,5,163.0,611.0,78.0,140.0,80.8
+126,University of Glasgow,United Kingdom,2021,12,143.0,379.0,141.0,122.0,80.7
+127,Baylor College of Medicine,USA,2021,55,71.0,1001.0,201.0,123.0,80.7
+128,Monash University,Australia,2021,6,527.0,462.0,274.0,63.0,80.7
+129,Case Western Reserve University,USA,2021,56,66.0,265.0,184.0,154.0,80.6
+130,Nagoya University,Japan,2021,5,83.0,223.0,90.0,186.0,80.6
+131,University of Barcelona,Spain,2021,1,527.0,559.0,274.0,65.0,80.6
+132,Tohoku University,Japan,2021,6,198.0,147.0,138.0,143.0,80.5
+133,Goethe University Frankfurt,Germany,2021,10,242.0,792.0,30.0,192.0,80.5
+134,Tufts University,USA,2021,57,81.0,65.0,166.0,239.0,80.5
+135,University of Nottingham,United Kingdom,2021,13,182.0,498.0,108.0,138.0,80.4
+136,Nanyang Technological University,Singapore,2021,2,527.0,909.0,274.0,68.0,80.4
+137,University of Liverpool,United Kingdom,2021,14,144.0,533.0,99.0,145.0,80.4
+138,Grenoble Alpes University,France,2021,7,280.0,1001.0,234.0,89.0,80.3
+139,University of Science and Technology of China,China,2021,7,527.0,312.0,274.0,79.0,80.3
+140,KTH Royal Institute of Technology,Sweden,2021,3,240.0,53.0,179.0,229.0,80.3
+141,Lund University,Sweden,2021,4,192.0,563.0,259.0,90.0,80.3
+142,VU Amsterdam,Netherlands,2021,6,527.0,1001.0,274.0,76.0,80.2
+143,University of Bern,Switzerland,2021,6,156.0,1001.0,165.0,128.0,80.2
+144,Stockholm University,Sweden,2021,5,162.0,230.0,94.0,178.0,80.2
+145,University of Iowa,USA,2021,58,134.0,326.0,186.0,136.0,80.1
+146,Michigan State University,USA,2021,59,175.0,231.0,274.0,105.0,80.1
+147,Rice University,USA,2021,60,118.0,100.0,111.0,238.0,80.1
+148,University of Strasbourg,France,2021,8,121.0,1001.0,51.0,218.0,80.0
+149,University of Colorado Anschutz Medical Campus,USA,2021,61,527.0,1001.0,93.0,156.0,80.0
+150,University of Sheffield,United Kingdom,2021,15,197.0,612.0,152.0,139.0,80.0
+151,Tokyo Institute of Technology,Japan,2021,7,320.0,92.0,72.0,260.0,79.9
+152,Tel Aviv University,Israel,2021,3,350.0,126.0,274.0,121.0,79.9
+153,Sun Yat-sen University,China,2021,8,527.0,423.0,274.0,97.0,79.9
+154,Queen Mary University of London,United Kingdom,2021,16,105.0,692.0,147.0,167.0,79.9
+155,Radboud University,Netherlands,2021,7,446.0,677.0,274.0,95.0,79.8
+156,University of Western Australia,Australia,2021,7,238.0,660.0,199.0,131.0,79.8
+157,Aix-Marseille University,France,2021,9,507.0,930.0,274.0,96.0,79.8
+158,University of Massachusetts Amherst,USA,2021,62,476.0,263.0,64.0,214.0,79.7
+159,Cardiff University,United Kingdom,2021,17,399.0,456.0,91.0,181.0,79.7
+160,Huazhong University of Science and Technology,China,2021,9,527.0,193.0,274.0,115.0,79.7
+161,Technion – Israel Institute of Technology,Israel,2021,4,112.0,380.0,66.0,249.0,79.7
+162,Nanjing University,China,2021,10,487.0,359.0,274.0,108.0,79.6
+163,Korea University,South Korea,2021,2,527.0,80.0,274.0,168.0,79.6
+164,McMaster University,Canada,2021,6,419.0,745.0,223.0,133.0,79.6
+165,University of Padova,Italy,2021,2,454.0,1001.0,274.0,110.0,79.5
+166,University of Hamburg,Germany,2021,11,276.0,496.0,274.0,116.0,79.5
+167,Iowa State University,USA,2021,63,335.0,162.0,156.0,197.0,79.5
+168,University of Montpellier,France,2021,10,462.0,1001.0,274.0,112.0,79.5
+169,Yonsei University,South Korea,2021,3,527.0,114.0,274.0,147.0,79.4
+170,University of Notre Dame,USA,2021,64,305.0,37.0,274.0,284.0,79.4
+171,University of Hong Kong,China,2021,11,527.0,168.0,274.0,135.0,79.4
+172,Icahn School of Medicine at Mount Sinai,USA,2021,65,527.0,1001.0,274.0,113.0,79.4
+173,University of Gothenburg,Sweden,2021,6,413.0,411.0,148.0,176.0,79.3
+174,University of Warwick,United Kingdom,2021,18,430.0,191.0,224.0,171.0,79.3
+175,École nationale d'administration,France,2021,11,527.0,3.0,274.0,1001.0,79.3
+176,University of Milan,Italy,2021,3,451.0,562.0,274.0,127.0,79.2
+177,University of Bologna,Italy,2021,4,527.0,762.0,274.0,124.0,79.2
+178,Newcastle University,United Kingdom,2021,19,478.0,536.0,162.0,185.0,79.2
+179,University of Alabama at Birmingham,USA,2021,66,527.0,973.0,207.0,160.0,79.2
+180,Wageningen University & Research,Netherlands,2021,8,414.0,852.0,209.0,161.0,79.1
+181,Arizona State University,USA,2021,67,442.0,666.0,258.0,141.0,79.1
+182,Norwegian University of Science and Technology,Norway,2021,2,250.0,490.0,59.0,274.0,79.1
+183,Western University,Canada,2021,7,406.0,82.0,274.0,200.0,79.1
+184,University of Cologne,Germany,2021,12,333.0,250.0,178.0,193.0,79.0
+185,University of Kansas,USA,2021,68,262.0,434.0,101.0,233.0,79.0
+186,Autonomous University of Barcelona,Spain,2021,2,527.0,1001.0,274.0,130.0,79.0
+187,Chinese University of Hong Kong,China,2021,12,388.0,1001.0,246.0,144.0,79.0
+188,Waseda University,Japan,2021,8,345.0,26.0,274.0,462.0,78.9
+189,University of Lausanne,Switzerland,2021,7,245.0,717.0,123.0,207.0,78.9
+190,University of Calgary,Canada,2021,8,527.0,227.0,274.0,146.0,78.9
+191,North Carolina State University,USA,2021,69,381.0,402.0,180.0,189.0,78.9
+192,Sungkyunkwan University,South Korea,2021,4,527.0,228.0,274.0,148.0,78.8
+193,University of Münster,Germany,2021,13,435.0,786.0,193.0,180.0,78.8
+194,Lomonosov Moscow State University,Russia,2021,1,115.0,400.0,195.0,216.0,78.8
+195,University of Connecticut,USA,2021,70,475.0,394.0,116.0,236.0,78.8
+196,Technical University of Denmark,Denmark,2021,3,367.0,737.0,187.0,187.0,78.8
+197,Université catholique de Louvain,Belgium,2021,3,527.0,494.0,128.0,220.0,78.7
+198,Stony Brook University,USA,2021,71,382.0,1001.0,168.0,196.0,78.7
+199,Brandeis University,USA,2021,72,31.0,239.0,39.0,607.0,78.7
+200,University of Waterloo,Canada,2021,9,527.0,217.0,205.0,205.0,78.7
+201,University of Lisbon,Portugal,2021,1,428.0,1001.0,236.0,169.0,78.6
+202,University of Ottawa,Canada,2021,10,527.0,463.0,274.0,151.0,78.6
+203,University of Würzburg,Germany,2021,14,145.0,1001.0,231.0,194.0,78.6
+204,University of Georgia,USA,2021,73,407.0,308.0,174.0,221.0,78.6
+205,Xi'an Jiaotong University,China,2021,13,527.0,182.0,274.0,174.0,78.5
+206,Harbin Institute of Technology,China,2021,14,527.0,472.0,274.0,157.0,78.5
+207,University of Vienna,Austria,2021,1,150.0,473.0,159.0,242.0,78.5
+208,Johannes Gutenberg University Mainz,Germany,2021,15,527.0,1001.0,181.0,201.0,78.5
+209,Yeshiva University,USA,2021,74,84.0,1001.0,189.0,253.0,78.5
+210,Technical University of Dresden,Germany,2021,16,527.0,1001.0,274.0,152.0,78.4
+211,RWTH Aachen University,Germany,2021,17,496.0,229.0,274.0,172.0,78.4
+212,The Scripps Research Institute,USA,2021,75,527.0,1001.0,54.0,302.0,78.4
+213,University of Adelaide,Australia,2021,8,181.0,843.0,274.0,164.0,78.4
+214,University of Illinois at Chicago,USA,2021,76,477.0,788.0,273.0,163.0,78.3
+215,Wuhan University,China,2021,15,527.0,395.0,274.0,166.0,78.3
+216,Kiel University,Germany,2021,18,349.0,1001.0,139.0,241.0,78.3
+217,University of Missouri–Columbia,USA,2021,77,427.0,251.0,87.0,295.0,78.3
+218,Trinity College Dublin,Ireland,2021,1,206.0,83.0,242.0,286.0,78.3
+219,Université libre de Bruxelles,Belgium,2021,4,444.0,328.0,172.0,244.0,78.2
+220,Hokkaido University,Japan,2021,9,344.0,270.0,163.0,256.0,78.2
+221,Claude Bernard University Lyon 1,France,2021,12,527.0,1001.0,274.0,162.0,78.2
+222,Xiamen University,China,2021,16,527.0,88.0,274.0,248.0,78.2
+223,KAIST,South Korea,2021,5,527.0,144.0,274.0,206.0,78.2
+224,Kyushu University,Japan,2021,10,271.0,112.0,274.0,228.0,78.1
+225,Shandong University,China,2021,17,527.0,1001.0,274.0,165.0,78.1
+226,University of Miami,USA,2021,78,527.0,240.0,274.0,188.0,78.1
+227,University of Erlangen–Nuremberg,Germany,2021,19,418.0,914.0,274.0,170.0,78.1
+228,Georgetown University,USA,2021,79,354.0,52.0,274.0,332.0,78.0
+229,Hong Kong University of Science and Technology,China,2021,18,527.0,540.0,142.0,262.0,78.0
+230,University of Turin,Italy,2021,5,234.0,1001.0,274.0,175.0,78.0
+231,Tianjin University,China,2021,19,527.0,152.0,274.0,209.0,78.0
+232,London School of Hygiene & Tropical Medicine,United Kingdom,2021,20,279.0,1001.0,176.0,237.0,78.0
+233,Charles University in Prague,Czech Republic,2021,1,325.0,1001.0,274.0,173.0,77.9
+234,Karlsruhe Institute of Technology,Germany,2021,20,460.0,278.0,274.0,191.0,77.9
+235,P.N. Lebedev Physical Institute of the Russian Academy of Sciences,Russia,2021,2,28.0,1001.0,106.0,519.0,77.9
+236,University of Cincinnati,USA,2021,80,466.0,241.0,274.0,198.0,77.9
+237,Wake Forest University,USA,2021,81,527.0,68.0,274.0,290.0,77.9
+238,University of Naples Federico II,Italy,2021,6,527.0,807.0,274.0,182.0,77.8
+239,Paul Sabatier University,France,2021,13,527.0,1001.0,274.0,177.0,77.8
+240,Sichuan University,China,2021,20,527.0,1001.0,274.0,179.0,77.8
+241,University of Sussex,United Kingdom,2021,21,111.0,505.0,81.0,352.0,77.8
+242,"University of California, Riverside",USA,2021,82,376.0,1001.0,218.0,223.0,77.8
+243,University of Bordeaux,France,2021,14,527.0,1001.0,274.0,184.0,77.7
+244,University of Texas Health Science Center at Houston,USA,2021,83,527.0,1001.0,149.0,268.0,77.7
+245,University of Leicester,United Kingdom,2021,22,527.0,1001.0,100.0,288.0,77.7
+246,University of Reading,United Kingdom,2021,23,119.0,117.0,110.0,401.0,77.7
+247,Complutense University of Madrid,Spain,2021,3,200.0,166.0,220.0,280.0,77.7
+248,Jilin University,China,2021,21,527.0,424.0,274.0,195.0,77.6
+249,Nankai University,China,2021,22,527.0,129.0,274.0,240.0,77.6
+250,Maastricht University,Netherlands,2021,9,527.0,1001.0,274.0,190.0,77.6
+251,"University of Tennessee, Knoxville",USA,2021,84,423.0,461.0,274.0,199.0,77.6
+252,HEC Paris,France,2021,15,527.0,5.0,274.0,1001.0,77.6
+253,South China University of Technology,China,2021,23,527.0,296.0,274.0,208.0,77.6
+254,Virginia Commonwealth University,USA,2021,85,527.0,989.0,112.0,296.0,77.5
+255,Colorado State University,USA,2021,86,455.0,1001.0,206.0,254.0,77.5
+256,Tongji University,China,2021,24,527.0,196.0,274.0,234.0,77.5
+257,University of Houston,USA,2021,87,527.0,164.0,122.0,340.0,77.5
+258,University of Florence,Italy,2021,7,527.0,753.0,274.0,202.0,77.5
+259,Delft University of Technology,Netherlands,2021,10,264.0,422.0,274.0,215.0,77.4
+260,Southeast University,China,2021,25,527.0,874.0,274.0,203.0,77.4
+261,University of Tsukuba,Japan,2021,11,527.0,1001.0,144.0,291.0,77.4
+262,University of Auckland,New Zealand,2021,1,503.0,435.0,274.0,219.0,77.4
+263,University of Exeter,United Kingdom,2021,24,378.0,673.0,274.0,212.0,77.4
+264,National and Kapodistrian University of Athens,Greece,2021,1,527.0,572.0,274.0,217.0,77.3
+265,University of Pisa,Italy,2021,8,310.0,1001.0,274.0,213.0,77.3
+266,City University of Hong Kong,China,2021,26,527.0,1001.0,274.0,210.0,77.3
+267,Hong Kong Polytechnic University,China,2021,27,527.0,280.0,274.0,235.0,77.3
+268,Oregon Health & Science University,USA,2021,88,527.0,1001.0,274.0,211.0,77.3
+269,University of Cape Town,South Africa,2021,1,180.0,260.0,274.0,252.0,77.3
+270,Oregon State University,USA,2021,89,228.0,516.0,227.0,276.0,77.2
+271,Virginia Tech,USA,2021,90,483.0,342.0,274.0,231.0,77.2
+272,University of East Anglia,United Kingdom,2021,25,88.0,1001.0,170.0,343.0,77.2
+273,Central South University,China,2021,28,527.0,243.0,274.0,243.0,77.2
+274,University of Manitoba,Canada,2021,11,326.0,266.0,191.0,294.0,77.2
+275,Florida State University,USA,2021,91,527.0,534.0,274.0,227.0,77.2
+276,University of Bergen,Norway,2021,3,365.0,1001.0,274.0,224.0,77.1
+277,"Soochow University, China",China,2021,29,527.0,1001.0,274.0,222.0,77.1
+278,King Abdulaziz University,Saudi Arabia,2021,1,527.0,1001.0,274.0,225.0,77.1
+279,Leipzig University,Germany,2021,21,205.0,1001.0,200.0,283.0,77.1
+280,University of Aberdeen,United Kingdom,2021,26,287.0,706.0,155.0,312.0,77.1
+281,University of Genoa,Italy,2021,9,522.0,1001.0,243.0,259.0,77.0
+282,Autonomous University of Madrid,Spain,2021,4,527.0,981.0,274.0,226.0,77.0
+283,University of Massachusetts Medical School,USA,2021,92,527.0,1001.0,85.0,365.0,77.0
+284,"University of California, Santa Cruz",USA,2021,93,364.0,1001.0,245.0,265.0,77.0
+285,University of Lorraine,France,2021,16,519.0,459.0,173.0,306.0,77.0
+286,"University of Maryland, Baltimore",USA,2021,94,527.0,1001.0,274.0,230.0,77.0
+287,National Autonomous University of Mexico,Mexico,2021,1,397.0,1001.0,240.0,270.0,76.9
+288,University of Valencia,Spain,2021,5,527.0,1001.0,274.0,232.0,76.9
+289,University College Dublin,Ireland,2021,2,527.0,268.0,274.0,258.0,76.9
+290,University of Antwerp,Belgium,2021,5,527.0,486.0,274.0,247.0,76.9
+291,University of Liège,Belgium,2021,6,183.0,1001.0,109.0,363.0,76.9
+292,University of the Witwatersrand,South Africa,2021,2,190.0,98.0,274.0,329.0,76.9
+293,University at Buffalo,USA,2021,95,527.0,610.0,274.0,245.0,76.8
+294,Laval University,Canada,2021,12,510.0,407.0,274.0,255.0,76.8
+295,Medical University of Vienna,Austria,2021,2,527.0,1001.0,274.0,246.0,76.8
+296,Beihang University,China,2021,30,527.0,808.0,274.0,250.0,76.8
+297,University of South Florida,USA,2021,96,527.0,810.0,274.0,251.0,76.8
+298,Wayne State University,USA,2021,97,489.0,362.0,274.0,266.0,76.8
+299,University of Delaware,USA,2021,98,379.0,581.0,163.0,333.0,76.7
+300,University of Pavia,Italy,2021,10,464.0,760.0,220.0,292.0,76.7
+301,University of Kentucky,USA,2021,99,294.0,535.0,274.0,264.0,76.7
+302,Louisiana State University,USA,2021,100,470.0,345.0,274.0,271.0,76.7
+303,Dalian University of Technology,China,2021,31,527.0,295.0,274.0,272.0,76.7
+304,King Abdullah University of Science and Technology,Saudi Arabia,2021,2,527.0,1001.0,157.0,338.0,76.7
+305,University of New Mexico,USA,2021,101,527.0,1001.0,274.0,257.0,76.6
+306,University of Nebraska–Lincoln,USA,2021,102,168.0,401.0,274.0,281.0,76.6
+307,Washington State University,USA,2021,103,527.0,927.0,185.0,320.0,76.6
+308,China Europe International Business School,China,2021,32,527.0,7.0,274.0,1001.0,76.6
+309,George Washington University,USA,2021,104,400.0,180.0,274.0,289.0,76.6
+310,University of Lille,France,2021,17,527.0,1001.0,274.0,261.0,76.6
+311,University of Rome Tor Vergata,Italy,2021,11,527.0,1001.0,274.0,263.0,76.5
+312,Ruhr University Bochum,Germany,2021,22,527.0,413.0,274.0,275.0,76.5
+313,University of Duisburg-Essen,Germany,2021,23,527.0,995.0,274.0,269.0,76.5
+314,Southern Methodist University,USA,2021,105,191.0,31.0,274.0,656.0,76.5
+315,Queen's University,Canada,2021,13,504.0,404.0,208.0,334.0,76.5
+316,Hanyang University,South Korea,2021,6,527.0,184.0,274.0,301.0,76.5
+317,University of Porto,Portugal,2021,2,499.0,710.0,274.0,278.0,76.5
+318,Ulm University,Germany,2021,24,527.0,999.0,274.0,277.0,76.4
+319,Chinese Academy of Medical Sciences & Peking Union Medical College,China,2021,33,527.0,1001.0,274.0,279.0,76.4
+320,Northeastern University,USA,2021,106,317.0,179.0,274.0,326.0,76.4
+321,University of York,United Kingdom,2021,27,392.0,1001.0,274.0,282.0,76.4
+322,Friedrich Schiller University Jena,Germany,2021,25,520.0,1001.0,261.0,299.0,76.4
+323,Durham University,United Kingdom,2021,28,342.0,355.0,274.0,298.0,76.4
+324,Umeå University,Sweden,2021,7,527.0,1001.0,268.0,297.0,76.3
+325,Beijing Normal University,China,2021,34,527.0,1001.0,274.0,285.0,76.3
+326,University of Granada,Spain,2021,6,527.0,1001.0,274.0,287.0,76.3
+327,University of South Carolina - Columbia,USA,2021,107,527.0,589.0,274.0,293.0,76.3
+328,London School of Economics and Political Science,United Kingdom,2021,29,260.0,84.0,255.0,447.0,76.3
+329,Polytechnic University of Milan,Italy,2021,12,362.0,488.0,198.0,373.0,76.3
+330,Dalhousie University,Canada,2021,14,312.0,321.0,274.0,318.0,76.3
+331,National Cheng Kung University,Taiwan,2021,2,527.0,121.0,274.0,369.0,76.2
+332,University of Düsseldorf,Germany,2021,26,216.0,1001.0,274.0,305.0,76.2
+333,Eindhoven University of Technology,Netherlands,2021,11,527.0,929.0,228.0,346.0,76.2
+334,Hunan University,China,2021,35,527.0,593.0,274.0,308.0,76.2
+335,Aalto University,Finland,2021,2,527.0,214.0,274.0,341.0,76.2
+336,Versailles Saint-Quentin-en-Yvelines University,France,2021,18,527.0,1001.0,274.0,300.0,76.2
+337,Hannover Medical School,Germany,2021,27,527.0,1001.0,268.0,319.0,76.2
+338,International Institute for Management Development,Switzerland,2021,8,527.0,9.0,274.0,1001.0,76.1
+339,Simon Fraser University,Canada,2021,15,527.0,1001.0,274.0,303.0,76.1
+340,Beijing Institute of Technology,China,2021,36,527.0,953.0,274.0,304.0,76.1
+341,University of Dundee,United Kingdom,2021,30,502.0,1001.0,143.0,415.0,76.1
+342,University of St Andrews,United Kingdom,2021,31,285.0,765.0,229.0,366.0,76.1
+343,University of the Basque Country,Spain,2021,7,527.0,1001.0,274.0,309.0,76.1
+344,University of Milano-Bicocca,Italy,2021,13,527.0,1001.0,274.0,307.0,76.0
+345,Lancaster University,United Kingdom,2021,32,527.0,630.0,274.0,314.0,76.0
+346,University of Electronic Science and Technology of China,China,2021,37,527.0,647.0,274.0,313.0,76.0
+347,University of Campinas,Brazil,2021,2,527.0,1001.0,274.0,310.0,76.0
+348,University of Belgrade,Serbia,2021,1,472.0,1001.0,274.0,311.0,76.0
+349,École des ponts ParisTech,France,2021,19,167.0,24.0,274.0,972.0,76.0
+350,City College of New York,USA,2021,108,22.0,437.0,274.0,792.0,76.0
+351,University of Otago,New Zealand,2021,2,527.0,837.0,274.0,315.0,75.9
+352,Temple University,USA,2021,109,527.0,601.0,274.0,325.0,75.9
+353,Albert Einstein College of Medicine,USA,2021,110,527.0,1001.0,274.0,317.0,75.9
+354,Aalborg University,Denmark,2021,4,527.0,820.0,274.0,321.0,75.9
+355,Ben-Gurion University of the Negev,Israel,2021,5,527.0,1001.0,212.0,378.0,75.9
+356,University of Buenos Aires,Argentina,2021,1,319.0,1001.0,274.0,324.0,75.9
+357,Queen's University Belfast,United Kingdom,2021,33,398.0,937.0,274.0,322.0,75.9
+358,Vrije Universiteit Brussel,Belgium,2021,7,443.0,1001.0,274.0,323.0,75.8
+359,Drexel University,USA,2021,111,527.0,264.0,232.0,400.0,75.8
+360,Federal University of Rio de Janeiro,Brazil,2021,3,445.0,440.0,274.0,336.0,75.8
+361,University of Southern Denmark,Denmark,2021,5,527.0,1001.0,274.0,327.0,75.8
+362,Linköping University,Sweden,2021,8,527.0,654.0,274.0,330.0,75.8
+363,Curtin University,Australia,2021,9,527.0,1001.0,274.0,328.0,75.8
+364,University of Marburg,Germany,2021,28,159.0,1001.0,183.0,423.0,75.8
+365,University of Parma,Italy,2021,14,286.0,949.0,89.0,503.0,75.8
+366,Lanzhou University,China,2021,38,527.0,1001.0,274.0,331.0,75.7
+367,China Agricultural University,China,2021,39,527.0,1001.0,274.0,335.0,75.7
+368,Pohang University of Science and Technology,South Korea,2021,7,527.0,1001.0,274.0,337.0,75.7
+369,National Research Center «Kurchatov Institute»,Russia,2021,3,527.0,1001.0,274.0,339.0,75.7
+370,Technical University of Berlin,Germany,2021,29,178.0,619.0,274.0,358.0,75.7
+371,King Saud University,Saudi Arabia,2021,3,527.0,349.0,274.0,356.0,75.7
+372,Islamic Azad University,Iran,2021,1,527.0,1001.0,274.0,342.0,75.7
+373,Justus Liebig University Giessen,Germany,2021,30,527.0,1001.0,274.0,344.0,75.6
+374,University of Ljubljana,Slovenia,2021,1,527.0,1001.0,274.0,345.0,75.6
+375,University of Innsbruck,Austria,2021,3,527.0,746.0,248.0,387.0,75.6
+376,Jagiellonian University,Poland,2021,1,527.0,1001.0,274.0,347.0,75.6
+377,Pontifical Catholic University of Chile,Chile,2021,1,500.0,198.0,274.0,393.0,75.6
+378,University of Oregon,USA,2021,112,127.0,1001.0,274.0,388.0,75.6
+379,University of Technology Sydney,Australia,2021,10,527.0,1001.0,274.0,348.0,75.6
+380,Macquarie University,Australia,2021,11,527.0,555.0,274.0,359.0,75.5
+381,University of Turku,Finland,2021,3,527.0,1001.0,274.0,349.0,75.5
+382,National Tsing Hua University,Taiwan,2021,3,370.0,834.0,274.0,355.0,75.5
+383,Medical University of South Carolina,USA,2021,113,527.0,1001.0,274.0,350.0,75.5
+384,East China Normal University,China,2021,40,527.0,426.0,274.0,368.0,75.5
+385,University of Victoria,Canada,2021,16,527.0,1001.0,274.0,351.0,75.5
+386,Chongqing University,China,2021,41,527.0,538.0,274.0,364.0,75.5
+387,University of Perugia,Italy,2021,15,527.0,1001.0,274.0,353.0,75.5
+388,Deakin University,Australia,2021,12,527.0,987.0,274.0,354.0,75.4
+389,University of Regensburg,Germany,2021,31,527.0,904.0,274.0,360.0,75.4
+390,Griffith University,Australia,2021,13,527.0,1001.0,274.0,357.0,75.4
+391,Kyung Hee University,South Korea,2021,8,527.0,962.0,274.0,362.0,75.4
+392,"University of Oklahoma, Norman",USA,2021,114,527.0,374.0,274.0,376.0,75.4
+393,East China University of Science and Technology,China,2021,42,527.0,1001.0,274.0,361.0,75.4
+394,University of Warsaw,Poland,2021,2,479.0,974.0,274.0,367.0,75.4
+395,Pompeu Fabra University,Spain,2021,8,527.0,1001.0,274.0,370.0,75.4
+396,University of Wollongong,Australia,2021,14,527.0,642.0,274.0,374.0,75.3
+397,University of Malaya,Malaysia,2021,1,527.0,467.0,274.0,382.0,75.3
+398,University of Newcastle,Australia,2021,15,527.0,1001.0,274.0,371.0,75.3
+399,University of Texas at Dallas,USA,2021,115,368.0,582.0,274.0,379.0,75.3
+400,Chalmers University of Technology,Sweden,2021,9,505.0,290.0,274.0,397.0,75.3
+401,Queensland University of Technology,Australia,2021,16,527.0,1001.0,274.0,372.0,75.3
+402,Kyungpook National University,South Korea,2021,9,527.0,977.0,274.0,375.0,75.3
+403,"University at Albany, SUNY",USA,2021,116,208.0,727.0,211.0,454.0,75.2
+404,Swedish University of Agricultural Sciences,Sweden,2021,10,288.0,1001.0,274.0,381.0,75.2
+405,University of Seville,Spain,2021,9,527.0,1001.0,274.0,377.0,75.2
+406,Vienna University of Technology,Austria,2021,4,402.0,557.0,274.0,389.0,75.2
+407,University of Coimbra,Portugal,2021,3,417.0,1001.0,274.0,383.0,75.2
+408,University of Bari,Italy,2021,16,527.0,1001.0,274.0,380.0,75.2
+409,Aristotle University of Thessaloniki,Greece,2021,2,527.0,1001.0,274.0,384.0,75.2
+410,University of Science and Technology Beijing,China,2021,43,527.0,203.0,274.0,426.0,75.2
+411,University of Twente,Netherlands,2021,12,527.0,1001.0,274.0,386.0,75.1
+412,Amherst College,USA,2021,117,21.0,49.0,274.0,1001.0,75.1
+413,Northwestern Polytechnical University,China,2021,44,527.0,687.0,274.0,392.0,75.1
+414,University of Saskatchewan,Canada,2021,17,281.0,652.0,274.0,399.0,75.1
+415,Indian Institute of Management Ahmedabad,India,2021,1,360.0,11.0,274.0,1001.0,75.1
+416,University of Tasmania,Australia,2021,17,527.0,1001.0,274.0,390.0,75.1
+417,University of Côte d'Azur,France,2021,20,527.0,1001.0,274.0,391.0,75.1
+418,Tampere University,Finland,2021,4,527.0,502.0,274.0,404.0,75.1
+419,University of Ulsan,South Korea,2021,10,527.0,744.0,274.0,396.0,75.0
+420,Indiana University – Purdue University Indianapolis,USA,2021,118,527.0,803.0,274.0,402.0,75.0
+421,São Paulo State University,Brazil,2021,4,527.0,1001.0,274.0,394.0,75.0
+422,Zhengzhou University,China,2021,45,527.0,1001.0,274.0,395.0,75.0
+423,Texas Tech University,USA,2021,119,527.0,492.0,274.0,407.0,75.0
+424,Hiroshima University,Japan,2021,12,527.0,1001.0,274.0,398.0,75.0
+425,Thomas Jefferson University,USA,2021,120,527.0,1001.0,274.0,403.0,75.0
+426,Capital Medical University,China,2021,46,527.0,1001.0,274.0,405.0,75.0
+427,York University,Canada,2021,18,527.0,300.0,274.0,427.0,75.0
+428,China University of Geosciences,China,2021,47,527.0,983.0,274.0,406.0,74.9
+429,Kansas State University,USA,2021,121,346.0,487.0,274.0,417.0,74.9
+430,Chonnam National University,South Korea,2021,11,527.0,1001.0,274.0,408.0,74.9
+431,University of Stuttgart,Germany,2021,32,122.0,285.0,274.0,474.0,74.9
+432,Stockholm School of Economics,Sweden,2021,11,527.0,20.0,264.0,1001.0,74.9
+433,Catholic University of the Sacred Heart,Italy,2021,17,527.0,1001.0,274.0,410.0,74.9
+434,University of Mississippi,USA,2021,122,527.0,1001.0,274.0,409.0,74.9
+435,Stellenbosch University,South Africa,2021,3,527.0,187.0,274.0,455.0,74.9
+436,University of Chile,Chile,2021,2,527.0,602.0,274.0,414.0,74.8
+437,University of Trieste,Italy,2021,18,527.0,978.0,274.0,412.0,74.8
+438,Okayama University,Japan,2021,13,340.0,646.0,274.0,418.0,74.8
+439,University of Clermont Auvergne,France,2021,21,527.0,1001.0,274.0,411.0,74.8
+440,Kobe University,Japan,2021,14,296.0,438.0,274.0,430.0,74.8
+441,Tulane University,USA,2021,123,217.0,332.0,274.0,444.0,74.8
+442,Shenzhen University,China,2021,48,527.0,816.0,274.0,413.0,74.8
+443,Saint Louis University,USA,2021,124,527.0,277.0,187.0,527.0,74.8
+444,University of Bath,United Kingdom,2021,34,527.0,580.0,274.0,424.0,74.7
+445,University of Texas Health Science Center at San Antonio,USA,2021,125,527.0,1001.0,274.0,419.0,74.7
+446,University of Oulu,Finland,2021,5,527.0,628.0,274.0,429.0,74.7
+447,Vita-Salute San Raffaele University,Italy,2021,19,527.0,1001.0,274.0,420.0,74.7
+448,University of Navarra,Spain,2021,10,527.0,105.0,254.0,577.0,74.7
+449,Pusan National University,South Korea,2021,12,527.0,429.0,274.0,434.0,74.7
+450,University of Trento,Italy,2021,20,527.0,1001.0,274.0,421.0,74.7
+451,Medical College of Wisconsin,USA,2021,126,527.0,1001.0,274.0,422.0,74.7
+452,University of Eastern Finland,Finland,2021,6,527.0,1001.0,274.0,425.0,74.7
+453,University of Zaragoza,Spain,2021,11,490.0,1001.0,274.0,428.0,74.6
+454,Martin Luther University Halle-Wittenberg,Germany,2021,33,434.0,1001.0,250.0,458.0,74.6
+455,National Chiao Tung University,Taiwan,2021,4,527.0,237.0,274.0,460.0,74.6
+456,University of Catania,Italy,2021,21,337.0,1001.0,274.0,432.0,74.6
+457,University of Colorado Denver,USA,2021,127,527.0,1001.0,274.0,431.0,74.6
+458,University of Vermont,USA,2021,128,527.0,506.0,274.0,443.0,74.6
+459,Indian Institute of Science,India,2021,2,341.0,782.0,274.0,436.0,74.6
+460,University of Guelph,Canada,2021,19,527.0,1001.0,274.0,433.0,74.6
+461,University of Alabama - Tuscaloosa,USA,2021,129,440.0,222.0,274.0,478.0,74.6
+462,Syracuse University,USA,2021,130,165.0,202.0,274.0,509.0,74.5
+463,University of Central Florida,USA,2021,131,527.0,1001.0,274.0,435.0,74.5
+464,Polytechnic University of Catalonia,Spain,2021,12,527.0,511.0,274.0,448.0,74.5
+465,University of Louisville,USA,2021,132,527.0,781.0,274.0,442.0,74.5
+466,Shanghai University,China,2021,49,527.0,1001.0,274.0,437.0,74.5
+467,University of Santiago de Compostela,Spain,2021,13,527.0,895.0,274.0,440.0,74.5
+468,University of Siena,Italy,2021,22,527.0,1001.0,274.0,438.0,74.5
+469,Florida International University,USA,2021,133,527.0,1001.0,274.0,439.0,74.5
+470,Nanjing Agricultural University,China,2021,50,527.0,1001.0,274.0,441.0,74.5
+471,Nanjing University of Aeronautics and Astronautics,China,2021,51,527.0,1001.0,274.0,445.0,74.4
+472,Nanjing University of Science and Technology,China,2021,52,527.0,655.0,274.0,449.0,74.4
+473,George Mason University,USA,2021,134,527.0,1001.0,237.0,500.0,74.4
+474,Federal University of Rio Grande do Sul,Brazil,2021,5,527.0,1001.0,274.0,446.0,74.4
+475,University of Strathclyde,United Kingdom,2021,35,527.0,358.0,274.0,463.0,74.4
+476,Scuola Normale Superiore di Pisa,Italy,2021,23,87.0,1001.0,239.0,581.0,74.4
+477,Technical University of Darmstadt,Germany,2021,34,339.0,621.0,274.0,453.0,74.4
+478,Joint Institute for Nuclear Research,Russia,2021,4,527.0,1001.0,274.0,450.0,74.4
+479,University of Rostock,Germany,2021,35,431.0,1001.0,274.0,452.0,74.4
+480,Beijing University of Chemical Technology,China,2021,53,527.0,1001.0,274.0,451.0,74.3
+481,École normale supérieure de Lyon,France,2021,22,383.0,1001.0,267.0,479.0,74.3
+482,James Cook University,Australia,2021,18,527.0,1001.0,274.0,456.0,74.3
+483,University of KwaZulu-Natal,South Africa,2021,4,491.0,375.0,274.0,480.0,74.3
+484,Chulalongkorn University,Thailand,2021,1,527.0,107.0,274.0,573.0,74.3
+485,Oklahoma State University,USA,2021,135,527.0,508.0,274.0,470.0,74.3
+486,University of Oviedo,Spain,2021,14,527.0,947.0,274.0,457.0,74.3
+487,Ioffe Physical-Technical Institute of the Russian Academy of Sciences,Russia,2021,5,38.0,1001.0,217.0,903.0,74.3
+488,Polytechnic University of Valencia,Spain,2021,15,527.0,1001.0,274.0,459.0,74.3
+489,Rovira i Virgili University,Spain,2021,16,527.0,1001.0,274.0,461.0,74.2
+490,Leibniz University Hannover,Germany,2021,36,527.0,864.0,274.0,465.0,74.2
+491,Huazhong Agricultural University,China,2021,54,527.0,1001.0,274.0,464.0,74.2
+492,Xidian University,China,2021,55,357.0,1001.0,274.0,468.0,74.2
+493,West Virginia University,USA,2021,136,527.0,352.0,274.0,494.0,74.2
+494,Nanjing Medical University,China,2021,56,527.0,1001.0,274.0,466.0,74.2
+495,Baylor University,USA,2021,137,527.0,396.0,274.0,487.0,74.2
+496,Savoie Mont Blanc University,France,2021,23,527.0,1001.0,274.0,467.0,74.2
+497,Technical University of Dortmund,Germany,2021,37,527.0,1001.0,274.0,469.0,74.2
+498,Lehigh University,USA,2021,138,166.0,61.0,274.0,763.0,74.1
+499,University of Hawaii at Manoa,USA,2021,139,396.0,1001.0,274.0,475.0,74.1
+500,La Trobe University,Australia,2021,19,527.0,1001.0,274.0,472.0,74.1
+501,University of Ferrara,Italy,2021,24,527.0,1001.0,274.0,471.0,74.1
+502,Rush University,USA,2021,140,527.0,1001.0,274.0,473.0,74.1
+503,Federal University of Minas Gerais,Brazil,2021,6,527.0,609.0,274.0,483.0,74.1
+504,University of Tennessee Health Science Center,USA,2021,141,527.0,1001.0,274.0,476.0,74.1
+505,Swarthmore College,USA,2021,142,16.0,257.0,274.0,1001.0,74.1
+506,Novosibirsk State University,Russia,2021,6,403.0,1001.0,274.0,477.0,74.1
+507,Boston College,USA,2021,143,527.0,135.0,274.0,559.0,74.1
+508,University of Modena and Reggio Emilia,Italy,2021,25,527.0,917.0,274.0,481.0,74.0
+509,Western Sydney University,Australia,2021,20,527.0,1001.0,274.0,482.0,74.0
+510,University of Surrey,United Kingdom,2021,36,401.0,469.0,274.0,501.0,74.0
+511,University of Hull,United Kingdom,2021,37,193.0,302.0,134.0,707.0,74.0
+512,University of Tromsø – The Arctic University of Norway,Norway,2021,4,527.0,1001.0,274.0,484.0,74.0
+513,Northwest A&F University,China,2021,57,527.0,1001.0,274.0,485.0,74.0
+514,NOVA University of Lisbon,Portugal,2021,4,527.0,1001.0,274.0,486.0,74.0
+515,"Royal Holloway, University of London",United Kingdom,2021,38,405.0,1001.0,222.0,555.0,74.0
+516,University of Canterbury,New Zealand,2021,3,355.0,425.0,241.0,553.0,74.0
+517,University College Cork,Ireland,2021,3,527.0,805.0,274.0,490.0,74.0
+518,Wuhan University of Technology,China,2021,58,527.0,997.0,274.0,488.0,73.9
+519,University of Potsdam,Germany,2021,38,527.0,1001.0,274.0,489.0,73.9
+520,University of Tehran,Iran,2021,2,424.0,1001.0,274.0,491.0,73.9
+521,University of Tartu,Estonia,2021,1,459.0,1001.0,274.0,492.0,73.9
+522,National Yang-Ming University,Taiwan,2021,5,527.0,1001.0,274.0,493.0,73.9
+523,University of South Australia,Australia,2021,21,527.0,475.0,274.0,508.0,73.9
+524,RMIT University,Australia,2021,22,527.0,1001.0,274.0,496.0,73.9
+525,University of Zagreb,Croatia,2021,1,527.0,1001.0,274.0,495.0,73.9
+526,Colorado School of Mines,USA,2021,144,527.0,64.0,274.0,731.0,73.9
+527,Bar-Ilan University,Israel,2021,6,527.0,648.0,274.0,506.0,73.8
+528,Ulsan National Institute of Science and Technology,South Korea,2021,13,527.0,1001.0,274.0,497.0,73.8
+529,University of Bremen,Germany,2021,39,527.0,1001.0,274.0,498.0,73.8
+530,Georgia State University,USA,2021,145,527.0,819.0,274.0,502.0,73.8
+531,USI - University of Italian Speaking Switzerland,Switzerland,2021,9,527.0,1001.0,274.0,499.0,73.8
+532,University of Verona,Italy,2021,26,527.0,1001.0,274.0,504.0,73.8
+533,University of Rennes 1,France,2021,24,527.0,1001.0,274.0,505.0,73.8
+534,Carleton University,Canada,2021,20,527.0,1001.0,274.0,507.0,73.8
+535,Polytechnic University of Madrid,Spain,2021,17,485.0,681.0,274.0,510.0,73.8
+536,University of Konstanz,Germany,2021,40,527.0,1001.0,203.0,601.0,73.8
+537,Hitotsubashi University,Japan,2021,15,527.0,19.0,274.0,1001.0,73.7
+538,Saint Petersburg University,Russia,2021,7,155.0,446.0,274.0,544.0,73.7
+539,"Northeastern University, China",China,2021,59,527.0,523.0,274.0,513.0,73.7
+540,University of Arkansas - Fayetteville,USA,2021,146,268.0,377.0,274.0,538.0,73.7
+541,Rensselaer Polytechnic Institute,USA,2021,147,425.0,153.0,274.0,603.0,73.7
+542,Moscow Institute of Physics and Technology,Russia,2021,8,160.0,585.0,270.0,566.0,73.7
+543,Tata Institute of Fundamental Research,India,2021,3,527.0,1001.0,274.0,511.0,73.7
+544,University of Nantes,France,2021,25,527.0,1001.0,274.0,512.0,73.7
+545,Medical University of Innsbruck,Austria,2021,5,527.0,1001.0,274.0,514.0,73.7
+546,Cairo University,Egypt,2021,1,527.0,1001.0,274.0,516.0,73.7
+547,Ewha Womans University,South Korea,2021,14,527.0,1001.0,274.0,515.0,73.6
+548,National Technical University of Athens,Greece,2021,3,474.0,768.0,274.0,523.0,73.6
+549,Mahidol University,Thailand,2021,2,527.0,1001.0,274.0,517.0,73.6
+550,Chiba University,Japan,2021,16,527.0,1001.0,274.0,518.0,73.6
+551,Fuzhou University,China,2021,60,527.0,723.0,274.0,526.0,73.6
+552,"China Medical University, Taiwan",Taiwan,2021,6,527.0,1001.0,274.0,520.0,73.6
+553,Jinan University,China,2021,61,527.0,596.0,274.0,533.0,73.6
+554,Flinders University,Australia,2021,23,461.0,1001.0,274.0,521.0,73.6
+555,National Central University,Taiwan,2021,7,527.0,1001.0,274.0,522.0,73.6
+556,Clemson University,USA,2021,148,527.0,934.0,274.0,525.0,73.6
+557,Indian Institute of Technology Madras,India,2021,4,527.0,181.0,274.0,600.0,73.6
+558,Mayo Clinic College of Medicine and Science,USA,2021,149,527.0,1001.0,274.0,524.0,73.5
+559,Brunel University London,United Kingdom,2021,39,527.0,554.0,274.0,536.0,73.5
+560,San Diego State University,USA,2021,150,313.0,447.0,274.0,547.0,73.5
+561,Medical University of Graz,Austria,2021,6,527.0,1001.0,274.0,528.0,73.5
+562,Southwest University,China,2021,62,481.0,1001.0,274.0,529.0,73.5
+563,University of Graz,Austria,2021,7,438.0,1001.0,161.0,690.0,73.5
+564,University of Sherbrooke,Canada,2021,21,527.0,969.0,274.0,530.0,73.5
+565,University of Jyväskylä,Finland,2021,7,527.0,1001.0,274.0,531.0,73.5
+566,Institut Agro,France,2021,26,527.0,1001.0,274.0,532.0,73.5
+567,Indian Institute of Technology Bombay,India,2021,5,527.0,373.0,274.0,551.0,73.5
+568,China University of Petroleum,China,2021,63,527.0,608.0,274.0,539.0,73.4
+569,University of Texas at Arlington,USA,2021,151,527.0,849.0,274.0,537.0,73.4
+570,Chang Gung University,Taiwan,2021,8,527.0,1001.0,274.0,534.0,73.4
+571,University of Delhi,India,2021,6,525.0,215.0,274.0,604.0,73.4
+572,Palacký University Olomouc,Czech Republic,2021,2,527.0,1001.0,274.0,535.0,73.4
+573,Middle East Technical University,Turkey,2021,1,527.0,318.0,274.0,571.0,73.4
+574,Illinois Institute of Technology,USA,2021,152,62.0,160.0,274.0,815.0,73.4
+575,University of Iceland,Iceland,2021,1,527.0,1001.0,274.0,540.0,73.4
+576,Nanjing Tech University,China,2021,64,527.0,1001.0,274.0,541.0,73.4
+577,University of Minho,Portugal,2021,5,527.0,1001.0,274.0,542.0,73.4
+578,"Institute of Cancer Research, University of London",United Kingdom,2021,40,246.0,1001.0,274.0,552.0,73.4
+579,University of Udine,Italy,2021,27,527.0,1001.0,274.0,543.0,73.3
+580,University of Pretoria,South Africa,2021,5,527.0,778.0,274.0,548.0,73.3
+581,Auburn University,USA,2021,153,527.0,247.0,274.0,593.0,73.3
+582,Swansea University,United Kingdom,2021,41,527.0,1001.0,274.0,545.0,73.3
+583,University of Wisconsin–Milwaukee,USA,2021,154,278.0,474.0,274.0,572.0,73.3
+584,University of Burgundy,France,2021,27,164.0,1001.0,274.0,576.0,73.3
+585,University of Palermo,Italy,2021,28,527.0,1001.0,274.0,546.0,73.3
+586,Concordia University,Canada,2021,22,526.0,323.0,274.0,580.0,73.3
+587,Masaryk University,Czech Republic,2021,3,527.0,1001.0,274.0,549.0,73.3
+588,Bocconi University,Italy,2021,29,527.0,48.0,257.0,1001.0,73.3
+589,College of William & Mary,USA,2021,155,527.0,93.0,274.0,724.0,73.2
+590,University of Nebraska Medical Center,USA,2021,156,527.0,1001.0,274.0,550.0,73.2
+591,Eötvös Loránd University,Hungary,2021,1,259.0,1001.0,274.0,563.0,73.2
+592,Haverford College,USA,2021,157,19.0,1001.0,274.0,1001.0,73.2
+593,Central China Normal University,China,2021,65,527.0,1001.0,274.0,554.0,73.2
+594,Czech Technical University in Prague,Czech Republic,2021,4,391.0,1001.0,274.0,558.0,73.2
+595,Jiangsu University,China,2021,66,527.0,1001.0,274.0,556.0,73.2
+596,University Paris-Est Créteil,France,2021,28,527.0,882.0,274.0,560.0,73.2
+597,Brigham Young University,USA,2021,158,316.0,842.0,274.0,569.0,73.2
+598,CINVESTAV,Mexico,2021,2,527.0,1001.0,274.0,557.0,73.2
+599,Polytechnic University of Turin,Italy,2021,30,527.0,840.0,274.0,564.0,73.2
+600,University of Salerno,Italy,2021,31,527.0,1001.0,274.0,561.0,73.1
+601,Beijing Jiaotong University,China,2021,67,527.0,1001.0,274.0,562.0,73.1
+602,Jiangnan University,China,2021,68,527.0,1001.0,274.0,565.0,73.1
+603,University of Aveiro,Portugal,2021,6,527.0,1001.0,274.0,567.0,73.1
+604,University of Cagliari,Italy,2021,32,527.0,1001.0,274.0,568.0,73.1
+605,University of Eastern Piedmont,Italy,2021,33,527.0,1001.0,274.0,570.0,73.1
+606,AGH University of Science and Technology,Poland,2021,3,527.0,859.0,274.0,574.0,73.1
+607,Federal University of São Paulo,Brazil,2021,7,527.0,1001.0,274.0,575.0,73.1
+608,Nanjing University of Information Science and Technology,China,2021,69,527.0,1001.0,274.0,578.0,73.1
+609,Comenius University in Bratislava,Slovak Republic,2021,1,527.0,1001.0,274.0,579.0,73.1
+610,University of St.Gallen,Switzerland,2021,10,527.0,29.0,274.0,1001.0,73.1
+611,Jeonbuk National University,South Korea,2021,15,527.0,1001.0,274.0,582.0,73.0
+612,Sharif University of Technology,Iran,2021,3,394.0,1001.0,274.0,584.0,73.0
+613,National Research Nuclear University MEPhI,Russia,2021,9,439.0,1001.0,274.0,585.0,73.0
+614,"St George's, University of London",United Kingdom,2021,42,527.0,1001.0,274.0,583.0,73.0
+615,Utah State University,USA,2021,159,352.0,899.0,274.0,594.0,73.0
+616,University of Bayreuth,Germany,2021,41,527.0,1001.0,274.0,586.0,73.0
+617,University of Québec at Montreal,Canada,2021,23,527.0,970.0,274.0,588.0,73.0
+618,Second Military Medical University,China,2021,70,527.0,1001.0,274.0,587.0,73.0
+619,"National University of Ireland, Galway",Ireland,2021,4,203.0,1001.0,274.0,608.0,73.0
+620,Rio de Janeiro State University,Brazil,2021,8,527.0,1001.0,274.0,590.0,73.0
+621,National University of La Plata,Argentina,2021,2,527.0,1001.0,274.0,589.0,73.0
+622,University of Brescia,Italy,2021,34,527.0,1001.0,274.0,591.0,73.0
+623,Indian Institute of Technology Delhi,India,2021,7,527.0,133.0,274.0,694.0,72.9
+624,Toulouse INP,France,2021,29,527.0,248.0,274.0,626.0,72.9
+625,University of La Laguna,Spain,2021,18,527.0,1001.0,274.0,592.0,72.9
+626,Institut national des sciences appliquées de Lyon,France,2021,30,527.0,1001.0,274.0,595.0,72.9
+627,Konkuk University,South Korea,2021,16,527.0,1001.0,274.0,597.0,72.9
+628,Southern Medical University,China,2021,71,527.0,1001.0,274.0,596.0,72.9
+629,Bielefeld University,Germany,2021,42,432.0,1001.0,274.0,599.0,72.9
+630,Cold Spring Harbor Laboratory,USA,2021,160,527.0,1001.0,102.0,861.0,72.9
+631,University of Plymouth,United Kingdom,2021,43,527.0,1001.0,274.0,598.0,72.9
+632,Henryk Niewodniczański Institute of Nuclear Physics,Poland,2021,4,527.0,1001.0,274.0,602.0,72.9
+633,North China Electric Power University,China,2021,72,527.0,282.0,274.0,629.0,72.9
+634,Ocean University of China,China,2021,73,527.0,1001.0,274.0,605.0,72.8
+635,Catholic University of Korea,South Korea,2021,17,527.0,1001.0,274.0,606.0,72.8
+636,Courtauld Institute of Art,United Kingdom,2021,44,12.0,1001.0,274.0,1001.0,72.8
+637,Boğaziçi University,Turkey,2021,2,527.0,633.0,274.0,613.0,72.8
+638,China University of Mining and Technology,China,2021,74,527.0,712.0,274.0,611.0,72.8
+639,Memorial University of Newfoundland,Canada,2021,24,527.0,734.0,274.0,614.0,72.8
+640,National Polytechnic Institute,Mexico,2021,3,527.0,1001.0,274.0,609.0,72.8
+641,University of New Hampshire,USA,2021,161,527.0,541.0,274.0,620.0,72.8
+642,Tilburg University,Netherlands,2021,13,527.0,398.0,274.0,628.0,72.8
+643,Tehran University of Medical Sciences,Iran,2021,4,527.0,1001.0,274.0,610.0,72.8
+644,Southern University of Science and Technology,China,2021,75,527.0,1001.0,274.0,612.0,72.8
+645,Renmin University of China,China,2021,76,527.0,104.0,274.0,779.0,72.8
+646,Nanjing Normal University,China,2021,77,527.0,998.0,274.0,615.0,72.7
+647,Hefei University of Technology,China,2021,78,527.0,845.0,274.0,618.0,72.7
+648,Donghua University,China,2021,79,527.0,1001.0,274.0,617.0,72.7
+649,University of Cantabria,Spain,2021,19,527.0,1001.0,274.0,616.0,72.7
+650,Hacettepe University,Turkey,2021,3,527.0,1001.0,274.0,619.0,72.7
+651,Saarland University,Germany,2021,43,527.0,468.0,274.0,635.0,72.7
+652,Ankara University,Turkey,2021,4,527.0,806.0,274.0,623.0,72.7
+653,Binghamton University,USA,2021,162,297.0,366.0,154.0,867.0,72.7
+654,Chung-Ang University,South Korea,2021,18,527.0,1001.0,274.0,622.0,72.7
+655,Shinshu University,Japan,2021,17,527.0,1001.0,274.0,621.0,72.7
+656,University of Macau,China,2021,80,527.0,539.0,274.0,639.0,72.7
+657,Swinburne University of Technology,Australia,2021,24,527.0,1001.0,274.0,624.0,72.6
+658,University of Campania Luigi Vanvitelli,Italy,2021,35,527.0,1001.0,274.0,625.0,72.6
+659,Sciences Po,France,2021,31,527.0,57.0,62.0,1001.0,72.6
+660,Loughborough University,United Kingdom,2021,45,527.0,1001.0,273.0,648.0,72.6
+661,Loyola University Chicago,USA,2021,163,348.0,1001.0,274.0,632.0,72.6
+662,University of Texas Medical Branch,USA,2021,164,527.0,1001.0,274.0,627.0,72.6
+663,Tokyo Metropolitan University,Japan,2021,18,196.0,1001.0,274.0,661.0,72.6
+664,University of Kent,United Kingdom,2021,46,527.0,877.0,274.0,634.0,72.6
+665,Roma Tre University,Italy,2021,36,527.0,1001.0,274.0,630.0,72.6
+666,University of Calabria,Italy,2021,37,527.0,1001.0,274.0,631.0,72.6
+667,Massey University,New Zealand,2021,4,527.0,916.0,274.0,636.0,72.6
+668,University of Haifa,Israel,2021,7,527.0,1001.0,274.0,633.0,72.6
+669,Kanazawa University,Japan,2021,19,527.0,634.0,274.0,647.0,72.5
+670,University of Wyoming,USA,2021,165,527.0,726.0,274.0,646.0,72.5
+671,University of Málaga,Spain,2021,20,527.0,1001.0,274.0,637.0,72.5
+672,Tokyo Medical and Dental University,Japan,2021,20,527.0,1001.0,274.0,638.0,72.5
+673,Istanbul University,Turkey,2021,5,456.0,1001.0,274.0,643.0,72.5
+674,University of Johannesburg,South Africa,2021,6,527.0,1001.0,274.0,642.0,72.5
+675,University of Texas at San Antonio,USA,2021,166,527.0,1001.0,274.0,640.0,72.5
+676,University of Ioannina,Greece,2021,4,527.0,1001.0,274.0,641.0,72.5
+677,Zhejiang University of Technology,China,2021,81,527.0,1001.0,274.0,644.0,72.5
+678,University of Szeged,Hungary,2021,2,527.0,1001.0,197.0,768.0,72.5
+679,University of Fribourg,Switzerland,2021,11,527.0,299.0,274.0,686.0,72.5
+680,"University of Maine, Orono",USA,2021,167,493.0,1001.0,121.0,881.0,72.5
+681,Tianjin Medical University,China,2021,82,527.0,1001.0,274.0,645.0,72.5
+682,Istanbul Technical University,Turkey,2021,6,527.0,860.0,274.0,650.0,72.4
+683,Semmelweis University,Hungary,2021,3,527.0,1001.0,274.0,649.0,72.4
+684,Nanchang University,China,2021,83,527.0,1001.0,274.0,651.0,72.4
+685,"University of Nevada, Reno",USA,2021,168,527.0,1001.0,274.0,652.0,72.4
+686,Warsaw University of Technology,Poland,2021,5,351.0,1001.0,274.0,657.0,72.4
+687,Vilnius University,Lithuania,2021,1,527.0,1001.0,274.0,653.0,72.4
+688,National University of Defense Technology,China,2021,84,527.0,1001.0,274.0,655.0,72.4
+689,Chungnam National University,South Korea,2021,19,527.0,1001.0,274.0,654.0,72.4
+690,Yokohama City University,Japan,2021,21,527.0,208.0,274.0,722.0,72.4
+691,Southwest Jiaotong University,China,2021,85,527.0,814.0,274.0,663.0,72.4
+692,University of Salamanca,Spain,2021,21,527.0,892.0,274.0,662.0,72.4
+693,Hong Kong Baptist University,China,2021,86,527.0,1001.0,274.0,658.0,72.4
+694,Isfahan University of Technology,Iran,2021,5,527.0,1001.0,274.0,659.0,72.3
+695,University of Debrecen,Hungary,2021,4,527.0,1001.0,274.0,660.0,72.3
+696,National Chung Hsing University,Taiwan,2021,9,527.0,244.0,274.0,708.0,72.3
+697,Oswaldo Cruz Foundation,Brazil,2021,9,527.0,1001.0,274.0,664.0,72.3
+698,Victoria University of Wellington,New Zealand,2021,5,373.0,756.0,274.0,670.0,72.3
+699,Heriot-Watt University,United Kingdom,2021,47,527.0,560.0,274.0,676.0,72.3
+700,University of Oklahoma Health Sciences Center,USA,2021,169,527.0,1001.0,274.0,665.0,72.3
+701,Inha University,South Korea,2021,20,527.0,705.0,274.0,669.0,72.3
+702,University of Crete,Greece,2021,5,527.0,1001.0,274.0,666.0,72.3
+703,Kumamoto University,Japan,2021,22,527.0,672.0,274.0,674.0,72.3
+704,Otto von Guericke University Magdeburg,Germany,2021,44,527.0,1001.0,274.0,667.0,72.3
+705,King Fahd University of Petroleum and Minerals,Saudi Arabia,2021,4,527.0,113.0,274.0,812.0,72.3
+706,Northeast Normal University,China,2021,87,527.0,1001.0,274.0,668.0,72.2
+707,University of Greifswald,Germany,2021,45,527.0,1001.0,252.0,715.0,72.2
+708,Indian Institute of Technology Kharagpur,India,2021,8,527.0,528.0,274.0,684.0,72.2
+709,Panjab University,India,2021,9,506.0,690.0,274.0,677.0,72.2
+710,"University of North Texas, Denton",USA,2021,170,527.0,748.0,274.0,675.0,72.2
+711,South China Normal University,China,2021,88,527.0,1001.0,274.0,671.0,72.2
+712,Taipei Medical University,Taiwan,2021,10,527.0,1001.0,274.0,672.0,72.2
+713,Mississippi State University,USA,2021,171,321.0,408.0,274.0,699.0,72.2
+714,University of Arkansas for Medical Sciences,USA,2021,172,527.0,1001.0,274.0,673.0,72.2
+715,University of Missouri-Kansas City,USA,2021,173,468.0,566.0,274.0,689.0,72.2
+716,"Birkbeck, University of London",United Kingdom,2021,48,224.0,1001.0,171.0,878.0,72.2
+717,International School for Advanced Studies,Italy,2021,38,527.0,1001.0,274.0,678.0,72.2
+718,Budker Institute of Nuclear Physics of the Siberian Branch of the Russian Academy of Sciences,Russia,2021,10,527.0,1001.0,274.0,679.0,72.2
+719,Montana State University - Bozeman,USA,2021,174,527.0,1001.0,274.0,680.0,72.1
+720,University of Angers,France,2021,32,527.0,1001.0,274.0,681.0,72.1
+721,Yangzhou University,China,2021,89,527.0,1001.0,274.0,682.0,72.1
+722,Niigata University,Japan,2021,23,527.0,790.0,274.0,687.0,72.1
+723,Qingdao University,China,2021,90,527.0,1001.0,274.0,683.0,72.1
+724,Central Party School of the Communist Party of China,China,2021,91,527.0,22.0,274.0,1001.0,72.1
+725,American University of Beirut,Lebanon,2021,1,254.0,176.0,274.0,782.0,72.1
+726,Kangwon National University,South Korea,2021,21,527.0,1001.0,274.0,685.0,72.1
+727,"University of Maryland, Baltimore County",USA,2021,175,527.0,1001.0,233.0,769.0,72.1
+728,Federal University of Santa Catarina,Brazil,2021,10,527.0,1001.0,274.0,688.0,72.1
+729,University of Massachusetts Boston,USA,2021,176,527.0,1001.0,190.0,822.0,72.1
+730,Bangor University,United Kingdom,2021,49,194.0,800.0,251.0,776.0,72.1
+731,Beijing University of Technology,China,2021,92,527.0,1001.0,274.0,691.0,72.1
+732,Antioch College,USA,2021,177,17.0,1001.0,274.0,1001.0,72.0
+733,Ajou University,South Korea,2021,22,527.0,1001.0,274.0,692.0,72.0
+734,Army Medical University,China,2021,93,527.0,1001.0,274.0,693.0,72.0
+735,Tokyo University of Science,Japan,2021,24,307.0,931.0,274.0,703.0,72.0
+736,University of Vigo,Spain,2021,22,527.0,1001.0,274.0,695.0,72.0
+737,Beijing University of Posts and Telecommunications,China,2021,94,527.0,470.0,274.0,712.0,72.0
+738,University of Alaska Fairbanks,USA,2021,178,416.0,758.0,274.0,701.0,72.0
+739,Augusta University,USA,2021,179,527.0,1001.0,274.0,696.0,72.0
+740,University of Salento,Italy,2021,39,527.0,1001.0,274.0,697.0,72.0
+741,Technical University of Braunschweig,Germany,2021,46,463.0,1001.0,274.0,700.0,72.0
+742,Quaid-i-Azam University,Pakistan,2021,1,527.0,1001.0,274.0,698.0,72.0
+743,SUNY Downstate Medical Center,USA,2021,180,527.0,1001.0,149.0,930.0,72.0
+744,Guangdong University of Technology,China,2021,95,527.0,1001.0,274.0,702.0,72.0
+745,Osaka City University,Japan,2021,25,235.0,479.0,274.0,737.0,71.9
+746,"Northwest University, Xi'an",China,2021,96,527.0,1001.0,274.0,704.0,71.9
+747,University of Castilla–La Mancha,Spain,2021,23,527.0,1001.0,274.0,705.0,71.9
+748,Kitasato University,Japan,2021,26,527.0,1001.0,125.0,964.0,71.9
+749,University of Cyprus,Cyprus,2021,1,527.0,1001.0,274.0,706.0,71.9
+750,"University of the Andes, Colombia",Colombia,2021,1,527.0,415.0,274.0,733.0,71.9
+751,University of Idaho,USA,2021,181,527.0,1001.0,274.0,709.0,71.9
+752,Kent State University,USA,2021,182,527.0,1001.0,274.0,710.0,71.9
+753,Amirkabir University of Technology,Iran,2021,6,527.0,1001.0,274.0,711.0,71.9
+754,Nanjing University of Posts and Telecommunications,China,2021,97,527.0,910.0,274.0,713.0,71.9
+755,Yerevan Physics Institute,Armenia,2021,1,527.0,1001.0,274.0,714.0,71.9
+756,University of Essex,United Kingdom,2021,50,509.0,650.0,274.0,726.0,71.9
+757,South China Agricultural University,China,2021,98,527.0,1001.0,274.0,716.0,71.9
+758,Sejong University,South Korea,2021,23,527.0,1001.0,274.0,717.0,71.8
+759,Shaanxi Normal University,China,2021,99,527.0,1001.0,274.0,718.0,71.8
+760,Air Force Medical University,China,2021,100,527.0,1001.0,274.0,719.0,71.8
+761,University of Wuppertal,Germany,2021,47,527.0,1001.0,274.0,720.0,71.8
+762,Institute for Nuclear Research of the Russian Academy of Sciences,Russia,2021,11,527.0,1001.0,274.0,721.0,71.8
+763,"Graduate Faculty, General Research Institute For Nonferrous Metals",China,2021,101,527.0,23.0,274.0,1001.0,71.8
+764,University of Lübeck,Germany,2021,48,527.0,1001.0,274.0,723.0,71.8
+765,Yeungnam University,South Korea,2021,24,527.0,418.0,274.0,750.0,71.8
+766,University of Split,Croatia,2021,2,527.0,1001.0,274.0,725.0,71.8
+767,Centrale Lille Institut,France,2021,33,527.0,90.0,274.0,975.0,71.8
+768,University of Girona,Spain,2021,24,527.0,1001.0,274.0,727.0,71.8
+769,Örebro University,Sweden,2021,12,527.0,887.0,274.0,732.0,71.8
+770,Hohai University,China,2021,102,527.0,1001.0,274.0,729.0,71.8
+771,Shanxi University,China,2021,103,527.0,1001.0,274.0,728.0,71.8
+772,University of the Balearic Islands,Spain,2021,25,527.0,1001.0,274.0,730.0,71.7
+773,University of Montana,USA,2021,183,265.0,1001.0,274.0,740.0,71.7
+774,Ohio University,USA,2021,184,390.0,372.0,274.0,772.0,71.7
+775,University of Murcia,Spain,2021,26,527.0,1001.0,274.0,734.0,71.7
+776,National Taiwan University of Science and Technology,Taiwan,2021,11,527.0,795.0,274.0,739.0,71.7
+777,Gwangju Institute of Science and Technology,South Korea,2021,25,527.0,1001.0,274.0,735.0,71.7
+778,"University of Science, Malaysia",Malaysia,2021,2,527.0,1001.0,274.0,736.0,71.7
+779,Federal University of Paraná,Brazil,2021,11,527.0,1001.0,274.0,738.0,71.7
+780,Marche Polytechnic University,Italy,2021,40,527.0,1001.0,274.0,741.0,71.7
+781,Belarusian State University,Belarus,2021,1,527.0,1001.0,274.0,742.0,71.7
+782,Kaohsiung Medical University,Taiwan,2021,12,527.0,1001.0,274.0,743.0,71.7
+783,"University of Natural Resources and Life Sciences, Vienna",Austria,2021,8,527.0,1001.0,274.0,744.0,71.7
+784,Sorbonne Paris Nord University,France,2021,34,527.0,1001.0,274.0,745.0,71.7
+785,Wenzhou Medical University,China,2021,104,527.0,1001.0,274.0,746.0,71.6
+786,Northern Illinois University,USA,2021,185,527.0,728.0,274.0,752.0,71.6
+787,L.D. Landau Institute for Theoretical Physics of the Russian Academy of Sciences,Russia,2021,12,34.0,1001.0,213.0,1001.0,71.6
+788,"University of Córdoba, Spain",Spain,2021,27,527.0,1001.0,274.0,747.0,71.6
+789,National Sun Yat-sen University,Taiwan,2021,13,527.0,1001.0,274.0,748.0,71.6
+790,University of Patras,Greece,2021,6,527.0,1001.0,274.0,749.0,71.6
+791,Norwegian University of Life Sciences,Norway,2021,5,527.0,954.0,274.0,751.0,71.6
+792,Tarbiat Modares University,Iran,2021,7,527.0,1001.0,274.0,753.0,71.6
+793,Harbin Medical University,China,2021,105,527.0,1001.0,274.0,754.0,71.6
+794,University of Hohenheim,Germany,2021,49,527.0,1001.0,274.0,755.0,71.6
+795,Guangzhou Medical University,China,2021,106,527.0,1001.0,274.0,756.0,71.6
+796,University of North Carolina at Charlotte,USA,2021,186,527.0,664.0,274.0,770.0,71.6
+797,Ain Shams University,Egypt,2021,2,527.0,1001.0,274.0,757.0,71.6
+798,Carl von Ossietzky University of Oldenburg,Germany,2021,50,527.0,1001.0,274.0,758.0,71.6
+799,Gyeongsang National University,South Korea,2021,26,527.0,1001.0,274.0,759.0,71.5
+800,"China Medical University, PRC",China,2021,107,527.0,1001.0,274.0,760.0,71.5
+801,University of Siegen,Germany,2021,51,527.0,1001.0,274.0,761.0,71.5
+802,Gustave Eiffel University,France,2021,35,441.0,1001.0,274.0,765.0,71.5
+803,University of Jinan,China,2021,108,527.0,1001.0,274.0,762.0,71.5
+804,Beijing Forestry University,China,2021,109,527.0,1001.0,274.0,764.0,71.5
+805,"Putra University, Malaysia",Malaysia,2021,3,527.0,1001.0,274.0,766.0,71.5
+806,University of L'Aquila,Italy,2021,41,527.0,1001.0,274.0,767.0,71.5
+807,Kindai University,Japan,2021,27,527.0,1001.0,274.0,771.0,71.5
+808,Nagasaki University,Japan,2021,28,292.0,310.0,274.0,825.0,71.5
+809,COMSATS University Islamabad,Pakistan,2021,2,527.0,1001.0,274.0,773.0,71.5
+810,Polytechnic University of Bari,Italy,2021,42,527.0,1001.0,274.0,774.0,71.5
+811,Brazilian Center for Research in Physics (CBPF),Brazil,2021,12,527.0,1001.0,274.0,775.0,71.5
+812,University of Rhode Island,USA,2021,187,527.0,542.0,274.0,791.0,71.5
+813,"Open University, UK",United Kingdom,2021,51,527.0,1001.0,274.0,777.0,71.4
+814,Carlos III University of Madrid,Spain,2021,28,527.0,1001.0,274.0,778.0,71.4
+815,University of Denver,USA,2021,188,527.0,186.0,274.0,884.0,71.4
+816,National University of Colombia,Colombia,2021,2,527.0,831.0,274.0,780.0,71.4
+817,University of Toledo,USA,2021,189,527.0,1001.0,274.0,781.0,71.4
+818,Indian Institute of Technology Kanpur,India,2021,10,527.0,409.0,274.0,808.0,71.4
+819,Adam Mickiewicz University in Poznań,Poland,2021,6,527.0,1001.0,274.0,783.0,71.4
+820,Shizuoka University,Japan,2021,29,527.0,1001.0,95.0,1001.0,71.4
+821,University of Basilicata,Italy,2021,43,527.0,1001.0,274.0,784.0,71.4
+822,Miami University,USA,2021,190,527.0,118.0,274.0,970.0,71.4
+823,Jawaharlal Nehru University,India,2021,11,486.0,1001.0,83.0,1001.0,71.4
+824,Old Dominion University,USA,2021,191,527.0,1001.0,274.0,785.0,71.4
+825,University of Concepción,Chile,2021,3,527.0,1001.0,274.0,786.0,71.4
+826,Harbin Engineering University,China,2021,110,527.0,1001.0,274.0,787.0,71.4
+827,University of Alcalá,Spain,2021,29,527.0,1001.0,274.0,788.0,71.3
+828,Graz University of Technology,Austria,2021,9,527.0,1001.0,274.0,789.0,71.3
+829,Ryerson University,Canada,2021,25,527.0,1001.0,274.0,790.0,71.3
+830,Getúlio Vargas Foundation,Brazil,2021,13,527.0,34.0,274.0,1001.0,71.3
+831,University of Tours,France,2021,36,157.0,1001.0,274.0,839.0,71.3
+832,"University of Nevada, Las Vegas",USA,2021,192,527.0,984.0,274.0,794.0,71.3
+833,Jawaharlal Nehru Centre for Advanced Scientific Research,India,2021,12,527.0,1001.0,117.0,1001.0,71.3
+834,Federico Santa María Technical University,Chile,2021,4,527.0,1001.0,274.0,793.0,71.3
+835,Hasselt University,Belgium,2021,8,527.0,700.0,274.0,800.0,71.3
+836,University of Messina,Italy,2021,44,527.0,1001.0,274.0,795.0,71.3
+837,University of Wrocław,Poland,2021,7,469.0,1001.0,260.0,865.0,71.3
+838,Juntendo University,Japan,2021,30,527.0,1001.0,274.0,796.0,71.3
+839,Ege University,Turkey,2021,7,527.0,1001.0,274.0,797.0,71.3
+840,Aberystwyth University,United Kingdom,2021,52,527.0,811.0,216.0,946.0,71.3
+841,Federal University of Pernambuco,Brazil,2021,14,527.0,1001.0,274.0,798.0,71.3
+842,Benemérita Autonomous University of Puebla,Mexico,2021,4,527.0,1001.0,274.0,799.0,71.2
+843,Rutgers University–Newark,USA,2021,193,527.0,822.0,274.0,805.0,71.2
+844,Gazi University,Turkey,2021,8,527.0,1001.0,274.0,802.0,71.2
+845,University of Alicante,Spain,2021,30,527.0,1001.0,274.0,801.0,71.2
+846,Wesleyan University,USA,2021,194,527.0,54.0,274.0,1001.0,71.2
+847,"University of California, Merced",USA,2021,195,527.0,1001.0,274.0,803.0,71.2
+848,Cranfield University,United Kingdom,2021,53,527.0,197.0,274.0,911.0,71.2
+849,University of Mons,Belgium,2021,9,527.0,1001.0,274.0,804.0,71.2
+850,University of Louisiana at Lafayette,USA,2021,196,527.0,1001.0,274.0,806.0,71.2
+851,Liverpool John Moores University,United Kingdom,2021,54,527.0,1001.0,274.0,807.0,71.2
+852,Ivane Javakhishvili Tbilisi State University,Georgia,2021,1,527.0,1001.0,274.0,809.0,71.2
+853,Jean Monnet University,France,2021,37,527.0,1001.0,274.0,810.0,71.2
+854,Sofia University,Bulgaria,2021,1,154.0,1001.0,274.0,870.0,71.2
+855,Graduate University for Advanced Studies,Japan,2021,31,527.0,1001.0,274.0,811.0,71.2
+856,Banaras Hindu University,India,2021,13,327.0,667.0,274.0,836.0,71.1
+857,INSA Toulouse,France,2021,38,527.0,529.0,274.0,840.0,71.1
+858,"All India Institute of Medical Sciences, New Delhi",India,2021,14,527.0,1001.0,274.0,813.0,71.1
+859,Uniformed Services University of the Health Sciences,USA,2021,197,527.0,1001.0,274.0,814.0,71.1
+860,Indian Institute of Technology Roorkee,India,2021,15,527.0,269.0,274.0,886.0,71.1
+861,Northern Arizona University,USA,2021,198,527.0,1001.0,274.0,817.0,71.1
+862,Tomsk State University,Russia,2021,13,527.0,1001.0,274.0,816.0,71.1
+863,Technical University of Kaiserslautern,Germany,2021,52,527.0,1001.0,274.0,819.0,71.1
+864,University of Luxembourg,Luxembourg,2021,1,527.0,1001.0,274.0,818.0,71.1
+865,"City, University of London",United Kingdom,2021,55,517.0,499.0,274.0,849.0,71.1
+866,Anhui University,China,2021,111,527.0,950.0,274.0,826.0,71.1
+867,Murdoch University,Australia,2021,25,527.0,838.0,274.0,827.0,71.1
+868,Chongqing Medical University,China,2021,112,527.0,1001.0,274.0,820.0,71.1
+869,University of Orléans,France,2021,39,527.0,1001.0,274.0,821.0,71.1
+870,Southern Illinois University Carbondale,USA,2021,199,527.0,1001.0,274.0,823.0,71.1
+871,Babeș-Bolyai University,Romania,2021,1,527.0,1001.0,274.0,824.0,71.0
+872,University of Brasília,Brazil,2021,15,527.0,1001.0,274.0,832.0,71.0
+873,Henan University,China,2021,113,527.0,1001.0,274.0,828.0,71.0
+874,University of Brighton,United Kingdom,2021,56,527.0,1001.0,274.0,829.0,71.0
+875,Dongguk University,South Korea,2021,27,527.0,545.0,274.0,852.0,71.0
+876,National Centre for Nuclear Research,Poland,2021,8,527.0,1001.0,274.0,830.0,71.0
+877,University of Insubria,Italy,2021,45,527.0,1001.0,274.0,831.0,71.0
+878,University of Akron,USA,2021,200,527.0,698.0,274.0,845.0,71.0
+879,Hangzhou Normal University,China,2021,114,527.0,1001.0,274.0,833.0,71.0
+880,Iran University of Science and Technology,Iran,2021,8,527.0,1001.0,274.0,834.0,71.0
+881,National Research University Higher School of Economics,Russia,2021,14,527.0,1001.0,274.0,835.0,71.0
+882,Shandong University of Science and Technology,China,2021,115,527.0,862.0,274.0,841.0,71.0
+883,China Pharmaceutical University,China,2021,116,527.0,1001.0,274.0,838.0,71.0
+884,National University of Malaysia (UKM),Malaysia,2021,4,527.0,1001.0,274.0,837.0,71.0
+885,Norwegian School of Economics,Norway,2021,6,457.0,41.0,274.0,1001.0,71.0
+886,Portland State University,USA,2021,201,527.0,365.0,274.0,888.0,70.9
+887,Budapest University of Technology and Economics,Hungary,2021,5,221.0,1001.0,274.0,871.0,70.9
+888,Jaume I University,Spain,2021,31,527.0,1001.0,274.0,842.0,70.9
+889,University of Seoul,South Korea,2021,28,527.0,1001.0,274.0,843.0,70.9
+890,Gachon University,South Korea,2021,29,527.0,1001.0,274.0,844.0,70.9
+891,Polytechnic University of Bucharest,Romania,2021,2,527.0,1001.0,274.0,846.0,70.9
+892,Peter the Great St. Petersburg Polytechnic University,Russia,2021,15,495.0,922.0,274.0,850.0,70.9
+893,New Mexico State University,USA,2021,202,465.0,718.0,274.0,858.0,70.9
+894,Nihon University,Japan,2021,32,513.0,1001.0,274.0,848.0,70.9
+895,University of Stirling,United Kingdom,2021,57,527.0,618.0,274.0,863.0,70.9
+896,Federal University of ABC,Brazil,2021,16,527.0,1001.0,274.0,847.0,70.9
+897,University of Hyogo,Japan,2021,33,527.0,1001.0,95.0,1001.0,70.9
+898,East Carolina University,USA,2021,203,527.0,801.0,274.0,859.0,70.9
+899,ShanghaiTech University,China,2021,117,527.0,1001.0,274.0,851.0,70.9
+900,Inje University,South Korea,2021,30,527.0,1001.0,274.0,853.0,70.9
+901,"University of Technology, Malaysia",Malaysia,2021,5,527.0,1001.0,274.0,854.0,70.8
+902,Keele University,United Kingdom,2021,58,527.0,1001.0,274.0,855.0,70.8
+903,University of Valladolid,Spain,2021,32,527.0,1001.0,274.0,856.0,70.8
+904,Michigan Technological University,USA,2021,204,347.0,1001.0,274.0,864.0,70.8
+905,Guangxi University,China,2021,118,527.0,1001.0,274.0,857.0,70.8
+906,North Dakota State University,USA,2021,205,302.0,1001.0,274.0,872.0,70.8
+907,Ningbo University,China,2021,119,527.0,1001.0,274.0,860.0,70.8
+908,University of Portsmouth,United Kingdom,2021,59,527.0,1001.0,274.0,862.0,70.8
+909,London Business School,United Kingdom,2021,60,527.0,55.0,274.0,1001.0,70.8
+910,Institut national de la recherche scientifique,Canada,2021,26,527.0,1001.0,274.0,866.0,70.8
+911,Oberlin College,USA,2021,206,26.0,1001.0,274.0,1001.0,70.8
+912,Federal University of Viçosa,Brazil,2021,17,527.0,1001.0,274.0,868.0,70.8
+913,Çukurova University,Turkey,2021,9,527.0,1001.0,274.0,869.0,70.8
+914,University of Windsor,Canada,2021,27,527.0,183.0,274.0,980.0,70.8
+915,Tokushima University,Japan,2021,34,136.0,799.0,274.0,938.0,70.8
+916,Missouri University of Science and Technology,USA,2021,207,527.0,399.0,274.0,904.0,70.8
+917,University of Poitiers,France,2021,40,334.0,1001.0,274.0,877.0,70.7
+918,Paul Valéry University,France,2021,41,527.0,1001.0,274.0,873.0,70.7
+919,"University of Science and Technology, Korea",South Korea,2021,31,527.0,1001.0,274.0,874.0,70.7
+920,Zhejiang Normal University,China,2021,120,527.0,1001.0,274.0,875.0,70.7
+921,Ulster University,United Kingdom,2021,61,527.0,1001.0,274.0,876.0,70.7
+922,Northumbria University,United Kingdom,2021,62,527.0,833.0,274.0,882.0,70.7
+923,Meijo University,Japan,2021,35,527.0,1001.0,47.0,1001.0,70.7
+924,North-West University,South Africa,2021,7,527.0,1001.0,274.0,879.0,70.7
+925,Shandong First Medical University & Shandong Academy of Medical Sciences,China,2021,121,527.0,1001.0,274.0,880.0,70.7
+926,Johannes Kepler University Linz,Austria,2021,10,527.0,886.0,274.0,887.0,70.7
+927,V.A. Engelhardt Institute of Molecular Biology of the Russian Academy of Sciences,Russia,2021,16,40.0,1001.0,214.0,1001.0,70.7
+928,Pepperdine University,USA,2021,208,93.0,77.0,158.0,1001.0,70.7
+929,Federal University of Ceará,Brazil,2021,18,527.0,1001.0,274.0,883.0,70.7
+930,Federal University of Pelotas,Brazil,2021,19,527.0,1001.0,274.0,885.0,70.7
+931,Gabriele d’Annunzio University,Italy,2021,46,527.0,1001.0,274.0,889.0,70.7
+932,Ritsumeikan University,Japan,2021,36,527.0,615.0,274.0,902.0,70.6
+933,Claremont McKenna College,USA,2021,209,527.0,39.0,274.0,1001.0,70.6
+934,Makerere University,Uganda,2021,1,527.0,1001.0,274.0,890.0,70.6
+935,Shiraz University,Iran,2021,9,527.0,1001.0,274.0,891.0,70.6
+936,Bucknell University,USA,2021,210,527.0,51.0,274.0,1001.0,70.6
+937,Chungbuk National University,South Korea,2021,32,527.0,1001.0,274.0,892.0,70.6
+938,Indian Institute of Technology Guwahati,India,2021,16,527.0,1001.0,274.0,893.0,70.6
+939,"University of the Republic, Uruguay",Uruguay,2021,1,527.0,1001.0,274.0,894.0,70.6
+940,Bilkent University,Turkey,2021,10,527.0,847.0,274.0,901.0,70.6
+941,National University of Córdoba,Argentina,2021,3,527.0,1001.0,274.0,895.0,70.6
+942,Sanford Burnham Prebys Medical Discovery Institute,USA,2021,211,527.0,1001.0,274.0,896.0,70.6
+943,Medical University of Warsaw,Poland,2021,9,527.0,1001.0,274.0,897.0,70.6
+944,Chiang Mai University,Thailand,2021,3,527.0,1001.0,274.0,898.0,70.6
+945,Khalifa University,United Arab Emirates,2021,1,527.0,1001.0,274.0,899.0,70.6
+946,Mohammed V University,Morocco,2021,1,527.0,1001.0,274.0,900.0,70.6
+947,Colgate University,USA,2021,212,527.0,47.0,274.0,1001.0,70.6
+948,New Jersey Institute of Technology,USA,2021,213,422.0,696.0,274.0,914.0,70.5
+949,Lappeenranta University of Technology,Finland,2021,8,527.0,721.0,274.0,912.0,70.5
+950,Tokyo University of Agriculture and Technology,Japan,2021,37,527.0,1001.0,274.0,905.0,70.5
+951,University of Regina,Canada,2021,28,527.0,1001.0,274.0,906.0,70.5
+952,Tunis El Manar University,Tunisia,2021,1,527.0,1001.0,274.0,907.0,70.5
+953,Anhui Medical University,China,2021,122,527.0,1001.0,274.0,908.0,70.5
+954,University of Franche-Comté,France,2021,42,488.0,1001.0,274.0,910.0,70.5
+955,Autonomous University of San Luis Potosí,Mexico,2021,5,527.0,1001.0,274.0,909.0,70.5
+956,Yanshan University,China,2021,123,527.0,1001.0,274.0,913.0,70.5
+957,Aston University,United Kingdom,2021,63,527.0,549.0,274.0,933.0,70.5
+958,University of Naples Parthenope,Italy,2021,47,527.0,1001.0,274.0,915.0,70.5
+959,Pomona College,USA,2021,214,32.0,871.0,271.0,1001.0,70.5
+960,Qingdao University of Science and Technology,China,2021,124,527.0,1001.0,274.0,918.0,70.5
+961,Shandong Agricultural University,China,2021,125,527.0,1001.0,274.0,916.0,70.5
+962,King Juan Carlos University,Spain,2021,33,527.0,1001.0,274.0,917.0,70.5
+963,University of Limerick,Ireland,2021,5,527.0,715.0,274.0,929.0,70.5
+964,Ehime University,Japan,2021,38,527.0,1001.0,274.0,919.0,70.4
+965,University of Memphis,USA,2021,215,527.0,442.0,274.0,948.0,70.4
+966,Xiangtan University,China,2021,126,527.0,1001.0,274.0,923.0,70.4
+967,Tokai University,Japan,2021,39,527.0,1001.0,274.0,920.0,70.4
+968,Federal University of São Carlos,Brazil,2021,20,527.0,1001.0,274.0,921.0,70.4
+969,University of Upper Alsace,France,2021,43,527.0,1001.0,274.0,922.0,70.4
+970,Victoria University,Australia,2021,26,527.0,1001.0,274.0,924.0,70.4
+971,University of Sassari,Italy,2021,48,527.0,1001.0,274.0,925.0,70.4
+972,University of Texas Rio Grande Valley,USA,2021,216,527.0,1001.0,274.0,926.0,70.4
+973,Ferdowsi University of Mashhad,Iran,2021,10,527.0,1001.0,274.0,927.0,70.4
+974,Shandong Normal University,China,2021,127,527.0,1001.0,274.0,928.0,70.4
+975,Taiyuan University of Technology,China,2021,128,527.0,1001.0,274.0,932.0,70.4
+976,Wroclaw Medical University,Poland,2021,10,527.0,1001.0,274.0,931.0,70.4
+977,Gifu University,Japan,2021,40,527.0,724.0,274.0,939.0,70.4
+978,Florida Institute of Technology,USA,2021,217,527.0,709.0,274.0,943.0,70.4
+979,Fluminense Federal University,Brazil,2021,21,527.0,958.0,274.0,937.0,70.4
+980,Hunter College,USA,2021,218,151.0,1001.0,274.0,992.0,70.4
+981,Qatar University,Qatar,2021,1,527.0,828.0,274.0,940.0,70.3
+982,Henan Normal University,China,2021,129,527.0,1001.0,274.0,934.0,70.3
+983,ITMO University,Russia,2021,17,527.0,1001.0,274.0,935.0,70.3
+984,Mansoura University,Egypt,2021,3,527.0,1001.0,274.0,936.0,70.3
+985,Wrocław University of Science and Technology,Poland,2021,11,527.0,898.0,274.0,941.0,70.3
+986,Miguel Hernández University of Elche,Spain,2021,34,527.0,1001.0,274.0,942.0,70.3
+987,Federal University of Juiz de Fora,Brazil,2021,22,527.0,1001.0,274.0,944.0,70.3
+988,Shahid Beheshti University of Medical Sciences,Iran,2021,11,527.0,1001.0,274.0,945.0,70.3
+989,Cheung Kong Graduate School of Business,China,2021,130,527.0,33.0,274.0,1001.0,70.3
+990,Fujian Agriculture and Forestry University,China,2021,131,527.0,1001.0,274.0,947.0,70.3
+991,Osaka Prefecture University,Japan,2021,41,527.0,680.0,274.0,961.0,70.3
+992,Shanghai Normal University,China,2021,132,527.0,1001.0,274.0,951.0,70.3
+993,University of A Coruña,Spain,2021,35,527.0,1001.0,274.0,949.0,70.3
+994,University of Tabriz,Iran,2021,12,527.0,1001.0,274.0,950.0,70.3
+995,Hunan Normal University,China,2021,133,527.0,1001.0,274.0,952.0,70.3
+996,Hallym University,South Korea,2021,33,527.0,1001.0,274.0,953.0,70.3
+997,Marmara University,Turkey,2021,11,527.0,1001.0,274.0,954.0,70.2
+998,Hangzhou Dianzi University,China,2021,134,527.0,1001.0,274.0,955.0,70.2
+999,Alexandria University,Egypt,2021,4,409.0,1001.0,274.0,957.0,70.2
+1000,American University,USA,2021,219,527.0,361.0,274.0,999.0,70.2

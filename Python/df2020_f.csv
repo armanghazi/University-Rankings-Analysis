@@ -1,0 +1,1001 @@
+World Rank,Institution,Location,Year,National Rank,Education Rank,Employability Rank,Faculty Rank,Research Rank,Score
+1,Harvard University,USA,2020,1,3.0,1.0,1.0,1.0,100.0
+2,Massachusetts Institute of Technology,USA,2020,2,4.0,11.0,2.0,7.0,96.7
+3,Stanford University,USA,2020,3,10.0,4.0,3.0,2.0,95.2
+4,University of Cambridge,United Kingdom,2020,1,1.0,21.0,4.0,11.0,94.1
+5,University of Oxford,United Kingdom,2020,2,7.0,26.0,9.0,4.0,93.3
+6,Columbia University,USA,2020,4,11.0,14.0,10.0,15.0,92.6
+7,Princeton University,USA,2020,5,6.0,15.0,7.0,71.0,92.0
+8,University of Pennsylvania,USA,2020,6,14.0,9.0,43.0,12.0,91.6
+9,University of Chicago,USA,2020,7,8.0,18.0,29.0,22.0,91.1
+10,Yale University,USA,2020,8,5.0,35.0,11.0,20.0,90.7
+11,California Institute of Technology,USA,2020,9,2.0,128.0,5.0,74.0,90.4
+12,"University of California, Berkeley",USA,2020,10,9.0,57.0,8.0,14.0,90.1
+13,Cornell University,USA,2020,11,13.0,28.0,17.0,24.0,89.8
+14,University of Tokyo,Japan,2020,1,37.0,7.0,105.0,27.0,89.5
+15,Johns Hopkins University,USA,2020,12,20.0,188.0,22.0,6.0,89.3
+16,"University of Michigan, Ann Arbor",USA,2020,13,32.0,37.0,82.0,5.0,89.0
+17,Northwestern University,USA,2020,14,139.0,17.0,46.0,29.0,88.8
+18,"University of California, Los Angeles",USA,2020,15,49.0,63.0,19.0,10.0,88.6
+19,University College London,United Kingdom,2020,3,33.0,666.0,14.0,8.0,88.4
+20,Duke University,USA,2020,16,61.0,51.0,16.0,21.0,88.2
+21,PSL University,France,2020,1,16.0,27.0,100.0,121.0,88.0
+22,University of Illinois at Urbana–Champaign,USA,2020,17,23.0,133.0,12.0,61.0,87.8
+23,University of Washington - Seattle,USA,2020,18,60.0,216.0,23.0,9.0,87.7
+24,University of Toronto,Canada,2020,1,225.0,159.0,21.0,3.0,87.5
+25,New York University,USA,2020,19,43.0,42.0,40.0,45.0,87.3
+26,University of Wisconsin–Madison,USA,2020,20,34.0,93.0,34.0,31.0,87.2
+27,McGill University,Canada,2020,2,25.0,100.0,36.0,43.0,87.1
+28,Kyoto University,Japan,2020,2,47.0,34.0,60.0,65.0,86.9
+29,ETH Zurich,Switzerland,2020,1,48.0,92.0,20.0,40.0,86.8
+30,Imperial College London,United Kingdom,2020,4,59.0,103.0,51.0,17.0,86.7
+31,Seoul National University,South Korea,2020,1,317.0,22.0,134.0,60.0,86.5
+32,Paris-Saclay University,France,2020,2,195.0,138.0,44.0,13.0,86.4
+33,University of Texas at Austin,USA,2020,21,79.0,65.0,15.0,55.0,86.3
+34,University of California San Diego,USA,2020,22,116.0,1001.0,13.0,18.0,86.2
+35,Institut Polytechnique de Paris,France,2020,3,87.0,6.0,214.0,304.0,86.1
+36,Dartmouth College,USA,2020,23,54.0,16.0,93.0,263.0,85.9
+37,"University of California, San Francisco",USA,2020,24,526.0,1001.0,18.0,23.0,85.8
+38,University of Copenhagen,Denmark,2020,1,85.0,360.0,41.0,25.0,85.7
+39,Karolinska Institute,Sweden,2020,1,38.0,1001.0,31.0,53.0,85.6
+40,University of North Carolina at Chapel Hill,USA,2020,25,83.0,105.0,75.0,33.0,85.5
+41,Rockefeller University,USA,2020,26,12.0,1001.0,6.0,398.0,85.4
+42,Sorbonne University,France,2020,4,94.0,355.0,89.0,16.0,85.3
+43,University of Paris,France,2020,5,259.0,914.0,53.0,19.0,85.2
+44,University of Edinburgh,United Kingdom,2020,5,46.0,365.0,58.0,48.0,85.2
+45,King's College London,United Kingdom,2020,6,62.0,362.0,28.0,59.0,85.1
+46,Washington University in St. Louis,USA,2020,27,115.0,186.0,32.0,44.0,85.0
+47,University of Minnesota - Twin Cities,USA,2020,28,74.0,308.0,120.0,28.0,84.9
+48,University of British Columbia,Canada,2020,3,99.0,652.0,83.0,30.0,84.8
+49,Ludwig Maximilian University of Munich,Germany,2020,1,72.0,266.0,66.0,47.0,84.7
+50,Rutgers University–New Brunswick,USA,2020,29,192.0,106.0,24.0,81.0,84.6
+51,University of Southern California,USA,2020,30,307.0,124.0,27.0,69.0,84.6
+52,Vanderbilt University,USA,2020,31,370.0,88.0,59.0,64.0,84.5
+53,University of Texas Southwestern Medical Center,USA,2020,32,28.0,1001.0,25.0,149.0,84.4
+54,Pennsylvania State University,USA,2020,33,304.0,163.0,56.0,51.0,84.3
+55,Purdue University,USA,2020,34,80.0,81.0,65.0,104.0,84.3
+56,"University of California, Davis",USA,2020,35,123.0,577.0,62.0,46.0,84.2
+57,University of Manchester,United Kingdom,2020,7,103.0,309.0,77.0,49.0,84.1
+58,Ohio State University,USA,2020,36,125.0,247.0,144.0,34.0,84.0
+59,Free University of Berlin,Germany,2020,2,93.0,1001.0,37.0,76.0,84.0
+60,Brown University,USA,2020,37,70.0,56.0,112.0,131.0,83.9
+61,Weizmann Institute of Science,Israel,2020,1,17.0,1001.0,45.0,270.0,83.8
+62,Peking University,China,2020,1,350.0,68.0,270.0,37.0,83.8
+63,University of Melbourne,Australia,2020,1,137.0,371.0,128.0,36.0,83.7
+64,University of Virginia,USA,2020,38,262.0,33.0,184.0,125.0,83.6
+65,Hebrew University of Jerusalem,Israel,2020,2,31.0,433.0,35.0,167.0,83.6
+66,Humboldt University of Berlin,Germany,2020,3,84.0,1001.0,54.0,70.0,83.5
+67,University of Zurich,Switzerland,2020,2,98.0,693.0,52.0,72.0,83.5
+68,Utrecht University,Netherlands,2020,1,150.0,375.0,145.0,39.0,83.4
+69,University of Colorado Boulder,USA,2020,39,149.0,179.0,47.0,92.0,83.3
+70,Heidelberg University,Germany,2020,4,132.0,866.0,80.0,58.0,83.3
+71,Tsinghua University,China,2020,2,515.0,98.0,270.0,35.0,83.2
+72,University of Pittsburgh,USA,2020,40,250.0,236.0,259.0,32.0,83.2
+73,"Texas A&M University, College Station",USA,2020,41,526.0,139.0,69.0,95.0,83.1
+74,Georgia Institute of Technology,USA,2020,42,289.0,166.0,42.0,111.0,83.0
+75,University of Rochester,USA,2020,43,68.0,74.0,118.0,145.0,83.0
+76,"University of Maryland, College Park",USA,2020,44,113.0,453.0,130.0,62.0,82.9
+77,University of Oslo,Norway,2020,1,96.0,673.0,76.0,90.0,82.9
+78,University of Birmingham,United Kingdom,2020,8,42.0,407.0,163.0,107.0,82.8
+79,Leiden University,Netherlands,2020,2,104.0,1001.0,72.0,91.0,82.8
+80,"University of California, Irvine",USA,2020,45,526.0,1001.0,33.0,102.0,82.7
+81,Technical University of Munich,Germany,2020,5,75.0,358.0,132.0,85.0,82.7
+82,Carnegie Mellon University,USA,2020,46,55.0,155.0,38.0,200.0,82.6
+83,University of Amsterdam,Netherlands,2020,3,211.0,942.0,189.0,42.0,82.6
+84,University of Chinese Academy of Sciences,China,2020,3,526.0,1001.0,270.0,26.0,82.5
+85,University of Florida,USA,2020,47,316.0,497.0,140.0,57.0,82.5
+86,National Taiwan University,Taiwan,2020,1,305.0,38.0,270.0,114.0,82.4
+87,Osaka University,Japan,2020,3,146.0,61.0,179.0,123.0,82.4
+88,Uppsala University,Sweden,2020,2,144.0,496.0,67.0,100.0,82.3
+89,University of Arizona,USA,2020,48,474.0,208.0,70.0,101.0,82.3
+90,University of Bristol,United Kingdom,2020,9,212.0,280.0,74.0,97.0,82.2
+91,Boston University,USA,2020,49,500.0,114.0,210.0,66.0,82.2
+92,Erasmus University Rotterdam,Netherlands,2020,4,526.0,78.0,262.0,73.0,82.1
+93,Keio University,Japan,2020,4,489.0,12.0,270.0,363.0,82.1
+94,University of Basel,Switzerland,2020,3,58.0,306.0,68.0,154.0,82.0
+95,National University of Singapore,Singapore,2020,1,330.0,165.0,270.0,41.0,82.0
+96,University of Geneva,Switzerland,2020,4,64.0,354.0,109.0,122.0,82.0
+97,"University of California, Santa Barbara",USA,2020,50,208.0,486.0,26.0,133.0,81.9
+98,University of Sydney,Australia,2020,2,176.0,607.0,270.0,38.0,81.9
+99,University of Texas MD Anderson Cancer Center,USA,2020,51,526.0,1001.0,84.0,88.0,81.8
+100,University of Leeds,United Kingdom,2020,10,124.0,349.0,49.0,134.0,81.8
+101,University of Alberta,Canada,2020,4,329.0,441.0,119.0,80.0,81.7
+102,École Polytechnique Fédérale de Lausanne,Switzerland,2020,5,526.0,90.0,151.0,117.0,81.7
+103,University of São Paulo,Brazil,2020,1,514.0,303.0,117.0,86.0,81.7
+104,University of Groningen,Netherlands,2020,5,274.0,568.0,126.0,78.0,81.6
+105,Indiana University Bloomington,USA,2020,52,236.0,82.0,175.0,118.0,81.6
+106,University of Queensland,Australia,2020,3,405.0,598.0,222.0,54.0,81.5
+107,Aarhus University,Denmark,2020,2,264.0,357.0,152.0,83.0,81.5
+108,University of Göttingen,Germany,2020,6,51.0,314.0,110.0,161.0,81.4
+109,University of Utah,USA,2020,53,252.0,190.0,129.0,106.0,81.4
+110,Shanghai Jiao Tong University,China,2020,4,526.0,213.0,270.0,56.0,81.4
+111,University of Helsinki,Finland,2020,1,221.0,1001.0,167.0,84.0,81.3
+112,University of New South Wales,Australia,2020,4,512.0,111.0,270.0,77.0,81.3
+113,University of Montreal,Canada,2020,5,445.0,462.0,136.0,99.0,81.3
+114,Sapienza University of Rome,Italy,2020,1,463.0,480.0,115.0,103.0,81.2
+115,KU Leuven,Belgium,2020,1,526.0,400.0,270.0,50.0,81.2
+116,INSEAD,France,2020,6,526.0,3.0,270.0,1001.0,81.1
+117,Zhejiang University,China,2020,5,526.0,436.0,270.0,52.0,81.1
+118,Ghent University,Belgium,2020,2,391.0,603.0,191.0,79.0,81.1
+119,University of Southampton,United Kingdom,2020,11,452.0,378.0,98.0,113.0,81.0
+120,University of Glasgow,United Kingdom,2020,12,138.0,338.0,131.0,120.0,81.0
+121,Emory University,USA,2020,54,471.0,223.0,270.0,63.0,81.0
+122,Tufts University,USA,2020,55,81.0,62.0,164.0,225.0,80.9
+123,Australian National University,Australia,2020,5,162.0,647.0,79.0,138.0,80.9
+124,Case Western Reserve University,USA,2020,56,63.0,262.0,181.0,144.0,80.8
+125,University of Tübingen,Germany,2020,7,71.0,1001.0,108.0,150.0,80.8
+126,Baylor College of Medicine,USA,2020,57,69.0,1001.0,201.0,124.0,80.8
+127,University of Freiburg,Germany,2020,8,127.0,215.0,102.0,153.0,80.7
+128,Fudan University,China,2020,6,311.0,127.0,270.0,89.0,80.7
+129,Goethe University Frankfurt,Germany,2020,9,309.0,763.0,30.0,184.0,80.7
+130,Monash University,Australia,2020,6,526.0,425.0,270.0,68.0,80.6
+131,University of Nottingham,United Kingdom,2020,13,184.0,450.0,104.0,135.0,80.6
+132,Tohoku University,Japan,2020,5,196.0,154.0,137.0,146.0,80.6
+133,University of Barcelona,Spain,2020,1,526.0,535.0,270.0,67.0,80.5
+134,University of Liverpool,United Kingdom,2020,14,135.0,470.0,92.0,152.0,80.5
+135,KTH Royal Institute of Technology,Sweden,2020,3,242.0,53.0,176.0,227.0,80.5
+136,Lund University,Sweden,2020,4,204.0,612.0,250.0,87.0,80.4
+137,Grenoble Alpes University,France,2020,7,258.0,1001.0,233.0,94.0,80.4
+138,Nagoya University,Japan,2020,6,90.0,225.0,106.0,186.0,80.4
+139,Rice University,USA,2020,58,117.0,91.0,107.0,235.0,80.3
+140,Nanyang Technological University,Singapore,2020,2,526.0,996.0,270.0,75.0,80.3
+141,University of Bonn,Germany,2020,10,133.0,527.0,138.0,142.0,80.3
+142,Tokyo Institute of Technology,Japan,2020,7,314.0,83.0,73.0,262.0,80.2
+143,University of Iowa,USA,2020,59,143.0,337.0,186.0,132.0,80.2
+144,University of Bern,Switzerland,2020,6,156.0,1001.0,166.0,130.0,80.2
+145,University of Colorado Anschutz Medical Campus,USA,2020,60,526.0,1001.0,91.0,148.0,80.2
+146,VU Amsterdam,Netherlands,2020,6,526.0,1001.0,270.0,82.0,80.1
+147,University of Strasbourg,France,2020,8,118.0,1001.0,50.0,215.0,80.1
+148,University of Sheffield,United Kingdom,2020,15,226.0,559.0,148.0,139.0,80.1
+149,University of Science and Technology of China,China,2020,7,526.0,345.0,270.0,93.0,80.0
+150,Michigan State University,USA,2020,61,178.0,253.0,270.0,105.0,80.0
+151,University of Western Australia,Australia,2020,7,228.0,699.0,195.0,128.0,80.0
+152,Tel Aviv University,Israel,2020,3,363.0,151.0,270.0,119.0,79.9
+153,Cardiff University,United Kingdom,2020,16,384.0,493.0,85.0,168.0,79.9
+154,Radboud University,Netherlands,2020,7,434.0,651.0,270.0,96.0,79.9
+155,Queen Mary University of London,United Kingdom,2020,17,112.0,734.0,142.0,164.0,79.9
+156,University of Massachusetts Amherst,USA,2020,62,473.0,264.0,63.0,209.0,79.8
+157,Aix-Marseille University,France,2020,9,506.0,940.0,270.0,98.0,79.8
+158,Technion – Israel Institute of Technology,Israel,2020,4,114.0,332.0,64.0,239.0,79.8
+159,Stockholm University,Sweden,2020,5,277.0,366.0,99.0,177.0,79.7
+160,McMaster University,Canada,2020,6,418.0,743.0,217.0,127.0,79.7
+161,University of Notre Dame,USA,2020,63,301.0,36.0,270.0,284.0,79.7
+162,École nationale d'administration,France,2020,10,526.0,2.0,270.0,1001.0,79.7
+163,Sun Yat-sen University,China,2020,8,526.0,538.0,270.0,109.0,79.6
+164,University of Padova,Italy,2020,2,453.0,1001.0,270.0,108.0,79.6
+165,Yonsei University,South Korea,2020,2,526.0,112.0,270.0,147.0,79.6
+166,University of Hong Kong,China,2020,9,526.0,176.0,270.0,137.0,79.5
+167,University of Hamburg,Germany,2020,11,278.0,465.0,270.0,116.0,79.5
+168,University of Montpellier,France,2020,11,450.0,1001.0,270.0,110.0,79.5
+169,University of Gothenburg,Sweden,2020,6,402.0,409.0,146.0,174.0,79.5
+170,Nanjing University,China,2020,10,493.0,428.0,270.0,115.0,79.4
+171,Icahn School of Medicine at Mount Sinai,USA,2020,64,526.0,1001.0,270.0,112.0,79.4
+172,Huazhong University of Science and Technology,China,2020,11,526.0,205.0,270.0,136.0,79.4
+173,Iowa State University,USA,2020,65,346.0,194.0,156.0,198.0,79.4
+174,Korea University,South Korea,2020,3,526.0,89.0,270.0,181.0,79.3
+175,University of Warwick,United Kingdom,2020,18,427.0,193.0,220.0,166.0,79.3
+176,Waseda University,Japan,2020,8,353.0,23.0,270.0,461.0,79.3
+177,Newcastle University,United Kingdom,2020,19,465.0,518.0,160.0,176.0,79.3
+178,Norwegian University of Science and Technology,Norway,2020,2,249.0,429.0,57.0,267.0,79.2
+179,University of Milan,Italy,2020,3,446.0,569.0,270.0,126.0,79.2
+180,University of Kansas,USA,2020,66,261.0,390.0,97.0,224.0,79.2
+181,University of Lausanne,Switzerland,2020,7,232.0,761.0,116.0,204.0,79.2
+182,University of Bologna,Italy,2020,4,526.0,728.0,270.0,129.0,79.1
+183,Arizona State University,USA,2020,67,419.0,650.0,257.0,141.0,79.1
+184,University of Alabama at Birmingham,USA,2020,68,526.0,899.0,231.0,151.0,79.1
+185,Western University,Canada,2020,7,412.0,87.0,270.0,195.0,79.1
+186,Brandeis University,USA,2020,69,29.0,233.0,39.0,588.0,79.0
+187,Wageningen University & Research,Netherlands,2020,8,414.0,860.0,206.0,160.0,79.0
+188,University of Calgary,Canada,2020,8,526.0,232.0,270.0,143.0,79.0
+189,Université catholique de Louvain,Belgium,2020,3,526.0,517.0,127.0,206.0,79.0
+190,North Carolina State University,USA,2020,70,382.0,411.0,182.0,187.0,78.9
+191,Chinese University of Hong Kong,China,2020,12,406.0,1001.0,242.0,155.0,78.9
+192,University of Münster,Germany,2020,12,429.0,768.0,190.0,178.0,78.9
+193,Lomonosov Moscow State University,Russia,2020,1,95.0,342.0,192.0,223.0,78.9
+194,University of Cologne,Germany,2020,13,510.0,267.0,204.0,191.0,78.8
+195,Sungkyunkwan University,South Korea,2020,4,526.0,237.0,270.0,157.0,78.8
+196,Autonomous University of Barcelona,Spain,2020,2,526.0,1001.0,270.0,140.0,78.8
+197,Yeshiva University,USA,2020,71,86.0,1001.0,178.0,230.0,78.8
+198,Stony Brook University,USA,2020,72,386.0,1001.0,169.0,194.0,78.7
+199,University of Waterloo,Canada,2020,9,526.0,221.0,200.0,203.0,78.7
+200,Technical University of Denmark,Denmark,2020,3,368.0,701.0,187.0,188.0,78.7
+201,University of Georgia,USA,2020,73,392.0,325.0,173.0,212.0,78.7
+202,University of Würzburg,Germany,2020,14,151.0,985.0,228.0,193.0,78.6
+203,University of Ottawa,Canada,2020,10,526.0,461.0,270.0,156.0,78.6
+204,Johannes Gutenberg University Mainz,Germany,2020,15,526.0,1001.0,180.0,196.0,78.6
+205,HEC Paris,France,2020,12,526.0,5.0,270.0,1001.0,78.6
+206,University of Lisbon,Portugal,2020,1,432.0,1001.0,234.0,173.0,78.6
+207,University of Missouri–Columbia,USA,2020,74,423.0,259.0,86.0,286.0,78.5
+208,Kiel University,Germany,2020,16,343.0,961.0,139.0,228.0,78.5
+209,University of Vienna,Austria,2020,1,159.0,479.0,155.0,244.0,78.5
+210,University of Illinois at Chicago,USA,2020,75,476.0,809.0,269.0,159.0,78.5
+211,Université libre de Bruxelles,Belgium,2020,4,435.0,289.0,168.0,234.0,78.4
+212,University of Reading,United Kingdom,2020,20,105.0,102.0,101.0,374.0,78.4
+213,Trinity College Dublin,Ireland,2020,1,201.0,85.0,238.0,283.0,78.4
+214,Georgetown University,USA,2020,76,334.0,54.0,270.0,313.0,78.4
+215,University of Miami,USA,2020,77,526.0,248.0,270.0,172.0,78.4
+216,Hokkaido University,Japan,2020,9,347.0,298.0,161.0,245.0,78.3
+217,TU Dresden,Germany,2020,17,526.0,1001.0,270.0,158.0,78.3
+218,RWTH Aachen University,Germany,2020,18,494.0,235.0,270.0,180.0,78.3
+219,Kyushu University,Japan,2020,10,272.0,108.0,270.0,219.0,78.3
+220,The Scripps Research Institute,USA,2020,78,526.0,1001.0,71.0,295.0,78.2
+221,University of Adelaide,Australia,2020,8,197.0,783.0,270.0,165.0,78.2
+222,Wake Forest University,USA,2020,79,526.0,70.0,270.0,278.0,78.2
+223,London School of Hygiene & Tropical Medicine,United Kingdom,2020,21,270.0,1001.0,172.0,232.0,78.2
+224,University of Erlangen–Nuremberg,Germany,2020,19,417.0,926.0,270.0,163.0,78.2
+225,Harbin Institute of Technology,China,2020,13,526.0,444.0,270.0,169.0,78.1
+226,Claude Bernard University Lyon 1,France,2020,13,526.0,1001.0,270.0,162.0,78.1
+227,P.N. Lebedev Physical Institute of the Russian Academy of Sciences,Russia,2020,2,27.0,1001.0,103.0,533.0,78.1
+228,University of Leicester,United Kingdom,2020,22,526.0,1001.0,96.0,277.0,78.1
+229,Complutense University of Madrid,Spain,2020,3,191.0,137.0,215.0,273.0,78.1
+230,University of Cincinnati,USA,2020,80,499.0,239.0,270.0,189.0,78.0
+231,University of Texas Health Science Center at Houston,USA,2020,81,526.0,1001.0,149.0,249.0,78.0
+232,Xi'an Jiaotong University,China,2020,14,526.0,207.0,270.0,197.0,78.0
+233,University of Turin,Italy,2020,5,233.0,1001.0,270.0,170.0,78.0
+234,KAIST,South Korea,2020,5,526.0,174.0,270.0,207.0,78.0
+235,Hong Kong University of Science and Technology,China,2020,15,526.0,494.0,143.0,269.0,77.9
+236,University of Sussex,United Kingdom,2020,23,106.0,438.0,81.0,350.0,77.9
+237,Charles University in Prague,Czech Republic,2020,1,326.0,1001.0,270.0,175.0,77.9
+238,Paul Sabatier University,France,2020,14,526.0,1001.0,270.0,171.0,77.9
+239,Karlsruhe Institute of Technology,Germany,2020,20,460.0,296.0,270.0,192.0,77.9
+240,Maastricht University,Netherlands,2020,9,526.0,1001.0,270.0,179.0,77.8
+241,Shandong University,China,2020,16,526.0,1001.0,270.0,182.0,77.8
+242,"University of California, Riverside",USA,2020,82,365.0,1001.0,219.0,217.0,77.8
+243,Wuhan University,China,2020,17,526.0,392.0,270.0,190.0,77.8
+244,University of Bordeaux,France,2020,15,526.0,1001.0,270.0,183.0,77.8
+245,University of Naples Federico II,Italy,2020,6,526.0,853.0,270.0,185.0,77.7
+246,"University of California, Santa Cruz",USA,2020,83,374.0,1001.0,174.0,252.0,77.7
+247,Virginia Commonwealth University,USA,2020,84,526.0,1000.0,111.0,291.0,77.7
+248,Tianjin University,China,2020,18,526.0,158.0,270.0,243.0,77.7
+249,"University of Tennessee, Knoxville",USA,2020,85,421.0,408.0,270.0,205.0,77.7
+250,University of Houston,USA,2020,86,526.0,146.0,123.0,340.0,77.6
+251,Xiamen University,China,2020,19,526.0,116.0,270.0,266.0,77.6
+252,Colorado State University,USA,2020,87,451.0,1001.0,205.0,248.0,77.6
+253,University of Florence,Italy,2020,7,526.0,738.0,270.0,199.0,77.6
+254,Nankai University,China,2020,20,526.0,126.0,270.0,265.0,77.6
+255,Jilin University,China,2020,21,526.0,476.0,270.0,210.0,77.5
+256,Sichuan University,China,2020,22,526.0,1001.0,270.0,201.0,77.5
+257,Oregon Health & Science University,USA,2020,88,526.0,1001.0,270.0,202.0,77.5
+258,University of Tsukuba,Japan,2020,11,526.0,1001.0,141.0,297.0,77.5
+259,Delft University of Technology,Netherlands,2020,10,256.0,403.0,270.0,218.0,77.5
+260,University of Aberdeen,United Kingdom,2020,24,275.0,654.0,154.0,301.0,77.5
+261,University of Manitoba,Canada,2020,11,319.0,251.0,196.0,292.0,77.4
+262,University of Bergen,Norway,2020,3,378.0,1001.0,270.0,208.0,77.4
+263,University of Auckland,New Zealand,2020,1,504.0,430.0,270.0,216.0,77.4
+264,University of Pisa,Italy,2020,8,325.0,1001.0,270.0,211.0,77.4
+265,South China University of Technology,China,2020,23,526.0,234.0,270.0,238.0,77.4
+266,University of Exeter,United Kingdom,2020,25,361.0,660.0,270.0,214.0,77.3
+267,National and Kapodistrian University of Athens,Greece,2020,1,526.0,698.0,270.0,213.0,77.3
+268,University of Cape Town,South Africa,2020,1,170.0,278.0,270.0,246.0,77.3
+269,University of Genoa,Italy,2020,9,508.0,1001.0,225.0,261.0,77.3
+270,Oregon State University,USA,2020,89,227.0,537.0,226.0,274.0,77.3
+271,Leipzig University,Germany,2020,21,203.0,1001.0,197.0,282.0,77.3
+272,University of Connecticut,USA,2020,90,472.0,387.0,270.0,229.0,77.2
+273,Virginia Tech,USA,2020,91,475.0,321.0,270.0,236.0,77.2
+274,Florida State University,USA,2020,92,526.0,553.0,270.0,222.0,77.2
+275,University of the Witwatersrand,South Africa,2020,2,163.0,86.0,270.0,331.0,77.2
+276,University of Massachusetts Medical School,USA,2020,93,526.0,1001.0,87.0,346.0,77.2
+277,University of East Anglia,United Kingdom,2020,26,126.0,1001.0,165.0,326.0,77.2
+278,City University of Hong Kong,China,2020,24,526.0,1001.0,270.0,221.0,77.1
+279,"University of Maryland, Baltimore",USA,2020,94,526.0,1001.0,270.0,220.0,77.1
+280,Autonomous University of Madrid,Spain,2020,4,526.0,909.0,270.0,226.0,77.1
+281,University of Lorraine,France,2020,16,518.0,421.0,171.0,307.0,77.1
+282,University of Liège,Belgium,2020,5,186.0,1001.0,113.0,347.0,77.1
+283,University College Dublin,Ireland,2020,2,526.0,272.0,270.0,256.0,77.0
+284,National Autonomous University of Mexico,Mexico,2020,1,394.0,1001.0,241.0,268.0,77.0
+285,Southeast University,China,2020,25,526.0,1001.0,270.0,231.0,77.0
+286,Laval University,Canada,2020,12,511.0,454.0,270.0,242.0,77.0
+287,Hong Kong Polytechnic University,China,2020,26,526.0,322.0,270.0,251.0,77.0
+288,Medical University of Vienna,Austria,2020,2,526.0,1001.0,270.0,233.0,77.0
+289,University of Valencia,Spain,2020,5,526.0,1001.0,270.0,237.0,76.9
+290,University at Buffalo,USA,2020,95,526.0,616.0,270.0,241.0,76.9
+291,University of South Florida,USA,2020,96,526.0,760.0,270.0,240.0,76.9
+292,Wayne State University,USA,2020,97,497.0,317.0,270.0,260.0,76.9
+293,Louisiana State University,USA,2020,98,468.0,352.0,270.0,259.0,76.9
+294,Tongji University,China,2020,27,526.0,244.0,270.0,271.0,76.9
+295,University of Antwerp,Belgium,2020,6,526.0,520.0,270.0,250.0,76.8
+296,University of Kentucky,USA,2020,99,293.0,525.0,270.0,257.0,76.8
+297,University of Pavia,Italy,2020,10,371.0,750.0,215.0,294.0,76.8
+298,Central South University,China,2020,28,526.0,228.0,270.0,276.0,76.8
+299,Southern Methodist University,USA,2020,100,193.0,29.0,270.0,651.0,76.8
+300,University of New Mexico,USA,2020,101,526.0,1001.0,270.0,247.0,76.8
+301,Queen's University,Canada,2020,13,505.0,420.0,203.0,310.0,76.7
+302,George Washington University,USA,2020,102,400.0,199.0,270.0,287.0,76.7
+303,University of Delaware,USA,2020,103,373.0,668.0,161.0,332.0,76.7
+304,University of Lille,France,2020,17,526.0,1001.0,270.0,253.0,76.7
+305,King Abdulaziz University,Saudi Arabia,2020,1,526.0,1001.0,270.0,255.0,76.7
+306,"Soochow University, China",China,2020,29,526.0,1001.0,270.0,254.0,76.7
+307,University of Duisburg-Essen,Germany,2020,22,526.0,993.0,270.0,258.0,76.6
+308,Washington State University,USA,2020,104,526.0,874.0,183.0,318.0,76.6
+309,University of Nebraska–Lincoln,USA,2020,105,172.0,395.0,270.0,285.0,76.6
+310,University of Rome Tor Vergata,Italy,2020,11,526.0,1001.0,270.0,264.0,76.6
+311,International Institute for Management Development,Switzerland,2020,8,526.0,8.0,270.0,1001.0,76.6
+312,Ruhr University Bochum,Germany,2020,23,526.0,406.0,270.0,275.0,76.6
+313,Dalian University of Technology,China,2020,30,526.0,240.0,270.0,293.0,76.6
+314,Ulm University,Germany,2020,24,526.0,954.0,270.0,272.0,76.5
+315,Durham University,United Kingdom,2020,27,338.0,311.0,270.0,289.0,76.5
+316,London School of Economics and Political Science,United Kingdom,2020,28,248.0,79.0,253.0,428.0,76.5
+317,China Europe International Business School,China,2020,31,526.0,10.0,270.0,1001.0,76.5
+318,University of Porto,Portugal,2020,2,491.0,703.0,270.0,279.0,76.5
+319,Northeastern University,USA,2020,106,323.0,171.0,270.0,324.0,76.5
+320,University of York,United Kingdom,2020,29,268.0,1001.0,270.0,281.0,76.4
+321,Umeå University,Sweden,2020,7,526.0,1001.0,267.0,288.0,76.4
+322,Friedrich Schiller University Jena,Germany,2020,25,519.0,1001.0,255.0,303.0,76.4
+323,Hanyang University,South Korea,2020,6,526.0,192.0,270.0,316.0,76.4
+324,Beihang University,China,2020,32,526.0,928.0,270.0,280.0,76.4
+325,National Cheng Kung University,Taiwan,2020,2,526.0,110.0,270.0,354.0,76.4
+326,King Abdullah University of Science and Technology,Saudi Arabia,2020,2,526.0,1001.0,158.0,368.0,76.4
+327,University of South Carolina - Columbia,USA,2020,107,526.0,531.0,270.0,296.0,76.3
+328,Chinese Academy of Medical Sciences & Peking Union Medical College,China,2020,33,526.0,1001.0,270.0,290.0,76.3
+329,University of Düsseldorf,Germany,2020,26,213.0,1001.0,270.0,302.0,76.3
+330,University of Dundee,United Kingdom,2020,30,492.0,1001.0,147.0,401.0,76.3
+331,Dalhousie University,Canada,2020,14,313.0,310.0,270.0,312.0,76.3
+332,Hannover Medical School,Germany,2020,27,526.0,1001.0,267.0,305.0,76.3
+333,University of Granada,Spain,2020,6,526.0,1001.0,270.0,298.0,76.2
+334,Versailles Saint-Quentin-en-Yvelines University,France,2020,18,526.0,1001.0,270.0,299.0,76.2
+335,Simon Fraser University,Canada,2020,15,526.0,1001.0,270.0,300.0,76.2
+336,Polytechnic University of Milan,Italy,2020,12,356.0,457.0,193.0,373.0,76.2
+337,University of St Andrews,United Kingdom,2020,31,296.0,754.0,224.0,352.0,76.2
+338,Eindhoven University of Technology,Netherlands,2020,11,526.0,882.0,227.0,344.0,76.2
+339,Aalto University,Finland,2020,2,526.0,210.0,270.0,336.0,76.2
+340,École des ponts ParisTech,France,2020,19,168.0,25.0,270.0,972.0,76.1
+341,University of Otago,New Zealand,2020,2,526.0,779.0,270.0,308.0,76.1
+342,Beijing Normal University,China,2020,34,526.0,1001.0,270.0,306.0,76.1
+343,City College of New York,USA,2020,108,24.0,427.0,270.0,768.0,76.1
+344,University of Milano-Bicocca,Italy,2020,13,526.0,1001.0,270.0,309.0,76.1
+345,University of Oregon,USA,2020,109,141.0,1001.0,229.0,386.0,76.1
+346,University of Belgrade,Serbia,2020,1,440.0,1001.0,270.0,311.0,76.1
+347,Drexel University,USA,2020,110,526.0,273.0,232.0,390.0,76.0
+348,Lancaster University,United Kingdom,2020,32,526.0,582.0,270.0,320.0,76.0
+349,Ben-Gurion University of the Negev,Israel,2020,5,526.0,1001.0,211.0,367.0,76.0
+350,Queen's University Belfast,United Kingdom,2020,33,389.0,877.0,270.0,317.0,76.0
+351,University of Campinas,Brazil,2020,2,526.0,1001.0,270.0,314.0,76.0
+352,Temple University,USA,2020,111,526.0,648.0,270.0,319.0,76.0
+353,University of Southern Denmark,Denmark,2020,4,526.0,1001.0,270.0,315.0,76.0
+354,University of Buenos Aires,Argentina,2020,1,327.0,1001.0,270.0,321.0,75.9
+355,University of Parma,Italy,2020,14,300.0,897.0,90.0,483.0,75.9
+356,Federal University of Rio de Janeiro,Brazil,2020,3,439.0,434.0,270.0,330.0,75.9
+357,Linköping University,Sweden,2020,8,526.0,637.0,270.0,325.0,75.9
+358,University of the Basque Country,Spain,2020,7,526.0,1001.0,270.0,322.0,75.9
+359,Vrije Universiteit Brussel,Belgium,2020,7,447.0,1001.0,270.0,323.0,75.9
+360,Aalborg University,Denmark,2020,5,526.0,808.0,270.0,328.0,75.9
+361,Curtin University,Australia,2020,9,526.0,1001.0,270.0,327.0,75.8
+362,Pohang University of Science and Technology,South Korea,2020,7,526.0,1001.0,270.0,329.0,75.8
+363,Beijing Institute of Technology,China,2020,35,526.0,1001.0,270.0,333.0,75.8
+364,University of Turku,Finland,2020,3,526.0,1001.0,270.0,334.0,75.8
+365,Lanzhou University,China,2020,36,526.0,1001.0,270.0,337.0,75.8
+366,University of Victoria,Canada,2020,16,526.0,1001.0,270.0,335.0,75.8
+367,University of Innsbruck,Austria,2020,3,526.0,751.0,244.0,380.0,75.8
+368,Medical University of South Carolina,USA,2020,112,526.0,1001.0,270.0,338.0,75.7
+369,University of Marburg,Germany,2020,28,202.0,1001.0,223.0,417.0,75.7
+370,Technical University of Berlin,Germany,2020,29,180.0,592.0,270.0,359.0,75.7
+371,Hunan University,China,2020,37,526.0,623.0,270.0,345.0,75.7
+372,Pontifical Catholic University of Chile,Chile,2020,1,495.0,196.0,270.0,395.0,75.7
+373,Justus Liebig University Giessen,Germany,2020,30,526.0,1001.0,270.0,339.0,75.7
+374,University of Regensburg,Germany,2020,31,526.0,852.0,270.0,342.0,75.7
+375,Jagiellonian University,Poland,2020,1,526.0,1001.0,270.0,341.0,75.7
+376,Kurchatov Institute,Russia,2020,3,526.0,1001.0,270.0,343.0,75.6
+377,National Tsing Hua University,Taiwan,2020,3,369.0,845.0,270.0,349.0,75.6
+378,Macquarie University,Australia,2020,10,526.0,536.0,270.0,353.0,75.6
+379,University of Perugia,Italy,2020,15,526.0,1001.0,270.0,348.0,75.6
+380,China Agricultural University,China,2020,38,526.0,1001.0,270.0,351.0,75.6
+381,University of Electronic Science and Technology of China,China,2020,39,526.0,721.0,270.0,357.0,75.6
+382,King Saud University,Saudi Arabia,2020,3,526.0,423.0,270.0,364.0,75.6
+383,Kyung Hee University,South Korea,2020,8,526.0,1001.0,270.0,355.0,75.5
+384,University of Ljubljana,Slovenia,2020,1,526.0,1001.0,270.0,356.0,75.5
+385,"University of Oklahoma, Norman",USA,2020,113,526.0,388.0,270.0,370.0,75.5
+386,University of Newcastle,Australia,2020,11,526.0,1001.0,270.0,358.0,75.5
+387,Indiana University – Purdue University Indianapolis,USA,2020,114,526.0,917.0,270.0,360.0,75.5
+388,Tampere University,Finland,2020,4,526.0,459.0,270.0,375.0,75.5
+389,Griffith University,Australia,2020,12,526.0,1001.0,270.0,361.0,75.5
+390,"University at Albany, SUNY",USA,2020,115,216.0,787.0,208.0,443.0,75.5
+391,Deakin University,Australia,2020,13,526.0,938.0,270.0,362.0,75.4
+392,University of Texas at Dallas,USA,2020,116,362.0,545.0,270.0,379.0,75.4
+393,Pompeu Fabra University,Spain,2020,8,526.0,1001.0,270.0,366.0,75.4
+394,East China University of Science and Technology,China,2020,40,526.0,1001.0,270.0,365.0,75.4
+395,Islamic Azad University,Iran,2020,1,526.0,1001.0,270.0,369.0,75.4
+396,University of Warsaw,Poland,2020,2,466.0,1001.0,270.0,371.0,75.4
+397,East China Normal University,China,2020,41,526.0,415.0,270.0,393.0,75.4
+398,University of Wollongong,Australia,2020,14,526.0,619.0,270.0,384.0,75.4
+399,University of Seville,Spain,2020,9,526.0,1001.0,270.0,372.0,75.3
+400,York University,Canada,2020,17,526.0,254.0,270.0,415.0,75.3
+401,University of Ulsan,South Korea,2020,9,526.0,706.0,270.0,381.0,75.3
+402,University of Technology Sydney,Australia,2020,15,526.0,1001.0,270.0,376.0,75.3
+403,Amherst College,USA,2020,117,21.0,55.0,270.0,1001.0,75.3
+404,Kyungpook National University,South Korea,2020,10,526.0,920.0,270.0,378.0,75.3
+405,University of Bari,Italy,2020,16,526.0,1001.0,270.0,377.0,75.3
+406,Swedish University of Agricultural Sciences,Sweden,2020,9,308.0,1001.0,270.0,385.0,75.3
+407,Chalmers University of Technology,Sweden,2020,10,502.0,300.0,270.0,413.0,75.2
+408,University of Coimbra,Portugal,2020,3,409.0,1001.0,270.0,383.0,75.2
+409,University of Malaya,Malaysia,2020,1,526.0,437.0,270.0,404.0,75.2
+410,Aristotle University of Thessaloniki,Greece,2020,2,526.0,1001.0,270.0,382.0,75.2
+411,Stockholm School of Economics,Sweden,2020,11,526.0,20.0,261.0,1001.0,75.2
+412,Queensland University of Technology,Australia,2020,16,526.0,1001.0,270.0,387.0,75.2
+413,Hiroshima University,Japan,2020,12,526.0,1001.0,270.0,388.0,75.2
+414,Thomas Jefferson University,USA,2020,118,526.0,1001.0,270.0,389.0,75.2
+415,Indian Institute of Management Ahmedabad,India,2020,1,377.0,13.0,270.0,1001.0,75.1
+416,Chongqing University,China,2020,42,526.0,584.0,270.0,400.0,75.1
+417,Vienna University of Technology,Austria,2020,4,480.0,645.0,270.0,396.0,75.1
+418,University of Twente,Netherlands,2020,12,526.0,1001.0,270.0,392.0,75.1
+419,University of Tasmania,Australia,2020,17,526.0,1001.0,270.0,391.0,75.1
+420,University of Rennes 1,France,2020,20,526.0,1001.0,270.0,394.0,75.1
+421,São Paulo State University,Brazil,2020,4,526.0,1001.0,270.0,397.0,75.1
+422,University of Colorado Denver,USA,2020,119,526.0,1001.0,270.0,399.0,75.1
+423,Saint Louis University,USA,2020,120,526.0,274.0,187.0,512.0,75.0
+424,University of Côte d'Azur,France,2020,21,526.0,1001.0,270.0,402.0,75.0
+425,Tulane University,USA,2020,121,239.0,351.0,270.0,426.0,75.0
+426,University of Texas Health Science Center at San Antonio,USA,2020,122,526.0,1001.0,270.0,403.0,75.0
+427,Texas Tech University,USA,2020,123,526.0,467.0,270.0,416.0,75.0
+428,University of Clermont Auvergne,France,2020,22,526.0,1001.0,270.0,405.0,75.0
+429,Stellenbosch University,South Africa,2020,3,526.0,180.0,270.0,453.0,75.0
+430,University of Stuttgart,Germany,2020,32,128.0,286.0,270.0,462.0,75.0
+431,University of Oulu,Finland,2020,5,526.0,677.0,270.0,412.0,74.9
+432,Vita-Salute San Raffaele University,Italy,2020,17,526.0,1001.0,270.0,406.0,74.9
+433,University of Navarra,Spain,2020,10,526.0,104.0,251.0,546.0,74.9
+434,University of Trieste,Italy,2020,18,526.0,1001.0,270.0,408.0,74.9
+435,University of Eastern Finland,Finland,2020,6,526.0,1001.0,270.0,407.0,74.9
+436,Catholic University of the Sacred Heart,Italy,2020,19,526.0,1001.0,270.0,409.0,74.9
+437,Kansas State University,USA,2020,124,355.0,475.0,270.0,422.0,74.9
+438,University of Saskatchewan,Canada,2020,18,280.0,680.0,270.0,420.0,74.9
+439,Okayama University,Japan,2020,13,344.0,599.0,270.0,419.0,74.8
+440,Chonnam National University,South Korea,2020,11,526.0,1001.0,270.0,410.0,74.8
+441,Medical College of Wisconsin,USA,2020,125,526.0,1001.0,270.0,411.0,74.8
+442,University of Chile,Chile,2020,2,526.0,560.0,270.0,421.0,74.8
+443,University of Mississippi,USA,2020,126,484.0,1001.0,270.0,414.0,74.8
+444,Kobe University,Japan,2020,14,295.0,455.0,270.0,429.0,74.8
+445,China University of Geosciences,China,2020,43,526.0,1001.0,270.0,418.0,74.8
+446,University of Vermont,USA,2020,127,526.0,488.0,270.0,427.0,74.8
+447,University of Bath,United Kingdom,2020,34,526.0,583.0,270.0,423.0,74.8
+448,University of Science and Technology Beijing,China,2020,44,526.0,217.0,270.0,458.0,74.7
+449,Pusan National University,South Korea,2020,12,526.0,504.0,270.0,430.0,74.7
+450,Martin Luther University Halle-Wittenberg,Germany,2020,33,425.0,1001.0,246.0,452.0,74.7
+451,University of Zaragoza,Spain,2020,11,485.0,1001.0,270.0,424.0,74.7
+452,George Mason University,USA,2020,128,526.0,1001.0,237.0,471.0,74.7
+453,National Chiao Tung University,Taiwan,2020,4,526.0,291.0,270.0,448.0,74.7
+454,Capital Medical University,China,2020,45,526.0,1001.0,270.0,425.0,74.7
+455,University of Louisville,USA,2020,129,526.0,746.0,270.0,431.0,74.7
+456,University of Catania,Italy,2020,20,340.0,1001.0,270.0,432.0,74.7
+457,Polytechnic University of Catalonia,Spain,2020,12,526.0,656.0,270.0,436.0,74.6
+458,Northwestern Polytechnical University,China,2020,46,526.0,678.0,270.0,438.0,74.6
+459,University of Guelph,Canada,2020,19,526.0,1001.0,270.0,434.0,74.6
+460,University of Siena,Italy,2020,21,526.0,1001.0,270.0,433.0,74.6
+461,University of Santiago de Compostela,Spain,2020,13,526.0,908.0,270.0,435.0,74.6
+462,Indian Institute of Science,India,2020,2,348.0,732.0,270.0,440.0,74.6
+463,University of Strathclyde,United Kingdom,2020,35,526.0,330.0,270.0,460.0,74.6
+464,Scuola Normale Superiore di Pisa,Italy,2020,22,77.0,1001.0,239.0,581.0,74.6
+465,University of Trento,Italy,2020,23,526.0,1001.0,270.0,437.0,74.5
+466,Florida International University,USA,2020,130,526.0,1001.0,270.0,439.0,74.5
+467,TU Darmstadt,Germany,2020,34,337.0,695.0,270.0,447.0,74.5
+468,University of Central Florida,USA,2020,131,526.0,1001.0,270.0,441.0,74.5
+469,University of Alabama - Tuscaloosa,USA,2020,132,444.0,229.0,270.0,482.0,74.5
+470,Zhengzhou University,China,2020,47,526.0,998.0,270.0,442.0,74.5
+471,Syracuse University,USA,2020,133,166.0,224.0,270.0,510.0,74.5
+472,James Cook University,Australia,2020,18,526.0,1001.0,270.0,444.0,74.5
+473,Hitotsubashi University,Japan,2020,15,526.0,19.0,270.0,1001.0,74.5
+474,University of Rostock,Germany,2020,35,430.0,1001.0,270.0,445.0,74.4
+475,Colorado School of Mines,USA,2020,134,526.0,58.0,270.0,735.0,74.4
+476,Federal University of Rio Grande do Sul,Brazil,2020,5,526.0,1001.0,270.0,446.0,74.4
+477,University of KwaZulu-Natal,South Africa,2020,4,498.0,284.0,270.0,474.0,74.4
+478,University of Hull,United Kingdom,2020,36,190.0,260.0,135.0,676.0,74.4
+479,Lehigh University,USA,2020,135,165.0,67.0,270.0,728.0,74.4
+480,Savoie Mont Blanc University,France,2020,23,526.0,1001.0,270.0,449.0,74.4
+481,University of Tennessee Health Science Center,USA,2020,136,526.0,1001.0,270.0,450.0,74.4
+482,Rovira i Virgili University,Spain,2020,14,526.0,1001.0,270.0,451.0,74.4
+483,University of Oviedo,Spain,2020,15,526.0,962.0,270.0,455.0,74.4
+484,Shanghai University,China,2020,48,526.0,973.0,270.0,457.0,74.3
+485,Ioffe Physical-Technical Institute of the Russian Academy of Sciences,Russia,2020,4,36.0,1001.0,212.0,897.0,74.3
+486,University of Hawaii at Manoa,USA,2020,137,366.0,1001.0,270.0,459.0,74.3
+487,Polytechnic University of Valencia,Spain,2020,16,526.0,1001.0,270.0,454.0,74.3
+488,University of Tromsø – The Arctic University of Norway,Norway,2020,4,526.0,1001.0,270.0,456.0,74.3
+489,Baylor University,USA,2020,138,526.0,367.0,270.0,475.0,74.3
+490,École normale supérieure de Lyon,France,2020,24,383.0,1001.0,263.0,476.0,74.3
+491,Oklahoma State University,USA,2020,139,526.0,491.0,270.0,473.0,74.3
+492,Federal University of Minas Gerais,Brazil,2020,6,526.0,600.0,270.0,466.0,74.3
+493,Chulalongkorn University,Thailand,2020,1,526.0,117.0,270.0,568.0,74.2
+494,Boston College,USA,2020,140,526.0,157.0,270.0,539.0,74.2
+495,Rush University,USA,2020,141,526.0,1001.0,270.0,463.0,74.2
+496,Shenzhen University,China,2020,49,526.0,797.0,270.0,465.0,74.2
+497,University of Ferrara,Italy,2020,24,526.0,1001.0,270.0,464.0,74.2
+498,"Royal Holloway, University of London",United Kingdom,2020,37,393.0,921.0,213.0,541.0,74.2
+499,University of Canterbury,New Zealand,2020,3,336.0,384.0,230.0,550.0,74.2
+500,Leibniz University Hannover,Germany,2020,36,526.0,907.0,270.0,468.0,74.2
+501,University of Modena and Reggio Emilia,Italy,2020,25,526.0,992.0,270.0,467.0,74.2
+502,Nanjing University of Aeronautics and Astronautics,China,2020,50,526.0,1001.0,270.0,469.0,74.1
+503,West Virginia University,USA,2020,142,526.0,348.0,270.0,494.0,74.1
+504,TU Dortmund,Germany,2020,37,526.0,1001.0,270.0,470.0,74.1
+505,Nanjing Agricultural University,China,2020,51,526.0,1001.0,270.0,472.0,74.1
+506,University of Surrey,United Kingdom,2020,38,403.0,443.0,270.0,489.0,74.1
+507,Nanjing University of Science and Technology,China,2020,52,526.0,685.0,270.0,477.0,74.1
+508,Bar-Ilan University,Israel,2020,6,526.0,827.0,270.0,478.0,74.1
+509,University College Cork,Ireland,2020,3,526.0,888.0,270.0,480.0,74.1
+510,La Trobe University,Australia,2020,19,526.0,1001.0,270.0,479.0,74.1
+511,Georgia State University,USA,2020,143,526.0,670.0,270.0,490.0,74.1
+512,Beijing University of Chemical Technology,China,2020,53,526.0,1001.0,270.0,481.0,74.0
+513,National Yang-Ming University,Taiwan,2020,5,526.0,1001.0,270.0,484.0,74.0
+514,Western Sydney University,Australia,2020,20,526.0,1001.0,270.0,485.0,74.0
+515,University of Verona,Italy,2020,26,526.0,1001.0,270.0,486.0,74.0
+516,University of Tartu,Estonia,2020,1,455.0,1001.0,270.0,488.0,74.0
+517,University of Zagreb,Croatia,2020,1,526.0,1001.0,270.0,487.0,74.0
+518,Nanjing Medical University,China,2020,54,526.0,1001.0,270.0,491.0,74.0
+519,University of Potsdam,Germany,2020,38,526.0,1001.0,270.0,492.0,74.0
+520,NOVA University of Lisbon,Portugal,2020,4,526.0,1001.0,270.0,493.0,74.0
+521,University of South Australia,Australia,2020,21,526.0,447.0,270.0,511.0,74.0
+522,Medical University of Innsbruck,Austria,2020,5,526.0,1001.0,270.0,495.0,73.9
+523,Bocconi University,Italy,2020,27,526.0,46.0,256.0,1001.0,73.9
+524,"Institute of Cancer Research, University of London",United Kingdom,2020,39,187.0,1001.0,270.0,513.0,73.9
+525,University of Bremen,Germany,2020,39,526.0,1001.0,270.0,496.0,73.9
+526,San Diego State University,USA,2020,144,321.0,471.0,270.0,515.0,73.9
+527,Carleton University,Canada,2020,20,526.0,1001.0,270.0,498.0,73.9
+528,Huazhong Agricultural University,China,2020,55,526.0,1001.0,270.0,497.0,73.9
+529,Novosibirsk State University,Russia,2020,5,401.0,1001.0,270.0,499.0,73.9
+530,Rensselaer Polytechnic Institute,USA,2020,145,416.0,162.0,270.0,585.0,73.9
+531,Xidian University,China,2020,56,359.0,1001.0,270.0,504.0,73.8
+532,University of Nantes,France,2020,25,526.0,1001.0,270.0,500.0,73.8
+533,Mayo Clinic College of Medicine and Science,USA,2020,146,526.0,1001.0,270.0,501.0,73.8
+534,Polytechnic University of Madrid,Spain,2020,17,478.0,671.0,270.0,508.0,73.8
+535,Medical University of Graz,Austria,2020,6,526.0,1001.0,270.0,502.0,73.8
+536,Chiba University,Japan,2020,16,526.0,1001.0,270.0,503.0,73.8
+537,Ewha Womans University,South Korea,2020,13,526.0,1001.0,270.0,505.0,73.8
+538,University of Graz,Austria,2020,7,375.0,1001.0,157.0,659.0,73.8
+539,Institut Agro,France,2020,26,526.0,1001.0,270.0,506.0,73.8
+540,Saint Petersburg University,Russia,2020,6,155.0,458.0,270.0,548.0,73.8
+541,Flinders University,Australia,2020,22,461.0,1001.0,270.0,507.0,73.8
+542,University of Arkansas - Fayetteville,USA,2020,147,271.0,389.0,270.0,534.0,73.7
+543,University of Tehran,Iran,2020,2,422.0,1001.0,270.0,509.0,73.7
+544,University of Delhi,India,2020,3,521.0,143.0,270.0,602.0,73.7
+545,Auburn University,USA,2020,148,526.0,241.0,270.0,553.0,73.7
+546,University of Iceland,Iceland,2020,1,526.0,1001.0,270.0,514.0,73.7
+547,RMIT University,Australia,2020,23,526.0,991.0,270.0,517.0,73.7
+548,Illinois Institute of Technology,USA,2020,149,66.0,149.0,270.0,797.0,73.7
+549,National Central University,Taiwan,2020,6,526.0,1001.0,270.0,516.0,73.7
+550,Tata Institute of Fundamental Research,India,2020,4,526.0,1001.0,270.0,518.0,73.7
+551,"China Medical University, Taiwan",Taiwan,2020,7,526.0,1001.0,270.0,519.0,73.7
+552,Institute for Theoretical and Experimental Physics,Russia,2020,7,526.0,1001.0,270.0,520.0,73.6
+553,Clemson University,USA,2020,150,526.0,934.0,270.0,523.0,73.6
+554,Ulsan National Institute of Science and Technology,South Korea,2020,14,526.0,1001.0,270.0,521.0,73.6
+555,Wuhan University of Technology,China,2020,57,526.0,982.0,270.0,525.0,73.6
+556,Northwest A&F University,China,2020,58,526.0,1001.0,270.0,522.0,73.6
+557,College of William & Mary,USA,2020,151,526.0,94.0,270.0,706.0,73.6
+558,Cairo University,Egypt,2020,1,526.0,1001.0,270.0,524.0,73.6
+559,University of Sherbrooke,Canada,2020,21,526.0,977.0,270.0,529.0,73.6
+560,Chang Gung University,Taiwan,2020,8,526.0,1001.0,270.0,526.0,73.6
+561,Mahidol University,Thailand,2020,2,526.0,1001.0,270.0,527.0,73.6
+562,University of Jyväskylä,Finland,2020,7,526.0,1001.0,270.0,528.0,73.5
+563,Swarthmore College,USA,2020,152,19.0,230.0,270.0,1001.0,73.5
+564,National Technical University of Athens,Greece,2020,3,470.0,756.0,270.0,531.0,73.5
+565,University of Wisconsin–Milwaukee,USA,2020,153,283.0,451.0,270.0,545.0,73.5
+566,University of Texas at Arlington,USA,2020,154,526.0,927.0,270.0,530.0,73.5
+567,Brunel University London,United Kingdom,2020,40,526.0,495.0,270.0,540.0,73.5
+568,University of Burgundy,France,2020,27,161.0,1001.0,270.0,551.0,73.5
+569,"Northeastern University, China",China,2020,59,526.0,439.0,270.0,544.0,73.5
+570,University of Palermo,Italy,2020,28,526.0,1001.0,270.0,532.0,73.5
+571,Middle East Technical University,Turkey,2020,1,526.0,315.0,270.0,561.0,73.5
+572,Indian Institute of Technology Madras,India,2020,5,526.0,185.0,270.0,615.0,73.5
+573,Palacký University Olomouc,Czech Republic,2020,2,526.0,1001.0,270.0,535.0,73.4
+574,Brigham Young University,USA,2020,155,318.0,922.0,270.0,543.0,73.4
+575,Haverford College,USA,2020,156,18.0,1001.0,270.0,1001.0,73.4
+576,Swansea University,United Kingdom,2020,41,526.0,1001.0,270.0,537.0,73.4
+577,Masaryk University,Czech Republic,2020,3,526.0,1001.0,270.0,536.0,73.4
+578,University of Pretoria,South Africa,2020,5,526.0,771.0,270.0,542.0,73.4
+579,University of Nebraska Medical Center,USA,2020,157,526.0,1001.0,270.0,538.0,73.4
+580,Moscow Institute of Physics and Technology,Russia,2020,8,158.0,542.0,264.0,611.0,73.4
+581,Fuzhou University,China,2020,60,526.0,724.0,270.0,547.0,73.4
+582,University of St.Gallen,Switzerland,2020,9,526.0,30.0,270.0,1001.0,73.4
+583,Cold Spring Harbor Laboratory,USA,2020,158,526.0,1001.0,88.0,831.0,73.3
+584,Indian Institute of Technology Delhi,India,2020,6,526.0,122.0,270.0,678.0,73.3
+585,Indian Institute of Technology Bombay,India,2020,7,526.0,477.0,270.0,563.0,73.3
+586,Concordia University,Canada,2020,22,525.0,307.0,270.0,589.0,73.3
+587,University of Minho,Portugal,2020,5,526.0,1001.0,270.0,549.0,73.3
+588,Eötvös Loránd University,Hungary,2020,1,245.0,1001.0,270.0,559.0,73.3
+589,Sciences Po,France,2020,28,526.0,60.0,61.0,1001.0,73.3
+590,Polytechnic University of Turin,Italy,2020,29,526.0,815.0,270.0,555.0,73.3
+591,University of Aveiro,Portugal,2020,6,526.0,1001.0,270.0,552.0,73.3
+592,Toulouse INP,France,2020,29,526.0,245.0,270.0,607.0,73.3
+593,University of Udine,Italy,2020,30,526.0,1001.0,270.0,554.0,73.3
+594,University of Salerno,Italy,2020,31,526.0,1001.0,270.0,556.0,73.2
+595,Federal University of São Paulo,Brazil,2020,7,526.0,1001.0,270.0,557.0,73.2
+596,"St George's, University of London",United Kingdom,2020,42,526.0,1001.0,270.0,558.0,73.2
+597,Bielefeld University,Germany,2020,40,526.0,1001.0,270.0,560.0,73.2
+598,Cinvestav,Mexico,2020,2,526.0,1001.0,270.0,562.0,73.2
+599,University of Eastern Piedmont,Italy,2020,32,526.0,1001.0,270.0,564.0,73.2
+600,University of Plymouth,United Kingdom,2020,43,526.0,1001.0,270.0,565.0,73.2
+601,China University of Petroleum,China,2020,61,526.0,625.0,270.0,578.0,73.2
+602,University of Cagliari,Italy,2020,33,526.0,1001.0,270.0,566.0,73.2
+603,Southwest University,China,2020,62,481.0,1001.0,270.0,567.0,73.2
+604,Institut national des sciences appliquées de Lyon,France,2020,30,526.0,1001.0,270.0,569.0,73.2
+605,Utah State University,USA,2020,159,351.0,846.0,270.0,576.0,73.1
+606,University of Brescia,Italy,2020,34,526.0,1001.0,270.0,570.0,73.1
+607,Comenius University in Bratislava,Slovak Republic,2020,1,526.0,1001.0,270.0,571.0,73.1
+608,Sharif University of Technology,Iran,2020,3,399.0,1001.0,270.0,573.0,73.1
+609,Czech Technical University in Prague,Czech Republic,2020,4,398.0,1001.0,270.0,574.0,73.1
+610,Second Military Medical University,China,2020,63,526.0,1001.0,270.0,572.0,73.1
+611,Jinan University,China,2020,64,526.0,615.0,270.0,587.0,73.1
+612,Nanjing Tech University,China,2020,65,526.0,1001.0,270.0,575.0,73.1
+613,University of Québec at Montreal,Canada,2020,23,526.0,937.0,270.0,579.0,73.1
+614,Catholic University of Korea,South Korea,2020,15,526.0,1001.0,270.0,577.0,73.1
+615,Tilburg University,Netherlands,2020,13,526.0,363.0,270.0,601.0,73.1
+616,University of Bayreuth,Germany,2020,41,526.0,1001.0,270.0,580.0,73.0
+617,Jeonbuk National University,South Korea,2020,16,526.0,1001.0,270.0,582.0,73.0
+618,Saarland University,Germany,2020,42,526.0,463.0,270.0,597.0,73.0
+619,National University of La Plata,Argentina,2020,2,526.0,1001.0,270.0,583.0,73.0
+620,University of Konstanz,Germany,2020,43,526.0,1001.0,270.0,584.0,73.0
+621,Central China Normal University,China,2020,66,526.0,1001.0,270.0,586.0,73.0
+622,"National University of Ireland, Galway",Ireland,2020,4,263.0,1001.0,270.0,596.0,73.0
+623,University of La Laguna,Spain,2020,18,526.0,1001.0,270.0,590.0,73.0
+624,AGH University of Science and Technology,Poland,2020,3,526.0,841.0,270.0,591.0,73.0
+625,Memorial University of Newfoundland,Canada,2020,24,526.0,749.0,270.0,595.0,73.0
+626,University of New Hampshire,USA,2020,160,526.0,581.0,270.0,600.0,73.0
+627,Konkuk University,South Korea,2020,17,526.0,987.0,270.0,594.0,73.0
+628,Rio de Janeiro State University,Brazil,2020,8,526.0,1001.0,270.0,592.0,72.9
+629,Tehran University of Medical Sciences,Iran,2020,4,526.0,1001.0,270.0,593.0,72.9
+630,Binghamton University,USA,2020,161,302.0,374.0,153.0,837.0,72.9
+631,Jiangnan University,China,2020,67,526.0,1001.0,270.0,598.0,72.9
+632,Nanjing University of Information Science and Technology,China,2020,68,526.0,1001.0,270.0,599.0,72.9
+633,University of Wyoming,USA,2020,162,526.0,684.0,270.0,609.0,72.9
+634,L.D. Landau Institute for Theoretical Physics of the Russian Academy of Sciences,Russia,2020,9,26.0,1001.0,198.0,1001.0,72.9
+635,National Polytechnic Institute,Mexico,2020,3,526.0,1001.0,270.0,603.0,72.9
+636,Hacettepe University,Turkey,2020,2,526.0,1001.0,270.0,604.0,72.9
+637,National Research Nuclear University MEPhI,Russia,2020,10,507.0,1001.0,270.0,605.0,72.9
+638,Ocean University of China,China,2020,69,526.0,1001.0,270.0,606.0,72.9
+639,Jiangsu University,China,2020,70,526.0,1001.0,270.0,608.0,72.8
+640,Loyola University Chicago,USA,2020,163,354.0,952.0,270.0,614.0,72.8
+641,University of Texas Medical Branch,USA,2020,164,526.0,1001.0,270.0,610.0,72.8
+642,University of Cantabria,Spain,2020,19,526.0,1001.0,270.0,612.0,72.8
+643,Tokyo Medical and Dental University,Japan,2020,17,526.0,1001.0,270.0,613.0,72.8
+644,Istanbul University,Turkey,2020,3,488.0,1001.0,270.0,616.0,72.8
+645,Boğaziçi University,Turkey,2020,4,526.0,686.0,270.0,624.0,72.8
+646,University of Haifa,Israel,2020,7,526.0,1001.0,270.0,618.0,72.8
+647,Massey University,New Zealand,2020,4,526.0,949.0,270.0,620.0,72.8
+648,Beijing Jiaotong University,China,2020,71,526.0,1001.0,270.0,617.0,72.8
+649,University of Oklahoma Health Sciences Center,USA,2020,165,526.0,1001.0,270.0,619.0,72.8
+650,Shinshu University,Japan,2020,18,526.0,1001.0,270.0,621.0,72.8
+651,Kanazawa University,Japan,2020,19,526.0,627.0,270.0,634.0,72.7
+652,North China Electric Power University,China,2020,72,526.0,305.0,270.0,655.0,72.7
+653,University of Texas at San Antonio,USA,2020,166,526.0,1001.0,270.0,622.0,72.7
+654,University of Campania Luigi Vanvitelli,Italy,2020,35,526.0,1001.0,270.0,623.0,72.7
+655,Chung-Ang University,South Korea,2020,18,526.0,1001.0,270.0,627.0,72.7
+656,Swinburne University of Technology,Australia,2020,24,526.0,1001.0,270.0,625.0,72.7
+657,Southern Medical University,China,2020,73,526.0,1001.0,270.0,626.0,72.7
+658,Loughborough University,United Kingdom,2020,44,526.0,1001.0,269.0,640.0,72.7
+659,Ankara University,Turkey,2020,5,526.0,704.0,270.0,635.0,72.7
+660,Chungnam National University,South Korea,2020,19,526.0,1001.0,270.0,628.0,72.7
+661,University of Kent,United Kingdom,2020,45,526.0,825.0,270.0,632.0,72.7
+662,National Chung Hsing University,Taiwan,2020,9,526.0,252.0,270.0,679.0,72.7
+663,"University of Nevada, Reno",USA,2020,167,526.0,1001.0,270.0,631.0,72.6
+664,University of Crete,Greece,2020,4,526.0,1001.0,270.0,629.0,72.6
+665,University of Ioannina,Greece,2020,5,526.0,1001.0,270.0,630.0,72.6
+666,Semmelweis University,Hungary,2020,2,526.0,1001.0,270.0,633.0,72.6
+667,University of Szeged,Hungary,2020,3,526.0,1001.0,194.0,753.0,72.6
+668,University of Greifswald,Germany,2020,44,526.0,1001.0,248.0,687.0,72.6
+669,Courtauld Institute of Art,United Kingdom,2020,46,15.0,1001.0,270.0,1001.0,72.6
+670,University of Málaga,Spain,2020,20,526.0,1001.0,270.0,636.0,72.6
+671,University of Fribourg,Switzerland,2020,10,526.0,334.0,270.0,671.0,72.6
+672,University of Salamanca,Spain,2020,21,526.0,933.0,270.0,639.0,72.6
+673,Renmin University of China,China,2020,74,526.0,119.0,270.0,791.0,72.6
+674,University of Calabria,Italy,2020,36,526.0,1001.0,270.0,637.0,72.6
+675,University of Arkansas for Medical Sciences,USA,2020,168,526.0,1001.0,270.0,638.0,72.5
+676,Tokyo Metropolitan University,Japan,2020,20,194.0,1001.0,270.0,662.0,72.5
+677,Inha University,South Korea,2020,20,526.0,697.0,270.0,649.0,72.5
+678,Istanbul Technical University,Turkey,2020,6,526.0,796.0,270.0,645.0,72.5
+679,University of Alaska Fairbanks,USA,2020,169,437.0,762.0,270.0,648.0,72.5
+680,University of Missouri-Kansas City,USA,2020,170,467.0,554.0,270.0,654.0,72.5
+681,"Birkbeck, University of London",United Kingdom,2020,47,237.0,1001.0,170.0,842.0,72.5
+682,Nanjing Normal University,China,2020,75,526.0,1001.0,270.0,644.0,72.5
+683,Otto von Guericke University Magdeburg,Germany,2020,45,526.0,1001.0,270.0,641.0,72.5
+684,University of Debrecen,Hungary,2020,4,526.0,1001.0,270.0,642.0,72.5
+685,Oswaldo Cruz Foundation,Brazil,2020,9,526.0,1001.0,270.0,643.0,72.5
+686,"University of Maine, Orono",USA,2020,171,483.0,1001.0,121.0,894.0,72.5
+687,Yokohama City University,Japan,2020,21,526.0,214.0,270.0,717.0,72.4
+688,Donghua University,China,2020,76,526.0,1001.0,270.0,647.0,72.4
+689,Roma Tre University,Italy,2020,37,526.0,1001.0,270.0,646.0,72.4
+690,Heriot-Watt University,United Kingdom,2020,48,526.0,533.0,270.0,663.0,72.4
+691,Victoria University of Wellington,New Zealand,2020,5,367.0,710.0,270.0,656.0,72.4
+692,"University of Maryland, Baltimore County",USA,2020,172,526.0,1001.0,235.0,736.0,72.4
+693,Kumamoto University,Japan,2020,22,526.0,628.0,270.0,665.0,72.4
+694,Taipei Medical University,Taiwan,2020,10,526.0,1001.0,270.0,650.0,72.4
+695,Hong Kong Baptist University,China,2020,77,526.0,1001.0,270.0,652.0,72.4
+696,Vilnius University,Lithuania,2020,1,526.0,1001.0,270.0,653.0,72.4
+697,Indian Institute of Technology Kharagpur,India,2020,8,526.0,549.0,270.0,672.0,72.4
+698,Mississippi State University,USA,2020,173,328.0,412.0,270.0,694.0,72.4
+699,Hefei University of Technology,China,2020,78,526.0,812.0,270.0,660.0,72.4
+700,University of Angers,France,2020,31,526.0,1001.0,270.0,657.0,72.3
+701,Bangor University,United Kingdom,2020,49,200.0,843.0,247.0,744.0,72.3
+702,Augusta University,USA,2020,174,526.0,1001.0,270.0,658.0,72.3
+703,Tianjin Medical University,China,2020,79,526.0,1001.0,270.0,661.0,72.3
+704,China University of Mining and Technology,China,2020,80,526.0,898.0,270.0,668.0,72.3
+705,Northeast Normal University,China,2020,81,526.0,1001.0,270.0,664.0,72.3
+706,University of Johannesburg,South Africa,2020,6,526.0,972.0,270.0,667.0,72.3
+707,Isfahan University of Technology,Iran,2020,5,526.0,1001.0,270.0,666.0,72.3
+708,SUNY Downstate Medical Center,USA,2020,175,526.0,1001.0,149.0,892.0,72.3
+709,King Fahd University of Petroleum and Minerals,Saudi Arabia,2020,4,526.0,113.0,270.0,836.0,72.3
+710,Niigata University,Japan,2020,23,526.0,747.0,270.0,674.0,72.3
+711,"University of North Texas, Denton",USA,2020,176,526.0,804.0,270.0,673.0,72.3
+712,Federal University of Santa Catarina,Brazil,2020,10,526.0,1001.0,270.0,669.0,72.2
+713,American University of Beirut,Lebanon,2020,1,251.0,191.0,270.0,773.0,72.2
+714,"Graduate Faculty, General Research Institute For Nonferrous Metals",China,2020,82,526.0,24.0,270.0,1001.0,72.2
+715,University of Western Brittany,France,2020,32,526.0,1001.0,270.0,670.0,72.2
+716,University of Macau,China,2020,83,526.0,482.0,270.0,695.0,72.2
+717,Warsaw University of Technology,Poland,2020,4,357.0,1001.0,270.0,677.0,72.2
+718,International School for Advanced Studies,Italy,2020,38,526.0,1001.0,270.0,675.0,72.2
+719,Kitasato University,Japan,2020,24,526.0,1001.0,124.0,938.0,72.2
+720,University of Massachusetts Boston,USA,2020,177,526.0,1001.0,185.0,832.0,72.2
+721,Montana State University - Bozeman,USA,2020,178,526.0,1001.0,270.0,680.0,72.2
+722,University of Vigo,Spain,2020,22,526.0,1001.0,270.0,681.0,72.2
+723,Kangwon National University,South Korea,2020,21,526.0,1001.0,270.0,682.0,72.2
+724,Ajou University,South Korea,2020,22,526.0,1001.0,270.0,683.0,72.2
+725,University Paris-Est Créteil,France,2020,33,526.0,817.0,270.0,686.0,72.1
+726,Panjab University,India,2020,9,503.0,667.0,270.0,692.0,72.1
+727,National University of Defense Technology,China,2020,84,526.0,1001.0,270.0,685.0,72.1
+728,University of Castilla–La Mancha,Spain,2020,23,526.0,1001.0,270.0,684.0,72.1
+729,Technical University of Braunschweig,Germany,2020,46,462.0,1001.0,270.0,689.0,72.1
+730,University of Lübeck,Germany,2020,47,526.0,1001.0,270.0,688.0,72.1
+731,Zhejiang University of Technology,China,2020,85,526.0,1001.0,270.0,690.0,72.1
+732,Tokyo University of Science,Japan,2020,25,306.0,1001.0,270.0,697.0,72.1
+733,Nanchang University,China,2020,86,526.0,1001.0,270.0,691.0,72.1
+734,Southwest Jiaotong University,China,2020,87,526.0,798.0,270.0,696.0,72.1
+735,Sorbonne Paris Nord University,France,2020,34,526.0,1001.0,270.0,693.0,72.1
+736,South China Normal University,China,2020,88,526.0,1001.0,270.0,699.0,72.1
+737,University of Salento,Italy,2020,39,526.0,1001.0,270.0,698.0,72.1
+738,Army Medical University,China,2020,89,526.0,1001.0,270.0,700.0,72.0
+739,Budker Institute of Nuclear Physics of the Siberian Branch of the Russian Academy of Sciences,Russia,2020,11,526.0,1001.0,270.0,701.0,72.0
+740,Osaka City University,Japan,2020,26,234.0,530.0,270.0,730.0,72.0
+741,University of Idaho,USA,2020,179,526.0,1001.0,270.0,702.0,72.0
+742,University of Cyprus,Cyprus,2020,1,526.0,1001.0,270.0,703.0,72.0
+743,Kent State University,USA,2020,180,526.0,1001.0,270.0,704.0,72.0
+744,University of Girona,Spain,2020,24,526.0,1001.0,270.0,705.0,72.0
+745,Ohio University,USA,2020,181,395.0,364.0,270.0,739.0,72.0
+746,Federal University of Paraná,Brazil,2020,11,526.0,1001.0,270.0,707.0,72.0
+747,"University of the Andes, Colombia",Colombia,2020,1,526.0,398.0,270.0,734.0,72.0
+748,University of Montana,USA,2020,182,273.0,1001.0,270.0,713.0,72.0
+749,Örebro University,Sweden,2020,12,526.0,822.0,270.0,709.0,72.0
+750,University of Essex,United Kingdom,2020,50,509.0,646.0,270.0,718.0,72.0
+751,Southern University of Science and Technology,China,2020,90,526.0,1001.0,270.0,708.0,71.9
+752,Air Force Medical University,China,2020,91,526.0,1001.0,270.0,710.0,71.9
+753,Quaid-i-Azam University,Pakistan,2020,1,526.0,1001.0,270.0,711.0,71.9
+754,"University of Science, Malaysia",Malaysia,2020,2,526.0,1001.0,270.0,712.0,71.9
+755,Beijing University of Posts and Telecommunications,China,2020,92,526.0,446.0,270.0,737.0,71.9
+756,"Northwest University, China",China,2020,93,526.0,1001.0,270.0,714.0,71.9
+757,Centrale Lille Institut,France,2020,35,526.0,99.0,270.0,961.0,71.9
+758,University of Wuppertal,Germany,2020,48,526.0,1001.0,270.0,715.0,71.9
+759,Amirkabir University of Technology,Iran,2020,6,526.0,1001.0,270.0,716.0,71.9
+760,Beijing University of Technology,China,2020,94,526.0,1001.0,270.0,719.0,71.9
+761,Yeungnam University,South Korea,2020,23,526.0,369.0,270.0,750.0,71.9
+762,University of Murcia,Spain,2020,25,526.0,1001.0,270.0,720.0,71.9
+763,University of Split,Croatia,2020,2,526.0,1001.0,270.0,721.0,71.9
+764,Kaohsiung Medical University,Taiwan,2020,11,526.0,1001.0,270.0,722.0,71.8
+765,Marche Polytechnic University,Italy,2020,40,526.0,1001.0,270.0,723.0,71.8
+766,Qingdao University,China,2020,95,526.0,1001.0,270.0,724.0,71.8
+767,Gwangju Institute of Science and Technology,South Korea,2020,24,526.0,1001.0,270.0,725.0,71.8
+768,University of Patras,Greece,2020,6,526.0,1001.0,270.0,726.0,71.8
+769,Yangzhou University,China,2020,96,526.0,1001.0,270.0,727.0,71.8
+770,University of the Balearic Islands,Spain,2020,26,526.0,1001.0,270.0,729.0,71.8
+771,Norwegian University of Life Sciences,Norway,2020,5,526.0,895.0,270.0,733.0,71.8
+772,Getúlio Vargas Foundation,Brazil,2020,12,526.0,32.0,270.0,1001.0,71.8
+773,"University of Córdoba, Spain",Spain,2020,27,526.0,1001.0,270.0,731.0,71.8
+774,Yerevan Physics Institute,Armenia,2020,1,526.0,1001.0,270.0,732.0,71.8
+775,Nagasaki University,Japan,2020,27,285.0,285.0,270.0,799.0,71.8
+776,University of Denver,USA,2020,183,526.0,181.0,270.0,854.0,71.8
+777,University of Tours,France,2020,36,160.0,1001.0,270.0,779.0,71.8
+778,"Open University, UK",United Kingdom,2020,51,526.0,1001.0,270.0,738.0,71.7
+779,National Sun Yat-sen University,Taiwan,2020,12,526.0,1001.0,270.0,740.0,71.7
+780,Sejong University,South Korea,2020,25,526.0,1001.0,270.0,741.0,71.7
+781,Northern Illinois University,USA,2020,184,526.0,687.0,270.0,748.0,71.7
+782,Gyeongsang National University,South Korea,2020,26,526.0,1001.0,270.0,742.0,71.7
+783,Nanjing University of Posts and Telecommunications,China,2020,97,526.0,1001.0,270.0,745.0,71.7
+784,Kindai University,Japan,2020,28,526.0,1001.0,270.0,743.0,71.7
+785,Miami University,USA,2020,185,526.0,123.0,270.0,926.0,71.7
+786,Wesleyan University,USA,2020,186,526.0,52.0,270.0,1001.0,71.7
+787,Jean Monnet University,France,2020,37,526.0,1001.0,270.0,746.0,71.7
+788,Juntendo University,Japan,2020,29,526.0,1001.0,270.0,747.0,71.7
+789,University of North Carolina at Charlotte,USA,2020,187,526.0,610.0,270.0,760.0,71.7
+790,Jawaharlal Nehru University,India,2020,10,487.0,1001.0,78.0,1001.0,71.7
+791,"University of Natural Resources and Life Sciences, Vienna",Austria,2020,8,526.0,1001.0,270.0,749.0,71.7
+792,Aberystwyth University,United Kingdom,2020,52,526.0,785.0,207.0,903.0,71.6
+793,University of L'Aquila,Italy,2020,41,526.0,1001.0,270.0,751.0,71.6
+794,Ain Shams University,Egypt,2020,2,526.0,1001.0,270.0,752.0,71.6
+795,National Taiwan University of Science and Technology,Taiwan,2020,13,526.0,1001.0,270.0,757.0,71.6
+796,South China Agricultural University,China,2020,98,526.0,1001.0,270.0,754.0,71.6
+797,Shizuoka University,Japan,2020,30,526.0,1001.0,93.0,1001.0,71.6
+798,Belarusian State University,Belarus,2020,1,526.0,1001.0,270.0,755.0,71.6
+799,Tarbiat Modares University,Iran,2020,7,526.0,1001.0,270.0,756.0,71.6
+800,University of Rhode Island,USA,2020,188,526.0,523.0,270.0,785.0,71.6
+801,University of Toledo,USA,2020,189,526.0,1001.0,270.0,758.0,71.6
+802,"Putra University, Malaysia",Malaysia,2020,3,526.0,1001.0,270.0,759.0,71.6
+803,USI - University of Italian Speaking Switzerland,Switzerland,2020,11,526.0,1001.0,270.0,761.0,71.6
+804,Graz University of Technology,Austria,2020,9,526.0,1001.0,270.0,762.0,71.6
+805,Carl von Ossietzky University of Oldenburg,Germany,2020,49,526.0,1001.0,270.0,763.0,71.6
+806,University of Louisiana at Lafayette,USA,2020,190,526.0,1001.0,270.0,764.0,71.5
+807,Carlos III University of Madrid,Spain,2020,28,526.0,1001.0,270.0,765.0,71.5
+808,University of Caen Normandy,France,2020,38,526.0,1001.0,270.0,766.0,71.5
+809,Harbin Medical University,China,2020,99,526.0,1001.0,270.0,767.0,71.5
+810,Ege University,Turkey,2020,7,526.0,1001.0,270.0,769.0,71.5
+811,"University of Nevada, Las Vegas",USA,2020,191,526.0,1001.0,270.0,771.0,71.5
+812,Polytechnic University of Bari,Italy,2020,42,526.0,1001.0,270.0,770.0,71.5
+813,Jawaharlal Nehru Centre for Advanced Scientific Research,India,2020,11,526.0,1001.0,114.0,1001.0,71.5
+814,Wenzhou Medical University,China,2020,100,526.0,1001.0,270.0,772.0,71.5
+815,Hasselt University,Belgium,2020,8,526.0,653.0,270.0,789.0,71.5
+816,National University of Colombia,Colombia,2020,2,526.0,805.0,270.0,786.0,71.5
+817,Shaanxi Normal University,China,2020,101,526.0,1001.0,270.0,774.0,71.5
+818,"China Medical University, PRC",China,2020,102,526.0,1001.0,270.0,775.0,71.5
+819,Old Dominion University,USA,2020,192,526.0,1001.0,270.0,776.0,71.5
+820,University of Siegen,Germany,2020,50,526.0,1001.0,270.0,777.0,71.4
+821,Shanxi University,China,2020,103,526.0,1001.0,270.0,778.0,71.4
+822,Hohai University,China,2020,104,526.0,1001.0,270.0,781.0,71.4
+823,University of Messina,Italy,2020,43,526.0,1001.0,270.0,780.0,71.4
+824,University of Concepción,Chile,2020,3,526.0,1001.0,270.0,782.0,71.4
+825,Guangdong University of Technology,China,2020,105,526.0,1001.0,270.0,783.0,71.4
+826,Gazi University,Turkey,2020,8,526.0,1001.0,270.0,784.0,71.4
+827,Liverpool John Moores University,United Kingdom,2020,53,526.0,1001.0,270.0,787.0,71.4
+828,Ryerson University,Canada,2020,25,526.0,1001.0,270.0,788.0,71.4
+829,Cranfield University,United Kingdom,2020,54,526.0,178.0,270.0,912.0,71.4
+830,Indian Institute of Technology Kanpur,India,2020,12,526.0,514.0,270.0,804.0,71.4
+831,Norwegian School of Economics,Norway,2020,6,456.0,41.0,270.0,1001.0,71.4
+832,University of Hohenheim,Germany,2020,51,526.0,1001.0,270.0,790.0,71.4
+833,University of Wrocław,Poland,2020,5,464.0,1001.0,252.0,856.0,71.4
+834,East Carolina University,USA,2020,193,526.0,722.0,270.0,800.0,71.3
+835,University of Alcalá,Spain,2020,29,526.0,1001.0,270.0,792.0,71.3
+836,Adam Mickiewicz University in Poznań,Poland,2020,6,526.0,1001.0,270.0,793.0,71.3
+837,Southern Illinois University Carbondale,USA,2020,194,526.0,1001.0,270.0,795.0,71.3
+838,Brazilian Center for Research in Physics (CBPF),Brazil,2020,13,526.0,1001.0,270.0,794.0,71.3
+839,Uniformed Services University of the Health Sciences,USA,2020,195,526.0,1001.0,270.0,796.0,71.3
+840,University of Orléans,France,2020,39,526.0,1001.0,270.0,798.0,71.3
+841,Rutgers University–Newark,USA,2020,196,526.0,858.0,270.0,802.0,71.3
+842,University of Alicante,Spain,2020,30,526.0,1001.0,270.0,801.0,71.3
+843,INSA Toulouse,France,2020,40,526.0,547.0,270.0,822.0,71.3
+844,Federico Santa María Technical University,Chile,2020,4,526.0,1001.0,270.0,803.0,71.3
+845,University of Brasília,Brazil,2020,14,526.0,924.0,270.0,806.0,71.3
+846,University of Basilicata,Italy,2020,44,526.0,1001.0,270.0,805.0,71.3
+847,Beijing Forestry University,China,2020,106,526.0,1001.0,270.0,807.0,71.3
+848,New Mexico State University,USA,2020,197,469.0,766.0,270.0,815.0,71.3
+849,Indian Institute of Technology Roorkee,India,2020,13,526.0,279.0,270.0,874.0,71.2
+850,University of Jinan,China,2020,107,526.0,1001.0,270.0,808.0,71.2
+851,University of Brighton,United Kingdom,2020,55,526.0,1001.0,270.0,809.0,71.2
+852,"University of California, Merced",USA,2020,198,526.0,1001.0,270.0,810.0,71.2
+853,Banaras Hindu University,India,2020,14,332.0,665.0,270.0,834.0,71.2
+854,University of Mons,Belgium,2020,9,526.0,1001.0,270.0,811.0,71.2
+855,Northern Arizona University,USA,2020,199,526.0,1001.0,270.0,814.0,71.2
+856,Graduate University for Advanced Studies,Japan,2020,31,526.0,1001.0,270.0,812.0,71.2
+857,Keele University,United Kingdom,2020,56,526.0,1001.0,270.0,813.0,71.2
+858,Murdoch University,Australia,2020,25,526.0,854.0,270.0,821.0,71.2
+859,University of Windsor,Canada,2020,26,526.0,172.0,270.0,957.0,71.2
+860,University of Valladolid,Spain,2020,31,526.0,1001.0,270.0,816.0,71.2
+861,Portland State University,USA,2020,200,526.0,359.0,270.0,862.0,71.2
+862,Babeș-Bolyai University,Romania,2020,1,526.0,1001.0,270.0,817.0,71.2
+863,University of Insubria,Italy,2020,45,526.0,1001.0,270.0,818.0,71.1
+864,Benemérita Autonomous University of Puebla,Mexico,2020,4,526.0,1001.0,270.0,819.0,71.1
+865,Federal University of Pernambuco,Brazil,2020,15,526.0,1001.0,270.0,820.0,71.1
+866,TU Kaiserslautern,Germany,2020,52,526.0,1001.0,270.0,823.0,71.1
+867,"City, University of London",United Kingdom,2020,57,517.0,432.0,270.0,855.0,71.1
+868,Sofia University,Bulgaria,2020,1,164.0,1001.0,270.0,866.0,71.1
+869,Guangzhou Medical University,China,2020,108,526.0,1001.0,270.0,824.0,71.1
+870,University of Hyogo,Japan,2020,32,526.0,1001.0,93.0,1001.0,71.1
+871,COMSATS University Islamabad,Pakistan,2020,2,526.0,1001.0,270.0,825.0,71.1
+872,Nihon University,Japan,2020,33,516.0,1001.0,270.0,827.0,71.1
+873,"All India Institute of Medical Sciences, New Delhi",India,2020,15,526.0,1001.0,270.0,826.0,71.1
+874,University of Akron,USA,2020,201,526.0,748.0,270.0,835.0,71.1
+875,Meijo University,Japan,2020,34,526.0,1001.0,48.0,1001.0,71.1
+876,Jaume I University,Spain,2020,32,526.0,1001.0,270.0,828.0,71.1
+877,University of Stirling,United Kingdom,2020,58,526.0,606.0,270.0,845.0,71.1
+878,Pepperdine University,USA,2020,202,92.0,76.0,159.0,1001.0,71.0
+879,Paul Valéry University,France,2020,41,526.0,1001.0,270.0,829.0,71.0
+880,Harbin Engineering University,China,2020,109,526.0,1001.0,270.0,830.0,71.0
+881,"University of Science and Technology, Korea",South Korea,2020,27,526.0,1001.0,270.0,833.0,71.0
+882,University of Portsmouth,United Kingdom,2020,59,526.0,1001.0,270.0,839.0,71.0
+883,Bucknell University,USA,2020,203,526.0,50.0,270.0,1001.0,71.0
+884,University of Poitiers,France,2020,42,333.0,1001.0,270.0,848.0,71.0
+885,Ivane Javakhishvili Tbilisi State University,Georgia,2020,1,526.0,1001.0,270.0,838.0,71.0
+886,National University of Malaysia (UKM),Malaysia,2020,4,526.0,1001.0,270.0,840.0,71.0
+887,Iran University of Science and Technology,Iran,2020,8,526.0,1001.0,270.0,841.0,71.0
+888,Chongqing Medical University,China,2020,110,526.0,1001.0,270.0,843.0,71.0
+889,Institut national de la recherche scientifique,Canada,2020,27,526.0,1001.0,270.0,844.0,71.0
+890,Colgate University,USA,2020,204,526.0,47.0,270.0,1001.0,71.0
+891,Dongguk University,South Korea,2020,28,526.0,540.0,270.0,864.0,71.0
+892,Inje University,South Korea,2020,29,526.0,1001.0,270.0,846.0,71.0
+893,University POLITEHNICA of Bucharest,Romania,2020,2,526.0,1001.0,270.0,847.0,71.0
+894,National Research University Higher School of Economics,Russia,2020,12,526.0,1001.0,270.0,849.0,70.9
+895,Gachon University,South Korea,2020,30,526.0,1001.0,270.0,850.0,70.9
+896,Michigan Technological University,USA,2020,205,342.0,984.0,270.0,852.0,70.9
+897,London Business School,United Kingdom,2020,60,526.0,64.0,270.0,1001.0,70.9
+898,Budapest University of Technology and Economics,Hungary,2020,5,223.0,1001.0,270.0,872.0,70.9
+899,Sanford Burnham Prebys Medical Discovery Institute,USA,2020,206,526.0,1001.0,270.0,851.0,70.9
+900,University of Seoul,South Korea,2020,31,526.0,1001.0,270.0,853.0,70.9
+901,Tokushima University,Japan,2020,35,142.0,849.0,270.0,918.0,70.9
+902,Cheung Kong Graduate School of Business,China,2020,111,526.0,31.0,270.0,1001.0,70.9
+903,Ulster University,United Kingdom,2020,61,526.0,1001.0,270.0,857.0,70.9
+904,Gabriele d’Annunzio University,Italy,2020,46,526.0,1001.0,270.0,858.0,70.9
+905,Çukurova University,Turkey,2020,9,526.0,1001.0,270.0,859.0,70.9
+906,Federal University of ABC,Brazil,2020,16,526.0,1001.0,270.0,860.0,70.9
+907,University of Luxembourg,Luxembourg,2020,1,526.0,1001.0,270.0,861.0,70.9
+908,Antioch College,USA,2020,207,22.0,1001.0,270.0,1001.0,70.9
+909,Missouri University of Science and Technology,USA,2020,208,526.0,418.0,270.0,895.0,70.8
+910,Bilkent University,Turkey,2020,10,526.0,801.0,270.0,868.0,70.8
+911,Medical University of Warsaw,Poland,2020,7,526.0,1001.0,270.0,863.0,70.8
+912,Tomsk State University,Russia,2020,13,526.0,1001.0,270.0,865.0,70.8
+913,"University of the Republic, Uruguay",Uruguay,2020,1,526.0,1001.0,270.0,867.0,70.8
+914,Chungbuk National University,South Korea,2020,32,526.0,1001.0,270.0,869.0,70.8
+915,National University of Córdoba,Argentina,2020,3,526.0,1001.0,270.0,870.0,70.8
+916,University of Texas Rio Grande Valley,USA,2020,209,526.0,1001.0,270.0,871.0,70.8
+917,North Dakota State University,USA,2020,210,320.0,1001.0,270.0,879.0,70.8
+918,Claremont McKenna College,USA,2020,211,526.0,45.0,270.0,1001.0,70.8
+919,Peter the Great St. Petersburg Polytechnic University,Russia,2020,14,479.0,946.0,270.0,875.0,70.8
+920,Henan University,China,2020,112,526.0,1001.0,270.0,873.0,70.8
+921,Federal University of Viçosa,Brazil,2020,17,526.0,1001.0,270.0,876.0,70.8
+922,North-West University,South Africa,2020,7,526.0,1001.0,270.0,877.0,70.8
+923,Makerere University,Uganda,2020,1,526.0,1001.0,270.0,878.0,70.8
+924,University of Franche-Comté,France,2020,43,482.0,1001.0,270.0,880.0,70.8
+925,Johannes Kepler University Linz,Austria,2020,10,526.0,821.0,270.0,888.0,70.7
+926,University of Memphis,USA,2020,212,526.0,484.0,270.0,909.0,70.7
+927,Anhui University,China,2020,113,526.0,966.0,270.0,886.0,70.7
+928,Tunis El Manar University,Tunisia,2020,1,526.0,1001.0,270.0,881.0,70.7
+929,China Pharmaceutical University,China,2020,114,526.0,1001.0,270.0,882.0,70.7
+930,Chiang Mai University,Thailand,2020,3,526.0,1001.0,270.0,883.0,70.7
+931,Tokai University,Japan,2020,36,526.0,1001.0,270.0,884.0,70.7
+932,Federal University of Ceará,Brazil,2020,18,526.0,1001.0,270.0,885.0,70.7
+933,Oberlin College,USA,2020,213,30.0,1001.0,270.0,1001.0,70.7
+934,Hangzhou Normal University,China,2020,115,526.0,1001.0,270.0,887.0,70.7
+935,Ritsumeikan University,Japan,2020,37,526.0,590.0,270.0,904.0,70.7
+936,"University of Technology, Malaysia",Malaysia,2020,5,526.0,1001.0,270.0,889.0,70.7
+937,Shandong First Medical University & Shandong Academy of Medical Sciences,China,2020,116,526.0,1001.0,270.0,890.0,70.7
+938,Guangxi University,China,2020,117,526.0,1001.0,270.0,891.0,70.7
+939,Northumbria University,United Kingdom,2020,62,526.0,838.0,270.0,896.0,70.7
+940,Wroclaw Medical University,Poland,2020,8,526.0,1001.0,270.0,893.0,70.6
+941,Ehime University,Japan,2020,38,526.0,1001.0,270.0,900.0,70.6
+942,College of the Holy Cross,USA,2020,214,175.0,48.0,270.0,1001.0,70.6
+943,Federal University of Pelotas,Brazil,2020,19,526.0,1001.0,270.0,898.0,70.6
+944,Ningbo University,China,2020,118,526.0,1001.0,270.0,899.0,70.6
+945,Federal University of São Carlos,Brazil,2020,20,526.0,1001.0,270.0,901.0,70.6
+946,Tokyo University of Agriculture and Technology,Japan,2020,39,526.0,1001.0,270.0,902.0,70.6
+947,Victoria University,Australia,2020,26,526.0,1001.0,270.0,905.0,70.6
+948,University of Limerick,Ireland,2020,5,526.0,807.0,270.0,910.0,70.6
+949,Shiraz University,Iran,2020,9,526.0,1001.0,270.0,906.0,70.6
+950,University of Regina,Canada,2020,28,526.0,1001.0,270.0,907.0,70.6
+951,New Jersey Institute of Technology,USA,2020,215,424.0,717.0,270.0,915.0,70.6
+952,University of Sassari,Italy,2020,47,526.0,1001.0,270.0,908.0,70.6
+953,Lappeenranta University of Technology,Finland,2020,8,526.0,759.0,270.0,913.0,70.6
+954,Florida Institute of Technology,USA,2020,216,526.0,663.0,270.0,924.0,70.6
+955,University of Upper Alsace,France,2020,44,526.0,1001.0,270.0,911.0,70.6
+956,University of Toyama,Japan,2020,40,526.0,561.0,270.0,942.0,70.5
+957,University of Picardie Jules Verne,France,2020,45,526.0,1001.0,270.0,914.0,70.5
+958,Hunter College,USA,2020,217,153.0,1001.0,270.0,973.0,70.5
+959,Gifu University,Japan,2020,41,526.0,758.0,270.0,928.0,70.5
+960,Autonomous University of San Luis Potosí,Mexico,2020,5,526.0,1001.0,270.0,916.0,70.5
+961,Mansoura University,Egypt,2020,3,526.0,1001.0,270.0,917.0,70.5
+962,Zhejiang Normal University,China,2020,119,526.0,1001.0,270.0,919.0,70.5
+963,Tokyo Women's Medical University,Japan,2020,42,526.0,1001.0,270.0,920.0,70.5
+964,Hallym University,South Korea,2020,33,526.0,1001.0,270.0,921.0,70.5
+965,Shahid Beheshti University of Medical Sciences,Iran,2020,10,526.0,1001.0,270.0,922.0,70.5
+966,Medical University of Lodz,Poland,2020,9,526.0,1001.0,270.0,923.0,70.5
+967,Osaka Prefecture University,Japan,2020,43,526.0,636.0,270.0,947.0,70.5
+968,Miguel Hernández University of Elche,Spain,2020,33,526.0,1001.0,270.0,925.0,70.5
+969,Shandong University of Science and Technology,China,2020,120,526.0,1001.0,270.0,927.0,70.5
+970,Aston University,United Kingdom,2020,63,526.0,557.0,270.0,955.0,70.5
+971,Rouen Normandy University,France,2020,46,449.0,1001.0,270.0,929.0,70.5
+972,Alexandria University,Egypt,2020,4,404.0,1001.0,270.0,933.0,70.5
+973,University of Mannheim,Germany,2020,53,526.0,859.0,270.0,937.0,70.4
+974,Anhui Medical University,China,2020,121,526.0,1001.0,270.0,930.0,70.4
+975,King Juan Carlos University,Spain,2020,34,526.0,1001.0,270.0,931.0,70.4
+976,Wrocław University of Science and Technology,Poland,2020,10,526.0,912.0,270.0,936.0,70.4
+977,University of Extremadura,Spain,2020,35,526.0,1001.0,270.0,932.0,70.4
+978,American University,USA,2020,218,526.0,324.0,270.0,985.0,70.4
+979,Indian Institute of Technology Guwahati,India,2020,16,526.0,1001.0,270.0,934.0,70.4
+980,Fluminense Federal University,Brazil,2020,21,526.0,948.0,270.0,941.0,70.4
+981,University of Bucharest,Romania,2020,3,352.0,1001.0,270.0,946.0,70.4
+982,Creighton University,USA,2020,219,526.0,1001.0,270.0,935.0,70.4
+983,ShanghaiTech University,China,2020,122,526.0,1001.0,270.0,939.0,70.4
+984,Marmara University,Turkey,2020,11,526.0,1001.0,270.0,940.0,70.4
+985,Chuo University,Japan,2020,44,526.0,71.0,270.0,1001.0,70.4
+986,Ferdowsi University of Mashhad,Iran,2020,11,526.0,1001.0,270.0,943.0,70.4
+987,Khalifa University,United Arab Emirates,2020,1,526.0,1001.0,270.0,944.0,70.4
+988,University of A Coruña,Spain,2020,36,526.0,1001.0,270.0,945.0,70.4
+989,Yamagata University,Japan,2020,45,526.0,1001.0,270.0,948.0,70.3
+990,University of Naples Parthenope,Italy,2020,48,526.0,1001.0,270.0,949.0,70.3
+991,Xiangtan University,China,2020,123,526.0,1001.0,270.0,951.0,70.3
+992,University of Tabriz,Iran,2020,12,526.0,1001.0,270.0,950.0,70.3
+993,Babson College,USA,2020,220,526.0,44.0,270.0,1001.0,70.3
+994,Yanshan University,China,2020,124,526.0,1001.0,270.0,952.0,70.3
+995,Henan Normal University,China,2020,125,526.0,1001.0,270.0,953.0,70.3
+996,SUNY Upstate Medical University,USA,2020,221,526.0,1001.0,270.0,954.0,70.3
+997,United States Naval Academy,USA,2020,222,65.0,164.0,270.0,1001.0,70.3
+998,Shanghai Normal University,China,2020,126,526.0,1001.0,270.0,956.0,70.3
+999,Sogang University,South Korea,2020,34,526.0,657.0,270.0,965.0,70.3
+1000,Louisiana Tech University,USA,2020,223,526.0,312.0,270.0,1001.0,70.3

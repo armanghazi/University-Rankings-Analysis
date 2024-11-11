@@ -1,0 +1,1001 @@
+World Rank,Institution,Location,Year,National Rank,Education Rank,Employability Rank,Faculty Rank,Research Rank,Score
+1,Harvard University,USA,2018,1,2.0,1,1.0,1,100.0
+2,Stanford University,USA,2018,2,10.0,3,2.0,3,96.7
+3,Massachusetts Institute of Technology,USA,2018,3,3.0,11,3.0,8,95.1
+4,University of Cambridge,United Kingdom,2018,1,5.0,19,6.0,11,94.0
+5,University of Oxford,United Kingdom,2018,2,9.0,25,10.0,5,93.2
+6,"University of California, Berkeley",USA,2018,4,7.0,52,5.0,8,92.5
+7,Princeton University,USA,2018,5,4.0,15,4.0,51,91.9
+8,Columbia University,USA,2018,6,16.0,13,8.0,11,91.4
+9,California Institute of Technology,USA,2018,7,1.0,200,7.0,42,91.0
+10,University of Chicago,USA,2018,8,13.0,22,9.0,17,90.6
+11,Yale University,USA,2018,9,11.0,34,12.0,20,90.3
+12,University of Tokyo,Japan,2018,1,17.0,8,33.0,23,90.0
+13,University of Pennsylvania,USA,2018,10,31.0,9,30.0,14,89.7
+14,Cornell University,USA,2018,11,14.0,28,19.0,26,89.4
+15,"University of California, Los Angeles",USA,2018,12,58.0,63,11.0,10,89.1
+16,Johns Hopkins University,USA,2018,13,24.0,159,17.0,7,88.9
+17,University of Toronto,Canada,2018,1,86.0,157,23.0,8,88.7
+18,"University of Michigan, Ann Arbor",USA,2018,14,47.0,38,68.0,11,88.4
+19,University of Washington - Seattle,USA,2018,15,75.0,220,26.0,9,88.2
+20,"University of California, San Diego",USA,2018,16,37.0,1001,16.0,12,88.0
+21,University College London,United Kingdom,2018,3,32.0,739,28.0,15,87.8
+22,"University of California, San Francisco",USA,2018,17,667.0,1001,13.0,16,87.7
+23,Northwestern University,USA,2018,18,129.0,18,44.0,33,87.5
+24,Duke University,USA,2018,19,98.0,46,47.0,18,87.3
+25,New York University,USA,2018,20,64.0,40,18.0,38,87.2
+26,Kyoto University,Japan,2018,2,25.0,29,24.0,65,87.0
+27,University of Wisconsin–Madison,USA,2018,21,65.0,79,32.0,24,86.9
+28,ETH Zurich,Switzerland,2018,1,29.0,98,20.0,43,86.7
+29,Sorbonne University,France,2018,1,46.0,344,56.0,20,86.6
+30,Imperial College London,United Kingdom,2018,4,93.0,103,43.0,24,86.5
+31,University of Texas at Austin,USA,2018,22,108.0,62,29.0,47,86.3
+32,University of Illinois at Urbana–Champaign,USA,2018,23,40.0,150,27.0,55,86.2
+33,University of North Carolina at Chapel Hill,USA,2018,24,205.0,120,72.0,28,86.1
+34,University of Edinburgh,United Kingdom,2018,5,61.0,325,36.0,45,86.0
+35,University of Minnesota Twin Cities,USA,2018,25,131.0,302,76.0,28,85.9
+36,Washington University in St. Louis,USA,2018,26,206.0,161,64.0,30,85.8
+37,McGill University,Canada,2018,2,68.0,86,65.0,43,85.6
+38,University of British Columbia,Canada,2018,3,173.0,699,78.0,29,85.5
+39,University of Copenhagen,Denmark,2018,1,302.0,364,79.0,31,85.4
+40,Ohio State University,USA,2018,27,165.0,254,70.0,39,85.3
+41,Rutgers University-New Brunswick,USA,2018,28,212.0,101,35.0,63,85.2
+42,"University of California, Davis",USA,2018,29,83.0,579,75.0,35,85.1
+43,Pennsylvania State University,USA,2018,30,374.0,168,60.0,44,85.0
+44,University of Manchester,United Kingdom,2018,6,171.0,227,63.0,49,85.0
+45,Weizmann Institute of Science,Israel,2018,1,8.0,1001,22.0,205,84.9
+46,Heidelberg University,Germany,2018,1,71.0,807,51.0,56,84.8
+47,"University of Maryland, College Park",USA,2018,31,103.0,480,55.0,53,84.7
+48,Ludwig Maximilian University of Munich,Germany,2018,2,91.0,266,83.0,48,84.6
+49,Karolinska Institute,Sweden,2018,1,162.0,1001,46.0,69,84.5
+50,University of Colorado Boulder,USA,2018,32,134.0,170,41.0,70,84.4
+51,University of Southern California,USA,2018,33,215.0,111,40.0,76,84.4
+52,University of Arizona,USA,2018,34,166.0,164,53.0,62,84.3
+53,Osaka University,Japan,2018,3,70.0,65,61.0,113,84.2
+54,University of Paris-Sud,France,2018,2,49.0,815,38.0,87,84.1
+55,University of Geneva,Switzerland,2018,2,35.0,381,31.0,96,84.0
+56,Boston University,USA,2018,35,572.0,112,106.0,51,84.0
+57,University of Melbourne,Australia,2018,1,232.0,408,180.0,43,83.9
+58,Brown University,USA,2018,36,95.0,50,50.0,97,83.8
+59,"University of California, Irvine",USA,2018,37,264.0,1001,42.0,73,83.8
+60,Seoul National University,South Korea,2018,1,667.0,20,304.0,105,83.7
+61,Hebrew University of Jerusalem,Israel,2018,2,19.0,400,15.0,223,83.6
+62,University of Florida,USA,2018,38,472.0,485,113.0,59,83.6
+63,"Purdue University, West Lafayette",USA,2018,39,96.0,83,58.0,109,83.5
+64,Vanderbilt University,USA,2018,40,148.0,91,140.0,55,83.4
+65,University of Bristol,United Kingdom,2018,7,186.0,296,48.0,84,83.4
+66,University of Texas Southwestern Medical Center,USA,2018,41,33.0,1001,39.0,124,83.3
+67,Sapienza University of Rome,Italy,2018,1,117.0,486,34.0,123,83.2
+68,King's College London,United Kingdom,2018,8,43.0,341,110.0,72,83.2
+69,University of Zurich,Switzerland,2018,3,267.0,771,108.0,57,83.1
+70,"University of California, Santa Barbara",USA,2018,42,149.0,596,25.0,96,83.0
+71,University of Sydney,Australia,2018,2,231.0,590,208.0,50,83.0
+72,Utrecht University,Netherlands,2018,1,122.0,352,137.0,55,82.9
+73,University of Pittsburgh,USA,2018,43,187.0,233,304.0,30,82.9
+74,University of Queensland,Australia,2018,3,310.0,541,181.0,56,82.8
+75,University of Oslo,Norway,2018,1,97.0,633,52.0,102,82.8
+76,Rockefeller University,USA,2018,44,15.0,1001,14.0,247,82.7
+77,University of São Paulo,Brazil,2018,1,583.0,256,109.0,120,82.6
+78,"Texas A&M University, College Station",USA,2018,45,625.0,183,57.0,110,82.6
+79,University of Virginia,USA,2018,46,271.0,31,168.0,99,82.5
+80,Emory University,USA,2018,47,667.0,197,164.0,61,82.5
+81,Free University of Berlin,Germany,2018,3,112.0,1001,124.0,78,82.4
+82,Australian National University,Australia,2018,4,188.0,666,37.0,119,82.4
+83,University of Utah,USA,2018,48,169.0,187,80.0,89,82.3
+84,Paris Diderot University,France,2018,3,192.0,1001,101.0,76,82.3
+85,Tel Aviv University,Israel,2018,3,105.0,143,59.0,132,82.2
+86,Uppsala University,Sweden,2018,2,102.0,548,84.0,96,82.2
+87,University of Barcelona,Spain,2018,1,386.0,472,181.0,72,82.1
+88,Aarhus University,Denmark,2018,2,589.0,379,114.0,93,82.1
+89,University of Texas MD Anderson Cancer Center,USA,2018,49,667.0,1001,91.0,80,82.0
+90,Leiden University,Netherlands,2018,2,228.0,1001,118.0,80,82.0
+91,Carnegie Mellon University,USA,2018,50,34.0,145,21.0,193,81.9
+92,Peking University,China,2018,1,340.0,67,304.0,98,81.9
+93,University of Helsinki,Finland,2018,1,109.0,1001,135.0,89,81.8
+94,Baylor College of Medicine,USA,2018,51,667.0,1001,141.0,70,81.8
+95,Lund University,Sweden,2018,3,294.0,753,122.0,96,81.7
+96,University of Alberta,Canada,2018,4,281.0,371,192.0,89,81.7
+97,Grenoble Alpes University,France,2018,4,334.0,1001,157.0,85,81.7
+98,Tsinghua University,China,2018,2,586.0,109,304.0,82,81.6
+99,University of Basel,Switzerland,2018,4,142.0,393,54.0,130,81.6
+100,University of Groningen,Netherlands,2018,3,363.0,482,131.0,90,81.5
+101,Humboldt University of Berlin,Germany,2018,4,570.0,1001,225.0,77,81.5
+102,École Polytechnique Fédérale de Lausanne,Switzerland,2018,5,400.0,92,141.0,94,81.4
+103,National University of Singapore,Singapore,2018,1,667.0,148,304.0,70,81.4
+104,Ghent University,Belgium,2018,1,311.0,685,190.0,102,81.3
+105,University of Rochester,USA,2018,52,73.0,74,139.0,118,81.3
+106,Erasmus University Rotterdam,Netherlands,2018,4,667.0,90,264.0,88,81.3
+107,KU Leuven,Belgium,2018,2,667.0,429,304.0,66,81.2
+108,University of Bern,Switzerland,2018,6,183.0,1001,102.0,111,81.2
+109,National Taiwan University,Taiwan,2018,1,140.0,37,304.0,145,81.1
+110,University of Montreal,Canada,2018,5,486.0,455,205.0,108,81.1
+111,"University of California, Santa Cruz",USA,2018,53,343.0,1001,45.0,143,81.1
+112,Technical University of Munich,Germany,2018,5,89.0,339,226.0,108,81.0
+113,Nagoya University,Japan,2018,4,69.0,366,67.0,185,81.0
+114,Arizona State University,USA,2018,54,667.0,796,111.0,122,80.9
+115,University of Bonn,Germany,2018,6,123.0,494,105.0,127,80.9
+116,École Polytechnique,France,2018,5,85.0,5,240.0,333,80.9
+117,École normale supérieure,France,2018,6,6.0,627,82.0,376,80.8
+118,University of Nottingham,United Kingdom,2018,9,317.0,375,98.0,138,80.8
+119,University of New South Wales,Australia,2018,5,399.0,126,278.0,104,80.8
+120,Tohoku University,Japan,2018,5,82.0,158,246.0,145,80.7
+121,McMaster University,Canada,2018,6,339.0,660,202.0,105,80.7
+122,Dartmouth College,USA,2018,55,48.0,17,232.0,228,80.6
+123,University of Amsterdam,Netherlands,2018,5,175.0,872,298.0,76,80.6
+124,Monash University,Australia,2018,6,455.0,405,304.0,87,80.6
+125,University of Hamburg,Germany,2018,7,594.0,414,177.0,127,80.5
+126,Moscow State University,Russia,2018,1,23.0,384,71.0,291,80.5
+127,VU University Amsterdam,Netherlands,2018,6,667.0,984,304.0,82,80.5
+128,Stony Brook University,USA,2018,56,373.0,1001,62.0,166,80.4
+129,Rice University,USA,2018,57,67.0,93,77.0,185,80.4
+130,Radboud University Nijmegen,Netherlands,2018,7,172.0,533,304.0,79,80.4
+131,Cardiff University,United Kingdom,2018,10,338.0,483,95.0,150,80.3
+132,University of Tübingen,Germany,2018,8,94.0,1001,122.0,166,80.3
+133,University of Colorado Denver | Anschutz Medical Campus,USA,2018,58,667.0,1001,94.0,147,80.3
+134,University of Iowa,USA,2018,59,292.0,373,212.0,126,80.2
+135,University of Strasbourg,France,2018,7,113.0,1001,49.0,210,80.2
+136,Shanghai Jiao Tong University,China,2018,3,619.0,236,304.0,141,80.2
+137,University of Southampton,United Kingdom,2018,11,603.0,285,243.0,128,80.1
+138,Aix-Marseille University,France,2018,8,401.0,941,304.0,101,80.1
+139,Georgia Institute of Technology,USA,2018,60,282.0,151,157.0,170,80.1
+140,Tokyo Institute of Technology,Japan,2018,6,303.0,71,87.0,224,80.0
+141,University of Montpellier,France,2018,9,565.0,1001,214.0,131,80.0
+142,Case Western Reserve University,USA,2018,61,60.0,259,280.0,108,80.0
+143,Indiana University Bloomington,USA,2018,62,237.0,78,133.0,172,79.9
+144,Michigan State University,USA,2018,63,209.0,281,304.0,105,79.9
+145,University of Western Australia,Australia,2018,7,273.0,663,253.0,128,79.9
+146,University of Lausanne,Switzerland,2018,7,144.0,791,104.0,162,79.8
+147,Technion – Israel Institute of Technology,Israel,2018,4,79.0,271,69.0,213,79.8
+148,University of Milan,Italy,2018,2,384.0,691,229.0,143,79.8
+149,Goethe University Frankfurt,Germany,2018,9,220.0,642,107.0,193,79.7
+150,University of Padua,Italy,2018,3,553.0,1001,304.0,111,79.7
+151,Oregon Health & Science University,USA,2018,64,667.0,1001,172.0,142,79.7
+152,Autonomous University of Barcelona,Spain,2018,2,667.0,1001,153.0,176,79.6
+153,Icahn School of Medicine at Mount Sinai,USA,2018,65,667.0,1001,304.0,102,79.6
+154,Tufts University,USA,2018,66,100.0,64,229.0,180,79.6
+155,University of Göttingen,Germany,2018,10,80.0,316,224.0,165,79.6
+156,Royal Institute of Technology,Sweden,2018,4,266.0,45,126.0,259,79.5
+157,Zhejiang University,China,2018,4,667.0,568,304.0,199,79.5
+158,University of Glasgow,United Kingdom,2018,12,284.0,264,304.0,115,79.5
+159,Stockholm University,Sweden,2018,5,243.0,276,263.0,134,79.4
+160,University of Notre Dame,USA,2018,67,397.0,30,103.0,296,79.4
+161,Université catholique de Louvain,Belgium,2018,3,355.0,524,116.0,185,79.4
+162,University of Sheffield,United Kingdom,2018,13,330.0,440,281.0,133,79.4
+163,University of Warwick,United Kingdom,2018,14,221.0,239,164.0,180,79.3
+164,University of Leeds,United Kingdom,2018,15,104.0,291,304.0,134,79.3
+165,University of Freiburg,Germany,2018,11,217.0,209,286.0,139,79.3
+166,University of Gothenburg,Sweden,2018,6,501.0,427,141.0,184,79.2
+167,North Carolina State University,USA,2018,68,121.0,416,153.0,201,79.2
+168,Wageningen University and Research,Netherlands,2018,8,534.0,962,223.0,158,79.2
+169,University of Birmingham,United Kingdom,2018,16,164.0,355,292.0,149,79.2
+170,Fudan University,China,2018,5,667.0,210,304.0,186,79.1
+171,University of Hong Kong,Hong Kong,2018,1,432.0,165,304.0,143,79.1
+172,University of Vienna,Austria,2018,1,443.0,489,138.0,193,79.1
+173,Nanyang Technological University,Singapore,2018,2,667.0,1001,304.0,150,79.1
+174,Hokkaido University,Japan,2018,7,415.0,305,177.0,229,79.0
+175,Keio University,Japan,2018,8,549.0,12,304.0,320,79.0
+176,Université libre de Bruxelles,Belgium,2018,4,358.0,258,81.0,231,79.0
+177,Iowa State University,USA,2018,69,563.0,245,134.0,210,78.9
+178,Chinese University of Hong Kong,Hong Kong,2018,2,247.0,1001,141.0,211,78.9
+179,University of Liverpool,United Kingdom,2018,17,382.0,436,294.0,143,78.9
+180,University of Georgia,USA,2018,70,204.0,337,216.0,210,78.9
+181,Paris Descartes University,France,2018,10,482.0,916,304.0,145,78.8
+182,University of Massachusetts Medical School,USA,2018,71,667.0,1001,91.0,206,78.8
+183,"University of Science and Technology, Korea",South Korea,2018,2,667.0,1001,304.0,205,78.8
+184,University of Massachusetts Amherst,USA,2018,72,297.0,253,198.0,186,78.8
+185,University of Florence,Italy,2018,4,458.0,765,112.0,245,78.7
+186,University of Münster,Germany,2018,12,224.0,782,222.0,185,78.7
+187,Queen Mary University of London,United Kingdom,2018,18,241.0,907,198.0,193,78.7
+188,Newcastle University,United Kingdom,2018,19,667.0,498,261.0,167,78.7
+189,University of Chinese Academy of Sciences,China,2018,6,667.0,1001,304.0,385,78.6
+190,University of Missouri–Columbia,USA,2018,73,490.0,190,115.0,242,78.6
+191,University of Alabama at Birmingham,USA,2018,74,667.0,1001,304.0,139,78.6
+192,Durham University,United Kingdom,2018,20,141.0,327,89.0,244,78.6
+193,University of Connecticut,USA,2018,75,573.0,417,141.0,219,78.5
+194,University of Texas Health Science Center at Houston,USA,2018,76,667.0,1001,194.0,189,78.5
+195,Yeshiva University,USA,2018,77,336.0,1001,266.0,157,78.5
+196,University of Calgary,Canada,2018,7,667.0,213,304.0,178,78.5
+197,University of Miami,USA,2018,78,667.0,286,304.0,147,78.4
+198,Western University,Canada,2018,8,454.0,105,304.0,178,78.4
+199,Paul Sabatier University - Toulouse III,France,2018,11,667.0,1001,304.0,150,78.4
+200,Nanjing University,China,2018,7,479.0,563,304.0,196,78.4
+201,University of Bologna,Italy,2018,5,645.0,709,304.0,172,78.4
+202,Sun Yat-sen University,China,2018,8,667.0,527,304.0,205,78.3
+203,Charles University in Prague,Czech Republic,2018,1,494.0,1001,241.0,222,78.3
+204,University of Cincinnati,USA,2018,79,290.0,195,304.0,165,78.3
+205,University of Ottawa,Canada,2018,9,366.0,431,304.0,174,78.3
+206,University of Liège,Belgium,2018,5,159.0,1001,91.0,250,78.2
+207,TU Dresden,Germany,2018,13,667.0,1001,304.0,161,78.2
+208,University of Turin,Italy,2018,6,597.0,1001,202.0,224,78.2
+209,University of Science and Technology of China,China,2018,9,667.0,347,304.0,205,78.2
+210,"University of Maryland, Baltimore",USA,2018,80,667.0,1001,304.0,148,78.1
+211,University of Sussex,United Kingdom,2018,21,219.0,387,73.0,266,78.1
+212,RWTH Aachen University,Germany,2018,14,655.0,298,244.0,227,78.1
+213,University of Cologne,Germany,2018,15,667.0,287,285.0,192,78.1
+214,University of Würzburg,Germany,2018,16,244.0,853,213.0,215,78.1
+215,Technical University of Denmark,Denmark,2018,3,640.0,830,287.0,164,78.0
+216,University of Erlangen-Nuremberg,Germany,2018,17,346.0,928,304.0,169,78.0
+217,University of Illinois at Chicago,USA,2018,81,431.0,1001,304.0,168,78.0
+218,Sungkyunkwan University,South Korea,2018,3,667.0,237,304.0,201,78.0
+219,Louisiana State University,USA,2018,82,548.0,345,304.0,169,77.9
+220,University of Lisbon,Portugal,2018,1,622.0,1001,291.0,204,77.9
+221,Claude Bernard University Lyon 1,France,2018,12,667.0,1001,304.0,187,77.9
+222,Yonsei University,South Korea,2018,4,667.0,116,304.0,264,77.9
+223,University of Cape Town,South Africa,2018,1,216.0,294,187.0,248,77.9
+224,University of Kansas,USA,2018,83,324.0,270,304.0,173,77.8
+225,University College Dublin,Ireland,2018,1,492.0,310,127.0,256,77.8
+226,Kyushu University,Japan,2018,9,508.0,106,304.0,259,77.8
+227,University of Porto,Portugal,2018,2,195.0,655,191.0,291,77.8
+228,"Trinity College, Dublin",Ireland,2018,2,524.0,96,283.0,217,77.7
+229,University of Adelaide,Australia,2018,8,444.0,845,304.0,193,77.7
+230,University of the Witwatersrand,South Africa,2018,2,133.0,80,216.0,289,77.7
+231,University of Manitoba,Canada,2018,10,301.0,207,194.0,278,77.7
+232,Karlsruhe Institute of Technology,Germany,2018,18,652.0,334,244.0,270,77.7
+233,University of Kiel,Germany,2018,19,407.0,911,282.0,216,77.6
+234,Johannes Gutenberg University Mainz,Germany,2018,20,556.0,1001,279.0,220,77.6
+235,Indiana University – Purdue University Indianapolis,USA,2018,84,667.0,943,304.0,201,77.6
+236,University of Auckland,New Zealand,2018,1,481.0,468,304.0,202,77.6
+237,Korea University,South Korea,2018,5,667.0,108,304.0,302,77.6
+238,University of Tsukuba,Japan,2018,10,398.0,1001,130.0,316,77.5
+239,Wake Forest University,USA,2018,85,445.0,73,304.0,228,77.5
+240,Ulm University,Germany,2018,21,667.0,825,174.0,288,77.5
+241,Queensland University of Technology,Australia,2018,9,667.0,1001,304.0,237,77.5
+242,University of Lille,France,2018,13,541.0,1001,304.0,227,77.5
+243,University of Aberdeen,United Kingdom,2018,22,587.0,649,219.0,252,77.4
+244,Colorado State University,USA,2018,86,307.0,1001,254.0,259,77.4
+245,"University of California, Riverside",USA,2018,87,477.0,1001,304.0,196,77.4
+246,Virginia Commonwealth University,USA,2018,88,667.0,1001,189.0,278,77.4
+247,University of Naples Federico II,Italy,2018,7,616.0,949,304.0,238,77.4
+248,Florida State University,USA,2018,89,475.0,645,304.0,202,77.3
+249,Maastricht University,Netherlands,2018,9,667.0,1001,304.0,216,77.3
+250,Brandeis University,USA,2018,90,20.0,251,66.0,419,77.3
+251,Oregon State University,USA,2018,91,328.0,519,304.0,209,77.3
+252,University of Bergen,Norway,2018,2,667.0,1001,304.0,215,77.3
+253,Wayne State University,USA,2018,92,667.0,263,304.0,221,77.2
+254,"University of Tennessee, Knoxville",USA,2018,93,585.0,288,304.0,232,77.2
+255,Umeå University,Sweden,2018,7,667.0,1001,238.0,254,77.2
+256,London School of Hygiene & Tropical Medicine,United Kingdom,2018,23,667.0,1001,304.0,194,77.2
+257,University of New Mexico,USA,2018,94,667.0,1001,304.0,208,77.2
+258,National Autonomous University of Mexico,Mexico,2018,1,491.0,1001,304.0,291,77.2
+259,University of Kentucky,USA,2018,95,611.0,535,304.0,230,77.1
+260,University of Warsaw,Poland,2018,1,150.0,1001,96.0,350,77.1
+261,Queen's University,Canada,2018,11,588.0,378,141.0,322,77.1
+262,University of South Florida,USA,2018,96,667.0,724,304.0,226,77.1
+263,Norwegian University of Science and Technology,Norway,2018,3,523.0,397,88.0,380,77.1
+264,Complutense University of Madrid,Spain,2018,3,193.0,131,300.0,299,77.0
+265,Xi'an Jiaotong University,China,2018,10,667.0,201,304.0,319,77.0
+266,University of Leicester,United Kingdom,2018,24,667.0,1001,304.0,229,77.0
+267,Medical University of Vienna,Austria,2018,2,667.0,1001,304.0,217,77.0
+268,University of Waterloo,Canada,2018,12,667.0,222,304.0,274,77.0
+269,Laval University,Canada,2018,13,564.0,499,304.0,251,76.9
+270,Shandong University,China,2018,11,667.0,800,304.0,350,76.9
+271,University of Valencia,Spain,2018,4,667.0,1001,304.0,253,76.9
+272,University of East Anglia,United Kingdom,2018,25,227.0,1001,227.0,255,76.9
+273,University at Buffalo,USA,2018,97,233.0,747,304.0,245,76.9
+274,London School of Economics,United Kingdom,2018,26,44.0,85,90.0,458,76.9
+275,Virginia Tech,USA,2018,98,544.0,322,304.0,278,76.8
+276,Huazhong University of Science and Technology,China,2018,12,667.0,244,304.0,401,76.8
+277,Washington State University,USA,2018,99,667.0,748,174.0,354,76.8
+278,Dalhousie University,Canada,2018,14,218.0,290,304.0,243,76.8
+279,University of York,United Kingdom,2018,27,667.0,1001,304.0,222,76.8
+280,Autonomous University of Madrid,Spain,2018,5,667.0,932,304.0,257,76.7
+281,University of Exeter,United Kingdom,2018,28,506.0,684,304.0,255,76.7
+282,University of South Carolina - Columbia,USA,2018,100,667.0,503,257.0,299,76.7
+283,University of Rome Tor Vergata,Italy,2018,8,667.0,1001,304.0,253,76.7
+284,Delft University of Technology,Netherlands,2018,10,566.0,406,304.0,291,76.7
+285,University of Pisa,Italy,2018,9,538.0,1001,304.0,273,76.7
+286,Kobe University,Japan,2018,11,160.0,445,141.0,354,76.6
+287,Leipzig University,Germany,2018,22,599.0,1001,295.0,261,76.6
+288,University of Delaware,USA,2018,101,396.0,688,177.0,350,76.6
+289,Georgetown University,USA,2018,102,277.0,59,304.0,308,76.6
+290,University of Duisburg-Essen,Germany,2018,23,667.0,1001,304.0,255,76.6
+291,Ruhr University Bochum,Germany,2018,24,667.0,370,304.0,290,76.6
+292,University of Antwerp,Belgium,2018,6,667.0,714,304.0,264,76.5
+293,University of Buenos Aires,Argentina,2018,1,305.0,1001,231.0,372,76.5
+294,University of Düsseldorf,Germany,2018,25,409.0,1001,304.0,253,76.5
+295,KAIST,South Korea,2018,6,667.0,156,304.0,389,76.5
+296,Sichuan University,China,2018,13,667.0,1001,304.0,483,76.5
+297,National Cheng Kung University,Taiwan,2018,2,667.0,102,304.0,409,76.5
+298,Federal University of Rio de Janeiro,Brazil,2018,2,316.0,401,304.0,316,76.4
+299,University of Houston,USA,2018,103,667.0,114,304.0,292,76.4
+300,Harbin Institute of Technology,China,2018,14,667.0,470,304.0,454,76.4
+301,University of Innsbruck,Austria,2018,3,414.0,787,136.0,339,76.4
+302,Chinese Academy of Medical Sciences & Peking Union Medical College,China,2018,15,667.0,1001,304.0,304,76.4
+303,Waseda University,Japan,2018,12,562.0,23,304.0,486,76.4
+304,University of Texas at Dallas,USA,2018,104,412.0,493,185.0,335,76.3
+305,National and Kapodistrian University of Athens,Greece,2018,1,667.0,634,304.0,320,76.3
+306,University of Hawaii at Manoa,USA,2018,105,667.0,1001,100.0,411,76.3
+307,University of Lorraine,France,2018,14,470.0,376,271.0,335,76.3
+308,George Washington University,USA,2018,106,413.0,169,304.0,311,76.3
+309,University of Otago,New Zealand,2018,2,667.0,864,304.0,281,76.3
+310,Versailles Saint-Quentin-en-Yvelines University,France,2018,15,667.0,1001,304.0,258,76.2
+311,Simon Fraser University,Canada,2018,15,667.0,1001,304.0,273,76.2
+312,Tongji University,China,2018,16,335.0,248,304.0,396,76.2
+313,University of Nebraska–Lincoln,USA,2018,107,360.0,386,304.0,294,76.2
+314,University of Perugia,Italy,2018,10,667.0,1001,164.0,393,76.2
+315,Queen's University Belfast,United Kingdom,2018,29,371.0,752,304.0,286,76.2
+316,University of Texas Health Science Center at San Antonio,USA,2018,108,667.0,1001,304.0,255,76.1
+317,University of Jena,Germany,2018,26,667.0,1001,299.0,330,76.1
+318,University of Granada,Spain,2018,6,667.0,1001,304.0,330,76.1
+319,South China University of Technology,China,2018,17,667.0,228,304.0,402,76.1
+320,University of Dundee,United Kingdom,2018,30,318.0,1001,304.0,252,76.1
+321,Vrije Universiteit Brussel,Belgium,2018,7,213.0,1001,304.0,298,76.1
+322,George Mason University,USA,2018,109,667.0,1001,85.0,435,76.0
+323,King Abdulaziz University,Saudi Arabia,2018,1,667.0,1001,304.0,331,76.0
+324,Macquarie University,Australia,2018,10,667.0,667,277.0,322,76.0
+325,Pontifical Catholic University of Chile,Chile,2018,1,252.0,221,235.0,388,76.0
+326,University of Guelph,Canada,2018,16,667.0,1001,304.0,292,76.0
+327,University of Regensburg,Germany,2018,27,667.0,727,304.0,291,76.0
+328,Central South University,China,2018,18,667.0,262,304.0,446,76.0
+329,Grenoble Institute of Technology,France,2018,16,200.0,1001,261.0,375,75.9
+330,Thomas Jefferson University,USA,2018,110,274.0,1001,304.0,283,75.9
+331,Mines ParisTech,France,2018,17,315.0,7,214.0,942,75.9
+332,University of St Andrews,United Kingdom,2018,31,279.0,811,304.0,307,75.9
+333,Medical University of South Carolina,USA,2018,111,667.0,1001,304.0,292,75.9
+334,Jilin University,China,2018,19,463.0,551,304.0,549,75.9
+335,Wuhan University,China,2018,20,667.0,383,304.0,521,75.8
+336,Hanyang University,South Korea,2018,7,667.0,241,304.0,405,75.8
+337,Nankai University,China,2018,21,628.0,354,304.0,376,75.8
+338,University of Southern Denmark,Denmark,2018,4,667.0,1001,304.0,312,75.8
+339,University of Turku,Finland,2018,2,667.0,1001,304.0,321,75.8
+340,Hong Kong University of Science and Technology,Hong Kong,2018,3,667.0,496,304.0,328,75.8
+341,Temple University,USA,2018,112,537.0,754,304.0,315,75.8
+342,Hong Kong Polytechnic University,Hong Kong,2018,4,667.0,301,304.0,475,75.7
+343,University of Belgrade,Serbia,2018,1,542.0,1001,304.0,396,75.7
+344,Northeastern University,USA,2018,113,581.0,144,304.0,323,75.7
+345,University of Stuttgart,Germany,2018,28,185.0,358,238.0,379,75.7
+346,Dalian University of Technology,China,2018,22,667.0,257,304.0,473,75.7
+347,Tianjin University,China,2018,23,667.0,172,304.0,489,75.7
+348,Pohang University of Science and Technology,South Korea,2018,8,667.0,1001,304.0,324,75.7
+349,University of Genoa,Italy,2018,11,667.0,1001,304.0,339,75.6
+350,Hannover Medical School,Germany,2018,29,667.0,1001,304.0,339,75.6
+351,Griffith University,Australia,2018,11,667.0,1001,304.0,322,75.6
+352,"University at Albany, SUNY",USA,2018,114,130.0,920,204.0,379,75.6
+353,University of Giessen,Germany,2018,30,667.0,1001,304.0,323,75.6
+354,Drexel University,USA,2018,115,667.0,292,304.0,317,75.6
+355,Aalto University,Finland,2018,3,667.0,238,304.0,360,75.6
+356,Pompeu Fabra University,Spain,2018,7,667.0,1001,304.0,321,75.5
+357,Linköping University,Sweden,2018,8,667.0,549,304.0,348,75.5
+358,City University of Hong Kong,Hong Kong,2018,5,667.0,1001,304.0,455,75.5
+359,University of the Basque Country,Spain,2018,8,667.0,1001,304.0,393,75.5
+360,University of Campinas,Brazil,2018,3,667.0,1001,304.0,459,75.5
+361,"Soochow University, China",China,2018,24,667.0,1001,304.0,460,75.5
+362,Kansas State University,USA,2018,116,288.0,451,304.0,333,75.5
+363,University of Victoria,Canada,2018,17,667.0,1001,304.0,330,75.4
+364,Polytechnic University of Milan,Italy,2018,12,263.0,458,272.0,445,75.4
+365,University of Oulu,Finland,2018,4,503.0,665,304.0,331,75.4
+366,University of Pavia,Italy,2018,13,560.0,675,300.0,357,75.4
+367,Southeast University,China,2018,25,385.0,1001,304.0,494,75.4
+368,Swedish University of Agricultural Sciences,Sweden,2018,9,196.0,1001,304.0,346,75.4
+369,Xiamen University,China,2018,26,667.0,177,304.0,543,75.4
+370,University of Ljubljana,Slovenia,2018,1,667.0,1001,304.0,398,75.3
+371,Islamic Azad University,Iran,2018,1,667.0,1001,304.0,622,75.3
+372,"UNESP, São Paulo State University",Brazil,2018,4,667.0,1001,304.0,509,75.3
+373,University of New Hampshire,USA,2018,117,667.0,508,120.0,452,75.3
+374,Medical College of Wisconsin,USA,2018,118,667.0,1001,304.0,327,75.3
+375,Aristotle University of Thessaloniki,Greece,2018,2,667.0,1001,304.0,431,75.3
+376,University of Vermont,USA,2018,119,372.0,459,304.0,331,75.3
+377,Hiroshima University,Japan,2018,13,667.0,1001,304.0,406,75.2
+378,National Tsing Hua University,Taiwan,2018,3,321.0,1001,304.0,407,75.2
+379,Eindhoven University of Technology,Netherlands,2018,11,667.0,759,259.0,467,75.2
+380,University of Marburg,Germany,2018,31,574.0,1001,303.0,363,75.2
+381,Jagiellonian University,Poland,2018,2,667.0,1001,304.0,407,75.2
+382,Pusan National University,South Korea,2018,9,667.0,695,304.0,468,75.2
+383,Beijing Normal University,China,2018,27,110.0,1001,304.0,455,75.2
+384,University of Chile,Chile,2018,2,411.0,466,274.0,544,75.1
+385,Kyung Hee University,South Korea,2018,10,489.0,1001,304.0,454,75.1
+386,Lancaster University,United Kingdom,2018,32,667.0,565,304.0,355,75.1
+387,Deakin University,Australia,2018,12,667.0,922,304.0,373,75.1
+388,York University,Canada,2018,18,667.0,243,304.0,367,75.1
+389,Okayama University,Japan,2018,14,667.0,491,304.0,390,75.1
+390,James Cook University,Australia,2018,13,667.0,1001,304.0,344,75.1
+391,University of Bath,United Kingdom,2018,33,667.0,612,304.0,358,75.1
+392,University of Trieste,Italy,2018,14,667.0,918,304.0,342,75.0
+393,"University of Oklahoma, Norman",USA,2018,120,667.0,360,304.0,371,75.0
+394,Ben-Gurion University of the Negev,Israel,2018,5,667.0,1001,304.0,458,75.0
+395,University of Twente,Netherlands,2018,12,667.0,927,304.0,386,75.0
+396,China Agricultural University,China,2018,28,667.0,1001,304.0,462,75.0
+397,University of Wollongong,Australia,2018,14,667.0,562,304.0,382,75.0
+398,Federal University of Rio Grande do Sul,Brazil,2018,5,667.0,1001,304.0,462,75.0
+399,University of Tasmania,Australia,2018,15,667.0,1001,304.0,381,75.0
+400,Curtin University,Australia,2018,16,667.0,1001,304.0,512,74.9
+401,TU Wien,Austria,2018,4,662.0,737,304.0,378,74.9
+402,University of KwaZulu-Natal,South Africa,2018,3,509.0,277,304.0,400,74.9
+403,University of Coimbra,Portugal,2018,3,659.0,1001,304.0,411,74.9
+404,University of Milano-Bicocca,Italy,2018,15,667.0,1001,304.0,383,74.9
+405,University of Louisville,USA,2018,121,462.0,877,304.0,372,74.9
+406,Federal University of Minas Gerais,Brazil,2018,6,667.0,668,304.0,451,74.9
+407,University of Reading,United Kingdom,2018,34,466.0,104,304.0,425,74.8
+408,Kyungpook National University,South Korea,2018,11,667.0,793,304.0,473,74.8
+409,University of Rennes 1,France,2018,18,667.0,1001,304.0,395,74.8
+410,Technical University of Berlin,Germany,2018,32,184.0,479,304.0,409,74.8
+411,University of Saskatchewan,Canada,2018,19,618.0,647,304.0,430,74.8
+412,Martin Luther University of Halle-Wittenberg,Germany,2018,33,653.0,1001,269.0,452,74.8
+413,Eötvös Loránd University,Hungary,2018,1,125.0,1001,141.0,505,74.8
+414,University of Seville,Spain,2018,9,667.0,1001,304.0,471,74.8
+415,Polytechnic University of Catalonia,Spain,2018,10,158.0,600,304.0,461,74.7
+416,Catholic University of the Sacred Heart,Italy,2018,16,667.0,1001,304.0,398,74.7
+417,University of Konstanz,Germany,2018,34,667.0,1001,141.0,511,74.7
+418,University of Eastern Finland,Finland,2018,5,667.0,1001,304.0,419,74.7
+419,École normale supérieure de Lyon,France,2018,19,230.0,1001,273.0,455,74.7
+420,Indian Institute of Science,India,2018,1,667.0,573,304.0,486,74.7
+421,King Saud University,Saudi Arabia,2018,2,667.0,442,304.0,595,74.7
+422,Scuola Normale Superiore,Italy,2018,17,269.0,1001,74.0,585,74.7
+423,University of Bremen,Germany,2018,35,667.0,1001,304.0,388,74.6
+424,University of Strathclyde,United Kingdom,2018,35,667.0,361,304.0,417,74.6
+425,University of Newcastle,Australia,2018,17,667.0,1001,304.0,437,74.6
+426,University of Santiago de Compostela,Spain,2018,11,667.0,933,304.0,435,74.6
+427,National Chiao Tung University,Taiwan,2018,4,667.0,340,304.0,559,74.6
+428,University of Oregon,USA,2018,122,476.0,1001,304.0,378,74.6
+429,Tulane University,USA,2018,123,576.0,295,304.0,426,74.6
+430,Rensselaer Polytechnic Institute,USA,2018,124,139.0,153,304.0,396,74.6
+431,University of Bari,Italy,2018,18,667.0,1001,304.0,434,74.5
+432,Chonnam National University,South Korea,2018,12,667.0,1001,304.0,476,74.5
+433,Capital Medical University,China,2018,29,667.0,1001,304.0,492,74.5
+434,King Abdullah University of Science and Technology,Saudi Arabia,2018,3,667.0,1001,168.0,581,74.5
+435,Rush University,USA,2018,125,667.0,1001,304.0,369,74.5
+436,INSEAD,France,2018,20,667.0,2,304.0,1001,74.5
+437,Texas Tech University,USA,2018,126,667.0,448,304.0,439,74.5
+438,University of Pretoria,South Africa,2018,4,667.0,686,246.0,538,74.5
+439,New University of Lisbon,Portugal,2018,4,667.0,1001,207.0,582,74.4
+440,University of Oviedo,Spain,2018,12,667.0,1001,304.0,405,74.4
+441,Saint Louis University,USA,2018,127,667.0,363,287.0,405,74.4
+442,Federal University of São Paulo,Brazil,2018,7,667.0,1001,304.0,472,74.4
+443,Vita-Salute San Raffaele University,Italy,2018,19,667.0,1001,304.0,387,74.4
+444,University of Ulsan,South Korea,2018,13,667.0,641,304.0,507,74.4
+445,University of Siena,Italy,2018,20,667.0,1001,304.0,400,74.4
+446,University of La Laguna,Spain,2018,13,667.0,1001,304.0,386,74.4
+447,University of Nice Sophia Antipolis,France,2018,21,513.0,1001,304.0,404,74.4
+448,Stellenbosch University,South Africa,2018,5,555.0,139,304.0,483,74.3
+449,University of Zaragoza,Spain,2018,14,666.0,971,304.0,493,74.3
+450,University of Canterbury,New Zealand,2018,3,306.0,326,153.0,579,74.3
+451,University of Malaya,Malaysia,2018,1,667.0,342,304.0,650,74.3
+452,Cairo University,Egypt,2018,1,569.0,1001,228.0,591,74.3
+453,Aalborg University,Denmark,2018,5,667.0,813,304.0,420,74.3
+454,University of Bordeaux,France,2018,22,651.0,1001,304.0,417,74.3
+455,University of Central Florida,USA,2018,128,667.0,1001,304.0,435,74.3
+456,University of Ferrara,Italy,2018,21,667.0,1001,304.0,406,74.2
+457,TU Darmstadt,Germany,2018,36,137.0,772,304.0,456,74.2
+458,University of Savoy,France,2018,23,667.0,1001,304.0,391,74.2
+459,University of Mississippi,USA,2018,129,667.0,1001,304.0,431,74.2
+460,Lanzhou University,China,2018,30,667.0,1001,304.0,659,74.2
+461,University of Tehran,Iran,2018,2,428.0,1001,254.0,813,74.2
+462,University of Modena and Reggio Emilia,Italy,2018,22,667.0,1001,304.0,424,74.2
+463,University of Zagreb,Croatia,2018,1,667.0,1001,304.0,504,74.2
+464,Chalmers University of Technology,Sweden,2018,10,657.0,419,304.0,507,74.2
+465,China University of Geosciences,China,2018,31,667.0,1001,304.0,493,74.1
+466,Medical University of Innsbruck,Austria,2018,5,667.0,1001,304.0,403,74.1
+467,National Yang-Ming University,Taiwan,2018,5,667.0,1001,304.0,576,74.1
+468,University of Sherbrooke,Canada,2018,20,667.0,1001,304.0,412,74.1
+469,University of Texas Medical Branch,USA,2018,130,667.0,1001,304.0,404,74.1
+470,University of Verona,Italy,2018,23,667.0,1001,304.0,412,74.1
+471,Mahidol University,Thailand,2018,1,667.0,1001,304.0,557,74.1
+472,Polytechnic University of Valencia,Spain,2018,15,667.0,1001,304.0,540,74.1
+473,University College Cork,Ireland,2018,3,526.0,1001,304.0,435,74.1
+474,University of Hanover,Germany,2018,37,667.0,1001,304.0,471,74.0
+475,University of Parma,Italy,2018,24,667.0,776,304.0,447,74.0
+476,University of Iceland,Iceland,2018,1,667.0,1001,304.0,394,74.0
+477,University of Bayreuth,Germany,2018,38,667.0,1001,304.0,404,74.0
+478,West Virginia University,USA,2018,131,600.0,260,304.0,471,74.0
+479,University of Trento,Italy,2018,25,667.0,1001,304.0,455,74.0
+480,Georgia State University,USA,2018,132,667.0,664,304.0,436,74.0
+481,Southern Methodist University,USA,2018,133,332.0,27,304.0,600,74.0
+482,Chiba University,Japan,2018,15,667.0,1001,304.0,568,74.0
+483,University of Nebraska Medical Center,USA,2018,134,667.0,1001,304.0,420,73.9
+484,University of Electronic Science and Technology of China,China,2018,32,667.0,720,304.0,673,73.9
+485,Beihang University,China,2018,33,667.0,803,304.0,763,73.9
+486,San Diego State University,USA,2018,135,497.0,456,304.0,427,73.9
+487,AgroParisTech,France,2018,24,667.0,505,304.0,434,73.9
+488,Chulalongkorn University,Thailand,2018,2,667.0,117,304.0,562,73.9
+489,University of Tromsø – The Arctic University of Norway,Norway,2018,4,667.0,1001,304.0,461,73.9
+490,University of Tartu,Estonia,2018,1,521.0,1001,304.0,463,73.9
+491,University of Alabama - Tuscaloosa,USA,2018,136,299.0,246,304.0,465,73.9
+492,Bar-Ilan University,Israel,2018,6,533.0,840,304.0,497,73.8
+493,Flinders University,Australia,2018,18,253.0,1001,304.0,474,73.8
+494,Saarland University,Germany,2018,39,667.0,531,304.0,521,73.8
+495,Clemson University,USA,2018,137,667.0,980,304.0,484,73.8
+496,Hunan University,China,2018,34,667.0,542,304.0,647,73.8
+497,East China University of Science and Technology,China,2018,35,667.0,1001,304.0,696,73.8
+498,"Open University, UK",United Kingdom,2018,36,667.0,1001,194.0,558,73.8
+499,University of Wyoming,USA,2018,138,667.0,559,304.0,423,73.8
+500,Lehigh University,USA,2018,139,289.0,48,304.0,533,73.8
+501,National Central University,Taiwan,2018,6,402.0,1001,304.0,524,73.7
+502,Tilburg University,Netherlands,2018,13,667.0,395,172.0,679,73.7
+503,University of Science and Technology Beijing,China,2018,36,667.0,204,304.0,704,73.7
+504,University of Surrey,United Kingdom,2018,37,406.0,475,304.0,488,73.7
+505,Tokyo Medical and Dental University,Japan,2018,16,667.0,1001,304.0,472,73.7
+506,Paris Dauphine University,France,2018,25,118.0,171,128.0,690,73.7
+507,University of Potsdam,Germany,2018,40,667.0,1001,304.0,496,73.7
+508,Brigham Young University,USA,2018,140,571.0,829,304.0,457,73.7
+509,University of Palermo,Italy,2018,26,667.0,1001,304.0,529,73.7
+510,Chang Gung University,Taiwan,2018,7,667.0,1001,304.0,675,73.6
+511,University of Catania,Italy,2018,27,425.0,1001,304.0,567,73.6
+512,Boston College,USA,2018,141,667.0,152,304.0,447,73.6
+513,University of Nantes,France,2018,26,667.0,1001,304.0,470,73.6
+514,University of Tampere,Finland,2018,6,667.0,715,304.0,456,73.6
+515,Beijing Institute of Technology,China,2018,37,667.0,1001,304.0,691,73.6
+516,University of Poitiers,France,2018,27,496.0,1001,188.0,604,73.6
+517,Utah State University,USA,2018,142,352.0,726,304.0,460,73.6
+518,NUI Galway,Ireland,2018,4,667.0,1001,304.0,457,73.6
+519,Tata Institute of Fundamental Research,India,2018,2,667.0,1001,304.0,447,73.6
+520,University of Burgundy,France,2018,28,450.0,1001,304.0,487,73.5
+521,National Chung Hsing University,Taiwan,2018,8,667.0,333,304.0,587,73.5
+522,University of Minho,Portugal,2018,5,667.0,1001,304.0,534,73.5
+523,University of Hull,United Kingdom,2018,38,554.0,223,201.0,701,73.5
+524,"St George's, University of London",United Kingdom,2018,39,667.0,1001,304.0,431,73.5
+525,Hacettepe University,Turkey,2018,1,667.0,1001,304.0,555,73.5
+526,Loyola University Chicago,USA,2018,143,667.0,819,304.0,446,73.5
+527,Oklahoma State University,USA,2018,144,474.0,399,304.0,567,73.5
+528,Colorado School of Mines,USA,2018,145,667.0,61,304.0,557,73.5
+529,Swansea University,United Kingdom,2018,40,667.0,1001,304.0,473,73.4
+530,National Polytechnic Institute of Toulouse,France,2018,29,667.0,206,304.0,553,73.4
+531,Massey University,New Zealand,2018,4,667.0,967,304.0,493,73.4
+532,Florida International University,USA,2018,146,667.0,1001,304.0,526,73.4
+533,East China Normal University,China,2018,38,667.0,522,304.0,671,73.4
+534,La Trobe University,Australia,2018,19,667.0,1001,304.0,594,73.4
+535,Chongqing University,China,2018,39,667.0,597,304.0,774,73.4
+536,Shanghai University,China,2018,40,667.0,989,304.0,706,73.4
+537,University of Plymouth,United Kingdom,2018,41,667.0,1001,304.0,468,73.4
+538,Ewha Womans University,South Korea,2018,14,667.0,1001,304.0,575,73.4
+539,Technical University of Dortmund,Germany,2018,41,667.0,1001,304.0,511,73.3
+540,"Royal Holloway, University of London",United Kingdom,2018,42,381.0,926,304.0,450,73.3
+541,Saint Petersburg State University,Russia,2018,2,81.0,452,304.0,685,73.3
+542,Bielefeld University,Germany,2018,42,667.0,1001,304.0,495,73.3
+543,Northwestern Polytechnical University,China,2018,41,667.0,682,304.0,775,73.3
+544,Konkuk University,South Korea,2018,15,667.0,854,304.0,662,73.3
+545,National University of La Plata,Argentina,2018,2,667.0,1001,304.0,565,73.3
+546,Auburn University,USA,2018,147,359.0,267,304.0,605,73.3
+547,Tehran University of Medical Sciences,Iran,2018,3,667.0,1001,304.0,682,73.3
+548,"China Medical University, Taiwan",Taiwan,2018,9,667.0,1001,304.0,679,73.3
+549,Nanjing Agricultural University,China,2018,42,667.0,1001,304.0,622,73.2
+550,"University of Maine, Orono",USA,2018,148,626.0,1001,141.0,609,73.2
+551,University of Aveiro,Portugal,2018,6,667.0,1001,304.0,717,73.2
+552,Catholic University of Korea,South Korea,2018,16,667.0,1001,304.0,654,73.2
+553,University of Salamanca,Spain,2018,16,667.0,959,304.0,514,73.2
+554,Second Military Medical University,China,2018,43,667.0,1001,304.0,602,73.2
+555,Syracuse University,USA,2018,149,229.0,279,304.0,538,73.2
+556,Moscow Institute of Physics and Technology,Russia,2018,3,22.0,636,304.0,727,73.2
+557,Carleton University,Canada,2018,21,667.0,1001,304.0,606,73.2
+558,University of Texas at Arlington,USA,2018,150,667.0,1001,304.0,520,73.2
+559,National Polytechnic Institute,Mexico,2018,2,614.0,1001,304.0,633,73.1
+560,Istanbul University,Turkey,2018,2,498.0,1001,304.0,648,73.1
+561,Kanazawa University,Japan,2018,17,667.0,639,304.0,577,73.1
+562,University of Technology Sydney,Australia,2018,20,667.0,1001,304.0,652,73.1
+563,University of Alaska Fairbanks,USA,2018,151,667.0,646,304.0,482,73.1
+564,Western Sydney University,Australia,2018,21,667.0,1001,304.0,549,73.1
+565,"Birkbeck, University of London",United Kingdom,2018,43,341.0,1001,211.0,601,73.1
+566,"University of Science, Malaysia",Malaysia,2018,2,667.0,1001,304.0,708,73.1
+567,University of Arkansas - Fayetteville,USA,2018,152,430.0,463,304.0,586,73.1
+568,Baylor University,USA,2018,153,667.0,398,304.0,501,73.1
+569,University of Oklahoma Health Sciences Center,USA,2018,154,667.0,1001,304.0,491,73.0
+570,University of South Australia,Australia,2018,22,667.0,492,304.0,584,73.0
+571,Masaryk University,Czech Republic,2018,2,667.0,1001,304.0,641,73.0
+572,University of Wisconsin–Milwaukee,USA,2018,155,452.0,422,304.0,562,73.0
+573,Polytechnic University of Madrid,Spain,2018,17,365.0,547,304.0,702,73.0
+574,University of Rostock,Germany,2018,43,664.0,1001,304.0,664,73.0
+575,Victoria University of Wellington,New Zealand,2018,5,390.0,629,304.0,523,73.0
+576,Warsaw University of Technology,Poland,2018,3,632.0,1001,304.0,618,73.0
+577,Nanjing Medical University,China,2018,44,667.0,1001,304.0,724,73.0
+578,Montana State University - Bozeman,USA,2018,156,667.0,1001,304.0,488,73.0
+579,Memorial University of Newfoundland,Canada,2018,22,667.0,836,304.0,535,73.0
+580,Chonbuk National University,South Korea,2018,17,667.0,1001,304.0,760,72.9
+581,Tokyo Metropolitan University,Japan,2018,18,260.0,887,304.0,517,72.9
+582,College of William & Mary,USA,2018,157,667.0,97,304.0,567,72.9
+583,Braunschweig University of Technology,Germany,2018,44,439.0,1001,304.0,559,72.9
+584,University of Québec at Montreal,Canada,2018,23,667.0,936,304.0,547,72.9
+585,CINVESTAV,Mexico,2018,3,667.0,1001,304.0,590,72.9
+586,CentraleSupélec,France,2018,30,667.0,42,304.0,799,72.9
+587,Nanjing University of Science and Technology,China,2018,45,667.0,694,304.0,700,72.9
+588,Huazhong Agricultural University,China,2018,46,667.0,1001,304.0,653,72.9
+589,HEC Paris,France,2018,31,667.0,6,304.0,1001,72.9
+590,Zhengzhou University,China,2018,47,667.0,1001,304.0,757,72.8
+591,SUNY Downstate Medical Center,USA,2018,158,667.0,1001,194.0,610,72.8
+592,Sharif University of Technology,Iran,2018,4,198.0,1001,304.0,703,72.8
+593,National Sun Yat-sen University,Taiwan,2018,10,667.0,1001,304.0,688,72.8
+594,University of Clermont Auvergne,France,2018,32,667.0,1001,284.0,565,72.8
+595,Novosibirsk State University,Russia,2018,4,255.0,1001,304.0,619,72.8
+596,Middle East Technical University,Turkey,2018,3,667.0,328,304.0,698,72.8
+597,Yokohama City University,Japan,2018,19,667.0,218,304.0,553,72.8
+598,Beijing University of Chemical Technology,China,2018,48,667.0,1001,304.0,716,72.8
+599,"University of Nevada, Reno",USA,2018,159,667.0,965,304.0,530,72.8
+600,Otto von Guericke University Magdeburg,Germany,2018,45,667.0,1001,304.0,572,72.8
+601,Kitasato University,Japan,2018,20,667.0,1001,157.0,819,72.7
+602,University of Montana - Missoula,USA,2018,160,644.0,1001,304.0,483,72.7
+603,University of Jyväskylä,Finland,2018,7,667.0,1001,304.0,642,72.7
+604,University of Arkansas for Medical Sciences,USA,2018,161,667.0,1001,304.0,539,72.7
+605,University of Crete,Greece,2018,3,667.0,1001,304.0,549,72.7
+606,University of Lübeck,Germany,2018,46,667.0,1001,304.0,512,72.7
+607,Chungnam National University,South Korea,2018,18,667.0,1001,304.0,736,72.7
+608,Chung-Ang University,South Korea,2018,19,667.0,1001,304.0,740,72.7
+609,Inha University,South Korea,2018,20,667.0,670,304.0,755,72.7
+610,Palacký University Olomouc,Czech Republic,2018,3,667.0,1001,304.0,560,72.7
+611,University of Salerno,Italy,2018,28,667.0,1001,304.0,612,72.7
+612,Loughborough University,United Kingdom,2018,44,667.0,1001,304.0,701,72.6
+613,Medical University of Graz,Austria,2018,6,667.0,1001,304.0,625,72.6
+614,Polytechnic University of Turin,Italy,2018,29,667.0,816,304.0,770,72.6
+615,Indian Institute of Technology Bombay,India,2018,3,667.0,809,304.0,730,72.6
+616,Ege University,Turkey,2018,4,667.0,1001,304.0,735,72.6
+617,Shinshu University,Japan,2018,21,667.0,1001,304.0,601,72.6
+618,Niigata University,Japan,2018,22,515.0,621,304.0,605,72.6
+619,University of Kent,United Kingdom,2018,45,378.0,784,304.0,577,72.6
+620,University of Haifa,Israel,2018,7,354.0,935,304.0,644,72.6
+621,University of Cantabria,Spain,2018,18,667.0,1001,304.0,545,72.6
+622,University of Cagliari,Italy,2018,30,667.0,1001,304.0,626,72.6
+623,University of Tennessee Health Science Center,USA,2018,162,667.0,1001,304.0,616,72.5
+624,Kangwon National University,South Korea,2018,21,667.0,1001,304.0,649,72.5
+625,Ankara University,Turkey,2018,5,667.0,775,304.0,679,72.5
+626,Southern Medical University,China,2018,49,667.0,1001,304.0,682,72.5
+627,National Technical University of Athens,Greece,2018,4,418.0,817,304.0,682,72.5
+628,Kumamoto University,Japan,2018,23,545.0,638,304.0,661,72.5
+629,Nagasaki University,Japan,2018,24,529.0,247,304.0,639,72.5
+630,University of Udine,Italy,2018,31,667.0,1001,304.0,579,72.5
+631,University of Greifswald,Germany,2018,47,667.0,1001,297.0,553,72.5
+632,Fourth Military Medical University,China,2018,50,667.0,1001,304.0,711,72.5
+633,AGH University of Science and Technology,Poland,2018,4,512.0,719,304.0,716,72.5
+634,RMIT University,Australia,2018,23,667.0,1001,304.0,739,72.4
+635,China University of Petroleum,China,2018,51,667.0,712,304.0,826,72.4
+636,Nanjing University of Aeronautics and Astronautics,China,2018,52,667.0,1001,304.0,742,72.4
+637,École nationale d'administration,France,2018,33,667.0,4,304.0,1001,72.4
+638,Mississippi State University,USA,2018,163,329.0,412,304.0,643,72.4
+639,"University of Maryland, Baltimore County",USA,2018,164,667.0,1001,304.0,529,72.4
+640,University of Murcia,Spain,2018,19,528.0,1001,304.0,696,72.4
+641,Augusta University,USA,2018,165,667.0,1001,304.0,573,72.4
+642,Isfahan University of Technology,Iran,2018,5,667.0,1001,304.0,707,72.4
+643,Swinburne University of Technology,Australia,2018,24,667.0,1001,304.0,544,72.4
+644,Stockholm School of Economics,Sweden,2018,11,667.0,21,252.0,835,72.4
+645,Northwest A&F University,China,2018,53,667.0,1001,304.0,777,72.3
+646,Wuhan University of Technology,China,2018,54,667.0,1001,304.0,704,72.3
+647,University of Graz,Austria,2018,7,639.0,1001,289.0,623,72.3
+648,Istanbul Technical University,Turkey,2018,6,667.0,785,304.0,706,72.3
+649,University of Texas at San Antonio,USA,2018,166,667.0,1001,304.0,593,72.3
+650,International School for Advanced Studies,Italy,2018,32,667.0,1001,304.0,524,72.3
+651,Indian Institute of Technology Madras,India,2018,4,667.0,189,304.0,817,72.3
+652,ESPCI Paris,France,2018,34,592.0,1001,260.0,605,72.3
+653,University of Navarra,Spain,2018,20,667.0,99,304.0,764,72.3
+654,Taipei Medical University,Taiwan,2018,11,667.0,1001,304.0,773,72.3
+655,Kaohsiung Medical University,Taiwan,2018,12,667.0,1001,304.0,777,72.3
+656,École normale supérieure Paris-Saclay,France,2018,35,92.0,198,141.0,778,72.3
+657,Southwest University,China,2018,55,547.0,1001,304.0,806,72.2
+658,Semmelweis University,Hungary,2018,2,667.0,1001,304.0,660,72.2
+659,Rio de Janeiro State University,Brazil,2018,8,667.0,1001,304.0,655,72.2
+660,Gwangju Institute of Science and Technology,South Korea,2018,22,667.0,1001,304.0,582,72.2
+661,University of Calabria,Italy,2018,33,667.0,1001,304.0,697,72.2
+662,"University of Córdoba, Spain",Spain,2018,21,667.0,1001,304.0,681,72.2
+663,University of Campania Luigi Vanvitelli,Italy,2018,34,667.0,1001,304.0,676,72.2
+664,Rovira i Virgili University,Spain,2018,22,667.0,1001,304.0,679,72.2
+665,University of Idaho,USA,2018,167,667.0,1001,304.0,561,72.2
+666,University of Louisiana at Lafayette,USA,2018,168,667.0,1001,304.0,537,72.2
+667,Czech Technical University in Prague,Czech Republic,2018,4,631.0,1001,304.0,643,72.2
+668,University of Franche-Comté,France,2018,36,410.0,1001,304.0,629,72.1
+669,Rutgers University–Newark,USA,2018,169,667.0,1001,157.0,768,72.1
+670,University of Patras,Greece,2018,5,667.0,1001,304.0,757,72.1
+671,Indian Institute of Technology Delhi,India,2018,5,283.0,95,304.0,879,72.1
+672,Fuzhou University,China,2018,56,667.0,797,304.0,671,72.1
+673,Comenius University in Bratislava,Slovak Republic,2018,1,667.0,1001,304.0,665,72.1
+674,Brunel University London,United Kingdom,2018,46,667.0,540,304.0,702,72.1
+675,Osaka City University,Japan,2018,25,153.0,591,304.0,667,72.1
+676,Indian Institute of Technology Kharagpur,India,2018,6,667.0,435,304.0,835,72.1
+677,University of Akron,USA,2018,170,667.0,734,304.0,605,72.1
+678,Kindai University,Japan,2018,26,667.0,1001,304.0,652,72.1
+679,Gazi University,Turkey,2018,7,667.0,1001,304.0,799,72.1
+680,Jiangnan University,China,2018,57,667.0,1001,304.0,835,72.0
+681,University of Rhode Island,USA,2018,171,667.0,487,304.0,573,72.0
+682,"University of North Texas, Denton",USA,2018,172,667.0,986,304.0,630,72.0
+683,University of Málaga,Spain,2018,23,667.0,1001,304.0,732,72.0
+684,INSA Lyon,France,2018,37,667.0,1001,304.0,716,72.0
+685,Shenzhen University,China,2018,58,667.0,783,304.0,695,72.0
+686,University of Eastern Piedmont,Italy,2018,35,667.0,1001,304.0,595,72.0
+687,Kent State University,USA,2018,173,667.0,1001,304.0,614,72.0
+688,Army Medical University,China,2018,59,667.0,1001,304.0,730,72.0
+689,Amirkabir University of Technology,Iran,2018,6,667.0,1001,304.0,853,72.0
+690,Gyeongsang National University,South Korea,2018,23,667.0,1001,304.0,736,72.0
+691,Jinan University,China,2018,60,667.0,603,304.0,759,72.0
+692,"Northwest University, China",China,2018,61,667.0,1001,304.0,726,71.9
+693,Central China Normal University,China,2018,62,667.0,1001,304.0,684,71.9
+694,Federal University of Santa Catarina,Brazil,2018,9,667.0,1001,304.0,829,71.9
+695,Liverpool John Moores University,United Kingdom,2018,47,667.0,1001,304.0,595,71.9
+696,University of Debrecen,Hungary,2018,3,667.0,1001,304.0,650,71.9
+697,Ocean University of China,China,2018,63,667.0,1001,304.0,817,71.9
+698,Nihon University,Japan,2018,27,580.0,1001,304.0,754,71.9
+699,Roma Tre University,Italy,2018,36,667.0,1001,304.0,641,71.9
+700,Ajou University,South Korea,2018,24,667.0,993,304.0,781,71.9
+701,Juntendo University,Japan,2018,28,667.0,1001,304.0,643,71.9
+702,Tianjin Medical University,China,2018,64,667.0,1001,304.0,731,71.9
+703,University of Brescia,Italy,2018,37,667.0,1001,304.0,702,71.9
+704,University of Castilla-La Mancha,Spain,2018,24,667.0,1001,304.0,818,71.8
+705,Donghua University,China,2018,65,667.0,1001,304.0,722,71.8
+706,City College of New York,USA,2018,174,52.0,411,304.0,652,71.8
+707,"Northeastern University, China",China,2018,66,667.0,515,304.0,861,71.8
+708,University of Girona,Spain,2018,25,667.0,1001,304.0,720,71.8
+709,Federal University of Paraná,Brazil,2018,10,667.0,1001,304.0,843,71.8
+710,University of Portsmouth,United Kingdom,2018,48,667.0,1001,304.0,625,71.8
+711,University of Fribourg,Switzerland,2018,8,405.0,374,304.0,590,71.8
+712,University of Ioannina,Greece,2018,6,667.0,1001,304.0,673,71.8
+713,Norwegian University of Life Sciences,Norway,2018,5,667.0,1001,304.0,704,71.8
+714,Keele University,United Kingdom,2018,49,667.0,1001,304.0,604,71.8
+715,Ain Shams University,Egypt,2018,2,667.0,1001,304.0,730,71.8
+716,"Paul Valéry University, Montpellier III",France,2018,38,667.0,1001,304.0,580,71.8
+717,Carl von Ossietzky University of Oldenburg,Germany,2018,48,667.0,1001,304.0,611,71.7
+718,Graz University of Technology,Austria,2018,8,667.0,1001,304.0,708,71.7
+719,Concordia University,Canada,2018,24,667.0,268,304.0,849,71.7
+720,Graduate University for Advanced Studies,Japan,2018,29,667.0,1001,304.0,666,71.7
+721,Nanjing Tech University,China,2018,67,667.0,1001,304.0,827,71.7
+722,Xidian University,China,2018,68,667.0,1001,304.0,857,71.7
+723,Tokyo University of Science,Japan,2018,30,429.0,1001,304.0,752,71.7
+724,Jiangsu University,China,2018,69,667.0,1001,304.0,869,71.7
+725,"University of the Republic, Uruguay",Uruguay,2018,1,667.0,1001,304.0,637,71.7
+726,University of Delhi,India,2018,7,293.0,146,304.0,855,71.7
+727,Northern Illinois University,USA,2018,175,667.0,561,304.0,654,71.7
+728,University of Angers,France,2018,39,667.0,1001,304.0,655,71.7
+729,University of Missouri–Kansas City,USA,2018,176,567.0,624,304.0,679,71.6
+730,Örebro University,Sweden,2018,12,667.0,882,304.0,604,71.6
+731,University of Vigo,Spain,2018,26,667.0,1001,304.0,830,71.6
+732,"All India Institute of Medical Sciences, Delhi",India,2018,8,667.0,1001,304.0,672,71.6
+733,National Research Nuclear University MEPhI,Russia,2018,5,598.0,1001,304.0,666,71.6
+734,University of Salento,Italy,2018,38,667.0,1001,304.0,682,71.6
+735,South China Normal University,China,2018,70,667.0,976,304.0,834,71.6
+736,École pratique des hautes études,France,2018,40,36.0,1001,304.0,631,71.6
+737,University of Brasília,Brazil,2018,11,667.0,921,304.0,792,71.6
+738,Bangor University,United Kingdom,2018,50,446.0,824,304.0,647,71.6
+739,Federal University of Viçosa,Brazil,2018,12,667.0,1001,304.0,824,71.6
+740,Boğaziçi University,Turkey,2018,8,300.0,681,304.0,685,71.6
+741,Adam Mickiewicz University in Poznań,Poland,2018,5,325.0,1001,304.0,851,71.6
+742,"Putra University, Malaysia",Malaysia,2018,3,667.0,1001,304.0,902,71.5
+743,Southern Illinois University Carbondale,USA,2018,177,383.0,1001,304.0,721,71.5
+744,Hong Kong Baptist University,Hong Kong,2018,6,667.0,1001,304.0,773,71.5
+745,Nanjing Normal University,China,2018,71,667.0,1001,304.0,769,71.5
+746,"University of Nevada, Las Vegas",USA,2018,178,667.0,1001,304.0,710,71.5
+747,Ehime University,Japan,2018,31,667.0,909,304.0,732,71.5
+748,Vilnius University,Lithuania,2018,1,621.0,1001,304.0,736,71.5
+749,University of Messina,Italy,2018,39,667.0,1001,304.0,859,71.5
+750,Illinois Institute of Technology,USA,2018,179,156.0,110,304.0,741,71.5
+751,Miami University,USA,2018,180,667.0,119,304.0,724,71.5
+752,University Paris-Est Créteil,France,2018,41,667.0,818,304.0,646,71.5
+753,"University of Natural Resources and Life Sciences, Vienna",Austria,2018,9,667.0,1001,304.0,676,71.5
+754,National University of Defense Technology,China,2018,72,667.0,1001,304.0,882,71.5
+755,Jean Monnet University,France,2018,42,667.0,1001,304.0,725,71.4
+756,Tarbiat Modares University,Iran,2018,7,667.0,1001,304.0,908,71.4
+757,Old Dominion University,USA,2018,181,667.0,1001,304.0,659,71.4
+758,University of Szeged,Hungary,2018,4,667.0,1001,292.0,822,71.4
+759,University of Texas Rio Grande Valley,USA,2018,182,667.0,1001,304.0,621,71.4
+760,Iran University of Science and Technology,Iran,2018,8,667.0,1001,304.0,820,71.4
+761,Jadavpur University,India,2018,9,667.0,1001,304.0,767,71.4
+762,National University of Córdoba,Argentina,2018,3,667.0,1001,304.0,742,71.4
+763,Harbin Medical University,China,2018,73,667.0,1001,304.0,874,71.4
+764,Heriot-Watt University,United Kingdom,2018,51,667.0,517,304.0,750,71.4
+765,University of Toledo,USA,2018,183,667.0,1001,304.0,732,71.4
+766,National University of Colombia,Colombia,2018,1,667.0,766,304.0,797,71.4
+767,University of Alicante,Spain,2018,27,667.0,1001,304.0,798,71.4
+768,University of Essex,United Kingdom,2018,52,240.0,637,304.0,672,71.3
+769,University of L'Aquila,Italy,2018,40,667.0,1001,304.0,723,71.3
+770,New Mexico State University,USA,2018,184,667.0,904,304.0,654,71.3
+771,Makerere University,Uganda,2018,1,448.0,1001,304.0,636,71.3
+772,University of Split,Croatia,2018,2,667.0,1001,304.0,620,71.3
+773,University of North Carolina at Charlotte,USA,2018,185,667.0,532,304.0,696,71.3
+774,Banaras Hindu University,India,2018,10,487.0,606,304.0,893,71.3
+775,Ulsan National Institute of Science and Technology,South Korea,2018,25,667.0,1001,304.0,682,71.3
+776,University of Wrocław,Poland,2018,6,650.0,1001,304.0,808,71.3
+777,University of Stirling,United Kingdom,2018,53,667.0,601,304.0,657,71.3
+778,Nanchang University,China,2018,74,667.0,1001,304.0,869,71.3
+779,University of Hohenheim,Germany,2018,49,667.0,1001,304.0,676,71.3
+780,École des ponts ParisTech,France,2018,43,57.0,26,304.0,1001,71.3
+781,Jawaharlal Nehru Centre for Advanced Scientific Research,India,2018,11,667.0,1001,185.0,850,71.2
+782,University of Kaiserslautern,Germany,2018,50,667.0,997,304.0,662,71.2
+783,American University of Beirut,Lebanon,2018,1,202.0,176,304.0,744,71.2
+784,King Fahd University of Petroleum and Minerals,Saudi Arabia,2018,4,667.0,122,304.0,858,71.2
+785,"China Medical University, PRC",China,2018,75,667.0,1001,304.0,880,71.2
+786,Paris 13 University,France,2018,44,667.0,1001,304.0,731,71.2
+787,Tampere University of Technology,Finland,2018,8,667.0,318,304.0,702,71.2
+788,Tokyo University of Agriculture and Technology,Japan,2018,32,667.0,1001,304.0,811,71.2
+789,Bilkent University,Turkey,2018,9,667.0,856,304.0,674,71.2
+790,University of Johannesburg,South Africa,2018,6,667.0,1001,304.0,739,71.2
+791,University of Concepción,Chile,2018,3,667.0,1001,304.0,778,71.2
+792,China University of Mining and Technology,China,2018,76,667.0,890,304.0,899,71.2
+793,Chiang Mai University,Thailand,2018,3,667.0,1001,304.0,781,71.2
+794,Yeungnam University,South Korea,2018,26,667.0,467,304.0,898,71.2
+795,Marche Polytechnic University,Italy,2018,41,667.0,1001,304.0,784,71.1
+796,National Taiwan University of Science and Technology,Taiwan,2018,13,667.0,1001,304.0,873,71.1
+797,Tokushima University,Japan,2018,33,143.0,1001,304.0,781,71.1
+798,Indian Institute of Technology Kanpur,India,2018,12,268.0,707,304.0,870,71.1
+799,Quaid-i-Azam University,Pakistan,2018,1,667.0,1001,304.0,822,71.1
+800,Northeast Normal University,China,2018,77,667.0,1001,304.0,851,71.1
+801,Ryerson University,Canada,2018,25,667.0,1001,304.0,765,71.1
+802,Babeș-Bolyai University,Romania,2018,1,667.0,1001,304.0,857,71.1
+803,Ohio University,USA,2018,186,441.0,353,304.0,757,71.1
+804,Wenzhou Medical University,China,2018,78,667.0,1001,304.0,881,71.1
+805,University of Tours,France,2018,45,424.0,1001,304.0,744,71.1
+806,"University of the Andes, Colombia",Colombia,2018,2,667.0,410,304.0,660,71.1
+807,Panjab University,India,2018,13,620.0,566,304.0,794,71.1
+808,University of Alcalá,Spain,2018,28,667.0,1001,304.0,763,71.0
+809,University of Hertfordshire,United Kingdom,2018,54,667.0,1001,304.0,626,71.0
+810,Dankook University,South Korea,2018,27,667.0,1001,304.0,787,71.0
+811,Chungbuk National University,South Korea,2018,28,667.0,1001,304.0,892,71.0
+812,University of Sassari,Italy,2018,42,667.0,1001,304.0,713,71.0
+813,Toho University,Japan,2018,34,667.0,1001,258.0,879,71.0
+814,Federal University of Ceará,Brazil,2018,13,667.0,1001,304.0,906,71.0
+815,Portland State University,USA,2018,187,667.0,335,304.0,714,71.0
+816,Gunma University,Japan,2018,35,667.0,1001,304.0,782,71.0
+817,Polytechnic University of Bucharest,Romania,2018,2,667.0,1001,304.0,845,71.0
+818,Yokohama National University,Japan,2018,36,120.0,329,246.0,892,71.0
+819,Zhejiang University of Technology,China,2018,79,667.0,1001,304.0,875,71.0
+820,University of the Balearic Islands,Spain,2018,29,667.0,1001,304.0,779,71.0
+821,Cranfield University,United Kingdom,2018,55,667.0,134,304.0,840,71.0
+822,Polytechnic University of Bari,Italy,2018,43,667.0,1001,304.0,636,70.9
+823,Budapest University of Technology and Economics,Hungary,2018,5,478.0,1001,304.0,807,70.9
+824,South China Agricultural University,China,2018,80,667.0,1001,304.0,881,70.9
+825,University of Orléans,France,2018,46,667.0,1001,304.0,738,70.9
+826,"National University of Malaysia, UKM",Malaysia,2018,4,667.0,1001,304.0,921,70.9
+827,University of Bucharest,Romania,2018,3,461.0,1001,304.0,866,70.9
+828,Carlos III University of Madrid,Spain,2018,30,667.0,1001,304.0,853,70.9
+829,Uniformed Services University of the Health Sciences,USA,2018,188,667.0,1001,304.0,739,70.9
+830,University of Denver,USA,2018,189,558.0,160,304.0,709,70.9
+831,Beijing University of Technology,China,2018,81,667.0,1001,304.0,889,70.9
+832,University of Insubria,Italy,2018,44,667.0,1001,304.0,752,70.9
+833,Sejong University,South Korea,2018,29,667.0,1001,304.0,811,70.9
+834,Medical University of Warsaw,Poland,2018,7,667.0,1001,304.0,826,70.9
+835,East Carolina University,USA,2018,190,667.0,704,304.0,790,70.9
+836,Beijing Jiaotong University,China,2018,82,667.0,1001,304.0,908,70.8
+837,China Europe International Business School,China,2018,83,667.0,10,304.0,1001,70.8
+838,Tokyo Women's Medical University,Japan,2018,37,667.0,1001,304.0,737,70.8
+839,University of Wuppertal,Germany,2018,51,667.0,1001,304.0,737,70.8
+840,Federal University of Pernambuco,Brazil,2018,14,667.0,1001,304.0,925,70.8
+841,University of Hyogo,Japan,2018,38,667.0,1001,232.0,852,70.8
+842,University of Regina,Canada,2018,26,667.0,1001,304.0,696,70.8
+843,Binghamton University,USA,2018,191,667.0,388,304.0,768,70.8
+844,Wrocław University of Science and Technology,Poland,2018,8,667.0,934,304.0,910,70.8
+845,University of Toyama,Japan,2018,39,667.0,444,304.0,892,70.8
+846,National Taiwan Normal University,Taiwan,2018,14,667.0,1001,304.0,813,70.8
+847,Federal University of São Carlos,Brazil,2018,15,667.0,1001,304.0,921,70.8
+848,Metropolitan Autonomous University,Mexico,2018,4,667.0,1001,304.0,841,70.8
+849,University of Western Brittany,France,2018,47,667.0,1001,304.0,769,70.8
+850,Tokai University,Japan,2018,40,667.0,1001,304.0,829,70.7
+851,Harbin Engineering University,China,2018,84,667.0,1001,304.0,828,70.7
+852,Gachon University,South Korea,2018,30,667.0,1001,304.0,899,70.7
+853,Meijo University,Japan,2018,41,667.0,1001,86.0,967,70.7
+854,Federico Santa María Technical University,Chile,2018,4,667.0,1001,304.0,741,70.7
+855,Michigan Technological University,USA,2018,192,615.0,1001,304.0,751,70.7
+856,École des hautes études en sciences sociales,France,2018,48,182.0,1001,121.0,966,70.7
+857,Shiraz University,Iran,2018,9,667.0,1001,304.0,931,70.7
+858,Indian Institute of Technology Roorkee,India,2018,14,667.0,362,304.0,920,70.7
+859,Nara Institute of Science and Technology,Japan,2018,42,667.0,1001,304.0,731,70.7
+860,New Jersey Institute of Technology,USA,2018,193,465.0,736,304.0,714,70.7
+861,University of Picardie Jules Verne,France,2018,49,667.0,1001,304.0,707,70.7
+862,Creighton University,USA,2018,194,667.0,1001,304.0,666,70.7
+863,Åbo Akademi University,Finland,2018,9,667.0,1001,304.0,756,70.7
+864,Miguel Hernández University of Elche,Spain,2018,31,667.0,1001,304.0,811,70.7
+865,Jichi Medical University,Japan,2018,43,667.0,1001,304.0,724,70.6
+866,University of Siegen,Germany,2018,52,667.0,1001,304.0,755,70.6
+867,University of Extremadura,Spain,2018,32,667.0,1001,304.0,843,70.6
+868,Nagoya City University,Japan,2018,44,667.0,592,304.0,751,70.6
+869,University of Valladolid,Spain,2018,33,667.0,1001,304.0,910,70.6
+870,Murdoch University,Australia,2018,25,667.0,879,304.0,793,70.6
+871,Wesleyan University,USA,2018,195,87.0,49,304.0,857,70.6
+872,Ferdowsi University of Mashhad,Iran,2018,10,667.0,1001,304.0,955,70.6
+873,North China Electric Power University,China,2018,85,667.0,488,304.0,902,70.6
+874,Erciyes University,Turkey,2018,10,667.0,1001,304.0,848,70.6
+875,Chung Shan Medical University,Taiwan,2018,15,667.0,1001,304.0,893,70.6
+876,Hefei University of Technology,China,2018,86,667.0,692,304.0,901,70.6
+877,China Pharmaceutical University,China,2018,87,667.0,1001,304.0,913,70.6
+878,Dongguk University,South Korea,2018,31,667.0,556,304.0,926,70.6
+879,"University of California, Merced",USA,2018,196,667.0,1001,304.0,682,70.5
+880,Shanxi University,China,2018,88,667.0,1001,304.0,890,70.5
+881,Sofia University,Bulgaria,2018,1,493.0,1001,304.0,866,70.5
+882,Kagoshima University,Japan,2018,45,667.0,648,304.0,872,70.5
+883,Jawaharlal Nehru University,India,2018,15,667.0,1001,181.0,1001,70.5
+884,Mansoura University,Egypt,2018,3,667.0,1001,304.0,937,70.5
+885,Northern Arizona University,USA,2018,197,667.0,1001,304.0,679,70.5
+886,Federal University of Pelotas,Brazil,2018,16,667.0,1001,304.0,831,70.5
+887,Shizuoka University,Japan,2018,46,667.0,1001,232.0,986,70.5
+888,Inje University,South Korea,2018,32,667.0,1001,304.0,951,70.5
+889,Fluminense Federal University,Brazil,2018,17,667.0,857,304.0,940,70.5
+890,Chongqing Medical University,China,2018,89,667.0,1001,304.0,943,70.5
+891,"City, University of London",United Kingdom,2018,56,667.0,309,304.0,894,70.5
+892,Federal University of Goiás,Brazil,2018,18,667.0,1001,304.0,890,70.5
+893,Royal Veterinary College,United Kingdom,2018,57,314.0,1001,304.0,723,70.5
+894,Beijing University of Posts and Telecommunications,China,2018,90,667.0,502,304.0,948,70.4
+895,Yangzhou University,China,2018,91,667.0,1001,304.0,930,70.4
+896,Gifu University,Japan,2018,47,667.0,862,304.0,938,70.4
+897,University of Veterinary Medicine Vienna,Austria,2018,10,667.0,1001,304.0,801,70.4
+898,Yamagata University,Japan,2018,48,667.0,1001,304.0,883,70.4
+899,University of Silesia in Katowice,Poland,2018,9,667.0,1001,304.0,876,70.4
+900,University of Jaén,Spain,2018,34,667.0,1001,304.0,810,70.4
+901,Yamaguchi University,Japan,2018,49,667.0,1001,304.0,923,70.4
+902,Shaanxi Normal University,China,2018,92,667.0,1001,304.0,918,70.4
+903,Alexandria University,Egypt,2018,4,500.0,1001,304.0,941,70.4
+904,University of Mons,Belgium,2018,8,667.0,1001,304.0,774,70.4
+905,University of Cyprus,Cyprus,2018,1,667.0,1001,304.0,840,70.4
+906,Gabriele d’Annunzio University,Italy,2018,45,667.0,1001,304.0,904,70.4
+907,Hitotsubashi University,Japan,2018,50,667.0,16,304.0,1001,70.4
+908,Tunis El Manar University,Tunisia,2018,1,667.0,1001,304.0,983,70.4
+909,Southwest Jiaotong University,China,2018,93,667.0,801,304.0,936,70.3
+910,Ulster University,United Kingdom,2018,58,667.0,1001,304.0,902,70.3
+911,Renmin University of China,China,2018,94,667.0,133,304.0,957,70.3
+912,Florida Institute of Technology,USA,2018,198,667.0,545,304.0,751,70.3
+913,Kyoto Prefectural University of Medicine,Japan,2018,51,667.0,1001,304.0,796,70.3
+914,Anhui Medical University,China,2018,95,667.0,1001,304.0,935,70.3
+915,"University of Technology, Malaysia",Malaysia,2018,5,667.0,1001,304.0,960,70.3
+916,Hallym University,South Korea,2018,33,667.0,1001,304.0,945,70.3
+917,COMSATS Institute of Information Technology,Pakistan,2018,2,667.0,1001,304.0,948,70.3
+918,Toulouse 1 Capitole University,France,2018,50,667.0,1001,164.0,967,70.3
+919,Indian Institute of Management Ahmedabad,India,2018,16,667.0,14,304.0,1001,70.3
+920,Aberystwyth University,United Kingdom,2018,59,667.0,888,304.0,771,70.3
+921,University of Jinan,China,2018,96,667.0,1001,304.0,930,70.3
+922,North Dakota State University,USA,2018,199,326.0,1001,304.0,911,70.3
+923,University Paris 1 Panthéon-Sorbonne,France,2018,51,473.0,518,125.0,1001,70.3
+924,Rouen Normandy University,France,2018,52,661.0,1001,304.0,862,70.2
+925,University of Cádiz,Spain,2018,35,667.0,1001,304.0,854,70.2
+926,Ritsumeikan University,Japan,2018,52,667.0,594,304.0,839,70.2
+927,Federal University of Santa Maria,Brazil,2018,19,667.0,773,304.0,980,70.2
+928,University of New Brunswick,Canada,2018,27,667.0,741,304.0,916,70.2
+929,University of Caen Normandy,France,2018,53,435.0,1001,304.0,882,70.2
+930,University of South Bohemia in České Budějovice,Czech Republic,2018,5,667.0,1001,304.0,828,70.2
+931,Osaka Prefecture University,Japan,2018,53,667.0,580,304.0,935,70.2
+932,Çukurova University,Turkey,2018,11,667.0,1001,304.0,876,70.2
+933,Paris Nanterre University,France,2018,54,467.0,632,99.0,1001,70.2
+934,University of Alabama in Huntsville,USA,2018,200,667.0,1001,304.0,712,70.2
+935,Rochester Institute of Technology,USA,2018,201,667.0,944,304.0,735,70.2
+936,Dublin City University,Ireland,2018,5,667.0,914,304.0,850,70.2
+937,University of Hasselt,Belgium,2018,9,667.0,534,304.0,902,70.2
+938,Dokuz Eylül University,Turkey,2018,12,667.0,1001,304.0,967,70.2
+939,University of Massachusetts Boston,USA,2018,202,667.0,1001,304.0,807,70.1
+940,Jaume I University,Spain,2018,36,667.0,1001,304.0,900,70.1
+941,Nanjing University of Information Science and Technology,China,2018,97,667.0,1001,304.0,962,70.1
+942,Télécom ParisTech,France,2018,55,298.0,47,304.0,848,70.1
+943,San Francisco State University,USA,2018,203,516.0,1001,275.0,858,70.1
+944,Zhejiang Normal University,China,2018,98,667.0,1001,304.0,919,70.1
+945,Guangxi University,China,2018,99,605.0,1001,304.0,920,70.1
+946,Jacobs University Bremen,Germany,2018,53,667.0,1001,304.0,749,70.1
+947,Howard University,USA,2018,204,327.0,1001,304.0,762,70.1
+948,University of Pécs,Hungary,2018,6,667.0,1001,304.0,845,70.1
+949,University of Limerick,Ireland,2018,6,667.0,863,304.0,922,70.1
+950,Tottori University,Japan,2018,54,667.0,616,304.0,886,70.1
+951,Sciences Po,France,2018,56,296.0,60,168.0,967,70.1
+952,University of Windsor,Canada,2018,28,667.0,167,304.0,950,70.1
+953,Mie University,Japan,2018,55,667.0,1001,304.0,880,70.1
+954,Nicolaus Copernicus University in Toruń,Poland,2018,10,667.0,1001,304.0,917,70.1
+955,Hohai University,China,2018,100,667.0,1001,304.0,965,70.0
+956,King Juan Carlos University,Spain,2018,37,667.0,1001,304.0,932,70.0
+957,Royal College of Surgeons in Ireland,Ireland,2018,7,667.0,1001,304.0,755,70.0
+958,University of Osnabrück,Germany,2018,54,667.0,1001,304.0,773,70.0
+959,University of Perpignan Via Domita,France,2018,57,272.0,1001,304.0,756,70.0
+960,Qingdao University,China,2018,101,667.0,1001,304.0,963,70.0
+961,Sogang University,South Korea,2018,34,667.0,653,304.0,955,70.0
+962,University of Memphis,USA,2018,205,667.0,500,304.0,910,70.0
+963,Hunter College,USA,2018,206,395.0,1001,304.0,828,70.0
+964,North-West University,South Africa,2018,7,591.0,1001,304.0,894,70.0
+965,Ningbo University,China,2018,102,667.0,1001,304.0,946,70.0
+966,Shahid Beheshti University of Medical Sciences,Iran,2018,11,667.0,1001,304.0,984,70.0
+967,National Taiwan Ocean University,Taiwan,2018,16,667.0,893,304.0,937,70.0
+968,INSA Toulouse,France,2018,58,667.0,659,304.0,849,70.0
+969,University of Antioquia,Colombia,2018,3,667.0,1001,304.0,894,70.0
+970,Shantou University,China,2018,103,667.0,1001,304.0,829,70.0
+971,Chung Yuan Christian University,Taiwan,2018,17,460.0,526,304.0,930,69.9
+972,Guangzhou Medical University,China,2018,104,667.0,1001,304.0,931,69.9
+973,Amherst College,USA,2018,207,21.0,66,304.0,995,69.9
+974,Yunnan University,China,2018,105,667.0,1001,304.0,904,69.9
+975,Johannes Kepler University Linz,Austria,2018,11,667.0,1001,304.0,893,69.9
+976,New York Medical College,USA,2018,208,667.0,1001,304.0,843,69.9
+977,Missouri University of Science and Technology,USA,2018,209,667.0,392,304.0,943,69.9
+978,University of Maribor,Slovenia,2018,2,667.0,1001,304.0,967,69.9
+979,Atatürk University,Turkey,2018,13,667.0,1001,304.0,967,69.9
+980,Eastern Virginia Medical School,USA,2018,210,667.0,1001,304.0,707,69.9
+981,University of North Carolina at Greensboro,USA,2018,211,667.0,1001,304.0,871,69.9
+982,Beijing Forestry University,China,2018,106,667.0,1001,304.0,947,69.9
+983,Liverpool School of Tropical Medicine,United Kingdom,2018,60,667.0,1001,304.0,775,69.9
+984,University of Brighton,United Kingdom,2018,61,667.0,1001,304.0,867,69.9
+985,Federal University of Bahia,Brazil,2018,20,602.0,1001,304.0,989,69.9
+986,University of St. Gallen,Switzerland,2018,9,667.0,32,304.0,967,69.9
+987,Xiangtan University,China,2018,107,667.0,915,304.0,940,69.8
+988,Manchester Metropolitan University,United Kingdom,2018,62,667.0,960,304.0,843,69.8
+989,University of A Coruña,Spain,2018,38,667.0,1001,304.0,945,69.8
+990,Khon Kaen University,Thailand,2018,4,667.0,1001,304.0,967,69.8
+991,University of Ibadan,Nigeria,2018,1,540.0,1001,265.0,891,69.8
+992,Shahid Beheshti University,Iran,2018,12,667.0,1001,304.0,892,69.8
+993,University of Massachusetts Lowell,USA,2018,212,667.0,930,304.0,844,69.8
+994,Loma Linda University,USA,2018,213,180.0,1001,304.0,912,69.8
+995,University of Macau,Macau,2018,1,667.0,512,304.0,939,69.8
+996,Aga Khan University,Pakistan,2018,3,667.0,1001,304.0,713,69.8
+997,University of Calcutta,India,2018,17,353.0,716,296.0,989,69.8
+998,Kōchi University,Japan,2018,56,667.0,1001,304.0,828,69.8
+999,Soonchunhyang University,South Korea,2018,35,667.0,1001,304.0,967,69.8
+1000,Capital Normal University,China,2018,108,667.0,869,304.0,931,69.8

@@ -1,0 +1,1001 @@
+World Rank	Institution	Location	National Rank	Education Rank	Employability Rank	Faculty Rank	Research Performance	Score
+1	Harvard University	USA	1	3	1	1	1	100
+2	Massachusetts Institute of Technology	USA	2	4	11	2	7	96.7
+3	Stanford University	USA	3	10	4	3	2	95.2
+4	University of Cambridge	United Kingdom	1	1	21	4	11	94.1
+5	University of Oxford	United Kingdom	2	7	26	9	4	93.3
+6	Columbia University	USA	4	11	14	10	15	92.6
+7	Princeton University	USA	5	6	15	7	71	92.0
+8	University of Pennsylvania	USA	6	14	9	43	12	91.6
+9	University of Chicago	USA	7	8	18	29	22	91.1
+10	Yale University	USA	8	5	35	11	20	90.7
+11	California Institute of Technology	USA	9	2	128	5	74	90.4
+12	University of California, Berkeley	USA	10	9	57	8	14	90.1
+13	Cornell University	USA	11	13	28	17	24	89.8
+14	University of Tokyo	Japan	1	37	7	105	27	89.5
+15	Johns Hopkins University	USA	12	20	188	22	6	89.3
+16	University of Michigan, Ann Arbor	USA	13	32	37	82	5	89.0
+17	Northwestern University	USA	14	139	17	46	29	88.8
+18	University of California, Los Angeles	USA	15	49	63	19	10	88.6
+19	University College London	United Kingdom	3	33	666	14	8	88.4
+20	Duke University	USA	16	61	51	16	21	88.2
+21	PSL University	France	1	16	27	100	121	88.0
+22	University of Illinois at Urbana–Champaign	USA	17	23	133	12	61	87.8
+23	University of Washington - Seattle	USA	18	60	216	23	9	87.7
+24	University of Toronto	Canada	1	225	159	21	3	87.5
+25	New York University	USA	19	43	42	40	45	87.3
+26	University of Wisconsin–Madison	USA	20	34	93	34	31	87.2
+27	McGill University	Canada	2	25	100	36	43	87.1
+28	Kyoto University	Japan	2	47	34	60	65	86.9
+29	ETH Zurich	Switzerland	1	48	92	20	40	86.8
+30	Imperial College London	United Kingdom	4	59	103	51	17	86.7
+31	Seoul National University	South Korea	1	317	22	134	60	86.5
+32	Paris-Saclay University	France	2	195	138	44	13	86.4
+33	University of Texas at Austin	USA	21	79	65	15	55	86.3
+34	University of California San Diego	USA	22	116	-	13	18	86.2
+35	Institut Polytechnique de Paris	France	3	87	6	214	304	86.1
+36	Dartmouth College	USA	23	54	16	93	263	85.9
+37	University of California, San Francisco	USA	24	-	-	18	23	85.8
+38	University of Copenhagen	Denmark	1	85	360	41	25	85.7
+39	Karolinska Institute	Sweden	1	38	-	31	53	85.6
+40	University of North Carolina at Chapel Hill	USA	25	83	105	75	33	85.5
+41	Rockefeller University	USA	26	12	-	6	398	85.4
+42	Sorbonne University	France	4	94	355	89	16	85.3
+43	University of Paris	France	5	259	914	53	19	85.2
+44	University of Edinburgh	United Kingdom	5	46	365	58	48	85.2
+45	King's College London	United Kingdom	6	62	362	28	59	85.1
+46	Washington University in St. Louis	USA	27	115	186	32	44	85.0
+47	University of Minnesota - Twin Cities	USA	28	74	308	120	28	84.9
+48	University of British Columbia	Canada	3	99	652	83	30	84.8
+49	Ludwig Maximilian University of Munich	Germany	1	72	266	66	47	84.7
+50	Rutgers University–New Brunswick	USA	29	192	106	24	81	84.6
+51	University of Southern California	USA	30	307	124	27	69	84.6
+52	Vanderbilt University	USA	31	370	88	59	64	84.5
+53	University of Texas Southwestern Medical Center	USA	32	28	-	25	149	84.4
+54	Pennsylvania State University	USA	33	304	163	56	51	84.3
+55	Purdue University	USA	34	80	81	65	104	84.3
+56	University of California, Davis	USA	35	123	577	62	46	84.2
+57	University of Manchester	United Kingdom	7	103	309	77	49	84.1
+58	Ohio State University	USA	36	125	247	144	34	84.0
+59	Free University of Berlin	Germany	2	93	1164	37	76	84.0
+60	Brown University	USA	37	70	56	112	131	83.9
+61	Weizmann Institute of Science	Israel	1	17	-	45	270	83.8
+62	Peking University	China	1	350	68	-	37	83.8
+63	University of Melbourne	Australia	1	137	371	128	36	83.7
+64	University of Virginia	USA	38	262	33	184	125	83.6
+65	Hebrew University of Jerusalem	Israel	2	31	433	35	167	83.6
+66	Humboldt University of Berlin	Germany	3	84	-	54	70	83.5
+67	University of Zurich	Switzerland	2	98	693	52	72	83.5
+68	Utrecht University	Netherlands	1	150	375	145	39	83.4
+69	University of Colorado Boulder	USA	39	149	179	47	92	83.3
+70	Heidelberg University	Germany	4	132	866	80	58	83.3
+71	Tsinghua University	China	2	515	98	-	35	83.2
+72	University of Pittsburgh	USA	40	250	236	259	32	83.2
+73	Texas A&M University, College Station	USA	41	-	139	69	95	83.1
+74	Georgia Institute of Technology	USA	42	289	166	42	111	83.0
+75	University of Rochester	USA	43	68	74	118	145	83.0
+76	University of Maryland, College Park	USA	44	113	453	130	62	82.9
+77	University of Oslo	Norway	1	96	673	76	90	82.9
+78	University of Birmingham	United Kingdom	8	42	407	163	107	82.8
+79	Leiden University	Netherlands	2	104	1106	72	91	82.8
+80	University of California, Irvine	USA	45	-	1353	33	102	82.7
+81	Technical University of Munich	Germany	5	75	358	132	85	82.7
+82	Carnegie Mellon University	USA	46	55	155	38	200	82.6
+83	University of Amsterdam	Netherlands	3	211	942	189	42	82.6
+84	University of Chinese Academy of Sciences	China	3	-	1136	-	26	82.5
+85	University of Florida	USA	47	316	497	140	57	82.5
+86	National Taiwan University	Taiwan	1	305	38	-	114	82.4
+87	Osaka University	Japan	3	146	61	179	123	82.4
+88	Uppsala University	Sweden	2	144	496	67	100	82.3
+89	University of Arizona	USA	48	474	208	70	101	82.3
+90	University of Bristol	United Kingdom	9	212	280	74	97	82.2
+91	Boston University	USA	49	500	114	210	66	82.2
+92	Erasmus University Rotterdam	Netherlands	4	-	78	262	73	82.1
+93	Keio University	Japan	4	489	12	-	363	82.1
+94	University of Basel	Switzerland	3	58	306	68	154	82.0
+95	National University of Singapore	Singapore	1	330	165	-	41	82.0
+96	University of Geneva	Switzerland	4	64	354	109	122	82.0
+97	University of California, Santa Barbara	USA	50	208	486	26	133	81.9
+98	University of Sydney	Australia	2	176	607	-	38	81.9
+99	University of Texas MD Anderson Cancer Center	USA	51	-	-	84	88	81.8
+100	University of Leeds	United Kingdom	10	124	349	49	134	81.8
+101	University of Alberta	Canada	4	329	441	119	80	81.7
+102	École Polytechnique Fédérale de Lausanne	Switzerland	5	-	90	151	117	81.7
+103	University of São Paulo	Brazil	1	514	303	117	86	81.7
+104	University of Groningen	Netherlands	5	274	568	126	78	81.6
+105	Indiana University Bloomington	USA	52	236	82	175	118	81.6
+106	University of Queensland	Australia	3	405	598	222	54	81.5
+107	Aarhus University	Denmark	2	264	357	152	83	81.5
+108	University of Göttingen	Germany	6	51	314	110	161	81.4
+109	University of Utah	USA	53	252	190	129	106	81.4
+110	Shanghai Jiao Tong University	China	4	-	213	-	56	81.4
+111	University of Helsinki	Finland	1	221	1020	167	84	81.3
+112	University of New South Wales	Australia	4	512	111	-	77	81.3
+113	University of Montreal	Canada	5	445	462	136	99	81.3
+114	Sapienza University of Rome	Italy	1	463	480	115	103	81.2
+115	KU Leuven	Belgium	1	-	400	-	50	81.2
+116	INSEAD	France	6	-	3	-	1573	81.1
+117	Zhejiang University	China	5	-	436	-	52	81.1
+118	Ghent University	Belgium	2	391	603	191	79	81.1
+119	University of Southampton	United Kingdom	11	452	378	98	113	81.0
+120	University of Glasgow	United Kingdom	12	138	338	131	120	81.0
+121	Emory University	USA	54	471	223	-	63	81.0
+122	Tufts University	USA	55	81	62	164	225	80.9
+123	Australian National University	Australia	5	162	647	79	138	80.9
+124	Case Western Reserve University	USA	56	63	262	181	144	80.8
+125	University of Tübingen	Germany	7	71	1049	108	150	80.8
+126	Baylor College of Medicine	USA	57	69	-	201	124	80.8
+127	University of Freiburg	Germany	8	127	215	102	153	80.7
+128	Fudan University	China	6	311	127	-	89	80.7
+129	Goethe University Frankfurt	Germany	9	309	763	30	184	80.7
+130	Monash University	Australia	6	-	425	-	68	80.6
+131	University of Nottingham	United Kingdom	13	184	450	104	135	80.6
+132	Tohoku University	Japan	5	196	154	137	146	80.6
+133	University of Barcelona	Spain	1	-	535	-	67	80.5
+134	University of Liverpool	United Kingdom	14	135	470	92	152	80.5
+135	KTH Royal Institute of Technology	Sweden	3	242	53	176	227	80.5
+136	Lund University	Sweden	4	204	612	250	87	80.4
+137	Grenoble Alpes University	France	7	258	1056	233	94	80.4
+138	Nagoya University	Japan	6	90	225	106	186	80.4
+139	Rice University	USA	58	117	91	107	235	80.3
+140	Nanyang Technological University	Singapore	2	-	996	-	75	80.3
+141	University of Bonn	Germany	10	133	527	138	142	80.3
+142	Tokyo Institute of Technology	Japan	7	314	83	73	262	80.2
+143	University of Iowa	USA	59	143	337	186	132	80.2
+144	University of Bern	Switzerland	6	156	1267	166	130	80.2
+145	University of Colorado Anschutz Medical Campus	USA	60	-	-	91	148	80.2
+146	VU Amsterdam	Netherlands	6	-	1100	-	82	80.1
+147	University of Strasbourg	France	8	118	1496	50	215	80.1
+148	University of Sheffield	United Kingdom	15	226	559	148	139	80.1
+149	University of Science and Technology of China	China	7	-	345	-	93	80.0
+150	Michigan State University	USA	61	178	253	-	105	80.0
+151	University of Western Australia	Australia	7	228	699	195	128	80.0
+152	Tel Aviv University	Israel	3	363	151	-	119	79.9
+153	Cardiff University	United Kingdom	16	384	493	85	168	79.9
+154	Radboud University	Netherlands	7	434	651	-	96	79.9
+155	Queen Mary University of London	United Kingdom	17	112	734	142	164	79.9
+156	University of Massachusetts Amherst	USA	62	473	264	63	209	79.8
+157	Aix-Marseille University	France	9	506	940	-	98	79.8
+158	Technion – Israel Institute of Technology	Israel	4	114	332	64	239	79.8
+159	Stockholm University	Sweden	5	277	366	99	177	79.7
+160	McMaster University	Canada	6	418	743	217	127	79.7
+161	University of Notre Dame	USA	63	301	36	-	284	79.7
+162	École nationale d'administration	France	10	-	2	-	-	79.7
+163	Sun Yat-sen University	China	8	-	538	-	109	79.6
+164	University of Padova	Italy	2	453	1501	-	108	79.6
+165	Yonsei University	South Korea	2	-	112	-	147	79.6
+166	University of Hong Kong	China	9	-	176	-	137	79.5
+167	University of Hamburg	Germany	11	278	465	-	116	79.5
+168	University of Montpellier	France	11	450	1123	-	110	79.5
+169	University of Gothenburg	Sweden	6	402	409	146	174	79.5
+170	Nanjing University	China	10	493	428	-	115	79.4
+171	Icahn School of Medicine at Mount Sinai	USA	64	-	-	-	112	79.4
+172	Huazhong University of Science and Technology	China	11	-	205	-	136	79.4
+173	Iowa State University	USA	65	346	194	156	198	79.4
+174	Korea University	South Korea	3	-	89	-	181	79.3
+175	University of Warwick	United Kingdom	18	427	193	220	166	79.3
+176	Waseda University	Japan	8	353	23	-	461	79.3
+177	Newcastle University	United Kingdom	19	465	518	160	176	79.3
+178	Norwegian University of Science and Technology	Norway	2	249	429	57	267	79.2
+179	University of Milan	Italy	3	446	569	-	126	79.2
+180	University of Kansas	USA	66	261	390	97	224	79.2
+181	University of Lausanne	Switzerland	7	232	761	116	204	79.2
+182	University of Bologna	Italy	4	-	728	-	129	79.1
+183	Arizona State University	USA	67	419	650	257	141	79.1
+184	University of Alabama at Birmingham	USA	68	-	899	231	151	79.1
+185	Western University	Canada	7	412	87	-	195	79.1
+186	Brandeis University	USA	69	29	233	39	588	79.0
+187	Wageningen University & Research	Netherlands	8	414	860	206	160	79.0
+188	University of Calgary	Canada	8	-	232	-	143	79.0
+189	Université catholique de Louvain	Belgium	3	-	517	127	206	79.0
+190	North Carolina State University	USA	70	382	411	182	187	78.9
+191	Chinese University of Hong Kong	China	12	406	1230	242	155	78.9
+192	University of Münster	Germany	12	429	768	190	178	78.9
+193	Lomonosov Moscow State University	Russia	1	95	342	192	223	78.9
+194	University of Cologne	Germany	13	510	267	204	191	78.8
+195	Sungkyunkwan University	South Korea	4	-	237	-	157	78.8
+196	Autonomous University of Barcelona	Spain	2	-	-	-	140	78.8
+197	Yeshiva University	USA	71	86	-	178	230	78.8
+198	Stony Brook University	USA	72	386	-	169	194	78.7
+199	University of Waterloo	Canada	9	-	221	200	203	78.7
+200	Technical University of Denmark	Denmark	3	368	701	187	188	78.7
+201	University of Georgia	USA	73	392	325	173	212	78.7
+202	University of Würzburg	Germany	14	151	985	228	193	78.6
+203	University of Ottawa	Canada	10	-	461	-	156	78.6
+204	Johannes Gutenberg University Mainz	Germany	15	-	-	180	196	78.6
+205	HEC Paris	France	12	-	5	-	1986	78.6
+206	University of Lisbon	Portugal	1	432	1142	234	173	78.6
+207	University of Missouri–Columbia	USA	74	423	259	86	286	78.5
+208	Kiel University	Germany	16	343	961	139	228	78.5
+209	University of Vienna	Austria	1	159	479	155	244	78.5
+210	University of Illinois at Chicago	USA	75	476	809	269	159	78.5
+211	Université libre de Bruxelles	Belgium	4	435	289	168	234	78.4
+212	University of Reading	United Kingdom	20	105	102	101	374	78.4
+213	Trinity College Dublin	Ireland	1	201	85	238	283	78.4
+214	Georgetown University	USA	76	334	54	-	313	78.4
+215	University of Miami	USA	77	-	248	-	172	78.4
+216	Hokkaido University	Japan	9	347	298	161	245	78.3
+217	TU Dresden	Germany	17	-	-	-	158	78.3
+218	RWTH Aachen University	Germany	18	494	235	-	180	78.3
+219	Kyushu University	Japan	10	272	108	-	219	78.3
+220	The Scripps Research Institute	USA	78	-	-	71	295	78.2
+221	University of Adelaide	Australia	8	197	783	-	165	78.2
+222	Wake Forest University	USA	79	-	70	-	278	78.2
+223	London School of Hygiene & Tropical Medicine	United Kingdom	21	270	-	172	232	78.2
+224	University of Erlangen–Nuremberg	Germany	19	417	926	-	163	78.2
+225	Harbin Institute of Technology	China	13	-	444	-	169	78.1
+226	Claude Bernard University Lyon 1	France	13	-	1034	-	162	78.1
+227	P.N. Lebedev Physical Institute of the Russian Academy of Sciences	Russia	2	27	-	103	533	78.1
+228	University of Leicester	United Kingdom	22	-	-	96	277	78.1
+229	Complutense University of Madrid	Spain	3	191	137	215	273	78.1
+230	University of Cincinnati	USA	80	499	239	-	189	78.0
+231	University of Texas Health Science Center at Houston	USA	81	-	-	149	249	78.0
+232	Xi'an Jiaotong University	China	14	-	207	-	197	78.0
+233	University of Turin	Italy	5	233	1098	-	170	78.0
+234	KAIST	South Korea	5	-	174	-	207	78.0
+235	Hong Kong University of Science and Technology	China	15	-	494	143	269	77.9
+236	University of Sussex	United Kingdom	23	106	438	81	350	77.9
+237	Charles University in Prague	Czech Republic	1	326	1309	-	175	77.9
+238	Paul Sabatier University	France	14	-	-	-	171	77.9
+239	Karlsruhe Institute of Technology	Germany	20	460	296	-	192	77.9
+240	Maastricht University	Netherlands	9	-	1424	-	179	77.8
+241	Shandong University	China	16	-	1111	-	182	77.8
+242	University of California, Riverside	USA	82	365	-	219	217	77.8
+243	Wuhan University	China	17	-	392	-	190	77.8
+244	University of Bordeaux	France	15	-	1295	-	183	77.8
+245	University of Naples Federico II	Italy	6	-	853	-	185	77.7
+246	University of California, Santa Cruz	USA	83	374	-	174	252	77.7
+247	Virginia Commonwealth University	USA	84	-	1000	111	291	77.7
+248	Tianjin University	China	18	-	158	-	243	77.7
+249	University of Tennessee, Knoxville	USA	85	421	408	-	205	77.7
+250	University of Houston	USA	86	-	146	123	340	77.6
+251	Xiamen University	China	19	-	116	-	266	77.6
+252	Colorado State University	USA	87	451	1243	205	248	77.6
+253	University of Florence	Italy	7	-	738	-	199	77.6
+254	Nankai University	China	20	-	126	-	265	77.6
+255	Jilin University	China	21	-	476	-	210	77.5
+256	Sichuan University	China	22	-	1060	-	201	77.5
+257	Oregon Health & Science University	USA	88	-	-	-	202	77.5
+258	University of Tsukuba	Japan	11	-	-	141	297	77.5
+259	Delft University of Technology	Netherlands	10	256	403	-	218	77.5
+260	University of Aberdeen	United Kingdom	24	275	654	154	301	77.5
+261	University of Manitoba	Canada	11	319	251	196	292	77.4
+262	University of Bergen	Norway	3	378	-	-	208	77.4
+263	University of Auckland	New Zealand	1	504	430	-	216	77.4
+264	University of Pisa	Italy	8	325	1163	-	211	77.4
+265	South China University of Technology	China	23	-	234	-	238	77.4
+266	University of Exeter	United Kingdom	25	361	660	-	214	77.3
+267	National and Kapodistrian University of Athens	Greece	1	-	698	-	213	77.3
+268	University of Cape Town	South Africa	1	170	278	-	246	77.3
+269	University of Genoa	Italy	9	508	1172	225	261	77.3
+270	Oregon State University	USA	89	227	537	226	274	77.3
+271	Leipzig University	Germany	21	203	-	197	282	77.3
+272	University of Connecticut	USA	90	472	387	-	229	77.2
+273	Virginia Tech	USA	91	475	321	-	236	77.2
+274	Florida State University	USA	92	-	553	-	222	77.2
+275	University of the Witwatersrand	South Africa	2	163	86	-	331	77.2
+276	University of Massachusetts Medical School	USA	93	-	-	87	346	77.2
+277	University of East Anglia	United Kingdom	26	126	-	165	326	77.2
+278	City University of Hong Kong	China	24	-	1053	-	221	77.1
+279	University of Maryland, Baltimore	USA	94	-	-	-	220	77.1
+280	Autonomous University of Madrid	Spain	4	-	909	-	226	77.1
+281	University of Lorraine	France	16	518	421	171	307	77.1
+282	University of Liège	Belgium	5	186	-	113	347	77.1
+283	University College Dublin	Ireland	2	-	272	-	256	77.0
+284	National Autonomous University of Mexico	Mexico	1	394	1410	241	268	77.0
+285	Southeast University	China	25	-	1048	-	231	77.0
+286	Laval University	Canada	12	511	454	-	242	77.0
+287	Hong Kong Polytechnic University	China	26	-	322	-	251	77.0
+288	Medical University of Vienna	Austria	2	-	-	-	233	77.0
+289	University of Valencia	Spain	5	-	1329	-	237	76.9
+290	University at Buffalo	USA	95	-	616	-	241	76.9
+291	University of South Florida	USA	96	-	760	-	240	76.9
+292	Wayne State University	USA	97	497	317	-	260	76.9
+293	Louisiana State University	USA	98	468	352	-	259	76.9
+294	Tongji University	China	27	-	244	-	271	76.9
+295	University of Antwerp	Belgium	6	-	520	-	250	76.8
+296	University of Kentucky	USA	99	293	525	-	257	76.8
+297	University of Pavia	Italy	10	371	750	215	294	76.8
+298	Central South University	China	28	-	228	-	276	76.8
+299	Southern Methodist University	USA	100	193	29	-	651	76.8
+300	University of New Mexico	USA	101	-	-	-	247	76.8
+301	Queen's University	Canada	13	505	420	203	310	76.7
+302	George Washington University	USA	102	400	199	-	287	76.7
+303	University of Delaware	USA	103	373	668	161	332	76.7
+304	University of Lille	France	17	-	-	-	253	76.7
+305	King Abdulaziz University	Saudi Arabia	1	-	1294	-	255	76.7
+306	Soochow University, China	China	29	-	-	-	254	76.7
+307	University of Duisburg-Essen	Germany	22	-	993	-	258	76.6
+308	Washington State University	USA	104	-	874	183	318	76.6
+309	University of Nebraska–Lincoln	USA	105	172	395	-	285	76.6
+310	University of Rome Tor Vergata	Italy	11	-	1484	-	264	76.6
+311	International Institute for Management Development	Switzerland	8	-	8	-	-	76.6
+312	Ruhr University Bochum	Germany	23	-	406	-	275	76.6
+313	Dalian University of Technology	China	30	-	240	-	293	76.6
+314	Ulm University	Germany	24	-	954	-	272	76.5
+315	Durham University	United Kingdom	27	338	311	-	289	76.5
+316	London School of Economics and Political Science	United Kingdom	28	248	79	253	428	76.5
+317	China Europe International Business School	China	31	-	10	-	-	76.5
+318	University of Porto	Portugal	2	491	703	-	279	76.5
+319	Northeastern University	USA	106	323	171	-	324	76.5
+320	University of York	United Kingdom	29	268	-	-	281	76.4
+321	Umeå University	Sweden	7	-	1350	267	288	76.4
+322	Friedrich Schiller University Jena	Germany	25	519	-	255	303	76.4
+323	Hanyang University	South Korea	6	-	192	-	316	76.4
+324	Beihang University	China	32	-	928	-	280	76.4
+325	National Cheng Kung University	Taiwan	2	-	110	-	354	76.4
+326	King Abdullah University of Science and Technology	Saudi Arabia	2	-	-	158	368	76.4
+327	University of South Carolina - Columbia	USA	107	-	531	-	296	76.3
+328	Chinese Academy of Medical Sciences & Peking Union Medical College	China	33	-	-	-	290	76.3
+329	University of Düsseldorf	Germany	26	213	-	-	302	76.3
+330	University of Dundee	United Kingdom	30	492	1097	147	401	76.3
+331	Dalhousie University	Canada	14	313	310	-	312	76.3
+332	Hannover Medical School	Germany	27	-	-	267	305	76.3
+333	University of Granada	Spain	6	-	-	-	298	76.2
+334	Versailles Saint-Quentin-en-Yvelines University	France	18	-	-	-	299	76.2
+335	Simon Fraser University	Canada	15	-	1150	-	300	76.2
+336	Polytechnic University of Milan	Italy	12	356	457	193	373	76.2
+337	University of St Andrews	United Kingdom	31	296	754	224	352	76.2
+338	Eindhoven University of Technology	Netherlands	11	-	882	227	344	76.2
+339	Aalto University	Finland	2	-	210	-	336	76.2
+340	École des ponts ParisTech	France	19	168	25	-	972	76.1
+341	University of Otago	New Zealand	2	-	779	-	308	76.1
+342	Beijing Normal University	China	34	-	1287	-	306	76.1
+343	City College of New York	USA	108	24	427	-	768	76.1
+344	University of Milano-Bicocca	Italy	13	-	-	-	309	76.1
+345	University of Oregon	USA	109	141	-	229	386	76.1
+346	University of Belgrade	Serbia	1	440	-	-	311	76.1
+347	Drexel University	USA	110	-	273	232	390	76.0
+348	Lancaster University	United Kingdom	32	-	582	-	320	76.0
+349	Ben-Gurion University of the Negev	Israel	5	-	-	211	367	76.0
+350	Queen's University Belfast	United Kingdom	33	389	877	-	317	76.0
+351	University of Campinas	Brazil	2	-	-	-	314	76.0
+352	Temple University	USA	111	-	648	-	319	76.0
+353	University of Southern Denmark	Denmark	4	-	1468	-	315	76.0
+354	University of Buenos Aires	Argentina	1	327	1281	-	321	75.9
+355	University of Parma	Italy	14	300	897	90	483	75.9
+356	Federal University of Rio de Janeiro	Brazil	3	439	434	-	330	75.9
+357	Linköping University	Sweden	8	-	637	-	325	75.9
+358	University of the Basque Country	Spain	7	-	1116	-	322	75.9
+359	Vrije Universiteit Brussel	Belgium	7	447	-	-	323	75.9
+360	Aalborg University	Denmark	5	-	808	-	328	75.9
+361	Curtin University	Australia	9	-	1325	-	327	75.8
+362	Pohang University of Science and Technology	South Korea	7	-	-	-	329	75.8
+363	Beijing Institute of Technology	China	35	-	1112	-	333	75.8
+364	University of Turku	Finland	3	-	1449	-	334	75.8
+365	Lanzhou University	China	36	-	1059	-	337	75.8
+366	University of Victoria	Canada	16	-	-	-	335	75.8
+367	University of Innsbruck	Austria	3	-	751	244	380	75.8
+368	Medical University of South Carolina	USA	112	-	-	-	338	75.7
+369	University of Marburg	Germany	28	202	-	223	417	75.7
+370	Technical University of Berlin	Germany	29	180	592	-	359	75.7
+371	Hunan University	China	37	-	623	-	345	75.7
+372	Pontifical Catholic University of Chile	Chile	1	495	196	-	395	75.7
+373	Justus Liebig University Giessen	Germany	30	-	-	-	339	75.7
+374	University of Regensburg	Germany	31	-	852	-	342	75.7
+375	Jagiellonian University	Poland	1	-	-	-	341	75.7
+376	Kurchatov Institute	Russia	3	-	-	-	343	75.6
+377	National Tsing Hua University	Taiwan	3	369	845	-	349	75.6
+378	Macquarie University	Australia	10	-	536	-	353	75.6
+379	University of Perugia	Italy	15	-	-	-	348	75.6
+380	China Agricultural University	China	38	-	1160	-	351	75.6
+381	University of Electronic Science and Technology of China	China	39	-	721	-	357	75.6
+382	King Saud University	Saudi Arabia	3	-	423	-	364	75.6
+383	Kyung Hee University	South Korea	8	-	1013	-	355	75.5
+384	University of Ljubljana	Slovenia	1	-	-	-	356	75.5
+385	University of Oklahoma, Norman	USA	113	-	388	-	370	75.5
+386	University of Newcastle	Australia	11	-	1228	-	358	75.5
+387	Indiana University – Purdue University Indianapolis	USA	114	-	917	-	360	75.5
+388	Tampere University	Finland	4	-	459	-	375	75.5
+389	Griffith University	Australia	12	-	1276	-	361	75.5
+390	University at Albany, SUNY	USA	115	216	787	208	443	75.5
+391	Deakin University	Australia	13	-	938	-	362	75.4
+392	University of Texas at Dallas	USA	116	362	545	-	379	75.4
+393	Pompeu Fabra University	Spain	8	-	1425	-	366	75.4
+394	East China University of Science and Technology	China	40	-	-	-	365	75.4
+395	Islamic Azad University	Iran	1	-	-	-	369	75.4
+396	University of Warsaw	Poland	2	466	1016	-	371	75.4
+397	East China Normal University	China	41	-	415	-	393	75.4
+398	University of Wollongong	Australia	14	-	619	-	384	75.4
+399	University of Seville	Spain	9	-	1438	-	372	75.3
+400	York University	Canada	17	-	254	-	415	75.3
+401	University of Ulsan	South Korea	9	-	706	-	381	75.3
+402	University of Technology Sydney	Australia	15	-	1063	-	376	75.3
+403	Amherst College	USA	117	21	55	-	-	75.3
+404	Kyungpook National University	South Korea	10	-	920	-	378	75.3
+405	University of Bari	Italy	16	-	-	-	377	75.3
+406	Swedish University of Agricultural Sciences	Sweden	9	308	-	-	385	75.3
+407	Chalmers University of Technology	Sweden	10	502	300	-	413	75.2
+408	University of Coimbra	Portugal	3	409	1174	-	383	75.2
+409	University of Malaya	Malaysia	1	-	437	-	404	75.2
+410	Aristotle University of Thessaloniki	Greece	2	-	-	-	382	75.2
+411	Stockholm School of Economics	Sweden	11	-	20	261	1768	75.2
+412	Queensland University of Technology	Australia	16	-	1133	-	387	75.2
+413	Hiroshima University	Japan	12	-	1233	-	388	75.2
+414	Thomas Jefferson University	USA	118	-	-	-	389	75.2
+415	Indian Institute of Management Ahmedabad	India	1	377	13	-	-	75.1
+416	Chongqing University	China	42	-	584	-	400	75.1
+417	Vienna University of Technology	Austria	4	480	645	-	396	75.1
+418	University of Twente	Netherlands	12	-	1043	-	392	75.1
+419	University of Tasmania	Australia	17	-	-	-	391	75.1
+420	University of Rennes 1	France	20	-	-	-	394	75.1
+421	São Paulo State University	Brazil	4	-	-	-	397	75.1
+422	University of Colorado Denver	USA	119	-	-	-	399	75.1
+423	Saint Louis University	USA	120	-	274	187	512	75.0
+424	University of Côte d'Azur	France	21	-	-	-	402	75.0
+425	Tulane University	USA	121	239	351	-	426	75.0
+426	University of Texas Health Science Center at San Antonio	USA	122	-	-	-	403	75.0
+427	Texas Tech University	USA	123	-	467	-	416	75.0
+428	University of Clermont Auvergne	France	22	-	-	-	405	75.0
+429	Stellenbosch University	South Africa	3	-	180	-	453	75.0
+430	University of Stuttgart	Germany	32	128	286	-	462	75.0
+431	University of Oulu	Finland	5	-	677	-	412	74.9
+432	Vita-Salute San Raffaele University	Italy	17	-	-	-	406	74.9
+433	University of Navarra	Spain	10	-	104	251	546	74.9
+434	University of Trieste	Italy	18	-	1040	-	408	74.9
+435	University of Eastern Finland	Finland	6	-	-	-	407	74.9
+436	Catholic University of the Sacred Heart	Italy	19	-	1179	-	409	74.9
+437	Kansas State University	USA	124	355	475	-	422	74.9
+438	University of Saskatchewan	Canada	18	280	680	-	420	74.9
+439	Okayama University	Japan	13	344	599	-	419	74.8
+440	Chonnam National University	South Korea	11	-	1246	-	410	74.8
+441	Medical College of Wisconsin	USA	125	-	-	-	411	74.8
+442	University of Chile	Chile	2	-	560	-	421	74.8
+443	University of Mississippi	USA	126	484	-	-	414	74.8
+444	Kobe University	Japan	14	295	455	-	429	74.8
+445	China University of Geosciences	China	43	-	1061	-	418	74.8
+446	University of Vermont	USA	127	-	488	-	427	74.8
+447	University of Bath	United Kingdom	34	-	583	-	423	74.8
+448	University of Science and Technology Beijing	China	44	-	217	-	458	74.7
+449	Pusan National University	South Korea	12	-	504	-	430	74.7
+450	Martin Luther University Halle-Wittenberg	Germany	33	425	-	246	452	74.7
+451	University of Zaragoza	Spain	11	485	1018	-	424	74.7
+452	George Mason University	USA	128	-	1358	237	471	74.7
+453	National Chiao Tung University	Taiwan	4	-	291	-	448	74.7
+454	Capital Medical University	China	45	-	-	-	425	74.7
+455	University of Louisville	USA	129	-	746	-	431	74.7
+456	University of Catania	Italy	20	340	-	-	432	74.7
+457	Polytechnic University of Catalonia	Spain	12	-	656	-	436	74.6
+458	Northwestern Polytechnical University	China	46	-	678	-	438	74.6
+459	University of Guelph	Canada	19	-	1124	-	434	74.6
+460	University of Siena	Italy	21	-	1277	-	433	74.6
+461	University of Santiago de Compostela	Spain	13	-	908	-	435	74.6
+462	Indian Institute of Science	India	2	348	732	-	440	74.6
+463	University of Strathclyde	United Kingdom	35	-	330	-	460	74.6
+464	Scuola Normale Superiore di Pisa	Italy	22	77	-	239	581	74.6
+465	University of Trento	Italy	23	-	-	-	437	74.5
+466	Florida International University	USA	130	-	1321	-	439	74.5
+467	TU Darmstadt	Germany	34	337	695	-	447	74.5
+468	University of Central Florida	USA	131	-	1077	-	441	74.5
+469	University of Alabama - Tuscaloosa	USA	132	444	229	-	482	74.5
+470	Zhengzhou University	China	47	-	998	-	442	74.5
+471	Syracuse University	USA	133	166	224	-	510	74.5
+472	James Cook University	Australia	18	-	1067	-	444	74.5
+473	Hitotsubashi University	Japan	15	-	19	-	-	74.5
+474	University of Rostock	Germany	35	430	-	-	445	74.4
+475	Colorado School of Mines	USA	134	-	58	-	735	74.4
+476	Federal University of Rio Grande do Sul	Brazil	5	-	1271	-	446	74.4
+477	University of KwaZulu-Natal	South Africa	4	498	284	-	474	74.4
+478	University of Hull	United Kingdom	36	190	260	135	676	74.4
+479	Lehigh University	USA	135	165	67	-	728	74.4
+480	Savoie Mont Blanc University	France	23	-	-	-	449	74.4
+481	University of Tennessee Health Science Center	USA	136	-	-	-	450	74.4
+482	Rovira i Virgili University	Spain	14	-	-	-	451	74.4
+483	University of Oviedo	Spain	15	-	962	-	455	74.4
+484	Shanghai University	China	48	-	973	-	457	74.3
+485	Ioffe Physical-Technical Institute of the Russian Academy of Sciences	Russia	4	36	-	212	897	74.3
+486	University of Hawaii at Manoa	USA	137	366	1154	-	459	74.3
+487	Polytechnic University of Valencia	Spain	16	-	-	-	454	74.3
+488	University of Tromsø – The Arctic University of Norway	Norway	4	-	-	-	456	74.3
+489	Baylor University	USA	138	-	367	-	475	74.3
+490	École normale supérieure de Lyon	France	24	383	-	263	476	74.3
+491	Oklahoma State University	USA	139	-	491	-	473	74.3
+492	Federal University of Minas Gerais	Brazil	6	-	600	-	466	74.3
+493	Chulalongkorn University	Thailand	1	-	117	-	568	74.2
+494	Boston College	USA	140	-	157	-	539	74.2
+495	Rush University	USA	141	-	-	-	463	74.2
+496	Shenzhen University	China	49	-	797	-	465	74.2
+497	University of Ferrara	Italy	24	-	-	-	464	74.2
+498	Royal Holloway, University of London	United Kingdom	37	393	921	213	541	74.2
+499	University of Canterbury	New Zealand	3	336	384	230	550	74.2
+500	Leibniz University Hannover	Germany	36	-	907	-	468	74.2
+501	University of Modena and Reggio Emilia	Italy	25	-	992	-	467	74.2
+502	Nanjing University of Aeronautics and Astronautics	China	50	-	1117	-	469	74.1
+503	West Virginia University	USA	142	-	348	-	494	74.1
+504	TU Dortmund	Germany	37	-	-	-	470	74.1
+505	Nanjing Agricultural University	China	51	-	1470	-	472	74.1
+506	University of Surrey	United Kingdom	38	403	443	-	489	74.1
+507	Nanjing University of Science and Technology	China	52	-	685	-	477	74.1
+508	Bar-Ilan University	Israel	6	-	827	-	478	74.1
+509	University College Cork	Ireland	3	-	888	-	480	74.1
+510	La Trobe University	Australia	19	-	1173	-	479	74.1
+511	Georgia State University	USA	143	-	670	-	490	74.1
+512	Beijing University of Chemical Technology	China	53	-	1333	-	481	74.0
+513	National Yang-Ming University	Taiwan	5	-	-	-	484	74.0
+514	Western Sydney University	Australia	20	-	-	-	485	74.0
+515	University of Verona	Italy	26	-	-	-	486	74.0
+516	University of Tartu	Estonia	1	455	-	-	488	74.0
+517	University of Zagreb	Croatia	1	-	1430	-	487	74.0
+518	Nanjing Medical University	China	54	-	-	-	491	74.0
+519	University of Potsdam	Germany	38	-	-	-	492	74.0
+520	NOVA University of Lisbon	Portugal	4	-	-	-	493	74.0
+521	University of South Australia	Australia	21	-	447	-	511	74.0
+522	Medical University of Innsbruck	Austria	5	-	-	-	495	73.9
+523	Bocconi University	Italy	27	-	46	256	1014	73.9
+524	Institute of Cancer Research, University of London	United Kingdom	39	187	-	-	513	73.9
+525	University of Bremen	Germany	39	-	-	-	496	73.9
+526	San Diego State University	USA	144	321	471	-	515	73.9
+527	Carleton University	Canada	20	-	1351	-	498	73.9
+528	Huazhong Agricultural University	China	55	-	-	-	497	73.9
+529	Novosibirsk State University	Russia	5	401	1338	-	499	73.9
+530	Rensselaer Polytechnic Institute	USA	145	416	162	-	585	73.9
+531	Xidian University	China	56	359	1072	-	504	73.8
+532	University of Nantes	France	25	-	-	-	500	73.8
+533	Mayo Clinic College of Medicine and Science	USA	146	-	-	-	501	73.8
+534	Polytechnic University of Madrid	Spain	17	478	671	-	508	73.8
+535	Medical University of Graz	Austria	6	-	-	-	502	73.8
+536	Chiba University	Japan	16	-	-	-	503	73.8
+537	Ewha Womans University	South Korea	13	-	-	-	505	73.8
+538	University of Graz	Austria	7	375	1151	157	659	73.8
+539	Institut Agro	France	26	-	-	-	506	73.8
+540	Saint Petersburg University	Russia	6	155	458	-	548	73.8
+541	Flinders University	Australia	22	461	-	-	507	73.8
+542	University of Arkansas - Fayetteville	USA	147	271	389	-	534	73.7
+543	University of Tehran	Iran	2	422	-	-	509	73.7
+544	University of Delhi	India	3	521	143	-	602	73.7
+545	Auburn University	USA	148	-	241	-	553	73.7
+546	University of Iceland	Iceland	1	-	-	-	514	73.7
+547	RMIT University	Australia	23	-	991	-	517	73.7
+548	Illinois Institute of Technology	USA	149	66	149	-	797	73.7
+549	National Central University	Taiwan	6	-	-	-	516	73.7
+550	Tata Institute of Fundamental Research	India	4	-	-	-	518	73.7
+551	China Medical University, Taiwan	Taiwan	7	-	-	-	519	73.7
+552	Institute for Theoretical and Experimental Physics	Russia	7	-	-	-	520	73.6
+553	Clemson University	USA	150	-	934	-	523	73.6
+554	Ulsan National Institute of Science and Technology	South Korea	14	-	-	-	521	73.6
+555	Wuhan University of Technology	China	57	-	982	-	525	73.6
+556	Northwest A&F University	China	58	-	-	-	522	73.6
+557	College of William & Mary	USA	151	-	94	-	706	73.6
+558	Cairo University	Egypt	1	-	1125	-	524	73.6
+559	University of Sherbrooke	Canada	21	-	977	-	529	73.6
+560	Chang Gung University	Taiwan	8	-	-	-	526	73.6
+561	Mahidol University	Thailand	2	-	-	-	527	73.6
+562	University of Jyväskylä	Finland	7	-	1419	-	528	73.5
+563	Swarthmore College	USA	152	19	230	-	1960	73.5
+564	National Technical University of Athens	Greece	3	470	756	-	531	73.5
+565	University of Wisconsin–Milwaukee	USA	153	283	451	-	545	73.5
+566	University of Texas at Arlington	USA	154	-	927	-	530	73.5
+567	Brunel University London	United Kingdom	40	-	495	-	540	73.5
+568	University of Burgundy	France	27	161	-	-	551	73.5
+569	Northeastern University, China	China	59	-	439	-	544	73.5
+570	University of Palermo	Italy	28	-	-	-	532	73.5
+571	Middle East Technical University	Turkey	1	-	315	-	561	73.5
+572	Indian Institute of Technology Madras	India	5	-	185	-	615	73.5
+573	Palacký University Olomouc	Czech Republic	2	-	-	-	535	73.4
+574	Brigham Young University	USA	155	318	922	-	543	73.4
+575	Haverford College	USA	156	18	-	-	1879	73.4
+576	Swansea University	United Kingdom	41	-	1183	-	537	73.4
+577	Masaryk University	Czech Republic	3	-	-	-	536	73.4
+578	University of Pretoria	South Africa	5	-	771	-	542	73.4
+579	University of Nebraska Medical Center	USA	157	-	-	-	538	73.4
+580	Moscow Institute of Physics and Technology	Russia	8	158	542	264	611	73.4
+581	Fuzhou University	China	60	-	724	-	547	73.4
+582	University of St.Gallen	Switzerland	9	-	30	-	1556	73.4
+583	Cold Spring Harbor Laboratory	USA	158	-	-	88	831	73.3
+584	Indian Institute of Technology Delhi	India	6	-	122	-	678	73.3
+585	Indian Institute of Technology Bombay	India	7	-	477	-	563	73.3
+586	Concordia University	Canada	22	525	307	-	589	73.3
+587	University of Minho	Portugal	5	-	-	-	549	73.3
+588	Eötvös Loránd University	Hungary	1	245	-	-	559	73.3
+589	Sciences Po	France	28	-	60	61	1844	73.3
+590	Polytechnic University of Turin	Italy	29	-	815	-	555	73.3
+591	University of Aveiro	Portugal	6	-	-	-	552	73.3
+592	Toulouse INP	France	29	-	245	-	607	73.3
+593	University of Udine	Italy	30	-	-	-	554	73.3
+594	University of Salerno	Italy	31	-	-	-	556	73.2
+595	Federal University of São Paulo	Brazil	7	-	-	-	557	73.2
+596	St George's, University of London	United Kingdom	42	-	-	-	558	73.2
+597	Bielefeld University	Germany	40	-	1452	-	560	73.2
+598	Cinvestav	Mexico	2	-	-	-	562	73.2
+599	University of Eastern Piedmont	Italy	32	-	-	-	564	73.2
+600	University of Plymouth	United Kingdom	43	-	1458	-	565	73.2
+601	China University of Petroleum	China	61	-	625	-	578	73.2
+602	University of Cagliari	Italy	33	-	-	-	566	73.2
+603	Southwest University	China	62	481	1409	-	567	73.2
+604	Institut national des sciences appliquées de Lyon	France	30	-	-	-	569	73.2
+605	Utah State University	USA	159	351	846	-	576	73.1
+606	University of Brescia	Italy	34	-	-	-	570	73.1
+607	Comenius University in Bratislava	Slovak Republic	1	-	-	-	571	73.1
+608	Sharif University of Technology	Iran	3	399	-	-	573	73.1
+609	Czech Technical University in Prague	Czech Republic	4	398	-	-	574	73.1
+610	Second Military Medical University	China	63	-	-	-	572	73.1
+611	Jinan University	China	64	-	615	-	587	73.1
+612	Nanjing Tech University	China	65	-	-	-	575	73.1
+613	University of Québec at Montreal	Canada	23	-	937	-	579	73.1
+614	Catholic University of Korea	South Korea	15	-	-	-	577	73.1
+615	Tilburg University	Netherlands	13	-	363	-	601	73.1
+616	University of Bayreuth	Germany	41	-	1401	-	580	73.0
+617	Jeonbuk National University	South Korea	16	-	-	-	582	73.0
+618	Saarland University	Germany	42	-	463	-	597	73.0
+619	National University of La Plata	Argentina	2	-	1404	-	583	73.0
+620	University of Konstanz	Germany	43	-	-	-	584	73.0
+621	Central China Normal University	China	66	-	1118	-	586	73.0
+622	National University of Ireland, Galway	Ireland	4	263	1436	-	596	73.0
+623	University of La Laguna	Spain	18	-	-	-	590	73.0
+624	AGH University of Science and Technology	Poland	3	-	841	-	591	73.0
+625	Memorial University of Newfoundland	Canada	24	-	749	-	595	73.0
+626	University of New Hampshire	USA	160	-	581	-	600	73.0
+627	Konkuk University	South Korea	17	-	987	-	594	73.0
+628	Rio de Janeiro State University	Brazil	8	-	1340	-	592	72.9
+629	Tehran University of Medical Sciences	Iran	4	-	-	-	593	72.9
+630	Binghamton University	USA	161	302	374	153	837	72.9
+631	Jiangnan University	China	67	-	1334	-	598	72.9
+632	Nanjing University of Information Science and Technology	China	68	-	-	-	599	72.9
+633	University of Wyoming	USA	162	-	684	-	609	72.9
+634	L.D. Landau Institute for Theoretical Physics of the Russian Academy of Sciences	Russia	9	26	-	198	1905	72.9
+635	National Polytechnic Institute	Mexico	3	-	-	-	603	72.9
+636	Hacettepe University	Turkey	2	-	-	-	604	72.9
+637	National Research Nuclear University MEPhI	Russia	10	507	-	-	605	72.9
+638	Ocean University of China	China	69	-	1373	-	606	72.9
+639	Jiangsu University	China	70	-	1248	-	608	72.8
+640	Loyola University Chicago	USA	163	354	952	-	614	72.8
+641	University of Texas Medical Branch	USA	164	-	-	-	610	72.8
+642	University of Cantabria	Spain	19	-	1420	-	612	72.8
+643	Tokyo Medical and Dental University	Japan	17	-	-	-	613	72.8
+644	Istanbul University	Turkey	3	488	1114	-	616	72.8
+645	Boğaziçi University	Turkey	4	-	686	-	624	72.8
+646	University of Haifa	Israel	7	-	1057	-	618	72.8
+647	Massey University	New Zealand	4	-	949	-	620	72.8
+648	Beijing Jiaotong University	China	71	-	1300	-	617	72.8
+649	University of Oklahoma Health Sciences Center	USA	165	-	-	-	619	72.8
+650	Shinshu University	Japan	18	-	1392	-	621	72.8
+651	Kanazawa University	Japan	19	-	627	-	634	72.7
+652	North China Electric Power University	China	72	-	305	-	655	72.7
+653	University of Texas at San Antonio	USA	166	-	-	-	622	72.7
+654	University of Campania Luigi Vanvitelli	Italy	35	-	-	-	623	72.7
+655	Chung-Ang University	South Korea	18	-	1062	-	627	72.7
+656	Swinburne University of Technology	Australia	24	-	-	-	625	72.7
+657	Southern Medical University	China	73	-	-	-	626	72.7
+658	Loughborough University	United Kingdom	44	-	-	269	640	72.7
+659	Ankara University	Turkey	5	-	704	-	635	72.7
+660	Chungnam National University	South Korea	19	-	-	-	628	72.7
+661	University of Kent	United Kingdom	45	-	825	-	632	72.7
+662	National Chung Hsing University	Taiwan	9	-	252	-	679	72.7
+663	University of Nevada, Reno	USA	167	-	1084	-	631	72.6
+664	University of Crete	Greece	4	-	-	-	629	72.6
+665	University of Ioannina	Greece	5	-	-	-	630	72.6
+666	Semmelweis University	Hungary	2	-	-	-	633	72.6
+667	University of Szeged	Hungary	3	-	-	194	753	72.6
+668	University of Greifswald	Germany	44	-	-	248	687	72.6
+669	Courtauld Institute of Art	United Kingdom	46	15	-	-	-	72.6
+670	University of Málaga	Spain	20	-	-	-	636	72.6
+671	University of Fribourg	Switzerland	10	-	334	-	671	72.6
+672	University of Salamanca	Spain	21	-	933	-	639	72.6
+673	Renmin University of China	China	74	-	119	-	791	72.6
+674	University of Calabria	Italy	36	-	-	-	637	72.6
+675	University of Arkansas for Medical Sciences	USA	168	-	-	-	638	72.5
+676	Tokyo Metropolitan University	Japan	20	194	1022	-	662	72.5
+677	Inha University	South Korea	20	-	697	-	649	72.5
+678	Istanbul Technical University	Turkey	6	-	796	-	645	72.5
+679	University of Alaska Fairbanks	USA	169	437	762	-	648	72.5
+680	University of Missouri-Kansas City	USA	170	467	554	-	654	72.5
+681	Birkbeck, University of London	United Kingdom	47	237	-	170	842	72.5
+682	Nanjing Normal University	China	75	-	1005	-	644	72.5
+683	Otto von Guericke University Magdeburg	Germany	45	-	-	-	641	72.5
+684	University of Debrecen	Hungary	4	-	-	-	642	72.5
+685	Oswaldo Cruz Foundation	Brazil	9	-	-	-	643	72.5
+686	University of Maine, Orono	USA	171	483	-	121	894	72.5
+687	Yokohama City University	Japan	21	-	214	-	717	72.4
+688	Donghua University	China	76	-	1218	-	647	72.4
+689	Roma Tre University	Italy	37	-	-	-	646	72.4
+690	Heriot-Watt University	United Kingdom	48	-	533	-	663	72.4
+691	Victoria University of Wellington	New Zealand	5	367	710	-	656	72.4
+692	University of Maryland, Baltimore County	USA	172	-	-	235	736	72.4
+693	Kumamoto University	Japan	22	-	628	-	665	72.4
+694	Taipei Medical University	Taiwan	10	-	-	-	650	72.4
+695	Hong Kong Baptist University	China	77	-	1394	-	652	72.4
+696	Vilnius University	Lithuania	1	-	-	-	653	72.4
+697	Indian Institute of Technology Kharagpur	India	8	-	549	-	672	72.4
+698	Mississippi State University	USA	173	328	412	-	694	72.4
+699	Hefei University of Technology	China	78	-	812	-	660	72.4
+700	University of Angers	France	31	-	-	-	657	72.3
+701	Bangor University	United Kingdom	49	200	843	247	744	72.3
+702	Augusta University	USA	174	-	-	-	658	72.3
+703	Tianjin Medical University	China	79	-	-	-	661	72.3
+704	China University of Mining and Technology	China	80	-	898	-	668	72.3
+705	Northeast Normal University	China	81	-	-	-	664	72.3
+706	University of Johannesburg	South Africa	6	-	972	-	667	72.3
+707	Isfahan University of Technology	Iran	5	-	-	-	666	72.3
+708	SUNY Downstate Medical Center	USA	175	-	-	149	892	72.3
+709	King Fahd University of Petroleum and Minerals	Saudi Arabia	4	-	113	-	836	72.3
+710	Niigata University	Japan	23	-	747	-	674	72.3
+711	University of North Texas, Denton	USA	176	-	804	-	673	72.3
+712	Federal University of Santa Catarina	Brazil	10	-	1490	-	669	72.2
+713	American University of Beirut	Lebanon	1	251	191	-	773	72.2
+714	Graduate Faculty, General Research Institute For Nonferrous Metals	China	82	-	24	-	-	72.2
+715	University of Western Brittany	France	32	-	-	-	670	72.2
+716	University of Macau	China	83	-	482	-	695	72.2
+717	Warsaw University of Technology	Poland	4	357	1140	-	677	72.2
+718	International School for Advanced Studies	Italy	38	-	-	-	675	72.2
+719	Kitasato University	Japan	24	-	-	124	938	72.2
+720	University of Massachusetts Boston	USA	177	-	1144	185	832	72.2
+721	Montana State University - Bozeman	USA	178	-	1261	-	680	72.2
+722	University of Vigo	Spain	22	-	-	-	681	72.2
+723	Kangwon National University	South Korea	21	-	1486	-	682	72.2
+724	Ajou University	South Korea	22	-	1011	-	683	72.2
+725	University Paris-Est Créteil	France	33	-	817	-	686	72.1
+726	Panjab University	India	9	503	667	-	692	72.1
+727	National University of Defense Technology	China	84	-	1237	-	685	72.1
+728	University of Castilla–La Mancha	Spain	23	-	-	-	684	72.1
+729	Technical University of Braunschweig	Germany	46	462	1058	-	689	72.1
+730	University of Lübeck	Germany	47	-	-	-	688	72.1
+731	Zhejiang University of Technology	China	85	-	1220	-	690	72.1
+732	Tokyo University of Science	Japan	25	306	1050	-	697	72.1
+733	Nanchang University	China	86	-	1284	-	691	72.1
+734	Southwest Jiaotong University	China	87	-	798	-	696	72.1
+735	Sorbonne Paris Nord University	France	34	-	-	-	693	72.1
+736	South China Normal University	China	88	-	1023	-	699	72.1
+737	University of Salento	Italy	39	-	-	-	698	72.1
+738	Army Medical University	China	89	-	-	-	700	72.0
+739	Budker Institute of Nuclear Physics of the Siberian Branch of the Russian Academy of Sciences	Russia	11	-	-	-	701	72.0
+740	Osaka City University	Japan	26	234	530	-	730	72.0
+741	University of Idaho	USA	179	-	-	-	702	72.0
+742	University of Cyprus	Cyprus	1	-	-	-	703	72.0
+743	Kent State University	USA	180	-	-	-	704	72.0
+744	University of Girona	Spain	24	-	-	-	705	72.0
+745	Ohio University	USA	181	395	364	-	739	72.0
+746	Federal University of Paraná	Brazil	11	-	1262	-	707	72.0
+747	University of the Andes, Colombia	Colombia	1	-	398	-	734	72.0
+748	University of Montana	USA	182	273	-	-	713	72.0
+749	Örebro University	Sweden	12	-	822	-	709	72.0
+750	University of Essex	United Kingdom	50	509	646	-	718	72.0
+751	Southern University of Science and Technology	China	90	-	-	-	708	71.9
+752	Air Force Medical University	China	91	-	-	-	710	71.9
+753	Quaid-i-Azam University	Pakistan	1	-	-	-	711	71.9
+754	University of Science, Malaysia	Malaysia	2	-	-	-	712	71.9
+755	Beijing University of Posts and Telecommunications	China	92	-	446	-	737	71.9
+756	Northwest University, China	China	93	-	-	-	714	71.9
+757	Centrale Lille Institut	France	35	-	99	-	961	71.9
+758	University of Wuppertal	Germany	48	-	-	-	715	71.9
+759	Amirkabir University of Technology	Iran	6	-	-	-	716	71.9
+760	Beijing University of Technology	China	94	-	-	-	719	71.9
+761	Yeungnam University	South Korea	23	-	369	-	750	71.9
+762	University of Murcia	Spain	25	-	-	-	720	71.9
+763	University of Split	Croatia	2	-	-	-	721	71.9
+764	Kaohsiung Medical University	Taiwan	11	-	-	-	722	71.8
+765	Marche Polytechnic University	Italy	40	-	-	-	723	71.8
+766	Qingdao University	China	95	-	-	-	724	71.8
+767	Gwangju Institute of Science and Technology	South Korea	24	-	-	-	725	71.8
+768	University of Patras	Greece	6	-	-	-	726	71.8
+769	Yangzhou University	China	96	-	1500	-	727	71.8
+770	University of the Balearic Islands	Spain	26	-	-	-	729	71.8
+771	Norwegian University of Life Sciences	Norway	5	-	895	-	733	71.8
+772	Getúlio Vargas Foundation	Brazil	12	-	32	-	-	71.8
+773	University of Córdoba, Spain	Spain	27	-	-	-	731	71.8
+774	Yerevan Physics Institute	Armenia	1	-	-	-	732	71.8
+775	Nagasaki University	Japan	27	285	285	-	799	71.8
+776	University of Denver	USA	183	-	181	-	854	71.8
+777	University of Tours	France	36	160	-	-	779	71.8
+778	Open University, UK	United Kingdom	51	-	1513	-	738	71.7
+779	National Sun Yat-sen University	Taiwan	12	-	-	-	740	71.7
+780	Sejong University	South Korea	25	-	-	-	741	71.7
+781	Northern Illinois University	USA	184	-	687	-	748	71.7
+782	Gyeongsang National University	South Korea	26	-	-	-	742	71.7
+783	Nanjing University of Posts and Telecommunications	China	97	-	1006	-	745	71.7
+784	Kindai University	Japan	28	-	-	-	743	71.7
+785	Miami University	USA	185	-	123	-	926	71.7
+786	Wesleyan University	USA	186	-	52	-	1483	71.7
+787	Jean Monnet University	France	37	-	-	-	746	71.7
+788	Juntendo University	Japan	29	-	-	-	747	71.7
+789	University of North Carolina at Charlotte	USA	187	-	610	-	760	71.7
+790	Jawaharlal Nehru University	India	10	487	-	78	1258	71.7
+791	University of Natural Resources and Life Sciences, Vienna	Austria	8	-	-	-	749	71.7
+792	Aberystwyth University	United Kingdom	52	-	785	207	903	71.6
+793	University of L'Aquila	Italy	41	-	-	-	751	71.6
+794	Ain Shams University	Egypt	2	-	-	-	752	71.6
+795	National Taiwan University of Science and Technology	Taiwan	13	-	1105	-	757	71.6
+796	South China Agricultural University	China	98	-	1493	-	754	71.6
+797	Shizuoka University	Japan	30	-	1187	93	1141	71.6
+798	Belarusian State University	Belarus	1	-	-	-	755	71.6
+799	Tarbiat Modares University	Iran	7	-	-	-	756	71.6
+800	University of Rhode Island	USA	188	-	523	-	785	71.6
+801	University of Toledo	USA	189	-	-	-	758	71.6
+802	Putra University, Malaysia	Malaysia	3	-	1457	-	759	71.6
+803	USI - University of Italian Speaking Switzerland	Switzerland	11	-	-	-	761	71.6
+804	Graz University of Technology	Austria	9	-	-	-	762	71.6
+805	Carl von Ossietzky University of Oldenburg	Germany	49	-	-	-	763	71.6
+806	University of Louisiana at Lafayette	USA	190	-	-	-	764	71.5
+807	Carlos III University of Madrid	Spain	28	-	-	-	765	71.5
+808	University of Caen Normandy	France	38	-	-	-	766	71.5
+809	Harbin Medical University	China	99	-	-	-	767	71.5
+810	Ege University	Turkey	7	-	-	-	769	71.5
+811	University of Nevada, Las Vegas	USA	191	-	1069	-	771	71.5
+812	Polytechnic University of Bari	Italy	42	-	-	-	770	71.5
+813	Jawaharlal Nehru Centre for Advanced Scientific Research	India	11	-	-	114	1106	71.5
+814	Wenzhou Medical University	China	100	-	-	-	772	71.5
+815	Hasselt University	Belgium	8	-	653	-	789	71.5
+816	National University of Colombia	Colombia	2	-	805	-	786	71.5
+817	Shaanxi Normal University	China	101	-	-	-	774	71.5
+818	China Medical University, PRC	China	102	-	-	-	775	71.5
+819	Old Dominion University	USA	192	-	-	-	776	71.5
+820	University of Siegen	Germany	50	-	1442	-	777	71.4
+821	Shanxi University	China	103	-	1472	-	778	71.4
+822	Hohai University	China	104	-	1387	-	781	71.4
+823	University of Messina	Italy	43	-	-	-	780	71.4
+824	University of Concepción	Chile	3	-	-	-	782	71.4
+825	Guangdong University of Technology	China	105	-	-	-	783	71.4
+826	Gazi University	Turkey	8	-	1370	-	784	71.4
+827	Liverpool John Moores University	United Kingdom	53	-	-	-	787	71.4
+828	Ryerson University	Canada	25	-	-	-	788	71.4
+829	Cranfield University	United Kingdom	54	-	178	-	912	71.4
+830	Indian Institute of Technology Kanpur	India	12	-	514	-	804	71.4
+831	Norwegian School of Economics	Norway	6	456	41	-	-	71.4
+832	University of Hohenheim	Germany	51	-	-	-	790	71.4
+833	University of Wrocław	Poland	5	464	1332	252	856	71.4
+834	East Carolina University	USA	193	-	722	-	800	71.3
+835	University of Alcalá	Spain	29	-	-	-	792	71.3
+836	Adam Mickiewicz University in Poznań	Poland	6	-	-	-	793	71.3
+837	Southern Illinois University Carbondale	USA	194	-	1423	-	795	71.3
+838	Brazilian Center for Research in Physics (CBPF)	Brazil	13	-	-	-	794	71.3
+839	Uniformed Services University of the Health Sciences	USA	195	-	-	-	796	71.3
+840	University of Orléans	France	39	-	1445	-	798	71.3
+841	Rutgers University–Newark	USA	196	-	858	-	802	71.3
+842	University of Alicante	Spain	30	-	-	-	801	71.3
+843	INSA Toulouse	France	40	-	547	-	822	71.3
+844	Federico Santa María Technical University	Chile	4	-	1137	-	803	71.3
+845	University of Brasília	Brazil	14	-	924	-	806	71.3
+846	University of Basilicata	Italy	44	-	-	-	805	71.3
+847	Beijing Forestry University	China	106	-	-	-	807	71.3
+848	New Mexico State University	USA	197	469	766	-	815	71.3
+849	Indian Institute of Technology Roorkee	India	13	-	279	-	874	71.2
+850	University of Jinan	China	107	-	1368	-	808	71.2
+851	University of Brighton	United Kingdom	55	-	-	-	809	71.2
+852	University of California, Merced	USA	198	-	-	-	810	71.2
+853	Banaras Hindu University	India	14	332	665	-	834	71.2
+854	University of Mons	Belgium	9	-	-	-	811	71.2
+855	Northern Arizona University	USA	199	-	1138	-	814	71.2
+856	Graduate University for Advanced Studies	Japan	31	-	-	-	812	71.2
+857	Keele University	United Kingdom	56	-	-	-	813	71.2
+858	Murdoch University	Australia	25	-	854	-	821	71.2
+859	University of Windsor	Canada	26	-	172	-	957	71.2
+860	University of Valladolid	Spain	31	-	1241	-	816	71.2
+861	Portland State University	USA	200	-	359	-	862	71.2
+862	Babeș-Bolyai University	Romania	1	-	-	-	817	71.2
+863	University of Insubria	Italy	45	-	-	-	818	71.1
+864	Benemérita Autonomous University of Puebla	Mexico	4	-	-	-	819	71.1
+865	Federal University of Pernambuco	Brazil	15	-	1193	-	820	71.1
+866	TU Kaiserslautern	Germany	52	-	1115	-	823	71.1
+867	City, University of London	United Kingdom	57	517	432	-	855	71.1
+868	Sofia University	Bulgaria	1	164	-	-	866	71.1
+869	Guangzhou Medical University	China	108	-	-	-	824	71.1
+870	University of Hyogo	Japan	32	-	-	93	1286	71.1
+871	COMSATS University Islamabad	Pakistan	2	-	-	-	825	71.1
+872	Nihon University	Japan	33	516	1213	-	827	71.1
+873	All India Institute of Medical Sciences, New Delhi	India	15	-	-	-	826	71.1
+874	University of Akron	USA	201	-	748	-	835	71.1
+875	Meijo University	Japan	34	-	-	48	1769	71.1
+876	Jaume I University	Spain	32	-	-	-	828	71.1
+877	University of Stirling	United Kingdom	58	-	606	-	845	71.1
+878	Pepperdine University	USA	202	92	76	159	-	71.0
+879	Paul Valéry University	France	41	-	-	-	829	71.0
+880	Harbin Engineering University	China	109	-	-	-	830	71.0
+881	University of Science and Technology, Korea	South Korea	27	-	-	-	833	71.0
+882	University of Portsmouth	United Kingdom	59	-	1008	-	839	71.0
+883	Bucknell University	USA	203	-	50	-	1790	71.0
+884	University of Poitiers	France	42	333	-	-	848	71.0
+885	Ivane Javakhishvili Tbilisi State University	Georgia	1	-	-	-	838	71.0
+886	National University of Malaysia (UKM)	Malaysia	4	-	-	-	840	71.0
+887	Iran University of Science and Technology	Iran	8	-	-	-	841	71.0
+888	Chongqing Medical University	China	110	-	-	-	843	71.0
+889	Institut national de la recherche scientifique	Canada	27	-	-	-	844	71.0
+890	Colgate University	USA	204	-	47	-	1920	71.0
+891	Dongguk University	South Korea	28	-	540	-	864	71.0
+892	Inje University	South Korea	29	-	-	-	846	71.0
+893	University POLITEHNICA of Bucharest	Romania	2	-	-	-	847	71.0
+894	National Research University Higher School of Economics	Russia	12	-	-	-	849	70.9
+895	Gachon University	South Korea	30	-	-	-	850	70.9
+896	Michigan Technological University	USA	205	342	984	-	852	70.9
+897	London Business School	United Kingdom	60	-	64	-	1495	70.9
+898	Budapest University of Technology and Economics	Hungary	5	223	-	-	872	70.9
+899	Sanford Burnham Prebys Medical Discovery Institute	USA	206	-	-	-	851	70.9
+900	University of Seoul	South Korea	31	-	-	-	853	70.9
+901	Tokushima University	Japan	35	142	849	-	918	70.9
+902	Cheung Kong Graduate School of Business	China	111	-	31	-	-	70.9
+903	Ulster University	United Kingdom	61	-	-	-	857	70.9
+904	Gabriele d’Annunzio University	Italy	46	-	-	-	858	70.9
+905	Çukurova University	Turkey	9	-	-	-	859	70.9
+906	Federal University of ABC	Brazil	16	-	-	-	860	70.9
+907	University of Luxembourg	Luxembourg	1	-	-	-	861	70.9
+908	Antioch College	USA	207	22	-	-	-	70.9
+909	Missouri University of Science and Technology	USA	208	-	418	-	895	70.8
+910	Bilkent University	Turkey	10	-	801	-	868	70.8
+911	Medical University of Warsaw	Poland	7	-	-	-	863	70.8
+912	Tomsk State University	Russia	13	-	-	-	865	70.8
+913	University of the Republic, Uruguay	Uruguay	1	-	1510	-	867	70.8
+914	Chungbuk National University	South Korea	32	-	-	-	869	70.8
+915	National University of Córdoba	Argentina	3	-	-	-	870	70.8
+916	University of Texas Rio Grande Valley	USA	209	-	-	-	871	70.8
+917	North Dakota State University	USA	210	320	1092	-	879	70.8
+918	Claremont McKenna College	USA	211	-	45	-	-	70.8
+919	Peter the Great St. Petersburg Polytechnic University	Russia	14	479	946	-	875	70.8
+920	Henan University	China	112	-	-	-	873	70.8
+921	Federal University of Viçosa	Brazil	17	-	-	-	876	70.8
+922	North-West University	South Africa	7	-	-	-	877	70.8
+923	Makerere University	Uganda	1	-	1388	-	878	70.8
+924	University of Franche-Comté	France	43	482	-	-	880	70.8
+925	Johannes Kepler University Linz	Austria	10	-	821	-	888	70.7
+926	University of Memphis	USA	212	-	484	-	909	70.7
+927	Anhui University	China	113	-	966	-	886	70.7
+928	Tunis El Manar University	Tunisia	1	-	-	-	881	70.7
+929	China Pharmaceutical University	China	114	-	1242	-	882	70.7
+930	Chiang Mai University	Thailand	3	-	1483	-	883	70.7
+931	Tokai University	Japan	36	-	-	-	884	70.7
+932	Federal University of Ceará	Brazil	18	-	1362	-	885	70.7
+933	Oberlin College	USA	213	30	-	-	-	70.7
+934	Hangzhou Normal University	China	115	-	1453	-	887	70.7
+935	Ritsumeikan University	Japan	37	-	590	-	904	70.7
+936	University of Technology, Malaysia	Malaysia	5	-	-	-	889	70.7
+937	Shandong First Medical University & Shandong Academy of Medical Sciences	China	116	-	-	-	890	70.7
+938	Guangxi University	China	117	-	-	-	891	70.7
+939	Northumbria University	United Kingdom	62	-	838	-	896	70.7
+940	Wroclaw Medical University	Poland	8	-	-	-	893	70.6
+941	Ehime University	Japan	38	-	1031	-	900	70.6
+942	College of the Holy Cross	USA	214	175	48	-	-	70.6
+943	Federal University of Pelotas	Brazil	19	-	-	-	898	70.6
+944	Ningbo University	China	118	-	1372	-	899	70.6
+945	Federal University of São Carlos	Brazil	20	-	-	-	901	70.6
+946	Tokyo University of Agriculture and Technology	Japan	39	-	-	-	902	70.6
+947	Victoria University	Australia	26	-	-	-	905	70.6
+948	University of Limerick	Ireland	5	-	807	-	910	70.6
+949	Shiraz University	Iran	9	-	-	-	906	70.6
+950	University of Regina	Canada	28	-	-	-	907	70.6
+951	New Jersey Institute of Technology	USA	215	424	717	-	915	70.6
+952	University of Sassari	Italy	47	-	-	-	908	70.6
+953	Lappeenranta University of Technology	Finland	8	-	759	-	913	70.6
+954	Florida Institute of Technology	USA	216	-	663	-	924	70.6
+955	University of Upper Alsace	France	44	-	-	-	911	70.6
+956	University of Toyama	Japan	40	-	561	-	942	70.5
+957	University of Picardie Jules Verne	France	45	-	-	-	914	70.5
+958	Hunter College	USA	217	153	1199	-	973	70.5
+959	Gifu University	Japan	41	-	758	-	928	70.5
+960	Autonomous University of San Luis Potosí	Mexico	5	-	-	-	916	70.5
+961	Mansoura University	Egypt	3	-	-	-	917	70.5
+962	Zhejiang Normal University	China	119	-	-	-	919	70.5
+963	Tokyo Women's Medical University	Japan	42	-	-	-	920	70.5
+964	Hallym University	South Korea	33	-	-	-	921	70.5
+965	Shahid Beheshti University of Medical Sciences	Iran	10	-	-	-	922	70.5
+966	Medical University of Lodz	Poland	9	-	-	-	923	70.5
+967	Osaka Prefecture University	Japan	43	-	636	-	947	70.5
+968	Miguel Hernández University of Elche	Spain	33	-	-	-	925	70.5
+969	Shandong University of Science and Technology	China	120	-	1127	-	927	70.5
+970	Aston University	United Kingdom	63	-	557	-	955	70.5
+971	Rouen Normandy University	France	46	449	-	-	929	70.5
+972	Alexandria University	Egypt	4	404	1514	-	933	70.5
+973	University of Mannheim	Germany	53	-	859	-	937	70.4
+974	Anhui Medical University	China	121	-	-	-	930	70.4
+975	King Juan Carlos University	Spain	34	-	-	-	931	70.4
+976	Wrocław University of Science and Technology	Poland	10	-	912	-	936	70.4
+977	University of Extremadura	Spain	35	-	-	-	932	70.4
+978	American University	USA	218	-	324	-	985	70.4
+979	Indian Institute of Technology Guwahati	India	16	-	-	-	934	70.4
+980	Fluminense Federal University	Brazil	21	-	948	-	941	70.4
+981	University of Bucharest	Romania	3	352	-	-	946	70.4
+982	Creighton University	USA	219	-	-	-	935	70.4
+983	ShanghaiTech University	China	122	-	-	-	939	70.4
+984	Marmara University	Turkey	11	-	-	-	940	70.4
+985	Chuo University	Japan	44	-	71	-	1594	70.4
+986	Ferdowsi University of Mashhad	Iran	11	-	-	-	943	70.4
+987	Khalifa University	United Arab Emirates	1	-	-	-	944	70.4
+988	University of A Coruña	Spain	36	-	-	-	945	70.4
+989	Yamagata University	Japan	45	-	-	-	948	70.3
+990	University of Naples Parthenope	Italy	48	-	-	-	949	70.3
+991	Xiangtan University	China	123	-	1038	-	951	70.3
+992	University of Tabriz	Iran	12	-	-	-	950	70.3
+993	Babson College	USA	220	-	44	-	-	70.3
+994	Yanshan University	China	124	-	1365	-	952	70.3
+995	Henan Normal University	China	125	-	-	-	953	70.3
+996	SUNY Upstate Medical University	USA	221	-	-	-	954	70.3
+997	United States Naval Academy	USA	222	65	164	-	1665	70.3
+998	Shanghai Normal University	China	126	-	1290	-	956	70.3
+999	Sogang University	South Korea	34	-	657	-	965	70.3
+1000	Louisiana Tech University	USA	223	-	312	-	1019	70.3

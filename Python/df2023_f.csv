@@ -1,0 +1,1001 @@
+World Rank,Institution,Location,Year,National Rank,Education Rank,Employability Rank,Faculty Rank,Research Rank,Score
+1,Harvard University,USA,2023,1.0,1.0,1.0,1.0,1.0,100.0
+2,Massachusetts Institute of Technology,USA,2023,2.0,4.0,12.0,3.0,9.0,96.7
+3,Stanford University,USA,2023,3.0,11.0,4.0,2.0,2.0,95.2
+4,University of Cambridge,United Kingdom,2023,1.0,3.0,25.0,5.0,11.0,94.1
+5,University of Oxford,United Kingdom,2023,2.0,7.0,27.0,9.0,4.0,93.3
+6,Princeton University,USA,2023,4.0,5.0,16.0,6.0,82.0,92.6
+7,University of Chicago,USA,2023,5.0,8.0,15.0,22.0,28.0,92.1
+8,Columbia University,USA,2023,6.0,12.0,14.0,10.0,13.0,91.6
+9,University of Pennsylvania,USA,2023,7.0,14.0,8.0,45.0,12.0,91.2
+10,Yale University,USA,2023,8.0,6.0,35.0,13.0,21.0,90.8
+11,California Institute of Technology,USA,2023,9.0,2.0,96.0,7.0,83.0,90.4
+12,"University of California, Berkeley",USA,2023,10.0,9.0,59.0,4.0,16.0,90.1
+13,University of Tokyo,Japan,2023,1.0,37.0,6.0,113.0,30.0,89.8
+14,Cornell University,USA,2023,11.0,16.0,29.0,18.0,23.0,89.5
+15,Northwestern University,USA,2023,12.0,99.0,17.0,31.0,31.0,89.3
+16,"University of Michigan, Ann Arbor",USA,2023,13.0,32.0,40.0,62.0,7.0,89.1
+17,Johns Hopkins University,USA,2023,14.0,22.0,192.0,20.0,8.0,88.8
+18,"University of California, Los Angeles",USA,2023,15.0,31.0,63.0,16.0,15.0,88.6
+19,University College London,United Kingdom,2023,3.0,35.0,664.0,14.0,5.0,88.4
+20,Duke University,USA,2023,16.0,58.0,49.0,19.0,24.0,88.2
+21,PSL University,France,2023,1.0,17.0,31.0,111.0,91.0,88.0
+22,University of Illinois at Urbana–Champaign,USA,2023,17.0,19.0,143.0,11.0,74.0,87.9
+23,University of Toronto,Canada,2023,1.0,233.0,163.0,23.0,3.0,87.7
+24,New York University,USA,2023,18.0,40.0,45.0,47.0,46.0,87.5
+25,University of Washington,USA,2023,19.0,74.0,227.0,25.0,10.0,87.4
+26,McGill University,Canada,2023,2.0,25.0,109.0,36.0,45.0,87.2
+27,Kyoto University,Japan,2023,2.0,38.0,32.0,64.0,79.0,87.1
+28,University of Wisconsin–Madison,USA,2023,20.0,36.0,102.0,30.0,41.0,87.0
+29,Imperial College London,United Kingdom,2023,4.0,68.0,123.0,55.0,18.0,86.8
+30,ETH Zurich,Switzerland,2023,1.0,64.0,88.0,24.0,42.0,86.7
+31,Seoul National University,South Korea,2023,1.0,299.0,22.0,154.0,57.0,86.6
+32,Paris-Saclay University,France,2023,2.0,152.0,137.0,46.0,14.0,86.4
+33,"University of California, San Diego",USA,2023,21.0,128.0,1001.0,12.0,22.0,86.3
+34,University of Texas at Austin,USA,2023,22.0,92.0,64.0,17.0,63.0,86.2
+35,University of Copenhagen,Denmark,2023,1.0,96.0,379.0,41.0,26.0,86.1
+36,"University of California, San Francisco",USA,2023,23.0,552.0,1001.0,15.0,27.0,86.0
+37,University of North Carolina at Chapel Hill,USA,2023,24.0,76.0,92.0,71.0,39.0,85.9
+38,Karolinska Institute,Sweden,2023,1.0,39.0,1001.0,35.0,62.0,85.8
+39,Paris City University,France,2023,3.0,254.0,958.0,60.0,17.0,85.7
+40,King's College London,United Kingdom,2023,5.0,51.0,505.0,28.0,53.0,85.6
+41,Sorbonne University,France,2023,4.0,103.0,324.0,92.0,19.0,85.5
+42,Dartmouth College,USA,2023,25.0,45.0,18.0,107.0,286.0,85.4
+43,Washington University in St. Louis,USA,2023,26.0,106.0,144.0,37.0,48.0,85.3
+44,Tsinghua University,China,2023,1.0,346.0,56.0,283.0,20.0,85.2
+45,Institut Polytechnique de Paris,France,2023,5.0,102.0,9.0,188.0,370.0,85.1
+46,Ludwig Maximilian University of Munich,Germany,2023,1.0,56.0,254.0,57.0,52.0,85.0
+47,University of Minnesota - Twin Cities,USA,2023,27.0,78.0,318.0,84.0,34.0,84.9
+48,University of Edinburgh,United Kingdom,2023,6.0,55.0,473.0,63.0,49.0,84.9
+49,Peking University,China,2023,2.0,369.0,58.0,283.0,25.0,84.8
+50,University of Manchester,United Kingdom,2023,7.0,89.0,417.0,33.0,56.0,84.7
+51,University of British Columbia,Canada,2023,3.0,109.0,554.0,87.0,35.0,84.6
+52,"University of California, Davis",USA,2023,28.0,87.0,526.0,54.0,54.0,84.5
+53,University of Southern California,USA,2023,29.0,252.0,133.0,29.0,75.0,84.5
+54,Pennsylvania State University,USA,2023,30.0,297.0,171.0,56.0,55.0,84.4
+55,University of Chinese Academy of Sciences,China,2023,3.0,552.0,1001.0,283.0,6.0,84.3
+56,Vanderbilt University,USA,2023,31.0,392.0,89.0,65.0,71.0,84.2
+57,University of Melbourne,Australia,2023,1.0,142.0,411.0,130.0,33.0,84.2
+58,Free University of Berlin,Germany,2023,2.0,80.0,1001.0,44.0,76.0,84.1
+59,Humboldt University of Berlin,Germany,2023,3.0,85.0,1001.0,50.0,69.0,84.0
+60,Ohio State University,USA,2023,32.0,129.0,294.0,133.0,40.0,84.0
+61,Rockefeller University,USA,2023,33.0,13.0,1001.0,8.0,460.0,83.9
+62,Rutgers University,USA,2023,34.0,230.0,150.0,27.0,95.0,83.8
+63,University of Zurich,Switzerland,2023,2.0,90.0,578.0,58.0,72.0,83.8
+64,Brown University,USA,2023,35.0,75.0,55.0,121.0,138.0,83.7
+65,Purdue University,USA,2023,36.0,94.0,91.0,75.0,114.0,83.6
+66,University of Colorado Boulder,USA,2023,37.0,153.0,169.0,52.0,97.0,83.6
+67,Georgia Institute of Technology,USA,2023,38.0,313.0,165.0,26.0,115.0,83.5
+68,Heidelberg University,Germany,2023,4.0,135.0,1001.0,83.0,60.0,83.5
+69,"Texas A&M University, College Station",USA,2023,39.0,552.0,129.0,72.0,85.0,83.4
+70,Hebrew University of Jerusalem,Israel,2023,1.0,29.0,346.0,39.0,195.0,83.3
+71,University of Virginia,USA,2023,40.0,358.0,37.0,176.0,137.0,83.3
+72,Utrecht University,Netherlands,2023,1.0,180.0,481.0,161.0,43.0,83.2
+73,University of Texas Southwestern Medical Center,USA,2023,41.0,41.0,1001.0,42.0,167.0,83.2
+74,Shanghai Jiao Tong University,China,2023,4.0,552.0,140.0,283.0,29.0,83.1
+75,University of Pittsburgh,USA,2023,42.0,234.0,208.0,267.0,38.0,83.0
+76,University of Alberta,Canada,2023,4.0,327.0,488.0,67.0,88.0,83.0
+77,Uppsala University,Sweden,2023,2.0,97.0,412.0,70.0,105.0,82.9
+78,Technical University of Munich,Germany,2023,5.0,81.0,368.0,144.0,77.0,82.9
+79,"University of Maryland, College Park",USA,2023,43.0,122.0,387.0,152.0,68.0,82.8
+80,University of Amsterdam,Netherlands,2023,2.0,239.0,689.0,201.0,44.0,82.8
+81,National University of Singapore,Singapore,2023,1.0,365.0,181.0,283.0,37.0,82.7
+82,"University of California, Irvine",USA,2023,44.0,393.0,1001.0,34.0,110.0,82.7
+83,University of Oslo,Norway,2023,1.0,121.0,798.0,79.0,94.0,82.6
+84,University of Birmingham,United Kingdom,2023,8.0,50.0,486.0,170.0,103.0,82.6
+85,Zhejiang University,China,2023,5.0,552.0,351.0,283.0,32.0,82.5
+86,University of Florida,USA,2023,45.0,326.0,426.0,139.0,65.0,82.5
+87,Weizmann Institute of Science,Israel,2023,2.0,24.0,1001.0,51.0,289.0,82.4
+88,Leiden University,Netherlands,2023,3.0,124.0,1001.0,77.0,100.0,82.4
+89,Fudan University,China,2023,6.0,353.0,93.0,283.0,59.0,82.3
+90,Boston University,USA,2023,46.0,428.0,111.0,200.0,80.0,82.3
+91,University of Rochester,USA,2023,47.0,65.0,70.0,132.0,185.0,82.2
+92,University of Sydney,Australia,2023,2.0,198.0,627.0,283.0,36.0,82.2
+93,University of Bristol,United Kingdom,2023,9.0,186.0,430.0,78.0,99.0,82.1
+94,Erasmus University Rotterdam,Netherlands,2023,4.0,535.0,68.0,270.0,89.0,82.1
+95,University of Arizona,USA,2023,48.0,498.0,237.0,73.0,107.0,82.1
+96,École Polytechnique Fédérale de Lausanne,Switzerland,2023,3.0,552.0,83.0,112.0,124.0,82.0
+97,University of Göttingen,Germany,2023,6.0,44.0,369.0,104.0,162.0,82.0
+98,"University of California, Santa Barbara",USA,2023,49.0,211.0,535.0,21.0,156.0,81.9
+99,Carnegie Mellon University,USA,2023,50.0,70.0,113.0,40.0,223.0,81.9
+100,Osaka University,Japan,2023,3.0,145.0,74.0,124.0,147.0,81.8
+101,Aarhus University,Denmark,2023,2.0,228.0,296.0,134.0,87.0,81.8
+102,National Taiwan University,Taiwan,2023,1.0,336.0,41.0,283.0,134.0,81.8
+103,Keio University,Japan,2023,4.0,519.0,13.0,283.0,397.0,81.7
+104,University of New South Wales,Australia,2023,3.0,551.0,120.0,283.0,64.0,81.7
+105,University of Queensland,Australia,2023,4.0,419.0,669.0,243.0,47.0,81.6
+106,University of Groningen,Netherlands,2023,5.0,271.0,586.0,140.0,81.0,81.6
+107,KU Leuven,Belgium,2023,1.0,537.0,414.0,249.0,50.0,81.6
+108,University of Leeds,United Kingdom,2023,10.0,132.0,458.0,53.0,139.0,81.5
+109,University of São Paulo,Brazil,2023,1.0,497.0,381.0,156.0,78.0,81.5
+110,University of Geneva,Switzerland,2023,4.0,72.0,480.0,103.0,132.0,81.4
+111,University of Basel,Switzerland,2023,5.0,60.0,305.0,82.0,164.0,81.4
+112,University of Texas MD Anderson Cancer Center,USA,2023,51.0,552.0,1001.0,88.0,98.0,81.4
+113,University of Tübingen,Germany,2023,7.0,52.0,926.0,99.0,154.0,81.3
+114,Indiana University Bloomington,USA,2023,52.0,251.0,94.0,178.0,119.0,81.3
+115,University of Bonn,Germany,2023,8.0,73.0,494.0,86.0,145.0,81.2
+116,Sapienza University of Rome,Italy,2023,1.0,455.0,502.0,101.0,106.0,81.2
+117,University of Utah,USA,2023,53.0,302.0,202.0,135.0,111.0,81.2
+118,Nagoya University,Japan,2023,5.0,67.0,211.0,59.0,210.0,81.1
+119,University of Science and Technology of China,China,2023,7.0,552.0,261.0,283.0,58.0,81.1
+120,INSEAD,France,2023,6.0,552.0,2.0,283.0,1001.0,81.1
+121,Monash University,Australia,2023,5.0,552.0,532.0,283.0,51.0,81.0
+122,University of Montreal,Canada,2023,5.0,461.0,517.0,126.0,101.0,81.0
+123,Sun Yat-sen University,China,2023,8.0,552.0,334.0,283.0,61.0,80.9
+124,Ghent University,Belgium,2023,2.0,345.0,558.0,196.0,86.0,80.9
+125,University of Southampton,United Kingdom,2023,11.0,454.0,293.0,115.0,117.0,80.9
+126,University of Helsinki,Finland,2023,1.0,200.0,788.0,164.0,93.0,80.8
+127,Huazhong University of Science and Technology,China,2023,9.0,552.0,167.0,283.0,73.0,80.8
+128,Australian National University,Australia,2023,6.0,171.0,518.0,80.0,140.0,80.8
+129,University of Glasgow,United Kingdom,2023,12.0,133.0,397.0,141.0,123.0,80.7
+130,University of Freiburg,Germany,2023,9.0,91.0,230.0,100.0,166.0,80.7
+131,Emory University,USA,2023,54.0,469.0,270.0,283.0,70.0,80.7
+132,Baylor College of Medicine,USA,2023,55.0,93.0,1001.0,159.0,126.0,80.6
+133,Nanyang Technological University,Singapore,2023,2.0,552.0,829.0,283.0,66.0,80.6
+134,University of Barcelona,Spain,2023,1.0,552.0,631.0,283.0,67.0,80.6
+135,University of Strasbourg,France,2023,7.0,118.0,1001.0,49.0,209.0,80.5
+136,University of Liverpool,United Kingdom,2023,13.0,151.0,522.0,97.0,151.0,80.5
+137,University of Bern,Switzerland,2023,6.0,155.0,1001.0,160.0,121.0,80.5
+138,Goethe University Frankfurt,Germany,2023,10.0,190.0,790.0,43.0,205.0,80.4
+139,University of Nottingham,United Kingdom,2023,14.0,193.0,553.0,106.0,144.0,80.4
+140,KTH Royal Institute of Technology,Sweden,2023,3.0,236.0,51.0,187.0,238.0,80.4
+141,Lund University,Sweden,2023,4.0,196.0,460.0,260.0,96.0,80.3
+142,Case Western Reserve University,USA,2023,56.0,69.0,297.0,182.0,170.0,80.3
+143,Tohoku University,Japan,2023,6.0,139.0,151.0,155.0,175.0,80.3
+144,University of Colorado Anschutz Medical Campus,USA,2023,57.0,552.0,1001.0,95.0,150.0,80.3
+145,University of Iowa,USA,2023,58.0,104.0,268.0,186.0,149.0,80.2
+146,Stockholm University,Sweden,2023,5.0,166.0,226.0,94.0,183.0,80.2
+147,Nanjing University,China,2023,10.0,484.0,353.0,283.0,90.0,80.2
+148,VU Amsterdam,Netherlands,2023,6.0,552.0,1001.0,283.0,84.0,80.1
+149,Grenoble Alpes University,France,2023,8.0,308.0,1001.0,240.0,104.0,80.1
+150,University of Western Australia,Australia,2023,7.0,241.0,552.0,199.0,128.0,80.1
+151,Michigan State University,USA,2023,59.0,202.0,195.0,283.0,113.0,80.0
+152,University of Sheffield,United Kingdom,2023,15.0,197.0,655.0,151.0,146.0,80.0
+153,Tufts University,USA,2023,60.0,86.0,69.0,165.0,271.0,80.0
+154,Tel Aviv University,Israel,2023,3.0,398.0,130.0,283.0,122.0,80.0
+155,Queen Mary University of London,United Kingdom,2023,16.0,115.0,699.0,145.0,172.0,79.9
+156,Cardiff University,United Kingdom,2023,17.0,404.0,365.0,90.0,187.0,79.9
+157,Aix-Marseille University,France,2023,9.0,518.0,929.0,283.0,92.0,79.9
+158,University of Hong Kong,China,2023,11.0,552.0,170.0,283.0,120.0,79.8
+159,Korea University,South Korea,2023,2.0,552.0,76.0,283.0,171.0,79.8
+160,Yonsei University,South Korea,2023,3.0,552.0,106.0,283.0,141.0,79.8
+161,Radboud University,Netherlands,2023,7.0,464.0,693.0,282.0,102.0,79.8
+162,Newcastle University,United Kingdom,2023,18.0,489.0,596.0,91.0,191.0,79.7
+163,Xi'an Jiaotong University,China,2023,12.0,552.0,158.0,283.0,133.0,79.7
+164,Icahn School of Medicine at Mount Sinai,USA,2023,61.0,552.0,1001.0,283.0,108.0,79.7
+165,Tokyo Institute of Technology,Japan,2023,7.0,330.0,105.0,74.0,282.0,79.6
+166,University of Montpellier,France,2023,10.0,479.0,1001.0,283.0,109.0,79.6
+167,Rice University,USA,2023,62.0,105.0,122.0,119.0,269.0,79.6
+168,University of Gothenburg,Sweden,2023,6.0,442.0,407.0,146.0,176.0,79.6
+169,University of Massachusetts Amherst,USA,2023,63.0,496.0,276.0,76.0,226.0,79.5
+170,Wuhan University,China,2023,13.0,552.0,349.0,283.0,116.0,79.5
+171,University of Padova,Italy,2023,2.0,466.0,1001.0,283.0,112.0,79.5
+172,University of Hamburg,Germany,2023,11.0,248.0,546.0,283.0,118.0,79.5
+173,Chinese University of Hong Kong,China,2023,14.0,413.0,1001.0,250.0,130.0,79.4
+174,McMaster University,Canada,2023,6.0,438.0,812.0,230.0,142.0,79.4
+175,Tianjin University,China,2023,15.0,552.0,146.0,283.0,148.0,79.4
+176,Technion – Israel Institute of Technology,Israel,2023,4.0,125.0,457.0,69.0,266.0,79.4
+177,University of Warwick,United Kingdom,2023,19.0,504.0,182.0,231.0,174.0,79.3
+178,Norwegian University of Science and Technology,Norway,2023,2.0,260.0,510.0,61.0,256.0,79.3
+179,Xiamen University,China,2023,16.0,552.0,78.0,283.0,201.0,79.3
+180,University of Milan,Italy,2023,3.0,473.0,567.0,283.0,125.0,79.3
+181,Wageningen University & Research,Netherlands,2023,8.0,425.0,807.0,209.0,159.0,79.2
+182,Iowa State University,USA,2023,64.0,340.0,142.0,153.0,225.0,79.2
+183,University of Notre Dame,USA,2023,65.0,307.0,39.0,283.0,300.0,79.2
+184,Harbin Institute of Technology,China,2023,17.0,552.0,541.0,283.0,129.0,79.2
+185,University of Bologna,Italy,2023,4.0,552.0,792.0,283.0,127.0,79.1
+186,Arizona State University,USA,2023,66.0,444.0,591.0,266.0,143.0,79.1
+187,University of Cologne,Germany,2023,12.0,350.0,223.0,183.0,196.0,79.1
+188,Western University,Canada,2023,7.0,424.0,80.0,283.0,215.0,79.1
+189,University of Alabama at Birmingham,USA,2023,67.0,552.0,1001.0,206.0,169.0,79.0
+190,Autonomous University of Barcelona,Spain,2023,2.0,552.0,1001.0,283.0,131.0,79.0
+191,Shandong University,China,2023,18.0,552.0,1001.0,283.0,135.0,79.0
+192,University of Lausanne,Switzerland,2023,7.0,261.0,711.0,136.0,211.0,79.0
+193,Sichuan University,China,2023,19.0,552.0,1001.0,283.0,136.0,78.9
+194,Sungkyunkwan University,South Korea,2023,4.0,552.0,225.0,283.0,153.0,78.9
+195,University of Calgary,Canada,2023,8.0,552.0,234.0,283.0,152.0,78.9
+196,North Carolina State University,USA,2023,68.0,371.0,437.0,179.0,192.0,78.9
+197,Technical University of Denmark,Denmark,2023,3.0,205.0,848.0,190.0,189.0,78.8
+198,University of Vienna,Austria,2023,1.0,143.0,503.0,120.0,241.0,78.8
+199,University of Connecticut,USA,2023,69.0,495.0,389.0,114.0,233.0,78.8
+200,Tongji University,China,2023,20.0,552.0,186.0,283.0,165.0,78.8
+201,Stony Brook University,USA,2023,70.0,219.0,1001.0,147.0,217.0,78.7
+202,University of Lisbon,Portugal,2023,1.0,445.0,1001.0,236.0,173.0,78.7
+203,Central South University,China,2023,21.0,552.0,265.0,283.0,161.0,78.7
+204,University of Waterloo,Canada,2023,9.0,552.0,220.0,214.0,212.0,78.7
+205,University of Münster,Germany,2023,13.0,374.0,819.0,195.0,194.0,78.7
+206,South China University of Technology,China,2023,22.0,552.0,314.0,283.0,160.0,78.6
+207,University of Adelaide,Australia,2023,8.0,176.0,936.0,283.0,155.0,78.6
+208,London School of Hygiene & Tropical Medicine,United Kingdom,2023,20.0,279.0,1001.0,123.0,235.0,78.6
+209,University of Kansas,USA,2023,71.0,250.0,528.0,116.0,253.0,78.6
+210,Nankai University,China,2023,23.0,552.0,117.0,283.0,207.0,78.5
+211,Institut national du service public,France,2023,11.0,552.0,3.0,283.0,1001.0,78.5
+212,University of Ottawa,Canada,2023,10.0,552.0,482.0,283.0,158.0,78.5
+213,University of Georgia,USA,2023,72.0,434.0,290.0,166.0,229.0,78.5
+214,RWTH Aachen University,Germany,2023,14.0,508.0,194.0,283.0,181.0,78.5
+215,Hong Kong University of Science and Technology,China,2023,24.0,552.0,566.0,142.0,237.0,78.4
+216,Johannes Gutenberg University Mainz,Germany,2023,15.0,552.0,1001.0,181.0,214.0,78.4
+217,Lomonosov Moscow State University,Russia,2023,1.0,134.0,404.0,207.0,227.0,78.4
+218,Jilin University,China,2023,25.0,552.0,367.0,283.0,168.0,78.4
+219,Technical University of Dresden,Germany,2023,16.0,552.0,1001.0,283.0,157.0,78.3
+220,Waseda University,Japan,2023,8.0,352.0,26.0,283.0,517.0,78.3
+221,Université catholique de Louvain,Belgium,2023,3.0,552.0,538.0,131.0,247.0,78.3
+222,Southeast University,China,2023,26.0,552.0,802.0,283.0,163.0,78.3
+223,The Scripps Research Institute,USA,2023,73.0,552.0,1001.0,32.0,358.0,78.3
+224,"University of Tennessee, Knoxville",USA,2023,74.0,433.0,559.0,222.0,208.0,78.2
+225,Georgetown University,USA,2023,75.0,377.0,43.0,283.0,343.0,78.2
+226,University of Würzburg,Germany,2023,17.0,150.0,1001.0,234.0,216.0,78.2
+227,University of Turin,Italy,2023,5.0,237.0,1001.0,283.0,179.0,78.2
+228,KAIST,South Korea,2023,5.0,552.0,127.0,283.0,221.0,78.2
+229,University of Erlangen–Nuremberg,Germany,2023,18.0,432.0,847.0,283.0,178.0,78.1
+230,University of Missouri–Columbia,USA,2023,76.0,437.0,245.0,89.0,322.0,78.1
+231,Hokkaido University,Japan,2023,9.0,357.0,239.0,167.0,268.0,78.1
+232,Kiel University,Germany,2023,19.0,360.0,1001.0,143.0,259.0,78.1
+233,"Soochow University, China",China,2023,27.0,552.0,1001.0,283.0,177.0,78.1
+234,Université libre de Bruxelles,Belgium,2023,4.0,450.0,358.0,174.0,252.0,78.0
+235,University of Naples Federico II,Italy,2023,6.0,552.0,758.0,283.0,180.0,78.0
+236,University of Miami,USA,2023,77.0,552.0,228.0,283.0,206.0,78.0
+237,University of Sussex,United Kingdom,2023,21.0,112.0,576.0,81.0,354.0,78.0
+238,Charles University in Prague,Czech Republic,2023,1.0,332.0,1001.0,283.0,182.0,78.0
+239,Brandeis University,USA,2023,78.0,33.0,256.0,48.0,663.0,77.9
+240,University of Illinois at Chicago,USA,2023,79.0,499.0,777.0,279.0,188.0,77.9
+241,University of Cincinnati,USA,2023,80.0,488.0,263.0,283.0,200.0,77.9
+242,Karlsruhe Institute of Technology,Germany,2023,20.0,478.0,281.0,283.0,199.0,77.9
+243,Claude Bernard University Lyon 1,France,2023,12.0,552.0,882.0,283.0,184.0,77.9
+244,Hong Kong Polytechnic University,China,2023,28.0,552.0,322.0,283.0,193.0,77.8
+245,King Abdulaziz University,Saudi Arabia,2023,1.0,552.0,1001.0,283.0,186.0,77.8
+246,Kyushu University,Japan,2023,10.0,268.0,132.0,283.0,236.0,77.8
+247,Trinity College Dublin,Ireland,2023,1.0,207.0,90.0,246.0,301.0,77.8
+248,University of Leicester,United Kingdom,2023,22.0,552.0,1001.0,96.0,296.0,77.8
+249,Complutense University of Madrid,Spain,2023,3.0,210.0,187.0,220.0,272.0,77.7
+250,Yeshiva University,USA,2023,81.0,111.0,1001.0,198.0,274.0,77.7
+251,City University of Hong Kong,China,2023,29.0,552.0,1001.0,283.0,190.0,77.7
+252,"University of California, Riverside",USA,2023,82.0,394.0,1001.0,213.0,240.0,77.7
+253,University of Reading,United Kingdom,2023,23.0,126.0,134.0,110.0,407.0,77.7
+254,Beihang University,China,2023,30.0,552.0,914.0,283.0,197.0,77.7
+255,University of Exeter,United Kingdom,2023,24.0,381.0,773.0,283.0,204.0,77.6
+256,University of Texas Health Science Center at Houston,USA,2023,83.0,552.0,1001.0,148.0,275.0,77.6
+257,Paul Sabatier University,France,2023,13.0,552.0,1001.0,283.0,198.0,77.6
+258,Maastricht University,Netherlands,2023,9.0,552.0,1001.0,283.0,202.0,77.6
+259,University of Bordeaux,France,2023,14.0,552.0,1001.0,283.0,203.0,77.6
+260,Colorado State University,USA,2023,84.0,463.0,1001.0,194.0,257.0,77.5
+261,University of Houston,USA,2023,85.0,552.0,184.0,127.0,344.0,77.5
+262,Wake Forest University,USA,2023,86.0,552.0,67.0,283.0,334.0,77.5
+263,Delft University of Technology,Netherlands,2023,10.0,264.0,419.0,283.0,219.0,77.5
+264,University of Florence,Italy,2023,7.0,552.0,765.0,283.0,213.0,77.5
+265,Virginia Commonwealth University,USA,2023,87.0,552.0,971.0,122.0,312.0,77.4
+266,Dalian University of Technology,China,2023,31.0,552.0,282.0,283.0,224.0,77.4
+267,University of Cape Town,South Africa,2023,1.0,182.0,224.0,283.0,245.0,77.4
+268,University of Auckland,New Zealand,2023,1.0,524.0,465.0,283.0,222.0,77.4
+269,Oregon Health & Science University,USA,2023,88.0,552.0,1001.0,283.0,218.0,77.4
+270,Virginia Tech,USA,2023,89.0,501.0,327.0,283.0,231.0,77.4
+271,University of Genoa,Italy,2023,8.0,536.0,1001.0,244.0,254.0,77.3
+272,University of Pisa,Italy,2023,9.0,325.0,1001.0,283.0,220.0,77.3
+273,Oregon State University,USA,2023,90.0,243.0,509.0,217.0,277.0,77.3
+274,China Europe International Business School,China,2023,32.0,552.0,5.0,283.0,1001.0,77.3
+275,Leipzig University,Germany,2023,21.0,208.0,1001.0,208.0,280.0,77.3
+276,National Autonomous University of Mexico,Mexico,2023,1.0,400.0,1001.0,237.0,261.0,77.3
+277,P.N. Lebedev Physical Institute of the Russian Academy of Sciences,Russia,2023,2.0,34.0,1001.0,118.0,558.0,77.2
+278,National and Kapodistrian University of Athens,Greece,2023,1.0,552.0,565.0,283.0,228.0,77.2
+279,King Abdullah University of Science and Technology,Saudi Arabia,2023,2.0,552.0,1001.0,171.0,297.0,77.2
+280,HEC Paris,France,2023,15.0,552.0,7.0,283.0,1001.0,77.2
+281,University of Tsukuba,Japan,2023,11.0,552.0,1001.0,150.0,315.0,77.2
+282,University of Manitoba,Canada,2023,11.0,337.0,308.0,193.0,308.0,77.1
+283,University of Lorraine,France,2023,16.0,542.0,498.0,177.0,306.0,77.1
+284,University of East Anglia,United Kingdom,2023,25.0,88.0,1001.0,173.0,360.0,77.1
+285,University of Valencia,Spain,2023,4.0,552.0,1001.0,283.0,230.0,77.1
+286,University of Bergen,Norway,2023,3.0,383.0,1001.0,283.0,232.0,77.1
+287,George Washington University,USA,2023,91.0,406.0,147.0,283.0,283.0,77.1
+288,University College Dublin,Ireland,2023,2.0,552.0,269.0,283.0,258.0,77.0
+289,Medical University of Vienna,Austria,2023,2.0,552.0,1001.0,283.0,234.0,77.0
+290,University of the Witwatersrand,South Africa,2023,2.0,199.0,98.0,283.0,335.0,77.0
+291,Autonomous University of Madrid,Spain,2023,5.0,552.0,1001.0,283.0,239.0,77.0
+292,University of Antwerp,Belgium,2023,5.0,515.0,434.0,283.0,248.0,77.0
+293,Beijing Institute of Technology,China,2023,33.0,552.0,844.0,283.0,242.0,77.0
+294,University of Electronic Science and Technology of China,China,2023,34.0,552.0,633.0,283.0,244.0,76.9
+295,Florida State University,USA,2023,92.0,552.0,515.0,283.0,250.0,76.9
+296,University of Liège,Belgium,2023,6.0,183.0,1001.0,105.0,381.0,76.9
+297,University of Southern Denmark,Denmark,2023,4.0,552.0,1001.0,283.0,243.0,76.9
+298,Hunan University,China,2023,35.0,552.0,569.0,283.0,249.0,76.9
+299,Laval University,Canada,2023,12.0,550.0,354.0,283.0,260.0,76.9
+300,Zhengzhou University,China,2023,36.0,552.0,1001.0,283.0,246.0,76.8
+301,University of Massachusetts Medical School,USA,2023,93.0,552.0,1001.0,85.0,396.0,76.8
+302,Washington State University,USA,2023,94.0,552.0,1001.0,184.0,319.0,76.8
+303,"University of Maryland, Baltimore",USA,2023,95.0,552.0,1001.0,283.0,251.0,76.8
+304,Beijing Normal University,China,2023,37.0,552.0,1001.0,283.0,255.0,76.8
+305,University at Buffalo,USA,2023,96.0,552.0,625.0,283.0,262.0,76.8
+306,"University of California, Santa Cruz",USA,2023,97.0,378.0,1001.0,271.0,273.0,76.8
+307,University of Aberdeen,United Kingdom,2023,26.0,289.0,799.0,157.0,356.0,76.7
+308,University of Delaware,USA,2023,98.0,382.0,438.0,167.0,357.0,76.7
+309,University of Porto,Portugal,2023,2.0,523.0,766.0,283.0,263.0,76.7
+310,University of Kentucky,USA,2023,99.0,292.0,529.0,283.0,270.0,76.7
+311,University of Pavia,Italy,2023,10.0,476.0,841.0,220.0,305.0,76.7
+312,Hanyang University,South Korea,2023,6.0,552.0,198.0,283.0,291.0,76.7
+313,University of Lille,France,2023,17.0,552.0,1001.0,283.0,264.0,76.6
+314,University of South Florida,USA,2023,100.0,552.0,856.0,283.0,265.0,76.6
+315,University of Duisburg-Essen,Germany,2023,22.0,552.0,904.0,283.0,267.0,76.6
+316,Chongqing University,China,2023,38.0,552.0,432.0,283.0,276.0,76.6
+317,National Yang Ming Chiao Tung University,Taiwan,2023,2.0,552.0,214.0,283.0,295.0,76.6
+318,Ruhr University Bochum,Germany,2023,23.0,552.0,436.0,283.0,278.0,76.6
+319,University of Nebraska–Lincoln,USA,2023,101.0,185.0,385.0,283.0,290.0,76.5
+320,Wayne State University,USA,2023,102.0,486.0,440.0,283.0,284.0,76.5
+321,Shenzhen University,China,2023,39.0,552.0,826.0,283.0,279.0,76.5
+322,University of New Mexico,USA,2023,103.0,539.0,1001.0,283.0,281.0,76.5
+323,Northeastern University,USA,2023,104.0,319.0,197.0,283.0,326.0,76.5
+324,University of York,United Kingdom,2023,27.0,227.0,1001.0,283.0,287.0,76.5
+325,Queen's University,Canada,2023,13.0,513.0,378.0,216.0,359.0,76.5
+326,China Agricultural University,China,2023,40.0,552.0,1001.0,283.0,285.0,76.4
+327,London School of Economics and Political Science,United Kingdom,2023,28.0,265.0,85.0,261.0,435.0,76.4
+328,Friedrich Schiller University Jena,Germany,2023,24.0,534.0,1001.0,264.0,311.0,76.4
+329,Polytechnic University of Milan,Italy,2023,11.0,397.0,431.0,204.0,366.0,76.4
+330,Ulm University,Germany,2023,25.0,552.0,1001.0,283.0,288.0,76.4
+331,Northwestern Polytechnical University,China,2023,41.0,552.0,614.0,283.0,294.0,76.4
+332,École des ponts ParisTech,France,2023,18.0,194.0,23.0,283.0,949.0,76.4
+333,Curtin University,Australia,2023,9.0,552.0,1001.0,283.0,292.0,76.3
+334,Lanzhou University,China,2023,42.0,552.0,1001.0,283.0,293.0,76.3
+335,Durham University,United Kingdom,2023,29.0,344.0,372.0,283.0,314.0,76.3
+336,University of Granada,Spain,2023,6.0,552.0,1001.0,283.0,298.0,76.3
+337,University of Technology Sydney,Australia,2023,10.0,552.0,911.0,283.0,299.0,76.3
+338,Umeå University,Sweden,2023,7.0,552.0,1001.0,273.0,316.0,76.3
+339,University of Rome Tor Vergata,Italy,2023,12.0,552.0,1001.0,283.0,302.0,76.2
+340,University of Milano-Bicocca,Italy,2023,13.0,552.0,1001.0,283.0,303.0,76.2
+341,Lancaster University,United Kingdom,2023,30.0,552.0,647.0,283.0,313.0,76.2
+342,Islamic Azad University,Iran,2023,1.0,552.0,1001.0,283.0,304.0,76.2
+343,Southern Methodist University,USA,2023,105.0,195.0,33.0,283.0,697.0,76.2
+344,University of Campinas,Brazil,2023,2.0,552.0,1001.0,283.0,307.0,76.2
+345,Macquarie University,Australia,2023,11.0,552.0,524.0,283.0,324.0,76.2
+346,University of Düsseldorf,Germany,2023,26.0,223.0,1001.0,283.0,323.0,76.1
+347,University of the Basque Country,Spain,2023,7.0,552.0,1001.0,283.0,310.0,76.1
+348,Dalhousie University,Canada,2023,14.0,318.0,359.0,283.0,331.0,76.1
+349,Versailles Saint-Quentin-en-Yvelines University,France,2023,19.0,552.0,1001.0,283.0,309.0,76.1
+350,Aalto University,Finland,2023,2.0,552.0,207.0,283.0,350.0,76.1
+351,University of South Carolina - Columbia,USA,2023,106.0,552.0,629.0,283.0,318.0,76.1
+352,King Saud University,Saudi Arabia,2023,3.0,552.0,344.0,283.0,332.0,76.1
+353,Temple University,USA,2023,107.0,552.0,600.0,283.0,325.0,76.0
+354,Eindhoven University of Technology,Netherlands,2023,11.0,552.0,942.0,228.0,369.0,76.0
+355,East China Normal University,China,2023,43.0,552.0,364.0,283.0,336.0,76.0
+356,Aalborg University,Denmark,2023,5.0,552.0,921.0,283.0,320.0,76.0
+357,Peking Union Medical College,China,2023,44.0,552.0,1001.0,283.0,317.0,76.0
+358,Capital Medical University,China,2023,45.0,552.0,1001.0,283.0,321.0,76.0
+359,University of Science and Technology Beijing,China,2023,46.0,552.0,200.0,283.0,361.0,76.0
+360,Nantes University,France,2023,20.0,552.0,1001.0,283.0,327.0,76.0
+361,National Cheng Kung University,Taiwan,2023,3.0,552.0,145.0,283.0,389.0,75.9
+362,University of Belgrade,Serbia,2023,1.0,492.0,1001.0,283.0,328.0,75.9
+363,Ben-Gurion University of the Negev,Israel,2023,5.0,552.0,1001.0,205.0,401.0,75.9
+364,Drexel University,USA,2023,108.0,552.0,267.0,226.0,414.0,75.9
+365,Queen's University Belfast,United Kingdom,2023,31.0,403.0,1001.0,283.0,329.0,75.9
+366,University of St Andrews,United Kingdom,2023,32.0,287.0,875.0,229.0,388.0,75.9
+367,Deakin University,Australia,2023,12.0,552.0,1001.0,283.0,330.0,75.9
+368,Hannover Medical School,Germany,2023,27.0,552.0,1001.0,273.0,346.0,75.8
+369,University of Dundee,United Kingdom,2023,33.0,511.0,993.0,138.0,449.0,75.8
+370,Vrije Universiteit Brussel,Belgium,2023,7.0,467.0,1001.0,283.0,333.0,75.8
+371,Simon Fraser University,Canada,2023,15.0,552.0,1001.0,283.0,337.0,75.8
+372,Linköping University,Sweden,2023,8.0,552.0,644.0,283.0,340.0,75.8
+373,Queensland University of Technology,Australia,2023,13.0,552.0,1001.0,283.0,338.0,75.8
+374,Technical University of Catalonia (UPC),Spain,2023,8.0,552.0,583.0,283.0,345.0,75.8
+375,East China University of Science and Technology,China,2023,47.0,552.0,1001.0,283.0,339.0,75.7
+376,Federal University of Rio de Janeiro,Brazil,2023,3.0,474.0,474.0,283.0,351.0,75.7
+377,University of Otago,New Zealand,2023,2.0,552.0,933.0,283.0,342.0,75.7
+378,Griffith University,Australia,2023,14.0,552.0,1001.0,283.0,341.0,75.7
+379,Kyung Hee University,South Korea,2023,7.0,552.0,922.0,283.0,347.0,75.7
+380,University of Wollongong,Australia,2023,15.0,552.0,704.0,283.0,353.0,75.7
+381,Albert Einstein College of Medicine,USA,2023,109.0,552.0,1001.0,283.0,348.0,75.7
+382,University of Buenos Aires,Argentina,2023,1.0,321.0,1001.0,283.0,352.0,75.7
+383,Jagiellonian University,Poland,2023,1.0,552.0,1001.0,283.0,349.0,75.6
+384,Louisiana State University,USA,2023,110.0,465.0,277.0,283.0,375.0,75.6
+385,Technical University of Berlin,Germany,2023,28.0,189.0,636.0,283.0,368.0,75.6
+386,University of Parma,Italy,2023,14.0,301.0,1001.0,93.0,530.0,75.6
+387,University of Turku,Finland,2023,3.0,552.0,1001.0,283.0,355.0,75.6
+388,University of Malaya,Malaysia,2023,1.0,552.0,563.0,283.0,364.0,75.6
+389,University of Marburg,Germany,2023,29.0,187.0,1001.0,185.0,452.0,75.6
+390,Pontifical Catholic University of Chile,Chile,2023,1.0,525.0,209.0,283.0,400.0,75.5
+391,Pohang University of Science and Technology,South Korea,2023,8.0,552.0,1001.0,283.0,362.0,75.5
+392,Chalmers University of Technology,Sweden,2023,9.0,521.0,249.0,283.0,390.0,75.5
+393,Justus Liebig University Giessen,Germany,2023,30.0,552.0,1001.0,283.0,363.0,75.5
+394,University of Saskatchewan,Canada,2023,16.0,294.0,575.0,283.0,376.0,75.5
+395,University of Newcastle,Australia,2023,16.0,552.0,1001.0,283.0,365.0,75.5
+396,University of Perugia,Italy,2023,15.0,552.0,1001.0,283.0,367.0,75.5
+397,University of Tasmania,Australia,2023,17.0,552.0,1001.0,283.0,371.0,75.5
+398,University Paris-Est Créteil,France,2023,21.0,552.0,989.0,283.0,374.0,75.4
+399,Nanjing Agricultural University,China,2023,48.0,552.0,1001.0,283.0,373.0,75.4
+400,Nanjing Medical University,China,2023,49.0,552.0,1001.0,283.0,372.0,75.4
+401,University of Innsbruck,Austria,2023,3.0,468.0,770.0,252.0,420.0,75.4
+402,Pompeu Fabra University,Spain,2023,9.0,552.0,1001.0,283.0,377.0,75.4
+403,Swedish University of Agricultural Sciences,Sweden,2023,10.0,290.0,1001.0,283.0,380.0,75.4
+404,University of Victoria,Canada,2023,17.0,552.0,1001.0,283.0,378.0,75.4
+405,"University of Oklahoma, Norman",USA,2023,111.0,552.0,413.0,283.0,392.0,75.4
+406,International Institute for Management Development,Switzerland,2023,8.0,552.0,10.0,283.0,1001.0,75.3
+407,Medical University of South Carolina,USA,2023,112.0,552.0,1001.0,283.0,379.0,75.3
+408,City College of New York,USA,2023,113.0,23.0,533.0,283.0,850.0,75.3
+409,University of Warsaw,Poland,2023,2.0,506.0,837.0,283.0,383.0,75.3
+410,University of Seville,Spain,2023,10.0,552.0,1001.0,283.0,382.0,75.3
+411,Shanghai University,China,2023,50.0,552.0,1001.0,283.0,384.0,75.3
+412,Nanjing University of Science and Technology,China,2023,51.0,552.0,639.0,283.0,393.0,75.3
+413,National Research Center «Kurchatov Institute»,Russia,2023,3.0,552.0,1001.0,283.0,385.0,75.3
+414,Kyungpook National University,South Korea,2023,9.0,552.0,1001.0,283.0,386.0,75.2
+415,University of Bari,Italy,2023,16.0,552.0,1001.0,283.0,387.0,75.2
+416,University of Regensburg,Germany,2023,31.0,552.0,1001.0,283.0,391.0,75.2
+417,University of Ulsan,South Korea,2023,10.0,552.0,732.0,283.0,399.0,75.2
+418,Northwest A&F University,China,2023,52.0,552.0,1001.0,283.0,394.0,75.2
+419,Indian Institute of Management Ahmedabad,India,2023,1.0,375.0,11.0,283.0,1001.0,75.2
+420,University of Coimbra,Portugal,2023,3.0,426.0,1001.0,283.0,395.0,75.2
+421,University of Oregon,USA,2023,114.0,161.0,1001.0,283.0,415.0,75.2
+422,Beijing University of Chemical Technology,China,2023,53.0,552.0,1001.0,283.0,398.0,75.1
+423,National Tsing Hua University,Taiwan,2023,4.0,387.0,815.0,283.0,410.0,75.1
+424,São Paulo State University,Brazil,2023,4.0,552.0,1001.0,283.0,402.0,75.1
+425,"University at Albany, SUNY",USA,2023,115.0,214.0,731.0,215.0,482.0,75.1
+426,University of Rennes 1,France,2023,22.0,552.0,1001.0,283.0,403.0,75.1
+427,Catholic University of the Sacred Heart,Italy,2023,17.0,552.0,1001.0,283.0,404.0,75.1
+428,University of Ljubljana,Slovenia,2023,1.0,552.0,1001.0,283.0,405.0,75.1
+429,Aristotle University of Thessaloniki,Greece,2023,2.0,552.0,1001.0,283.0,406.0,75.1
+430,University of Côte d'Azur,France,2023,23.0,552.0,1001.0,283.0,408.0,75.1
+431,Southern University of Science and Technology,China,2023,54.0,552.0,1001.0,283.0,409.0,75.0
+432,Tampere University,Finland,2023,4.0,552.0,597.0,283.0,412.0,75.0
+433,Huazhong Agricultural University,China,2023,55.0,552.0,1001.0,283.0,411.0,75.0
+434,Jinan University,China,2023,56.0,552.0,626.0,283.0,413.0,75.0
+435,University of Texas at Dallas,USA,2023,116.0,385.0,615.0,283.0,417.0,75.0
+436,Vienna University of Technology,Austria,2023,4.0,421.0,548.0,283.0,423.0,75.0
+437,University of Twente,Netherlands,2023,12.0,552.0,1001.0,283.0,416.0,75.0
+438,University of Chile,Chile,2023,2.0,552.0,690.0,283.0,422.0,75.0
+439,Wuhan University of Technology,China,2023,57.0,552.0,960.0,283.0,421.0,74.9
+440,University of Clermont Auvergne,France,2023,24.0,552.0,1001.0,283.0,418.0,74.9
+441,Thomas Jefferson University,USA,2023,117.0,552.0,1001.0,283.0,419.0,74.9
+442,Texas Tech University,USA,2023,118.0,552.0,540.0,283.0,427.0,74.9
+443,University of Bath,United Kingdom,2023,34.0,552.0,579.0,283.0,428.0,74.9
+444,Pusan National University,South Korea,2023,11.0,552.0,323.0,283.0,437.0,74.9
+445,Nanjing University of Aeronautics and Astronautics,China,2023,58.0,552.0,1001.0,283.0,424.0,74.9
+446,"Northeastern University, China",China,2023,59.0,552.0,450.0,283.0,433.0,74.9
+447,Chonnam National University,South Korea,2023,12.0,552.0,1001.0,283.0,425.0,74.9
+448,University of Mississippi,USA,2023,119.0,552.0,1001.0,283.0,426.0,74.8
+449,Kobe University,Japan,2023,12.0,146.0,415.0,283.0,459.0,74.8
+450,Stellenbosch University,South Africa,2023,3.0,552.0,210.0,283.0,462.0,74.8
+451,York University,Canada,2023,18.0,552.0,329.0,283.0,444.0,74.8
+452,Indiana University – Purdue University Indianapolis,USA,2023,120.0,552.0,822.0,283.0,429.0,74.8
+453,Amherst College,USA,2023,121.0,21.0,46.0,283.0,1001.0,74.8
+454,Tulane University,USA,2023,122.0,213.0,328.0,283.0,457.0,74.8
+455,Xidian University,China,2023,60.0,356.0,1001.0,283.0,432.0,74.8
+456,Vita-Salute San Raffaele University,Italy,2023,18.0,552.0,1001.0,283.0,430.0,74.7
+457,University of Trento,Italy,2023,19.0,552.0,1001.0,283.0,431.0,74.7
+458,Stockholm School of Economics,Sweden,2023,11.0,552.0,19.0,269.0,1001.0,74.7
+459,RMIT University,Australia,2023,18.0,552.0,1001.0,283.0,436.0,74.7
+460,Jiangsu University,China,2023,61.0,552.0,1001.0,283.0,434.0,74.7
+461,University of Oulu,Finland,2023,5.0,552.0,634.0,283.0,440.0,74.7
+462,Chulalongkorn University,Thailand,2023,1.0,552.0,108.0,283.0,544.0,74.7
+463,Saint Louis University,USA,2023,123.0,552.0,361.0,190.0,547.0,74.7
+464,Kansas State University,USA,2023,124.0,355.0,511.0,283.0,446.0,74.7
+465,Hiroshima University,Japan,2023,13.0,552.0,903.0,283.0,438.0,74.6
+466,University of Alabama - Tuscaloosa,USA,2023,125.0,429.0,221.0,283.0,479.0,74.6
+467,Federal University of Rio Grande do Sul,Brazil,2023,5.0,552.0,1001.0,283.0,439.0,74.6
+468,Martin Luther University Halle-Wittenberg,Germany,2023,32.0,449.0,1001.0,256.0,472.0,74.6
+469,University of Trieste,Italy,2023,20.0,552.0,999.0,283.0,441.0,74.6
+470,University of Navarra,Spain,2023,11.0,552.0,125.0,259.0,574.0,74.6
+471,La Trobe University,Australia,2023,19.0,552.0,1001.0,283.0,442.0,74.6
+472,Fuzhou University,China,2023,62.0,552.0,750.0,283.0,443.0,74.6
+473,Syracuse University,USA,2023,126.0,172.0,160.0,283.0,525.0,74.6
+474,George Mason University,USA,2023,127.0,552.0,1001.0,242.0,499.0,74.5
+475,University of Vermont,USA,2023,128.0,552.0,455.0,283.0,456.0,74.5
+476,Western Sydney University,Australia,2023,20.0,552.0,1001.0,283.0,445.0,74.5
+477,Medical College of Wisconsin,USA,2023,129.0,552.0,1001.0,283.0,447.0,74.5
+478,University of KwaZulu-Natal,South Africa,2023,4.0,500.0,360.0,283.0,469.0,74.5
+479,Florida International University,USA,2023,130.0,552.0,1001.0,283.0,448.0,74.5
+480,University of Central Florida,USA,2023,131.0,552.0,976.0,283.0,451.0,74.5
+481,University of Eastern Finland,Finland,2023,6.0,552.0,1001.0,283.0,450.0,74.5
+482,University of Catania,Italy,2023,21.0,379.0,1001.0,283.0,454.0,74.5
+483,University of Louisville,USA,2023,132.0,552.0,833.0,283.0,455.0,74.5
+484,University of Surrey,United Kingdom,2023,35.0,221.0,495.0,283.0,474.0,74.4
+485,Ulsan National Institute of Science and Technology,South Korea,2023,13.0,552.0,1001.0,283.0,453.0,74.4
+486,University of Guelph,Canada,2023,19.0,552.0,1001.0,283.0,458.0,74.4
+487,University of Santiago de Compostela,Spain,2023,12.0,552.0,895.0,283.0,461.0,74.4
+488,Lehigh University,USA,2023,133.0,110.0,62.0,283.0,789.0,74.4
+489,Antioch College,USA,2023,134.0,10.0,1001.0,283.0,1001.0,74.4
+490,University of Tehran,Iran,2023,2.0,452.0,1001.0,283.0,463.0,74.4
+491,University of Texas Health Science Center at San Antonio,USA,2023,135.0,552.0,1001.0,283.0,464.0,74.4
+492,Southwest University,China,2023,63.0,491.0,1001.0,283.0,465.0,74.4
+493,University of Strathclyde,United Kingdom,2023,36.0,552.0,376.0,283.0,486.0,74.3
+494,Indian Institute of Science,India,2023,2.0,329.0,884.0,283.0,473.0,74.3
+495,James Cook University,Australia,2023,21.0,552.0,1001.0,283.0,466.0,74.3
+496,Novosibirsk State University,Russia,2023,4.0,430.0,1001.0,283.0,468.0,74.3
+497,Nanjing Tech University,China,2023,64.0,552.0,1001.0,283.0,467.0,74.3
+498,University of Stuttgart,Germany,2023,33.0,127.0,370.0,283.0,535.0,74.3
+499,Southern Medical University,China,2023,65.0,552.0,1001.0,283.0,470.0,74.3
+500,Okayama University,Japan,2023,14.0,349.0,742.0,283.0,480.0,74.3
+501,West Virginia University,USA,2023,136.0,552.0,377.0,283.0,496.0,74.3
+502,Nanjing University of Information Science and Technology,China,2023,66.0,552.0,1001.0,283.0,471.0,74.2
+503,Federal University of Minas Gerais,Brazil,2023,6.0,552.0,561.0,283.0,484.0,74.2
+504,University of Ferrara,Italy,2023,22.0,552.0,1001.0,283.0,475.0,74.2
+505,University of Hawaii at Manoa,USA,2023,137.0,401.0,1001.0,283.0,478.0,74.2
+506,Technical University of Darmstadt,Germany,2023,34.0,354.0,487.0,283.0,495.0,74.2
+507,University of Siena,Italy,2023,23.0,552.0,1001.0,283.0,476.0,74.2
+508,Leibniz University Hannover,Germany,2023,35.0,552.0,679.0,283.0,483.0,74.2
+509,University of Potsdam,Germany,2023,36.0,552.0,1001.0,283.0,477.0,74.2
+510,Moscow Institute of Physics and Technology,Russia,2023,5.0,179.0,620.0,278.0,521.0,74.2
+511,University of Zaragoza,Spain,2023,13.0,502.0,1001.0,283.0,481.0,74.2
+512,Baylor University,USA,2023,138.0,552.0,433.0,283.0,503.0,74.1
+513,University of Tennessee Health Science Center,USA,2023,139.0,552.0,1001.0,283.0,485.0,74.1
+514,"China Medical University, Taiwan",Taiwan,2023,5.0,552.0,1001.0,283.0,487.0,74.1
+515,Jiangnan University,China,2023,67.0,552.0,1001.0,283.0,488.0,74.1
+516,Rush University,USA,2023,140.0,552.0,1001.0,283.0,489.0,74.1
+517,Eötvös Loránd University,Hungary,2023,1.0,224.0,1001.0,238.0,564.0,74.1
+518,University of Rostock,Germany,2023,37.0,440.0,1001.0,283.0,491.0,74.1
+519,NOVA University of Lisbon,Portugal,2023,4.0,552.0,1001.0,283.0,490.0,74.1
+520,Cairo University,Egypt,2023,1.0,552.0,1001.0,283.0,494.0,74.1
+521,Polytechnic University of Valencia,Spain,2023,14.0,552.0,1001.0,283.0,492.0,74.1
+522,École normale supérieure de Lyon,France,2023,25.0,409.0,1001.0,275.0,518.0,74.0
+523,Mayo Clinic College of Medicine and Science,USA,2023,141.0,552.0,1001.0,283.0,493.0,74.0
+524,Technical University of Dortmund,Germany,2023,38.0,552.0,1001.0,283.0,497.0,74.0
+525,University of Tromsø – The Arctic University of Norway,Norway,2023,4.0,552.0,1001.0,283.0,498.0,74.0
+526,University of Modena and Reggio Emilia,Italy,2023,24.0,552.0,905.0,283.0,502.0,74.0
+527,University of South Australia,Australia,2023,22.0,552.0,477.0,283.0,514.0,74.0
+528,University of Zagreb,Croatia,2023,1.0,552.0,1001.0,283.0,500.0,74.0
+529,University of Tartu,Estonia,2023,1.0,477.0,1001.0,283.0,501.0,74.0
+530,Flinders University,Australia,2023,23.0,487.0,1001.0,283.0,504.0,74.0
+531,University of Colorado Denver,USA,2023,142.0,552.0,1001.0,283.0,505.0,74.0
+532,Polytechnic University of Madrid,Spain,2023,15.0,514.0,574.0,283.0,512.0,73.9
+533,University of Hull,United Kingdom,2023,37.0,170.0,337.0,137.0,731.0,73.9
+534,University College Cork,Ireland,2023,3.0,552.0,649.0,283.0,510.0,73.9
+535,Georgia State University,USA,2023,143.0,552.0,825.0,283.0,506.0,73.9
+536,Boston College,USA,2023,144.0,552.0,112.0,283.0,621.0,73.9
+537,Rovira i Virgili University,Spain,2023,16.0,552.0,1001.0,283.0,507.0,73.9
+538,Beijing Jiaotong University,China,2023,68.0,552.0,1001.0,283.0,508.0,73.9
+539,Carleton University,Canada,2023,20.0,552.0,1001.0,283.0,509.0,73.9
+540,University of Oviedo,Spain,2023,17.0,552.0,924.0,283.0,511.0,73.9
+541,North China Electric Power University,China,2023,69.0,552.0,315.0,283.0,534.0,73.9
+542,University of Verona,Italy,2023,25.0,552.0,1001.0,283.0,513.0,73.8
+543,University of Konstanz,Germany,2023,39.0,552.0,1001.0,210.0,594.0,73.8
+544,Institut Agro,France,2023,26.0,552.0,1001.0,283.0,515.0,73.8
+545,Joint Institute for Nuclear Research,Russia,2023,6.0,552.0,1001.0,283.0,516.0,73.8
+546,Oklahoma State University,USA,2023,145.0,552.0,483.0,283.0,524.0,73.8
+547,Ocean University of China,China,2023,70.0,552.0,1001.0,283.0,519.0,73.8
+548,Mahidol University,Thailand,2023,2.0,552.0,1001.0,283.0,520.0,73.8
+549,Scuola Normale Superiore di Pisa,Italy,2023,26.0,101.0,1001.0,245.0,639.0,73.8
+550,University of Bremen,Germany,2023,40.0,552.0,1001.0,283.0,522.0,73.8
+551,Qingdao University,China,2023,71.0,552.0,1001.0,283.0,523.0,73.8
+552,"Royal Holloway, University of London",United Kingdom,2023,38.0,416.0,1001.0,223.0,600.0,73.7
+553,University of Arkansas - Fayetteville,USA,2023,146.0,267.0,335.0,283.0,561.0,73.7
+554,Indian Institute of Technology Bombay,India,2023,3.0,552.0,280.0,283.0,562.0,73.7
+555,Colorado School of Mines,USA,2023,147.0,552.0,75.0,283.0,745.0,73.7
+556,Auburn University,USA,2023,148.0,552.0,257.0,283.0,566.0,73.7
+557,University of Pretoria,South Africa,2023,5.0,552.0,707.0,283.0,533.0,73.7
+558,Nanjing Normal University,China,2023,72.0,552.0,982.0,283.0,527.0,73.7
+559,Bar-Ilan University,Israel,2023,6.0,552.0,599.0,283.0,539.0,73.7
+560,Masaryk University,Czech Republic,2023,2.0,552.0,1001.0,283.0,526.0,73.7
+561,Hefei University of Technology,China,2023,73.0,552.0,937.0,283.0,528.0,73.7
+562,University of Macau,China,2023,74.0,552.0,628.0,283.0,541.0,73.7
+563,University of Canterbury,New Zealand,2023,3.0,370.0,456.0,248.0,593.0,73.6
+564,Saint Petersburg University,Russia,2023,7.0,165.0,422.0,283.0,576.0,73.6
+565,Nanchang University,China,2023,75.0,552.0,1001.0,283.0,532.0,73.6
+566,Guangdong University of Technology,China,2023,76.0,552.0,1001.0,283.0,529.0,73.6
+567,Savoie Mont Blanc University,France,2023,27.0,552.0,1001.0,283.0,531.0,73.6
+568,Central China Normal University,China,2023,77.0,552.0,1001.0,283.0,536.0,73.6
+569,Medical University of Graz,Austria,2023,5.0,552.0,1001.0,283.0,537.0,73.6
+570,Indian Institute of Technology Madras,India,2023,4.0,552.0,174.0,283.0,603.0,73.6
+571,Zhejiang University of Technology,China,2023,78.0,552.0,1001.0,283.0,540.0,73.6
+572,Swansea University,United Kingdom,2023,39.0,552.0,1001.0,283.0,538.0,73.6
+573,Renmin University of China,China,2023,79.0,552.0,82.0,283.0,725.0,73.5
+574,Medical University of Innsbruck,Austria,2023,6.0,552.0,1001.0,283.0,542.0,73.5
+575,Bocconi University,Italy,2023,27.0,552.0,48.0,265.0,1001.0,73.5
+576,Clemson University,USA,2023,149.0,552.0,919.0,283.0,543.0,73.5
+577,China University of Geosciences (Wuhan),China,2023,80.0,552.0,658.0,283.0,552.0,73.5
+578,National Technical University of Athens,Greece,2023,3.0,544.0,787.0,283.0,548.0,73.5
+579,Yangzhou University,China,2023,81.0,552.0,1001.0,283.0,545.0,73.5
+580,Tata Institute of Fundamental Research,India,2023,5.0,552.0,1001.0,283.0,546.0,73.5
+581,Polytechnic University of Turin,Italy,2023,28.0,552.0,896.0,283.0,551.0,73.5
+582,Federal University of São Paulo,Brazil,2023,7.0,552.0,1001.0,283.0,549.0,73.5
+583,University of Aveiro,Portugal,2023,5.0,552.0,1001.0,283.0,550.0,73.5
+584,Brunel University London,United Kingdom,2023,40.0,552.0,646.0,283.0,563.0,73.4
+585,University of Jyväskylä,Finland,2023,7.0,552.0,1001.0,283.0,553.0,73.4
+586,Chiba University,Japan,2023,15.0,552.0,1001.0,283.0,554.0,73.4
+587,Swinburne University of Technology,Australia,2023,24.0,552.0,1001.0,283.0,555.0,73.4
+588,Hitotsubashi University,Japan,2023,16.0,552.0,20.0,283.0,1001.0,73.4
+589,Donghua University,China,2023,82.0,552.0,1001.0,283.0,557.0,73.4
+590,Chang Gung University,Taiwan,2023,6.0,552.0,1001.0,283.0,556.0,73.4
+591,Palacký University Olomouc,Czech Republic,2023,3.0,552.0,1001.0,283.0,559.0,73.4
+592,University of Palermo,Italy,2023,29.0,552.0,1001.0,283.0,560.0,73.4
+593,Osaka Metropolitan University,Japan,2023,17.0,298.0,435.0,283.0,582.0,73.4
+594,University of Graz,Austria,2023,7.0,451.0,1001.0,162.0,724.0,73.4
+595,University of Minho,Portugal,2023,6.0,552.0,1001.0,283.0,565.0,73.3
+596,Southwest Jiaotong University,China,2023,83.0,552.0,888.0,283.0,570.0,73.3
+597,Gustave Eiffel University,France,2023,28.0,532.0,1001.0,283.0,567.0,73.3
+598,San Diego State University,USA,2023,150.0,315.0,445.0,283.0,586.0,73.3
+599,Tianjin Medical University,China,2023,84.0,552.0,1001.0,283.0,568.0,73.3
+600,Ewha Womans University,South Korea,2023,14.0,552.0,1001.0,283.0,569.0,73.3
+601,University of Sherbrooke,Canada,2023,21.0,552.0,1001.0,283.0,571.0,73.3
+602,AGH University of Science and Technology,Poland,2023,3.0,552.0,955.0,283.0,573.0,73.3
+603,University of Iceland,Iceland,2023,1.0,552.0,1001.0,283.0,572.0,73.3
+604,University of Salerno,Italy,2023,30.0,552.0,1001.0,283.0,575.0,73.3
+605,Rensselaer Polytechnic Institute,USA,2023,151.0,446.0,153.0,283.0,672.0,73.3
+606,University of Texas at Arlington,USA,2023,152.0,552.0,796.0,283.0,579.0,73.2
+607,Indian Institute of Technology Delhi,India,2023,6.0,552.0,124.0,283.0,699.0,73.2
+608,Beijing University of Technology,China,2023,85.0,552.0,1001.0,283.0,577.0,73.2
+609,University of Brescia,Italy,2023,31.0,552.0,1001.0,283.0,578.0,73.2
+610,University of Nebraska Medical Center,USA,2023,153.0,552.0,1001.0,283.0,580.0,73.2
+611,Tehran University of Medical Sciences,Iran,2023,3.0,552.0,1001.0,283.0,581.0,73.2
+612,Illinois Institute of Technology,USA,2023,154.0,57.0,183.0,283.0,853.0,73.2
+613,Naval Medical University,China,2023,86.0,552.0,1001.0,283.0,583.0,73.2
+614,University of St.Gallen,Switzerland,2023,9.0,552.0,28.0,283.0,1001.0,73.2
+615,National University of Defense Technology,China,2023,87.0,552.0,1001.0,283.0,584.0,73.2
+616,National Central University,Taiwan,2023,7.0,552.0,1001.0,283.0,585.0,73.2
+617,National Research Nuclear University MEPhI,Russia,2023,8.0,456.0,1001.0,283.0,587.0,73.1
+618,Brigham Young University,USA,2023,155.0,322.0,759.0,283.0,591.0,73.1
+619,University of Wisconsin–Milwaukee,USA,2023,156.0,286.0,507.0,283.0,602.0,73.1
+620,Concordia University,Canada,2023,22.0,546.0,352.0,283.0,613.0,73.1
+621,University of Delhi,India,2023,7.0,540.0,217.0,283.0,648.0,73.1
+622,Guangzhou Medical University,China,2023,88.0,552.0,1001.0,283.0,588.0,73.1
+623,University of Burgundy,France,2023,29.0,178.0,1001.0,283.0,609.0,73.1
+624,Utah State University,USA,2023,157.0,362.0,1001.0,283.0,592.0,73.1
+625,Chung-Ang University,South Korea,2023,15.0,552.0,1001.0,283.0,590.0,73.1
+626,University of Cagliari,Italy,2023,32.0,552.0,1001.0,283.0,589.0,73.1
+627,Middle East Technical University,Turkey,2023,1.0,552.0,319.0,283.0,632.0,73.1
+628,University of Johannesburg,South Africa,2023,6.0,552.0,1001.0,283.0,595.0,73.1
+629,South China Normal University,China,2023,89.0,552.0,1001.0,283.0,596.0,73.0
+630,"Institute of Cancer Research, University of London",United Kingdom,2023,41.0,240.0,1001.0,283.0,608.0,73.0
+631,Jeonbuk National University,South Korea,2023,16.0,552.0,1001.0,283.0,597.0,73.0
+632,Catholic University of Korea,South Korea,2023,17.0,552.0,1001.0,283.0,598.0,73.0
+633,University of Caen Normandy,France,2023,30.0,552.0,1001.0,283.0,599.0,73.0
+634,Swarthmore College,USA,2023,158.0,18.0,286.0,283.0,1001.0,73.0
+635,Ioffe Physical-Technical Institute of the Russian Academy of Sciences,Russia,2023,9.0,43.0,1001.0,227.0,1001.0,73.0
+636,Hohai University,China,2023,90.0,552.0,1001.0,283.0,601.0,73.0
+637,Czech Technical University in Prague,Czech Republic,2023,4.0,407.0,1001.0,283.0,607.0,73.0
+638,Hacettepe University,Turkey,2023,2.0,552.0,1001.0,283.0,604.0,73.0
+639,University of Eastern Piedmont,Italy,2023,33.0,552.0,1001.0,283.0,605.0,73.0
+640,University of Udine,Italy,2023,34.0,552.0,1001.0,283.0,606.0,72.9
+641,University of Québec at Montreal,Canada,2023,23.0,552.0,967.0,283.0,610.0,72.9
+642,College of William & Mary,USA,2023,159.0,552.0,101.0,283.0,782.0,72.9
+643,Konkuk University,South Korea,2023,18.0,552.0,1001.0,283.0,611.0,72.9
+644,Loughborough University,United Kingdom,2023,42.0,552.0,1001.0,279.0,627.0,72.9
+645,"St George's, University of London",United Kingdom,2023,43.0,552.0,1001.0,283.0,612.0,72.9
+646,South China Agricultural University,China,2023,91.0,552.0,1001.0,283.0,614.0,72.9
+647,University of La Laguna,Spain,2023,18.0,552.0,1001.0,283.0,615.0,72.9
+648,Memorial University of Newfoundland,Canada,2023,24.0,552.0,845.0,283.0,620.0,72.9
+649,University of Cantabria,Spain,2023,19.0,552.0,1001.0,283.0,616.0,72.9
+650,Bielefeld University,Germany,2023,41.0,458.0,1001.0,283.0,617.0,72.9
+651,University of Bayreuth,Germany,2023,42.0,552.0,1001.0,283.0,619.0,72.9
+652,University of Campania Luigi Vanvitelli,Italy,2023,35.0,552.0,1001.0,283.0,618.0,72.8
+653,University of Málaga,Spain,2023,20.0,552.0,1001.0,283.0,622.0,72.8
+654,University of New Hampshire,USA,2023,160.0,552.0,491.0,283.0,642.0,72.8
+655,China University of Mining and Technology (Xuzhou),China,2023,92.0,552.0,581.0,283.0,636.0,72.8
+656,University of Texas at San Antonio,USA,2023,161.0,552.0,1001.0,283.0,623.0,72.8
+657,King Fahd University of Petroleum and Minerals,Saudi Arabia,2023,4.0,552.0,107.0,283.0,792.0,72.8
+658,Shaanxi Normal University,China,2023,93.0,552.0,1001.0,283.0,624.0,72.8
+659,"Northwest University, Xi'an",China,2023,94.0,552.0,1001.0,283.0,625.0,72.8
+660,University of Haifa,Israel,2023,7.0,552.0,959.0,283.0,628.0,72.8
+661,Comenius University in Bratislava,Slovak Republic,2023,1.0,552.0,1001.0,283.0,626.0,72.8
+662,"China University of Geosciences, Beijing",China,2023,95.0,552.0,1001.0,283.0,629.0,72.8
+663,National Polytechnic Institute,Mexico,2023,2.0,552.0,1001.0,283.0,630.0,72.8
+664,CINVESTAV,Mexico,2023,3.0,552.0,1001.0,283.0,631.0,72.7
+665,Ankara University,Turkey,2023,3.0,552.0,858.0,283.0,635.0,72.7
+666,Sharif University of Technology,Iran,2023,4.0,420.0,1001.0,283.0,633.0,72.7
+667,University of Kent,United Kingdom,2023,44.0,552.0,913.0,283.0,640.0,72.7
+668,University of Galway,Ireland,2023,4.0,242.0,1001.0,283.0,653.0,72.7
+669,Semmelweis University,Hungary,2023,2.0,552.0,1001.0,283.0,634.0,72.7
+670,Henryk Niewodniczański Institute of Nuclear Physics,Poland,2023,4.0,552.0,1001.0,283.0,637.0,72.7
+671,"University of Nevada, Reno",USA,2023,162.0,552.0,1001.0,283.0,638.0,72.7
+672,Army Medical University,China,2023,96.0,552.0,1001.0,283.0,641.0,72.7
+673,ShanghaiTech University,China,2023,97.0,552.0,1001.0,283.0,643.0,72.7
+674,Tilburg University,Netherlands,2023,13.0,552.0,398.0,283.0,667.0,72.7
+675,Hong Kong Baptist University,China,2023,98.0,552.0,1001.0,283.0,644.0,72.7
+676,Sejong University,South Korea,2023,19.0,552.0,1001.0,283.0,645.0,72.6
+677,Nanjing University of Posts and Telecommunications,China,2023,99.0,552.0,743.0,283.0,654.0,72.6
+678,Boğaziçi University,Turkey,2023,4.0,552.0,467.0,283.0,664.0,72.6
+679,University of Plymouth,United Kingdom,2023,45.0,552.0,1001.0,283.0,646.0,72.6
+680,Wenzhou Medical University,China,2023,100.0,552.0,1001.0,283.0,647.0,72.6
+681,University of Fribourg,Switzerland,2023,10.0,552.0,287.0,283.0,691.0,72.6
+682,University of Angers,France,2023,31.0,552.0,1001.0,283.0,649.0,72.6
+683,National University of La Plata,Argentina,2023,2.0,552.0,1001.0,283.0,651.0,72.6
+684,University of Oklahoma Health Sciences Center,USA,2023,163.0,552.0,1001.0,283.0,650.0,72.6
+685,Northeast Normal University,China,2023,101.0,552.0,1001.0,283.0,652.0,72.6
+686,Taipei Medical University,Taiwan,2023,8.0,552.0,1001.0,283.0,655.0,72.6
+687,Istanbul University,Turkey,2023,5.0,472.0,1001.0,283.0,656.0,72.6
+688,Beijing University of Posts and Telecommunications,China,2023,102.0,552.0,504.0,283.0,671.0,72.6
+689,Yokohama City University,Japan,2023,18.0,552.0,190.0,283.0,730.0,72.5
+690,University of Maine,USA,2023,164.0,338.0,1001.0,125.0,905.0,72.5
+691,University of Wyoming,USA,2023,165.0,552.0,834.0,283.0,660.0,72.5
+692,COMSATS University Islamabad,Pakistan,2023,1.0,552.0,1001.0,283.0,657.0,72.5
+693,Shanxi University,China,2023,103.0,552.0,1001.0,283.0,658.0,72.5
+694,Institut national des sciences appliquées de Lyon,France,2023,32.0,552.0,1001.0,283.0,659.0,72.5
+695,Sciences Po,France,2023,33.0,552.0,61.0,68.0,1001.0,72.5
+696,Rio de Janeiro State University,Brazil,2023,8.0,552.0,1001.0,283.0,661.0,72.5
+697,University of North Texas,USA,2023,166.0,552.0,748.0,283.0,670.0,72.5
+698,Oswaldo Cruz Foundation,Brazil,2023,9.0,552.0,1001.0,283.0,662.0,72.5
+699,Tokyo Medical and Dental University,Japan,2023,19.0,552.0,1001.0,283.0,665.0,72.5
+700,Heriot-Watt University,United Kingdom,2023,46.0,552.0,531.0,283.0,683.0,72.5
+701,Binghamton University,USA,2023,167.0,310.0,325.0,158.0,919.0,72.4
+702,Haverford College,USA,2023,168.0,20.0,915.0,283.0,1001.0,72.4
+703,Harbin Medical University,China,2023,104.0,552.0,1001.0,283.0,666.0,72.4
+704,Victoria University of Wellington,New Zealand,2023,4.0,389.0,864.0,283.0,674.0,72.4
+705,Guangxi University,China,2023,105.0,552.0,1001.0,283.0,668.0,72.4
+706,Chungnam National University,South Korea,2023,20.0,552.0,1001.0,283.0,669.0,72.4
+707,Cold Spring Harbor Laboratory,USA,2023,169.0,552.0,1001.0,102.0,959.0,72.4
+708,University of Szeged,Hungary,2023,3.0,453.0,1001.0,197.0,802.0,72.4
+709,Shinshu University,Japan,2023,20.0,552.0,1001.0,283.0,673.0,72.4
+710,University of Poitiers,France,2023,34.0,342.0,1001.0,283.0,677.0,72.4
+711,Massey University,New Zealand,2023,5.0,552.0,910.0,283.0,676.0,72.4
+712,Roma Tre University,Italy,2023,36.0,552.0,1001.0,283.0,675.0,72.4
+713,Loyola University Chicago,USA,2023,170.0,364.0,1001.0,283.0,682.0,72.4
+714,American University of Beirut,Lebanon,2023,1.0,159.0,213.0,283.0,768.0,72.3
+715,Inha University,South Korea,2023,21.0,552.0,783.0,283.0,684.0,72.3
+716,University of Jinan,China,2023,106.0,552.0,1001.0,283.0,679.0,72.3
+717,University of Texas Medical Branch,USA,2023,171.0,552.0,1001.0,283.0,678.0,72.3
+718,Federal University of Santa Catarina,Brazil,2023,10.0,552.0,1001.0,283.0,681.0,72.3
+719,"University of Natural Resources and Life Sciences, Vienna",Austria,2023,8.0,552.0,1001.0,283.0,680.0,72.3
+720,University of Missouri-Kansas City,USA,2023,172.0,543.0,557.0,283.0,694.0,72.3
+721,Indian Institute of Technology Kharagpur,India,2023,8.0,552.0,466.0,283.0,702.0,72.3
+722,Shandong University of Science and Technology,China,2023,107.0,552.0,809.0,283.0,688.0,72.3
+723,Warsaw University of Technology,Poland,2023,5.0,347.0,946.0,283.0,690.0,72.3
+724,University of Salamanca,Spain,2023,21.0,552.0,890.0,283.0,687.0,72.3
+725,Central Party School of the Communist Party of China,China,2023,108.0,552.0,21.0,283.0,1001.0,72.3
+726,Mississippi State University,USA,2023,173.0,323.0,427.0,283.0,710.0,72.3
+727,"China Medical University, PRC",China,2023,109.0,552.0,1001.0,283.0,685.0,72.2
+728,Vilnius University,Lithuania,2023,1.0,552.0,1001.0,283.0,686.0,72.2
+729,Otto von Guericke University Magdeburg,Germany,2023,43.0,552.0,1001.0,283.0,689.0,72.2
+730,Kanazawa University,Japan,2023,21.0,552.0,632.0,283.0,698.0,72.2
+731,University of Calabria,Italy,2023,37.0,552.0,1001.0,283.0,692.0,72.2
+732,University of Massachusetts Boston,USA,2023,174.0,552.0,1001.0,192.0,837.0,72.2
+733,Montana State University - Bozeman,USA,2023,175.0,552.0,1001.0,283.0,693.0,72.2
+734,Air Force Medical University,China,2023,110.0,552.0,1001.0,283.0,695.0,72.2
+735,Istanbul Technical University,Turkey,2023,6.0,552.0,908.0,283.0,703.0,72.2
+736,University of Ioannina,Greece,2023,4.0,552.0,1001.0,283.0,696.0,72.2
+737,Yeungnam University,South Korea,2023,22.0,552.0,448.0,283.0,717.0,72.2
+738,National Chung Hsing University,Taiwan,2023,9.0,552.0,229.0,283.0,758.0,72.2
+739,Chongqing Medical University,China,2023,111.0,552.0,1001.0,283.0,700.0,72.2
+740,Beijing Forestry University,China,2023,112.0,552.0,1001.0,283.0,701.0,72.1
+741,Henan University,China,2023,113.0,552.0,1001.0,283.0,704.0,72.1
+742,Saarland University,Germany,2023,44.0,552.0,493.0,283.0,716.0,72.1
+743,Quaid-i-Azam University,Pakistan,2023,2.0,552.0,1001.0,283.0,705.0,72.1
+744,Isfahan University of Technology,Iran,2023,5.0,552.0,1001.0,283.0,706.0,72.1
+745,Anhui University,China,2023,114.0,552.0,927.0,283.0,707.0,72.1
+746,Tokyo Metropolitan University,Japan,2023,22.0,191.0,1001.0,283.0,726.0,72.1
+747,"Birkbeck, University of London",United Kingdom,2023,47.0,225.0,1001.0,175.0,902.0,72.1
+748,Toulouse INP,France,2023,35.0,552.0,278.0,283.0,752.0,72.1
+749,University of Murcia,Spain,2023,22.0,552.0,1001.0,283.0,708.0,72.1
+750,Ningbo University,China,2023,115.0,552.0,1001.0,283.0,709.0,72.1
+751,Ajou University,South Korea,2023,23.0,552.0,1001.0,283.0,711.0,72.1
+752,China University of Petroleum (East China),China,2023,116.0,552.0,601.0,283.0,721.0,72.1
+753,University of Debrecen,Hungary,2023,4.0,552.0,1001.0,283.0,712.0,72.0
+754,Budker Institute of Nuclear Physics of the Siberian Branch of the Russian Academy of Sciences,Russia,2023,10.0,552.0,1001.0,283.0,713.0,72.0
+755,University of Castilla–La Mancha,Spain,2023,23.0,552.0,1001.0,283.0,714.0,72.0
+756,Kumamoto University,Japan,2023,23.0,552.0,768.0,283.0,719.0,72.0
+757,"University of Córdoba, Spain",Spain,2023,24.0,552.0,1001.0,283.0,715.0,72.0
+758,University of Arkansas for Medical Sciences,USA,2023,176.0,552.0,1001.0,283.0,718.0,72.0
+759,Panjab University,India,2023,9.0,526.0,744.0,283.0,728.0,72.0
+760,University of Cyprus,Cyprus,2023,1.0,552.0,1001.0,283.0,720.0,72.0
+761,International School for Advanced Studies,Italy,2023,38.0,552.0,1001.0,283.0,722.0,72.0
+762,Kangwon National University,South Korea,2023,24.0,552.0,1001.0,283.0,723.0,72.0
+763,Bangor University,United Kingdom,2023,48.0,192.0,764.0,254.0,821.0,72.0
+764,Augusta University,USA,2023,177.0,552.0,1001.0,283.0,727.0,72.0
+765,Harbin Engineering University,China,2023,117.0,552.0,1001.0,283.0,729.0,72.0
+766,Federal University of Paraná,Brazil,2023,11.0,552.0,1001.0,283.0,732.0,71.9
+767,University of Essex,United Kingdom,2023,49.0,529.0,665.0,283.0,739.0,71.9
+768,Niigata University,Japan,2023,24.0,552.0,830.0,283.0,736.0,71.9
+769,Örebro University,Sweden,2023,12.0,552.0,996.0,283.0,735.0,71.9
+770,Tarbiat Modares University,Iran,2023,6.0,552.0,1001.0,283.0,733.0,71.9
+771,University of Crete,Greece,2023,5.0,552.0,1001.0,283.0,734.0,71.9
+772,Ain Shams University,Egypt,2023,2.0,552.0,1001.0,283.0,737.0,71.9
+773,Kitasato University,Japan,2023,25.0,552.0,1001.0,128.0,1001.0,71.9
+774,National Research University Higher School of Economics,Russia,2023,11.0,552.0,1001.0,283.0,738.0,71.9
+775,National University of Colombia,Colombia,2023,1.0,552.0,872.0,283.0,743.0,71.9
+776,Kaohsiung Medical University,Taiwan,2023,10.0,552.0,1001.0,283.0,740.0,71.9
+777,University of Girona,Spain,2023,25.0,552.0,1001.0,283.0,741.0,71.9
+778,Shandong Normal University,China,2023,118.0,552.0,1001.0,283.0,742.0,71.9
+779,University of Alaska Fairbanks,USA,2023,178.0,405.0,867.0,283.0,749.0,71.9
+780,University of Lübeck,Germany,2023,45.0,552.0,1001.0,283.0,744.0,71.8
+781,Tokyo University of Science,Japan,2023,26.0,309.0,747.0,283.0,761.0,71.8
+782,Technical University of Braunschweig,Germany,2023,46.0,482.0,1001.0,283.0,748.0,71.8
+783,University of Idaho,USA,2023,179.0,552.0,1001.0,283.0,746.0,71.8
+784,Marche Polytechnic University,Italy,2023,39.0,552.0,1001.0,283.0,747.0,71.8
+785,"Putra University, Malaysia",Malaysia,2023,2.0,552.0,1001.0,283.0,750.0,71.8
+786,Amirkabir University of Technology,Iran,2023,7.0,552.0,1001.0,283.0,751.0,71.8
+787,"University of the Andes, Colombia",Colombia,2023,2.0,552.0,452.0,283.0,770.0,71.8
+788,Courtauld Institute of Art,United Kingdom,2023,50.0,15.0,1001.0,283.0,1001.0,71.8
+789,Tomsk State University,Russia,2023,12.0,552.0,1001.0,283.0,753.0,71.8
+790,Kent State University,USA,2023,180.0,552.0,1001.0,283.0,754.0,71.8
+791,University of Messina,Italy,2023,40.0,552.0,1001.0,283.0,755.0,71.8
+792,"University of Maryland, Baltimore County",USA,2023,181.0,552.0,1001.0,239.0,849.0,71.8
+793,Norwegian University of Life Sciences,Norway,2023,5.0,552.0,1001.0,283.0,759.0,71.8
+794,"University of Science, Malaysia",Malaysia,2023,3.0,552.0,1001.0,283.0,756.0,71.7
+795,University of Salento,Italy,2023,41.0,552.0,1001.0,283.0,757.0,71.7
+796,University of the Balearic Islands,Spain,2023,26.0,552.0,1001.0,283.0,760.0,71.7
+797,Northern Arizona University,USA,2023,182.0,552.0,1001.0,283.0,764.0,71.7
+798,University of Hohenheim,Germany,2023,47.0,552.0,1001.0,283.0,762.0,71.7
+799,Shandong First Medical University & Shandong Academy of Medical Sciences,China,2023,119.0,552.0,1001.0,283.0,763.0,71.7
+800,China University of Petroleum-Beijing,China,2023,120.0,552.0,737.0,283.0,767.0,71.7
+801,University of Vigo,Spain,2023,27.0,552.0,1001.0,283.0,765.0,71.7
+802,"Graduate School, GRINM",China,2023,121.0,552.0,24.0,283.0,1001.0,71.7
+803,University of Rhode Island,USA,2023,183.0,552.0,572.0,283.0,778.0,71.7
+804,Carl von Ossietzky University of Oldenburg,Germany,2023,48.0,552.0,1001.0,283.0,766.0,71.7
+805,National Taiwan University of Science and Technology,Taiwan,2023,11.0,552.0,660.0,283.0,775.0,71.7
+806,University of Greifswald,Germany,2023,49.0,552.0,1001.0,258.0,835.0,71.7
+807,University of North Carolina at Charlotte,USA,2023,184.0,552.0,763.0,283.0,773.0,71.7
+808,Nanjing Forestry University,China,2023,122.0,552.0,1001.0,283.0,769.0,71.6
+809,Anhui Medical University,China,2023,123.0,552.0,1001.0,283.0,771.0,71.6
+810,University of Alcalá,Spain,2023,28.0,552.0,1001.0,283.0,772.0,71.6
+811,Guangzhou University,China,2023,124.0,552.0,935.0,283.0,777.0,71.6
+812,Institute for Nuclear Research of the Russian Academy of Sciences,Russia,2023,13.0,552.0,1001.0,283.0,774.0,71.6
+813,Hangzhou Normal University,China,2023,125.0,552.0,1001.0,283.0,776.0,71.6
+814,SUNY Downstate Medical Center,USA,2023,185.0,552.0,1001.0,148.0,1001.0,71.6
+815,Adam Mickiewicz University in Poznań,Poland,2023,6.0,552.0,1001.0,283.0,779.0,71.6
+816,Qingdao University of Science and Technology,China,2023,126.0,552.0,1001.0,283.0,780.0,71.6
+817,Gyeongsang National University,South Korea,2023,25.0,552.0,1001.0,283.0,781.0,71.6
+818,University of Montana,USA,2023,186.0,274.0,1001.0,283.0,793.0,71.6
+819,National Centre for Nuclear Research,Poland,2023,7.0,552.0,1001.0,283.0,783.0,71.6
+820,Gwangju Institute of Science and Technology,South Korea,2023,26.0,552.0,1001.0,283.0,784.0,71.6
+821,"Open University, UK",United Kingdom,2023,51.0,552.0,1001.0,283.0,785.0,71.6
+822,Northumbria University,United Kingdom,2023,52.0,552.0,793.0,283.0,794.0,71.5
+823,Indian Institute of Technology Kanpur,India,2023,10.0,552.0,345.0,283.0,832.0,71.5
+824,University of Patras,Greece,2023,6.0,552.0,1001.0,283.0,786.0,71.5
+825,Dongguk University,South Korea,2023,27.0,552.0,499.0,283.0,810.0,71.5
+826,Liverpool John Moores University,United Kingdom,2023,53.0,552.0,1001.0,283.0,787.0,71.5
+827,China Pharmaceutical University,China,2023,127.0,552.0,1001.0,283.0,791.0,71.5
+828,University of Shanghai for Science and Technology,China,2023,128.0,552.0,1001.0,283.0,788.0,71.5
+829,"University of Nevada, Las Vegas",USA,2023,187.0,552.0,831.0,283.0,796.0,71.5
+830,University of Luxembourg,Luxembourg,2023,1.0,552.0,1001.0,283.0,790.0,71.5
+831,Ohio University,USA,2023,188.0,402.0,395.0,283.0,830.0,71.5
+832,Centrale Lille Institut,France,2023,36.0,552.0,100.0,283.0,1001.0,71.5
+833,National University of Malaysia (UKM),Malaysia,2023,4.0,552.0,1001.0,283.0,795.0,71.5
+834,University of Wuppertal,Germany,2023,50.0,552.0,1001.0,283.0,797.0,71.5
+835,Toronto Metropolitan University,Canada,2023,25.0,552.0,1001.0,283.0,798.0,71.5
+836,University of Concepción,Chile,2023,3.0,552.0,1001.0,283.0,799.0,71.5
+837,University of Split,Croatia,2023,2.0,552.0,1001.0,283.0,800.0,71.4
+838,Cranfield University,United Kingdom,2023,54.0,552.0,206.0,283.0,884.0,71.4
+839,Fujian Agriculture and Forestry University,China,2023,129.0,552.0,1001.0,283.0,801.0,71.4
+840,"University of Technology, Malaysia",Malaysia,2023,5.0,552.0,1001.0,283.0,803.0,71.4
+841,"University of California, Merced",USA,2023,189.0,552.0,1001.0,283.0,804.0,71.4
+842,Hasselt University,Belgium,2023,8.0,552.0,797.0,283.0,812.0,71.4
+843,Taiyuan University of Technology,China,2023,130.0,552.0,1001.0,283.0,805.0,71.4
+844,London Business School,United Kingdom,2023,55.0,552.0,44.0,283.0,1001.0,71.4
+845,Graduate University for Advanced Studies,Japan,2023,27.0,552.0,1001.0,283.0,806.0,71.4
+846,Carlos III University of Madrid,Spain,2023,29.0,552.0,1001.0,283.0,807.0,71.4
+847,National Sun Yat-sen University,Taiwan,2023,12.0,552.0,1001.0,283.0,809.0,71.4
+848,Murdoch University,Australia,2023,25.0,552.0,934.0,283.0,813.0,71.4
+849,University of L'Aquila,Italy,2023,42.0,552.0,1001.0,283.0,808.0,71.4
+850,Yerevan Physics Institute,Armenia,2023,1.0,552.0,1001.0,283.0,811.0,71.4
+851,Kunming University of Science and Technology,China,2023,131.0,552.0,1001.0,283.0,814.0,71.4
+852,Miami University,USA,2023,190.0,552.0,110.0,283.0,1001.0,71.3
+853,Shandong Agricultural University,China,2023,132.0,552.0,1001.0,283.0,815.0,71.3
+854,University of Alicante,Spain,2023,30.0,552.0,1001.0,283.0,816.0,71.3
+855,Graz University of Technology,Austria,2023,9.0,552.0,1001.0,283.0,817.0,71.3
+856,Henan Normal University,China,2023,133.0,552.0,1001.0,283.0,818.0,71.3
+857,University of Brasília,Brazil,2023,12.0,552.0,1001.0,283.0,822.0,71.3
+858,Juntendo University,Japan,2023,28.0,552.0,1001.0,283.0,819.0,71.3
+859,USI - University of Italian Speaking Switzerland,Switzerland,2023,11.0,552.0,1001.0,283.0,820.0,71.3
+860,Indian Institute of Technology Roorkee,India,2023,11.0,552.0,303.0,283.0,865.0,71.3
+861,"City, University of London",United Kingdom,2023,56.0,533.0,588.0,283.0,838.0,71.3
+862,Addis Ababa University,Ethiopia,2023,1.0,493.0,1001.0,189.0,988.0,71.3
+863,University of Basilicata,Italy,2023,43.0,552.0,1001.0,283.0,823.0,71.3
+864,Peter the Great St. Petersburg Polytechnic University,Russia,2023,14.0,512.0,917.0,283.0,827.0,71.3
+865,University of Siegen,Germany,2023,51.0,552.0,1001.0,283.0,824.0,71.3
+866,Academy of Scientific & Innovative Research,India,2023,12.0,552.0,1001.0,283.0,825.0,71.2
+867,Zhejiang Normal University,China,2023,134.0,552.0,1001.0,283.0,826.0,71.2
+868,University of Brighton,United Kingdom,2023,57.0,552.0,1001.0,283.0,828.0,71.2
+869,University of Toledo,USA,2023,191.0,552.0,1001.0,283.0,829.0,71.2
+870,University of Wrocław,Poland,2023,8.0,483.0,1001.0,263.0,888.0,71.2
+871,Qatar University,Qatar,2023,1.0,552.0,930.0,283.0,834.0,71.2
+872,Polytechnic University of Bari,Italy,2023,44.0,552.0,1001.0,283.0,831.0,71.2
+873,Getúlio Vargas Foundation,Brazil,2023,13.0,552.0,34.0,283.0,1001.0,71.2
+874,Belarusian State University,Belarus,2023,1.0,552.0,1001.0,283.0,833.0,71.2
+875,Jawaharlal Nehru University,India,2023,13.0,503.0,1001.0,98.0,1001.0,71.2
+876,Uniformed Services University of the Health Sciences,USA,2023,192.0,552.0,1001.0,283.0,836.0,71.2
+877,Yanshan University,China,2023,135.0,552.0,1001.0,283.0,839.0,71.2
+878,Federal University of Pernambuco,Brazil,2023,14.0,552.0,1001.0,283.0,840.0,71.2
+879,Old Dominion University,USA,2023,193.0,552.0,1001.0,283.0,841.0,71.2
+880,Hunan Normal University,China,2023,136.0,552.0,1001.0,283.0,842.0,71.2
+881,Northern Illinois University,USA,2023,194.0,552.0,836.0,283.0,845.0,71.2
+882,Nagasaki University,Japan,2023,29.0,305.0,523.0,283.0,863.0,71.1
+883,Kindai University,Japan,2023,30.0,552.0,1001.0,283.0,843.0,71.1
+884,University of Insubria,Italy,2023,45.0,552.0,1001.0,283.0,844.0,71.1
+885,University of Orléans,France,2023,37.0,552.0,1001.0,283.0,846.0,71.1
+886,University of Portsmouth,United Kingdom,2023,58.0,552.0,1001.0,283.0,848.0,71.1
+887,North-West University,South Africa,2023,7.0,552.0,1001.0,283.0,847.0,71.1
+888,Tokushima University,Japan,2023,31.0,77.0,740.0,283.0,1001.0,71.1
+889,University of Denver,USA,2023,195.0,552.0,196.0,283.0,946.0,71.1
+890,University of Tours,France,2023,38.0,167.0,1001.0,283.0,876.0,71.1
+891,Mansoura University,Egypt,2023,3.0,552.0,1001.0,283.0,851.0,71.1
+892,Khalifa University,United Arab Emirates,2023,1.0,552.0,1001.0,283.0,852.0,71.1
+893,Banaras Hindu University,India,2023,14.0,320.0,700.0,283.0,869.0,71.1
+894,Federico Santa María Technical University,Chile,2023,4.0,552.0,1001.0,283.0,855.0,71.1
+895,Gachon University,South Korea,2023,28.0,552.0,1001.0,283.0,854.0,71.1
+896,Medical University of Warsaw,Poland,2023,9.0,552.0,1001.0,283.0,856.0,71.1
+897,Sichuan Agricultural University,China,2023,137.0,552.0,1001.0,283.0,857.0,71.0
+898,Sorbonne Paris Nord University,France,2023,39.0,552.0,1001.0,283.0,858.0,71.0
+899,Wroclaw Medical University,Poland,2023,10.0,552.0,1001.0,283.0,859.0,71.0
+900,"All India Institute of Medical Sciences, New Delhi",India,2023,15.0,552.0,1001.0,283.0,860.0,71.0
+901,Yunnan University,China,2023,138.0,552.0,1001.0,283.0,861.0,71.0
+902,Shahid Beheshti University of Medical Sciences,Iran,2023,8.0,552.0,1001.0,283.0,862.0,71.0
+903,Hangzhou Dianzi University,China,2023,139.0,552.0,1001.0,283.0,864.0,71.0
+904,University of Stirling,United Kingdom,2023,59.0,552.0,624.0,283.0,878.0,71.0
+905,Fujian Medical University,China,2023,140.0,552.0,1001.0,283.0,866.0,71.0
+906,Aberystwyth University,United Kingdom,2023,60.0,552.0,918.0,218.0,1001.0,71.0
+907,Benemérita Autonomous University of Puebla,Mexico,2023,4.0,552.0,1001.0,283.0,867.0,71.0
+908,Jaume I University,Spain,2023,31.0,552.0,1001.0,283.0,868.0,71.0
+909,Chungbuk National University,South Korea,2023,29.0,552.0,1001.0,283.0,870.0,71.0
+910,Xiangtan University,China,2023,141.0,552.0,1001.0,283.0,875.0,71.0
+911,New Mexico State University,USA,2023,196.0,462.0,692.0,283.0,885.0,71.0
+912,University of Valladolid,Spain,2023,32.0,552.0,1001.0,283.0,873.0,70.9
+913,Chiang Mai University,Thailand,2023,3.0,552.0,1001.0,283.0,871.0,70.9
+914,Claremont McKenna College,USA,2023,197.0,552.0,36.0,283.0,1001.0,70.9
+915,Gabriele d’Annunzio University,Italy,2023,46.0,552.0,1001.0,283.0,872.0,70.9
+916,Nantong University,China,2023,142.0,552.0,1001.0,283.0,874.0,70.9
+917,Inje University,South Korea,2023,30.0,552.0,1001.0,283.0,877.0,70.9
+918,New Jersey Institute of Technology,USA,2023,198.0,527.0,641.0,283.0,894.0,70.9
+919,"University of Science and Technology, Korea",South Korea,2023,31.0,552.0,1001.0,283.0,879.0,70.9
+920,University of Limerick,Ireland,2023,5.0,552.0,598.0,283.0,899.0,70.9
+921,Shizuoka University,Japan,2023,32.0,552.0,973.0,107.0,1001.0,70.9
+922,Brazilian Center for Research in Physics (CBPF),Brazil,2023,15.0,552.0,1001.0,283.0,880.0,70.9
+923,Babeș-Bolyai University,Romania,2023,1.0,552.0,1001.0,283.0,881.0,70.9
+924,Jawaharlal Nehru Centre for Advanced Scientific Research,India,2023,16.0,552.0,1001.0,117.0,1001.0,70.9
+925,Keele University,United Kingdom,2023,61.0,552.0,1001.0,283.0,883.0,70.9
+926,Iran University of Science and Technology,Iran,2023,9.0,552.0,1001.0,283.0,882.0,70.9
+927,Missouri University of Science and Technology,USA,2023,199.0,552.0,406.0,283.0,926.0,70.9
+928,Wesleyan University,USA,2023,200.0,552.0,57.0,283.0,1001.0,70.8
+929,King Juan Carlos University,Spain,2023,33.0,552.0,1001.0,283.0,886.0,70.8
+930,Jean Monnet University,France,2023,40.0,552.0,1001.0,283.0,887.0,70.8
+931,Ivane Javakhishvili Tbilisi State University,Georgia,2023,1.0,552.0,1001.0,283.0,889.0,70.8
+932,Qufu Normal University,China,2023,143.0,552.0,1001.0,283.0,890.0,70.8
+933,Michigan Technological University,USA,2023,201.0,363.0,859.0,283.0,901.0,70.8
+934,Homi Bhabha National Institute,India,2023,17.0,552.0,1001.0,283.0,891.0,70.8
+935,Ege University,Turkey,2023,7.0,552.0,1001.0,283.0,892.0,70.8
+936,Federal University of Viçosa,Brazil,2023,16.0,552.0,1001.0,283.0,893.0,70.8
+937,"University of the Republic, Uruguay",Uruguay,2023,1.0,552.0,1001.0,283.0,895.0,70.8
+938,Indian Institute of Technology Guwahati,India,2023,18.0,552.0,1001.0,283.0,896.0,70.8
+939,University of Seoul,South Korea,2023,32.0,552.0,1001.0,283.0,897.0,70.8
+940,Meijo University,Japan,2023,33.0,552.0,1001.0,38.0,1001.0,70.8
+941,Polytechnic University of Bucharest,Romania,2023,2.0,552.0,1001.0,283.0,898.0,70.8
+942,Shiraz University,Iran,2023,10.0,552.0,1001.0,283.0,900.0,70.8
+943,Norwegian School of Economics,Norway,2023,6.0,475.0,42.0,283.0,1001.0,70.8
+944,Aston University,United Kingdom,2023,62.0,552.0,570.0,283.0,928.0,70.7
+945,Portland State University,USA,2023,202.0,552.0,421.0,283.0,943.0,70.7
+946,Nihon University,Japan,2023,34.0,538.0,1001.0,283.0,903.0,70.7
+947,Budapest University of Technology and Economics,Hungary,2023,5.0,215.0,1001.0,283.0,936.0,70.7
+948,Federal University of Ceará,Brazil,2023,17.0,552.0,1001.0,283.0,904.0,70.7
+949,Federal University of São Carlos,Brazil,2023,18.0,552.0,1001.0,283.0,906.0,70.7
+950,Makerere University,Uganda,2023,1.0,552.0,1001.0,283.0,907.0,70.7
+951,Macau University of Science and Technology,China,2023,144.0,552.0,580.0,283.0,933.0,70.7
+952,Sofia University,Bulgaria,2023,1.0,164.0,1001.0,283.0,947.0,70.7
+953,Mohammed V University,Morocco,2023,1.0,552.0,1001.0,283.0,908.0,70.7
+954,ITMO University,Russia,2023,15.0,552.0,1001.0,283.0,909.0,70.7
+955,Singapore University of Technology and Design,Singapore,2023,3.0,552.0,1001.0,283.0,910.0,70.7
+956,Edith Cowan University,Australia,2023,26.0,552.0,1001.0,283.0,912.0,70.7
+957,University of Mons,Belgium,2023,9.0,552.0,1001.0,283.0,911.0,70.7
+958,North Dakota State University,USA,2023,203.0,291.0,938.0,283.0,935.0,70.7
+959,Capital Normal University,China,2023,145.0,552.0,969.0,283.0,918.0,70.7
+960,University of Sassari,Italy,2023,47.0,552.0,1001.0,283.0,913.0,70.6
+961,Federal University of Pelotas,Brazil,2023,19.0,552.0,1001.0,283.0,914.0,70.6
+962,Paul Valéry University,France,2023,41.0,552.0,1001.0,283.0,915.0,70.6
+963,East Carolina University,USA,2023,204.0,552.0,869.0,283.0,929.0,70.6
+964,Çukurova University,Turkey,2023,8.0,552.0,1001.0,283.0,916.0,70.6
+965,Bucknell University,USA,2023,205.0,218.0,52.0,283.0,1001.0,70.6
+966,University of Tabriz,Iran,2023,11.0,552.0,1001.0,283.0,917.0,70.6
+967,Fluminense Federal University,Brazil,2023,20.0,552.0,980.0,283.0,927.0,70.6
+968,Alexandria University,Egypt,2023,4.0,415.0,1001.0,283.0,924.0,70.6
+969,Institut national de la recherche scientifique,Canada,2023,26.0,552.0,1001.0,283.0,920.0,70.6
+970,Marmara University,Turkey,2023,9.0,552.0,1001.0,283.0,921.0,70.6
+971,Ferdowsi University of Mashhad,Iran,2023,12.0,552.0,1001.0,283.0,922.0,70.6
+972,Australian Catholic University,Australia,2023,27.0,552.0,1001.0,283.0,923.0,70.6
+973,Gazi University,Turkey,2023,10.0,552.0,1001.0,283.0,925.0,70.6
+974,Ulster University,United Kingdom,2023,63.0,552.0,1001.0,283.0,930.0,70.6
+975,Oberlin College,USA,2023,206.0,26.0,1001.0,283.0,1001.0,70.6
+976,Tunis El Manar University,Tunisia,2023,1.0,552.0,1001.0,283.0,931.0,70.6
+977,Hallym University,South Korea,2023,33.0,552.0,1001.0,283.0,932.0,70.5
+978,Technical University of Kaiserslautern,Germany,2023,52.0,435.0,1001.0,283.0,934.0,70.5
+979,Southern Illinois University Carbondale,USA,2023,207.0,552.0,1001.0,283.0,937.0,70.5
+980,Federal University of Rio Grande do Norte,Brazil,2023,21.0,552.0,1001.0,283.0,938.0,70.5
+981,Fujian Normal University,China,2023,146.0,552.0,1001.0,283.0,939.0,70.5
+982,Johannes Kepler University Linz,Austria,2023,10.0,552.0,871.0,283.0,942.0,70.5
+983,Shanghai Normal University,China,2023,147.0,552.0,1001.0,283.0,940.0,70.5
+984,Zhejiang Sci-Tech University,China,2023,148.0,552.0,1001.0,283.0,941.0,70.5
+985,University of Akron,USA,2023,208.0,552.0,794.0,283.0,944.0,70.5
+986,Federal University of ABC,Brazil,2023,22.0,552.0,1001.0,283.0,945.0,70.5
+987,University of Memphis,USA,2023,209.0,552.0,416.0,283.0,970.0,70.5
+988,INSA Toulouse,France,2023,42.0,552.0,619.0,283.0,956.0,70.5
+989,National University of Córdoba,Argentina,2023,3.0,552.0,1001.0,283.0,948.0,70.5
+990,University of Windsor,Canada,2023,27.0,552.0,203.0,283.0,1001.0,70.5
+991,Cheung Kong Graduate School of Business,China,2023,149.0,552.0,30.0,283.0,1001.0,70.5
+992,University of Naples Parthenope,Italy,2023,48.0,552.0,1001.0,283.0,950.0,70.5
+993,Shanghai University of Finance and Economics,China,2023,150.0,552.0,99.0,283.0,1001.0,70.4
+994,University of Western Brittany,France,2023,43.0,552.0,1001.0,283.0,951.0,70.4
+995,University of Extremadura,Spain,2023,34.0,552.0,1001.0,283.0,952.0,70.4
+996,Hebei University of Technology,China,2023,151.0,552.0,1001.0,283.0,953.0,70.4
+997,Villanova University,USA,2023,210.0,181.0,149.0,283.0,1001.0,70.4
+998,University of Regina,Canada,2023,28.0,552.0,1001.0,283.0,954.0,70.4
+999,Colgate University,USA,2023,211.0,552.0,50.0,283.0,1001.0,70.4
+1000,Shantou University,China,2023,152.0,552.0,1001.0,283.0,955.0,70.4

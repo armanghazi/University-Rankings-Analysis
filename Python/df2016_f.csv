@@ -1,0 +1,1001 @@
+World Rank,Institution,Location,Year,National Rank,Education Rank,Employability Rank,Faculty Rank,Research Rank,Score
+1,Harvard University,USA,2016,1,1,1,1,1,100.0
+2,Stanford University,USA,2016,2,9,2,2,4,98.25
+3,Massachusetts Institute of Technology,USA,2016,3,2,12,3,6,97.12
+4,University of Cambridge,United Kingdom,2016,1,3,10,6,11,96.13
+5,University of Oxford,United Kingdom,2016,2,7,13,10,8,95.39
+6,Columbia University,USA,2016,4,13,6,9,14,94.12
+7,"University of California, Berkeley",USA,2016,5,6,21,5,8,91.35
+8,University of Chicago,USA,2016,6,11,14,8,15,90.72
+9,Princeton University,USA,2016,7,4,15,4,44,88.72
+10,Yale University,USA,2016,8,8,26,11,18,85.83
+11,California Institute of Technology,USA,2016,9,5,338,7,33,83.74
+12,Cornell University,USA,2016,10,12,19,19,22,81.74
+13,University of Tokyo,Japan,2016,1,14,3,31,21,79.51
+14,University of Pennsylvania,USA,2016,11,22,4,26,13,77.6
+15,"University of California, Los Angeles",USA,2016,12,35,28,13,10,75.23
+16,Johns Hopkins University,USA,2016,13,18,89,16,6,70.44
+17,"University of California, San Diego",USA,2016,14,27,594,18,12,67.59
+18,"University of California, San Francisco",USA,2016,15,378,594,14,16,66.97
+19,University of Michigan,USA,2016,16,25,20,139,9,66.6
+20,Kyoto University,Japan,2016,2,23,17,27,53,66.53
+21,Northwestern University,USA,2016,17,176,11,75,32,66.14
+22,New York University,USA,2016,18,38,24,20,35,66.11
+23,Swiss Federal Institute of Technology in Zurich,Switzerland,2016,1,17,61,17,38,64.98
+24,Seoul National University,South Korea,2016,1,378,9,235,120,64.92
+25,University of Wisconsin–Madison,USA,2016,19,29,29,32,23,64.04
+26,Hebrew University of Jerusalem,Israel,2016,1,16,196,15,185,63.52
+27,University of Washington,USA,2016,20,41,112,23,9,63.38
+28,Rockefeller University,USA,2016,21,32,594,12,186,61.64
+29,Duke University,USA,2016,22,80,33,46,19,61.32
+30,University of Toronto,Canada,2016,1,47,70,24,9,60.79
+31,University College London,United Kingdom,2016,3,21,442,33,17,60.54
+32,University of Texas at Austin,USA,2016,23,66,31,28,44,60.17
+33,Keio University,Japan,2016,3,300,5,235,314,60.08
+34,University of Illinois at Urbana–Champaign,USA,2016,24,24,76,22,43,59.83
+35,Imperial College London,United Kingdom,2016,4,99,72,37,21,59.4
+36,École Polytechnique,France,2016,1,101,7,184,280,59.09
+37,Waseda University,Japan,2016,4,302,8,235,429,57.97
+38,University of North Carolina at Chapel Hill,USA,2016,25,134,74,61,26,57.4
+39,École normale supérieure - Paris,France,2016,2,10,529,69,404,57.3
+40,University of Virginia,USA,2016,26,220,18,129,88,56.86
+41,Weizmann Institute of Science,Israel,2016,2,20,594,21,188,56.57
+42,McGill University,Canada,2016,2,34,38,54,44,56.45
+43,Rutgers University,USA,2016,27,112,42,29,61,56.08
+44,University of Southern California,USA,2016,28,164,62,35,69,55.89
+45,University of Minnesota,USA,2016,29,62,130,64,28,55.85
+46,Ohio State University,USA,2016,30,82,101,57,37,55.72
+47,University of Pittsburgh,USA,2016,31,85,169,235,35,55.6
+48,Osaka University,Japan,2016,5,46,37,78,94,55.52
+49,"University of California, Davis",USA,2016,32,45,262,63,33,55.18
+50,Dartmouth College,USA,2016,33,48,16,235,206,55.16
+51,Washington University in St. Louis,USA,2016,34,111,98,74,29,55.15
+52,Pennsylvania State University,USA,2016,35,272,60,67,39,54.48
+53,National Taiwan University,Taiwan,2016,1,69,22,235,123,54.4
+54,Pierre-and-Marie-Curie University,France,2016,3,26,439,96,38,54.03
+55,University of Edinburgh,United Kingdom,2016,5,49,146,39,48,54.03
+56,Purdue University,USA,2016,36,72,41,48,85,54.03
+57,University of British Columbia,Canada,2016,3,78,312,95,34,53.89
+58,"University of California, Santa Barbara",USA,2016,37,107,303,36,76,53.86
+59,University of Florida,USA,2016,38,219,244,98,64,53.85
+60,Peking University,China,2016,1,162,34,235,93,53.75
+61,University of Manchester,United Kingdom,2016,6,110,93,76,46,53.74
+62,Boston University,USA,2016,39,319,57,89,50,53.49
+63,National University of Singapore,Singapore,2016,1,378,86,235,78,53.3
+64,University of Paris-Sud,France,2016,4,33,394,30,90,53.23
+65,University of Colorado Boulder,USA,2016,40,61,82,42,62,53.21
+66,University of Utah,USA,2016,41,102,104,70,79,53.06
+67,Carnegie Mellon University,USA,2016,42,28,140,25,179,53.04
+68,"University of Maryland, College Park",USA,2016,43,54,189,50,46,52.99
+69,University of Copenhagen,Denmark,2016,1,132,153,68,36,52.92
+70,Karolinska Institute,Sweden,2016,1,108,594,41,50,52.76
+71,Vanderbilt University,USA,2016,44,92,83,111,59,52.68
+72,University of Rochester,USA,2016,45,63,48,114,107,52.47
+73,University of Arizona,USA,2016,46,146,50,87,57,52.46
+74,Tsinghua University,China,2016,2,325,53,235,83,52.36
+75,University of Texas Southwestern Medical Center,USA,2016,47,70,594,40,77,52.32
+76,Ludwig Maximilian University of Munich,Germany,2016,1,40,125,71,57,52.27
+77,Lomonosov Moscow State University,Russia,2016,1,15,174,53,285,52.15
+78,Katholieke Universiteit Leuven,Belgium,2016,1,378,190,235,56,52.1
+79,Emory University,USA,2016,48,378,143,126,68,52.09
+80,University of Geneva,Switzerland,2016,2,36,221,38,92,52.02
+81,Tel Aviv University,Israel,2016,3,68,90,49,124,51.94
+82,Ruprecht Karl University of Heidelberg,Germany,2016,2,43,398,59,64,51.85
+83,Utrecht University,Netherlands,2016,1,88,193,115,48,51.84
+84,Tohoku University,Japan,2016,6,51,142,191,117,51.78
+85,University of Texas MD Anderson Cancer Center,USA,2016,49,378,594,82,71,51.76
+86,Georgia Institute of Technology,USA,2016,50,152,68,117,117,51.75
+87,Brown University,USA,2016,51,75,39,77,86,51.74
+88,"University of California, Irvine",USA,2016,52,240,594,45,70,51.7
+89,University of Melbourne,Australia,2016,1,93,124,139,53,51.69
+90,Sapienza University of Rome,Italy,2016,1,59,192,34,130,51.62
+91,Erasmus University Rotterdam,Netherlands,2016,2,378,43,202,104,51.45
+92,King's College London,United Kingdom,2016,7,31,173,116,86,51.45
+93,University of Zurich,Switzerland,2016,3,125,358,88,49,51.44
+94,University of Notre Dame,USA,2016,53,230,25,154,238,51.42
+95,University of Sydney,Australia,2016,2,116,231,164,63,51.41
+96,Swiss Federal Institute of Technology in Lausanne,Switzerland,2016,4,378,73,117,92,51.35
+97,Tufts University,USA,2016,54,71,44,182,138,51.14
+98,Texas A&M University,USA,2016,55,352,96,47,88,50.94
+99,University of Queensland,Australia,2016,3,285,284,143,75,50.74
+100,University of Oslo,Norway,2016,1,56,310,44,110,50.59
+101,University of Alberta,Canada,2016,4,174,149,152,86,50.39
+102,Arizona State University,USA,2016,56,378,287,91,109,50.32
+103,Yonsei University,South Korea,2016,2,378,45,235,262,50.25
+104,Technical University of Munich,Germany,2016,3,42,127,178,110,50.22
+105,University of Groningen,Netherlands,2016,3,328,210,212,70,50.21
+106,Michigan State University,USA,2016,57,106,134,235,95,50.2
+107,University of Helsinki,Finland,2016,1,64,521,110,79,50.14
+108,Case Western Reserve University,USA,2016,58,58,255,211,101,50.03
+109,Mines ParisTech,France,2016,5,297,23,168,663,49.93
+110,Aarhus University,Denmark,2016,2,327,203,102,87,49.93
+111,University of Amsterdam,Netherlands,2016,4,120,367,229,87,49.89
+112,Leiden University,Netherlands,2016,5,143,594,103,92,49.88
+113,Radboud University Nijmegen,Netherlands,2016,6,130,270,235,92,49.87
+114,Rice University,USA,2016,59,53,121,97,158,49.84
+115,Baylor College of Medicine,USA,2016,60,378,594,133,88,49.83
+116,VU University Amsterdam,Netherlands,2016,7,378,430,235,83,49.81
+117,University of New South Wales,Australia,2016,4,187,67,209,121,49.77
+118,University of Montreal,Canada,2016,5,339,191,235,93,49.74
+119,Nagoya University,Japan,2016,7,39,289,56,156,49.72
+120,Paris Diderot University - Paris 7,France,2016,6,94,594,83,83,49.72
+121,Georgetown University,USA,2016,61,145,32,235,306,49.69
+122,University of Barcelona,Spain,2016,1,378,230,235,101,49.68
+123,Indiana University - Bloomington,USA,2016,62,109,36,177,163,49.66
+124,Kyushu University,Japan,2016,8,288,52,235,203,49.65
+125,University of Iowa,USA,2016,63,128,294,165,101,49.63
+126,Uppsala University,Sweden,2016,2,55,298,73,104,49.63
+127,Lund University,Sweden,2016,3,148,454,168,99,49.57
+128,Tokyo Institute of Technology,Japan,2016,9,177,47,131,179,49.55
+129,University of Bristol,United Kingdom,2016,8,207,195,93,88,49.51
+130,University of Colorado Denver | Anschutz Medical Campus,USA,2016,64,378,594,139,114,49.4
+131,Royal Institute of Technology,Sweden,2016,4,206,30,107,280,49.39
+132,University of Glasgow,United Kingdom,2016,9,253,106,235,115,49.36
+133,Ghent University,Belgium,2016,2,137,332,148,105,49.34
+134,Nanyang Technological University,Singapore,2016,2,378,569,235,204,49.33
+135,McMaster University,Canada,2016,6,232,292,160,111,49.3
+136,Free University of Berlin,Germany,2016,4,81,522,106,111,49.17
+137,Technion – Israel Institute of Technology,Israel,2016,4,52,188,58,206,49.15
+138,University of São Paulo,Brazil,2016,1,316,84,235,130,49.15
+139,University of Nottingham,United Kingdom,2016,10,144,118,84,137,49.12
+140,KAIST,South Korea,2016,3,378,162,235,343,49.11
+141,Korea University,South Korea,2016,4,378,54,235,289,49.01
+142,Southern Methodist University,USA,2016,65,189,27,235,560,49.01
+143,Monash University,Australia,2016,5,293,145,235,132,49.0
+144,University of Tübingen,Germany,2016,5,57,471,105,140,48.95
+145,Icahn School of Medicine at Mount Sinai,USA,2016,66,378,594,235,123,48.92
+146,Western University (University of Western Ontario),Canada,2016,7,378,40,235,171,48.92
+147,University of Alabama at Birmingham,USA,2016,67,378,553,235,148,48.88
+148,University of Miami,USA,2016,68,378,218,235,133,48.85
+149,Humboldt University of Berlin,Germany,2016,6,309,594,180,110,48.82
+150,"University of California, Santa Cruz",USA,2016,69,184,594,66,148,48.81
+151,Aix-Marseille University,France,2016,7,229,416,235,99,48.77
+152,University of Bonn,Germany,2016,7,60,240,85,126,48.68
+153,University of Southampton,United Kingdom,2016,11,343,100,188,122,48.67
+154,Stony Brook University,USA,2016,70,193,594,51,150,48.63
+155,Wake Forest University,USA,2016,71,280,75,235,211,48.58
+156,University of Basel,Switzerland,2016,5,87,282,65,123,48.57
+157,University of Padua,Italy,2016,2,296,594,235,113,48.54
+158,University of Birmingham,United Kingdom,2016,12,76,156,223,168,48.51
+159,University of Leeds,United Kingdom,2016,13,67,165,235,152,48.49
+160,Australian National University,Australia,2016,6,126,377,43,178,48.44
+161,Oregon Health & Science University,USA,2016,72,378,594,131,134,48.44
+162,Albert Ludwig University of Freiburg,Germany,2016,8,159,128,217,152,48.43
+163,Yeshiva University,USA,2016,73,214,594,235,136,48.4
+164,University of South Florida,USA,2016,74,378,383,235,227,48.39
+165,University of Cincinnati,USA,2016,75,147,108,235,144,48.38
+166,Shanghai Jiao Tong University,China,2016,3,349,116,235,174,48.38
+167,Grenoble Alpes University,France,2016,8,153,581,117,127,48.3
+168,Technical University of Denmark,Denmark,2016,3,363,495,219,200,48.3
+169,University of Hong Kong,Hong Kong,2016,1,304,97,235,166,48.29
+170,University of Hamburg,Germany,2016,9,329,144,136,139,48.26
+171,University of Milan,Italy,2016,3,168,401,182,152,48.24
+172,University of Sheffield,United Kingdom,2016,14,157,224,212,139,48.22
+173,University of Calgary,Canada,2016,8,378,103,235,144,48.21
+174,"University of Maryland, Baltimore",USA,2016,76,378,594,235,179,48.19
+175,"Trinity College, Dublin",Ireland,2016,1,299,66,215,212,48.14
+176,University of the Witwatersrand,South Africa,2016,1,73,35,172,315,48.11
+177,University of Göttingen,Germany,2016,10,44,175,176,182,48.11
+178,Stockholm University,Sweden,2016,5,138,88,200,130,48.11
+179,University of Massachusetts Medical School,USA,2016,77,378,594,81,206,48.1
+180,Université libre de Bruxelles,Belgium,2016,3,182,115,72,189,48.06
+181,University of Lausanne,Switzerland,2016,6,90,412,235,148,48.06
+182,Goethe University Frankfurt,Germany,2016,11,123,239,90,177,48.03
+183,Hokkaido University,Japan,2016,10,215,251,136,238,47.97
+184,Zhejiang University,China,2016,4,378,277,235,329,47.88
+185,University of Illinois at Chicago,USA,2016,78,378,564,235,158,47.85
+186,Indiana University-Purdue University Indianapolis,USA,2016,79,378,474,235,195,47.76
+187,Cardiff University,United Kingdom,2016,15,335,228,144,154,47.76
+188,Louisiana State University,USA,2016,80,294,161,235,169,47.76
+189,University of Cologne,Germany,2016,12,378,132,216,165,47.74
+190,Wayne State University,USA,2016,81,378,151,235,188,47.73
+191,Pohang University of Science and Technology,South Korea,2016,5,378,594,235,312,47.73
+192,Fudan University,China,2016,5,378,197,235,200,47.72
+193,University of Ottawa,Canada,2016,9,231,182,235,181,47.72
+194,University of Erlangen-Nuremberg,Germany,2016,13,243,577,235,175,47.61
+195,University of Strasbourg,France,2016,9,77,594,52,183,47.6
+196,University of New Mexico,USA,2016,82,378,594,235,162,47.59
+197,University of Bern,Switzerland,2016,7,194,552,230,125,47.59
+198,University of Bologna,Italy,2016,4,362,346,235,190,47.59
+199,Queen Mary University of London,United Kingdom,2016,16,113,378,235,213,47.54
+200,University of Münster,Germany,2016,14,100,417,174,176,47.49
+201,University of Liverpool,United Kingdom,2016,17,191,212,225,153,47.48
+202,University of Montpellier,France,2016,10,303,483,168,129,47.47
+203,Paris Descartes University,France,2016,11,208,523,235,176,47.47
+204,University of Georgia,USA,2016,83,96,170,172,162,47.45
+205,Iowa State University,USA,2016,84,306,185,109,162,47.44
+206,University of Kansas,USA,2016,85,241,110,235,163,47.42
+207,George Washington University,USA,2016,86,201,59,235,287,47.38
+208,University of Massachusetts Amherst,USA,2016,87,140,133,158,224,47.37
+209,University of Missouri–Columbia,USA,2016,88,264,91,100,223,47.36
+210,TU Dresden,Germany,2016,15,378,594,235,181,47.32
+211,University of Turin,Italy,2016,5,326,435,160,226,47.3
+212,Claude Bernard University Lyon 1,France,2016,12,378,572,235,167,47.29
+213,University of Western Australia,Australia,2016,7,129,331,193,247,47.26
+214,North Carolina State University,USA,2016,89,183,219,235,172,47.26
+215,Karlsruhe Institute of Technology,Germany,2016,16,368,180,189,203,47.24
+216,Newcastle University,United Kingdom,2016,18,378,258,235,206,47.23
+217,"University of California, Riverside",USA,2016,90,258,594,235,174,47.23
+218,Moscow Institute of Physics and Technology,Russia,2016,2,19,347,235,735,47.21
+219,Maastricht University,Netherlands,2016,8,378,594,235,225,47.2
+220,RWTH Aachen University,Germany,2016,17,369,199,189,232,47.19
+221,Sungkyunkwan University,South Korea,2016,6,378,155,235,220,47.16
+222,Autonomous University of Barcelona,Spain,2016,2,378,594,235,198,47.14
+223,University of Science and Technology of China,China,2016,6,378,177,235,236,47.1
+224,Complutense University of Madrid,Spain,2016,3,89,63,232,257,47.1
+225,University of Connecticut,USA,2016,91,317,253,235,193,47.1
+226,Hanyang University,South Korea,2016,7,378,123,235,378,47.08
+227,Paul Sabatier University - Toulouse III,France,2016,13,378,594,235,161,47.06
+228,Chinese University of Hong Kong,Hong Kong,2016,2,122,472,117,233,47.06
+229,Brandeis University,USA,2016,92,37,319,55,367,47.03
+230,University of Kiel,Germany,2016,18,203,468,214,206,47.02
+231,Durham University,United Kingdom,2016,19,79,245,80,217,47.02
+232,University of Texas Health Science Center at Houston,USA,2016,93,378,594,154,195,47.01
+233,University of Houston,USA,2016,94,378,49,235,334,47.0
+234,Laval University,Canada,2016,10,308,261,235,223,46.99
+235,University of Texas Health Science Center at San Antonio,USA,2016,95,378,594,235,246,46.99
+236,University of Manitoba,Canada,2016,11,141,94,154,295,46.98
+237,University of Leicester,United Kingdom,2016,20,378,594,235,226,46.95
+238,University of Gothenburg,Sweden,2016,6,267,275,117,173,46.91
+239,"University of Tennessee, Knoxville",USA,2016,96,334,120,235,214,46.9
+240,University College Dublin,Ireland,2016,2,254,119,235,234,46.89
+241,Julius-Maximilian's University of Würzburg,Germany,2016,19,119,389,167,238,46.87
+242,Nanjing University,China,2016,7,355,363,235,216,46.87
+243,Université catholique de Louvain,Belgium,2016,4,257,267,99,253,46.87
+244,Johannes Gutenberg University of Mainz,Germany,2016,20,305,594,210,199,46.84
+245,London School of Hygiene & Tropical Medicine,United Kingdom,2016,21,378,594,197,281,46.84
+246,Medical University of Vienna,Austria,2016,1,378,594,235,225,46.79
+247,National Cheng Kung University,Taiwan,2016,2,378,51,235,402,46.77
+248,University of Düsseldorf,Germany,2016,21,199,594,235,213,46.77
+249,University of Vienna,Austria,2016,2,202,183,112,197,46.76
+250,Oregon State University,USA,2016,97,154,250,235,188,46.74
+251,University of Florence,Italy,2016,6,341,339,94,243,46.73
+252,University of Auckland,New Zealand,2016,1,248,330,235,234,46.73
+253,Sun Yat-sen University,China,2016,8,378,211,235,246,46.7
+254,University of Naples Federico II,Italy,2016,7,344,449,235,233,46.69
+255,Delft University of Technology,Netherlands,2016,9,321,269,235,263,46.67
+256,Florida State University,USA,2016,98,239,307,235,186,46.67
+257,University of Dundee,United Kingdom,2016,22,179,594,235,255,46.67
+258,Wageningen University and Research Centre,Netherlands,2016,10,312,492,175,184,46.65
+259,Virginia Commonwealth University,USA,2016,99,378,437,150,249,46.6
+260,Virginia Polytechnic Institute and State University,USA,2016,100,298,137,235,296,46.57
+261,University of Oklahoma,USA,2016,101,378,163,235,245,46.57
+262,University of Waterloo,Canada,2016,12,378,114,235,278,46.55
+263,University of Sussex,United Kingdom,2016,23,160,232,60,260,46.53
+264,Drexel University,USA,2016,102,378,202,235,345,46.52
+265,University of Cape Town,South Africa,2016,2,117,154,147,296,46.51
+266,Charles University in Prague,Czech Republic,2016,1,251,584,187,212,46.49
+267,University of Aberdeen,United Kingdom,2016,24,372,308,171,261,46.47
+268,University of Kentucky,USA,2016,103,345,291,235,271,46.46
+269,University of Reading,United Kingdom,2016,25,266,58,235,342,46.46
+270,Norwegian University of Science and Technology,Norway,2016,2,277,164,79,303,46.45
+271,University of Ulm,Germany,2016,22,378,447,133,294,46.43
+272,University at Buffalo,USA,2016,104,245,395,235,244,46.42
+273,University of Bergen,Norway,2016,3,378,594,235,217,46.41
+274,University of Tsukuba,Japan,2016,11,211,594,108,249,46.4
+275,University of Lisbon,Portugal,2016,1,351,425,222,230,46.39
+276,University of Duisburg-Essen,Germany,2016,23,378,484,235,269,46.39
+277,Thomas Jefferson University,USA,2016,105,166,594,235,291,46.35
+278,University of Valencia,Spain,2016,4,378,500,235,275,46.35
+279,Okayama University,Japan,2016,12,378,286,235,340,46.33
+280,University of Warwick,United Kingdom,2016,26,217,302,126,201,46.33
+281,Northeastern University,USA,2016,106,330,117,235,286,46.33
+282,Colorado State University,USA,2016,107,236,526,194,248,46.32
+283,Lehigh University,USA,2016,108,250,46,235,537,46.28
+284,University of Louisville,USA,2016,109,378,465,235,350,46.28
+285,University of Pisa,Italy,2016,8,286,461,235,260,46.26
+286,Vrije Universiteit Brussel,Belgium,2016,5,121,594,235,262,46.25
+287,Queen's University,Canada,2016,13,336,166,117,275,46.25
+288,Tulane University,USA,2016,110,338,152,235,317,46.24
+289,Rensselaer Polytechnic Institute,USA,2016,111,103,150,235,325,46.24
+290,University of South Carolina,USA,2016,112,378,321,196,256,46.22
+291,University of Genoa,Italy,2016,9,378,594,235,267,46.21
+292,University of Delaware,USA,2016,113,333,355,136,270,46.21
+293,Hannover Medical School,Germany,2016,24,378,594,235,310,46.21
+294,City College of New York,USA,2016,114,30,215,235,560,46.18
+295,Ruhr University Bochum,Germany,2016,25,378,234,235,295,46.16
+296,Autonomous University of Madrid,Spain,2016,5,378,443,235,241,46.16
+297,National and Kapodistrian University of Athens,Greece,2016,1,378,204,235,326,46.16
+298,Leipzig University,Germany,2016,26,340,594,226,287,46.13
+299,Umeå University,Sweden,2016,7,378,594,185,229,46.12
+300,Medical University of South Carolina,USA,2016,115,378,594,235,304,46.1
+301,Dalhousie University,Canada,2016,14,269,168,235,286,46.09
+302,London School of Economics,United Kingdom,2016,27,84,81,92,490,46.09
+303,University of Bordeaux,France,2016,14,366,594,235,275,46.07
+304,University of Antwerp,Belgium,2016,6,378,557,235,261,46.06
+305,Nankai University,China,2016,9,348,139,235,340,46.04
+306,University of Rome Tor Vergata,Italy,2016,10,378,580,235,274,46.03
+307,University of St Andrews,United Kingdom,2016,28,163,494,235,314,46.03
+308,Medical College of Wisconsin,USA,2016,116,378,594,235,315,46.03
+309,Vita-Salute San Raffaele University,Italy,2016,11,378,594,235,321,46.03
+310,University of York,United Kingdom,2016,29,378,594,235,206,46.02
+311,University of Liège,Belgium,2016,7,155,594,145,251,46.02
+312,Hong Kong University of Science and Technology,Hong Kong,2016,3,378,335,235,359,46.01
+313,University of Trieste,Italy,2016,12,378,462,235,315,45.96
+314,Hiroshima University,Japan,2016,13,378,594,235,385,45.94
+315,University of Exeter,United Kingdom,2016,30,281,422,235,260,45.93
+316,Queen's University Belfast,United Kingdom,2016,31,190,382,235,303,45.91
+317,University of Regensburg,Germany,2016,27,378,326,235,271,45.91
+318,Xiamen University,China,2016,10,378,92,235,483,45.9
+319,University of Adelaide,Australia,2016,8,228,431,235,258,45.9
+320,Chulalongkorn University,Thailand,2016,1,378,56,235,655,45.89
+321,Kobe University,Japan,2016,14,97,241,117,317,45.88
+322,University of Nebraska–Lincoln,USA,2016,117,175,217,235,257,45.87
+323,Dalian University of Technology,China,2016,11,378,107,235,461,45.87
+324,University of Navarra,Spain,2016,6,378,65,235,629,45.85
+325,University of Vermont,USA,2016,118,209,278,235,358,45.84
+326,Rush University,USA,2016,119,378,594,235,361,45.84
+327,Federal University of Rio de Janeiro,Brazil,2016,2,139,135,235,359,45.81
+328,University of Stuttgart,Germany,2016,28,86,171,185,389,45.81
+329,Stellenbosch University,South Africa,2016,3,378,79,235,436,45.81
+330,University of East Anglia,United Kingdom,2016,32,210,594,179,235,45.8
+331,University of Porto,Portugal,2016,2,98,318,153,317,45.8
+332,University of Jena,Germany,2016,29,378,594,231,303,45.8
+333,University of Perugia,Italy,2016,13,378,594,126,361,45.78
+334,Tianjin University,China,2016,12,378,77,235,542,45.78
+335,University of Ferrara,Italy,2016,14,378,594,235,344,45.73
+336,York University,Canada,2016,15,378,102,235,347,45.72
+337,Kyungpook National University,South Korea,2016,8,378,410,235,425,45.71
+338,Boston College,USA,2016,120,378,99,235,387,45.7
+339,University of Pavia,Italy,2016,15,311,350,232,330,45.7
+340,University of Marburg,Germany,2016,30,320,594,234,413,45.7
+341,National Autonomous University of Mexico,Mexico,2016,1,246,541,235,291,45.69
+342,University of Oregon,USA,2016,121,358,594,235,298,45.68
+343,Hong Kong Polytechnic University,Hong Kong,2016,4,378,167,235,573,45.67
+344,Eindhoven University of Technology,Netherlands,2016,11,378,359,199,392,45.67
+345,University of Otago,New Zealand,2016,2,378,376,235,315,45.67
+346,"St George's, University of London",United Kingdom,2016,33,378,594,235,426,45.66
+347,CentraleSupélec,France,2016,15,378,55,235,773,45.65
+348,Saint Louis University,USA,2016,122,378,259,219,365,45.63
+349,University of Victoria,Canada,2016,16,378,594,235,306,45.62
+350,Colorado School of Mines,USA,2016,123,378,69,235,555,45.62
+351,Washington State University,USA,2016,124,378,336,133,277,45.61
+352,Justus Liebig University Giessen,Germany,2016,31,378,594,235,338,45.6
+353,Kansas State University,USA,2016,125,142,236,235,307,45.6
+354,Indian Institute of Technology Delhi,India,2016,1,378,64,235,750,45.59
+355,Technical University of Berlin,Germany,2016,32,83,257,235,418,45.59
+356,University of Innsbruck,Austria,2016,3,205,386,113,323,45.59
+357,Huazhong University of Science and Technology,China,2016,13,378,206,235,478,45.57
+358,Ben-Gurion University of the Negev,Israel,2016,5,378,594,235,367,45.57
+359,University of Bari Aldo Moro,Italy,2016,16,378,594,235,373,45.57
+360,Linköping University,Sweden,2016,8,378,265,235,382,45.56
+361,Versailles Saint-Quentin-en-Yvelines University,France,2016,16,378,594,235,315,45.54
+362,Simon Fraser University,Canada,2016,17,378,594,235,340,45.54
+363,University of Texas Medical Branch at Galveston,USA,2016,126,378,594,235,338,45.54
+364,City University of Hong Kong,Hong Kong,2016,5,378,594,235,495,45.52
+365,Shandong University,China,2016,14,378,433,235,408,45.52
+366,University of Turku,Finland,2016,2,378,558,235,354,45.52
+367,Jilin University,China,2016,15,223,322,235,450,45.51
+368,Tokyo Medical and Dental University,Japan,2016,15,378,594,235,386,45.51
+369,University of Eastern Finland,Finland,2016,3,378,594,235,326,45.51
+370,Chinese Academy of Medical Sciences & Peking Union Medical College,China,2016,16,378,594,235,337,45.5
+371,University of Chinese Academy of Sciences,China,2016,17,378,452,235,303,45.5
+372,University of Buenos Aires,Argentina,2016,1,135,514,205,358,45.49
+373,Catholic University of the Sacred Heart,Italy,2016,17,378,525,235,401,45.49
+374,Wesleyan University,USA,2016,127,104,71,235,742,45.47
+375,College of William and Mary,USA,2016,128,378,87,235,467,45.47
+376,San Diego State University,USA,2016,129,262,216,235,362,45.47
+377,Scuola Normale Superiore di Pisa,Italy,2016,18,279,594,62,472,45.46
+378,University of Southern Denmark,Denmark,2016,4,378,594,235,367,45.46
+379,University of Milan - Bicocca,Italy,2016,19,378,594,235,373,45.45
+380,Temple University,USA,2016,130,287,480,235,435,45.45
+381,Pontifical Catholic University of Chile,Chile,2016,1,356,131,235,434,45.45
+382,Wuhan University,China,2016,18,378,235,235,492,45.42
+383,Innsbruck Medical University,Austria,2016,4,378,594,235,510,45.42
+384,Harbin Institute of Technology,China,2016,19,378,254,235,481,45.42
+385,Darmstadt University of Technology,Germany,2016,33,74,385,235,404,45.41
+386,University of Guelph,Canada,2016,18,378,518,235,265,45.4
+387,University of Alabama - Tuscaloosa,USA,2016,131,161,136,235,441,45.4
+388,Saarland University,Germany,2016,34,378,343,235,379,45.4
+389,Polytechnic University of Milan,Italy,2016,20,114,181,206,417,45.39
+390,Pompeu Fabra University,Spain,2016,7,378,594,235,338,45.37
+391,National Tsing Hua University,Taiwan,2016,3,275,543,235,404,45.37
+392,Beijing Normal University,China,2016,20,65,594,235,416,45.37
+393,University of Santiago de Compostela,Spain,2016,8,378,470,235,464,45.37
+394,University of Granada,Spain,2016,9,378,594,235,331,45.35
+395,Nihon University,Japan,2016,16,314,589,235,625,45.35
+396,University of Central Florida,USA,2016,132,378,496,235,491,45.35
+397,George Mason University,USA,2016,133,378,594,100,371,45.35
+398,University of Lorraine,France,2016,17,225,200,204,339,45.35
+399,Grenoble Institute of Technology,France,2016,18,156,594,201,412,45.34
+400,University of New Hampshire,USA,2016,134,378,313,104,381,45.34
+401,Lancaster University,United Kingdom,2016,34,378,368,235,360,45.34
+402,Xi'an Jiaotong University,China,2016,21,378,126,235,441,45.34
+403,National Chiao Tung University,Taiwan,2016,4,378,222,235,475,45.33
+404,"University at Albany, SUNY",USA,2016,135,188,550,162,344,45.33
+405,University of Iceland,Iceland,2016,1,378,594,235,402,45.33
+406,Central South University,China,2016,22,378,113,235,500,45.3
+407,University of Campinas,Brazil,2016,3,378,594,235,421,45.3
+408,University of Verona,Italy,2016,21,378,594,235,397,45.3
+409,University of Bath,United Kingdom,2016,35,378,415,235,404,45.3
+410,Miami University,USA,2016,136,378,85,235,627,45.3
+411,University of Arkansas for Medical Sciences,USA,2016,137,378,594,235,582,45.29
+412,Aalto University,Finland,2016,4,378,226,235,388,45.29
+413,University of Nebraska Medical Center,USA,2016,138,378,594,235,412,45.28
+414,University of Twente,Netherlands,2016,12,378,490,235,366,45.27
+415,West Virginia University,USA,2016,139,342,147,235,440,45.25
+416,South China University of Technology,China,2016,23,378,248,235,443,45.25
+417,Pusan National University,South Korea,2016,9,378,397,235,465,45.24
+418,Renmin University of China,China,2016,24,378,78,235,838,45.24
+419,University of Delhi,India,2016,2,249,80,235,717,45.24
+420,Chonnam National University,South Korea,2016,10,378,593,235,437,45.24
+421,Gwangju Institute of Science and Technology,South Korea,2016,11,378,594,235,499,45.23
+422,Chiba University,Japan,2016,17,378,594,235,391,45.23
+423,University of Hawaii at Manoa,USA,2016,140,378,463,86,351,45.23
+424,University of Oulu,Finland,2016,5,290,371,235,359,45.23
+425,University of Texas at Dallas,USA,2016,141,204,198,235,462,45.22
+426,Swedish University of Agricultural Sciences,Sweden,2016,9,158,594,235,360,45.2
+427,Sichuan University,China,2016,25,378,588,235,443,45.2
+428,University of Rostock,Germany,2016,35,376,594,235,520,45.2
+429,Jagiellonian University,Poland,2016,1,378,594,235,509,45.2
+430,Saint Petersburg State University,Russia,2016,3,50,233,235,610,45.19
+431,University of Tampere,Finland,2016,6,378,353,235,530,45.18
+432,Vienna University of Technology,Austria,2016,5,375,392,235,346,45.18
+433,Loyola University Chicago,USA,2016,142,378,372,235,448,45.18
+434,University of Savoy,France,2016,19,378,594,235,401,45.17
+435,Brigham Young University,USA,2016,143,313,364,235,409,45.17
+436,University of Modena and Reggio Emilia,Italy,2016,22,378,556,235,400,45.17
+437,University of Siena,Italy,2016,23,378,508,235,376,45.17
+438,University of Mississippi,USA,2016,144,378,594,235,371,45.17
+439,Aristotle University of Thessaloniki,Greece,2016,2,378,594,235,478,45.16
+440,University of Chile,Chile,2016,2,255,176,235,480,45.15
+441,Tongji University,China,2016,26,181,141,235,481,45.15
+442,Kyung Hee University,South Korea,2016,12,256,520,235,493,45.15
+443,University College Cork,Ireland,2016,3,378,457,235,412,45.14
+444,Chalmers University of Technology,Sweden,2016,10,373,329,235,491,45.14
+445,Oklahoma State University,USA,2016,145,263,184,235,513,45.14
+446,Ewha Womans University,South Korea,2016,13,378,594,235,565,45.14
+447,East China University of Science and Technology,China,2016,27,378,594,235,624,45.13
+448,Macquarie University,Australia,2016,9,378,348,235,381,45.13
+449,University of Warsaw,Poland,2016,2,105,585,150,408,45.13
+450,University of Seville,Spain,2016,10,378,590,235,431,45.13
+451,Southeast University,China,2016,28,192,485,235,566,45.13
+452,Kanazawa University,Japan,2016,18,378,403,235,488,45.13
+453,University of Denver,USA,2016,146,324,109,235,646,45.1
+454,University of Parma,Italy,2016,24,378,365,235,421,45.1
+455,University of Wollongong,Australia,2016,10,378,271,235,412,45.08
+456,University of Strathclyde,United Kingdom,2016,36,378,229,235,421,45.08
+457,Syracuse University,USA,2016,147,149,209,235,543,45.08
+458,Kumamoto University,Japan,2016,19,322,400,235,502,45.08
+459,University of Zaragoza,Spain,2016,11,377,411,235,509,45.07
+460,Brunel University,United Kingdom,2016,37,378,285,235,539,45.07
+461,Polytechnic University of Valencia,Spain,2016,12,378,594,235,486,45.07
+462,Augusta University,USA,2016,148,378,594,235,444,45.06
+463,University of Udine,Italy,2016,25,378,594,235,557,45.06
+464,Technical University of Dortmund,Germany,2016,36,378,594,235,457,45.06
+465,École normale supérieure de Lyon,France,2016,20,378,594,207,406,45.05
+466,University of Dayton,USA,2016,149,360,95,235,780,45.05
+467,University of KwaZulu-Natal,South Africa,2016,4,378,148,235,420,45.04
+468,Ohio University,USA,2016,150,227,178,235,593,45.04
+469,University of Saskatchewan,Canada,2016,19,350,325,235,387,45.04
+470,University of Ulsan,South Korea,2016,14,378,424,235,544,45.04
+471,Indian Institute of Science,India,2016,3,378,379,235,435,45.03
+472,University of Newcastle,Australia,2016,11,378,594,235,476,45.03
+473,Juntendo University,Japan,2016,20,378,594,235,566,45.03
+474,Polytechnic University of Catalonia,Spain,2016,13,378,327,235,457,45.03
+475,Bielefeld University,Germany,2016,37,378,594,235,441,45.02
+476,University of Wyoming,USA,2016,151,378,281,235,410,45.02
+477,University of Ljubljana,Slovenia,2016,1,378,594,235,359,45.02
+478,University of Sherbrooke,Canada,2016,20,378,572,235,381,45.02
+479,Concordia University,Canada,2016,21,378,122,235,658,45.02
+480,Martin Luther University of Halle-Wittenberg,Germany,2016,38,370,594,203,472,45.01
+481,University of Coimbra,Portugal,2016,3,371,559,235,498,45.01
+482,Illinois Institute of Technology,USA,2016,152,291,105,235,713,45.01
+483,University of Rennes 1,France,2016,21,378,594,235,423,45.01
+484,University of the Basque Country,Spain,2016,14,378,583,235,412,45.0
+485,University of Nice Sophia Antipolis,France,2016,22,283,594,235,419,45.0
+486,Osaka City University,Japan,2016,21,118,390,235,464,44.99
+487,Georgia State University,USA,2016,153,378,369,235,444,44.99
+488,Eötvös Loránd University,Hungary,2016,1,95,594,117,431,44.99
+489,Clemson University,USA,2016,154,378,510,235,467,44.98
+490,"University of Nevada, Reno",USA,2016,155,378,426,235,438,44.98
+491,Niigata University,Japan,2016,22,378,305,235,527,44.97
+492,Texas Tech University,USA,2016,156,378,205,235,428,44.97
+493,"University of Maryland, Baltimore County",USA,2016,157,378,594,235,517,44.96
+494,University of Akron,USA,2016,158,378,384,235,617,44.96
+495,Lanzhou University,China,2016,29,378,567,235,542,44.95
+496,University of Nantes,France,2016,23,378,594,235,490,44.95
+497,Auburn University,USA,2016,159,185,213,235,485,44.95
+498,University of Wisconsin–Milwaukee,USA,2016,160,237,225,235,548,44.95
+499,University of Hull,United Kingdom,2016,38,315,243,159,619,44.94
+500,University of Hanover,Germany,2016,39,378,513,235,455,44.94
+501,University of Catania,Italy,2016,26,226,594,235,507,44.94
+502,University of Oviedo,Spain,2016,15,378,517,235,396,44.94
+503,Bar-Ilan University,Israel,2016,6,295,432,235,451,44.94
+504,Nara Institute of Science and Technology,Japan,2016,23,378,594,235,568,44.94
+505,University of Konstanz,Germany,2016,40,378,594,235,392,44.94
+506,University of Tartu,Estonia,2016,1,310,594,235,436,44.94
+507,University of Brescia,Italy,2016,27,378,594,235,621,44.93
+508,Nagasaki University,Japan,2016,24,318,220,235,656,44.93
+509,Tokyo University of Science,Japan,2016,25,235,594,235,512,44.93
+510,University of Bayreuth,Germany,2016,41,378,594,235,367,44.93
+511,Panjab University,India,2016,4,346,187,235,621,44.92
+512,University of Tasmania,Australia,2016,12,378,594,235,454,44.92
+513,University of Crete,Greece,2016,3,378,594,235,560,44.91
+514,Chonbuk National University,South Korea,2016,15,378,594,235,641,44.91
+515,University of Surrey,United Kingdom,2016,39,222,288,235,553,44.91
+516,University of Tromsø - The Arctic University of Norway,Norway,2016,4,378,594,235,408,44.91
+517,"Royal Holloway, University of London",United Kingdom,2016,40,378,536,235,450,44.9
+518,University of Bremen,Germany,2016,42,378,594,235,366,44.9
+519,Federal University of Minas Gerais,Brazil,2016,4,378,320,235,466,44.89
+520,Technical University of Madrid,Spain,2016,16,221,249,235,584,44.89
+521,University of Science and Technology Beijing,China,2016,30,378,111,235,672,44.88
+522,Mahidol University,Thailand,2016,2,378,594,235,448,44.88
+523,Creighton University,USA,2016,161,378,594,235,646,44.88
+524,University Lille 1: Sciences and Technologies,France,2016,24,378,594,235,389,44.88
+525,Middle East Technical University,Turkey,2016,1,378,158,235,625,44.87
+526,University of Canterbury,New Zealand,2016,3,197,194,235,487,44.87
+527,Hunan University,China,2016,31,378,315,235,620,44.87
+528,University of Missouri–Kansas City,USA,2016,162,323,414,235,575,44.86
+529,Tokyo Metropolitan University,Japan,2016,26,378,446,235,471,44.86
+530,University of Potsdam,Germany,2016,43,378,594,235,446,44.86
+531,University of Palermo,Italy,2016,28,378,594,235,513,44.86
+532,Baylor University,USA,2016,163,378,290,235,521,44.86
+533,Medical University of Graz,Austria,2016,6,378,594,235,571,44.86
+534,Aalborg University,Denmark,2016,5,378,427,235,492,44.86
+535,Ajou University,South Korea,2016,16,378,453,235,662,44.86
+536,University of Zagreb,Croatia,2016,1,378,594,235,499,44.85
+537,Gyeongsang National University,South Korea,2016,17,378,594,235,623,44.85
+538,James Cook University,Australia,2016,13,378,594,235,432,44.85
+539,University of Malaya,Malaysia,2016,1,378,157,235,661,44.85
+540,National Chung Hsing University,Taiwan,2016,5,378,246,235,503,44.84
+541,Yokohama City University,Japan,2016,27,378,260,235,579,44.84
+542,International School for Advanced Studies,Italy,2016,29,378,594,235,532,44.84
+543,University of Trento,Italy,2016,30,378,594,235,469,44.83
+544,Curtin University,Australia,2016,14,378,586,235,441,44.83
+545,NUI Galway,Ireland,2016,4,378,549,235,539,44.83
+546,University of Tokushima,Japan,2016,28,115,594,235,607,44.82
+547,University of Lübeck,Germany,2016,44,378,594,235,562,44.82
+548,Shinshu University,Japan,2016,29,378,539,235,547,44.82
+549,National Central University,Taiwan,2016,6,234,594,235,427,44.82
+550,East China Normal University,China,2016,32,378,256,235,567,44.82
+551,Tokyo University of Agriculture and Technology,Japan,2016,30,378,594,235,672,44.82
+552,Soochow University (Suzhou),China,2016,33,378,594,235,581,44.82
+553,Plymouth University,United Kingdom,2016,41,378,561,235,511,44.81
+554,Otto-von-Guericke University Magdeburg,Germany,2016,45,378,594,235,516,44.81
+555,University of Ioannina,Greece,2016,4,378,594,235,651,44.8
+556,University of Cagliari,Italy,2016,31,378,594,235,543,44.8
+557,Central China Normal University,China,2016,34,378,594,235,662,44.8
+558,Catholic University of Korea,South Korea,2016,18,378,594,235,647,44.8
+559,University of Portsmouth,United Kingdom,2016,42,378,509,235,570,44.8
+560,Graduate University for Advanced Studies,Japan,2016,31,378,594,235,523,44.79
+561,University of Arkansas - Fayetteville,USA,2016,164,216,306,235,579,44.79
+562,University of Windsor,Canada,2016,22,378,129,235,782,44.79
+563,SUNY Downstate Medical Center,USA,2016,165,378,594,154,630,44.79
+564,Deakin University,Australia,2016,15,378,428,235,503,44.79
+565,National Yang-Ming University,Taiwan,2016,7,378,594,235,504,44.79
+566,New York Medical College,USA,2016,166,378,594,235,703,44.79
+567,National Polytechnic Institute of Toulouse,France,2016,25,378,237,235,553,44.79
+568,Kent State University,USA,2016,167,378,594,235,537,44.79
+569,University of La Laguna,Spain,2016,17,378,594,235,433,44.78
+570,University of Alaska Fairbanks,USA,2016,168,378,407,235,520,44.78
+571,Chang Gung University,Taiwan,2016,8,378,594,235,532,44.77
+572,Montana State University,USA,2016,169,378,512,235,413,44.77
+573,Griffith University,Australia,2016,16,378,594,235,410,44.77
+574,Yokohama National University,Japan,2016,32,91,223,191,830,44.77
+575,Federal University of Rio Grande do Sul,Brazil,2016,5,378,594,235,466,44.76
+576,Second University of Naples,Italy,2016,32,378,594,235,615,44.76
+577,New Mexico State University,USA,2016,170,378,460,235,602,44.76
+578,University of Montana,USA,2016,171,365,459,235,463,44.75
+579,Utah State University,USA,2016,172,171,362,235,451,44.75
+580,China Agricultural University,China,2016,35,378,506,235,477,44.75
+581,Universidade Nova de Lisboa,Portugal,2016,4,378,594,163,500,44.74
+582,Inha University,South Korea,2016,19,378,351,235,584,44.74
+583,University of Hertfordshire,United Kingdom,2016,43,378,594,235,587,44.74
+584,Tata Institute of Fundamental Research,India,2016,5,378,594,235,405,44.74
+585,University of Aveiro,Portugal,2016,5,378,594,235,553,44.73
+586,University of Toledo,USA,2016,173,378,594,235,617,44.73
+587,University of Rhode Island,USA,2016,174,378,264,235,534,44.72
+588,Indian Institute of Technology Madras,India,2016,6,378,172,235,724,44.72
+589,Cranfield University,United Kingdom,2016,44,378,160,235,750,44.72
+590,University of Salamanca,Spain,2016,18,378,475,235,477,44.72
+591,Carleton University,Canada,2016,23,378,563,235,543,44.72
+592,University of Texas at Arlington,USA,2016,175,378,594,235,531,44.71
+593,Tokyo Women's Medical University,Japan,2016,33,378,594,235,651,44.71
+594,Bangor University,United Kingdom,2016,45,271,404,235,547,44.71
+595,University of Minho,Portugal,2016,6,378,594,235,516,44.71
+596,Shanghai University,China,2016,36,378,571,235,694,44.71
+597,Indian Institute of Technology Roorkee,India,2016,7,378,356,235,701,44.7
+598,"University of Eastern Piedmont ""Amedeo Avogadro""",Italy,2016,33,378,594,235,574,44.7
+599,Memorial University of Newfoundland,Canada,2016,24,378,554,235,517,44.7
+600,University of Graz,Austria,2016,7,361,476,221,611,44.7
+601,Queensland University of Technology,Australia,2016,17,378,582,235,620,44.7
+602,King Saud University,Saudi Arabia,2016,1,378,186,235,552,44.7
+603,Florida International University,USA,2016,176,378,587,235,466,44.7
+604,Southern Illinois University Carbondale,USA,2016,177,212,551,235,602,44.7
+605,University of Belgrade,Serbia,2016,1,292,594,235,436,44.69
+606,University of Fribourg,Switzerland,2016,8,247,274,235,529,44.69
+607,Konkuk University,South Korea,2016,20,378,366,235,600,44.69
+608,Paris-Est Créteil Val-de-Marne University,France,2016,26,378,402,235,670,44.69
+609,Wuhan University of Technology,China,2016,37,378,527,235,689,44.69
+610,Beijing University of Chemical Technology,China,2016,38,378,516,235,730,44.69
+611,Fuzhou University,China,2016,39,378,391,235,708,44.68
+612,City University London,United Kingdom,2016,46,378,138,235,786,44.68
+613,Braunschweig University of Technology,Germany,2016,46,242,594,235,535,44.68
+614,Indian Institute of Technology Kharagpur,India,2016,8,378,237,235,717,44.68
+615,Gunma University,Japan,2016,34,378,594,235,581,44.67
+616,Mississippi State University,USA,2016,178,165,227,235,568,44.67
+617,Northern Illinois University,USA,2016,179,378,272,235,553,44.67
+618,University of Cantabria,Spain,2016,19,378,546,235,500,44.66
+619,Northeast Normal University,China,2016,40,378,594,235,704,44.66
+620,Uniformed Services University of the Health Sciences,USA,2016,180,378,594,235,517,44.66
+621,Massey University,New Zealand,2016,4,378,478,235,584,44.66
+622,Federal University of São Paulo,Brazil,2016,6,378,594,235,516,44.65
+623,Tokai University,Japan,2016,35,378,594,235,692,44.65
+624,La Trobe University,Australia,2016,18,378,479,235,535,44.65
+625,Donghua University,China,2016,41,378,594,235,664,44.65
+626,Nagoya City University,Japan,2016,36,378,381,235,603,44.65
+627,University of Los Andes (Colombia),Colombia,2016,1,378,179,235,591,44.64
+628,Marche Polytechnic University,Italy,2016,34,378,594,235,672,44.64
+629,University of Jyväskylä,Finland,2016,7,378,574,235,539,44.64
+630,Open University (UK),United Kingdom,2016,47,378,594,235,568,44.64
+631,Semmelweis University,Hungary,2016,2,378,594,235,588,44.64
+632,Flinders University,Australia,2016,19,133,594,235,571,44.63
+633,University of New Orleans,USA,2016,181,378,594,235,704,44.63
+634,Örebro University,Sweden,2016,11,378,503,235,702,44.63
+635,University of the Balearic Islands,Spain,2016,20,378,594,235,624,44.62
+636,University of Idaho,USA,2016,182,378,594,235,567,44.62
+637,Comenius University in Bratislava,Slovak Republic,2016,1,378,594,235,582,44.62
+638,University of Paris 13,France,2016,27,378,594,235,655,44.62
+639,University of Québec at Montreal,Canada,2016,25,378,418,235,541,44.62
+640,Rovira i Virgili University,Spain,2016,21,378,594,235,511,44.62
+641,University of Toyama,Japan,2016,37,378,297,235,728,44.62
+642,Kitasato University,Japan,2016,38,378,594,117,678,44.62
+643,Old Dominion University,USA,2016,183,378,594,235,582,44.61
+644,National Technical University of Athens,Greece,2016,5,198,491,235,641,44.61
+645,Warsaw University of Technology,Poland,2016,3,357,568,235,585,44.61
+646,Ehime University,Japan,2016,39,378,537,235,590,44.61
+647,Hong Kong Baptist University,Hong Kong,2016,6,378,540,235,688,44.61
+648,State University of New York Upstate Medical University,USA,2016,184,378,594,235,594,44.61
+649,"Birkbeck, University of London",United Kingdom,2016,48,196,594,166,581,44.61
+650,University of Patras,Greece,2016,6,378,594,235,602,44.61
+651,American University of Beirut,Lebanon,2016,1,127,214,235,783,44.61
+652,Istanbul University,Turkey,2016,2,224,429,235,630,44.61
+653,"UNESP, São Paulo State University",Brazil,2016,7,378,594,235,457,44.6
+654,Binghamton University,USA,2016,185,378,242,235,681,44.6
+655,Polytechnic University of Turin,Italy,2016,35,378,594,235,615,44.6
+656,Tampere University of Technology,Finland,2016,8,378,201,235,704,44.6
+657,University of Essex,United Kingdom,2016,49,136,370,235,590,44.6
+658,"Palacký University, Olomouc",Czech Republic,2016,2,378,594,235,567,44.6
+659,Portland State University,USA,2016,186,378,247,235,687,44.6
+660,Victoria University of Wellington,New Zealand,2016,5,332,276,235,584,44.6
+661,University of Debrecen,Hungary,2016,3,378,594,235,584,44.6
+662,China Medical University (Taiwan),Taiwan,2016,9,378,594,235,591,44.6
+663,Czech Technical University in Prague,Czech Republic,2016,3,359,594,235,625,44.6
+664,University of Maine,USA,2016,187,378,594,139,555,44.59
+665,Liverpool John Moores University,United Kingdom,2016,50,378,594,235,554,44.59
+666,Albany Medical College,USA,2016,188,178,594,235,793,44.59
+667,Louisiana Tech University,USA,2016,189,378,208,235,802,44.59
+668,Hacettepe University,Turkey,2016,3,378,594,235,642,44.59
+669,Chungnam National University,South Korea,2016,21,378,594,235,570,44.59
+670,Swinburne University of Technology,Australia,2016,20,378,594,235,556,44.58
+671,University of Girona,Spain,2016,22,378,594,235,669,44.58
+672,Keele University,United Kingdom,2016,51,378,594,235,522,44.58
+673,University of South Australia,Australia,2016,21,378,300,235,585,44.58
+674,Banaras Hindu University,India,2016,9,252,280,235,783,44.58
+675,Beijing Institute of Technology,China,2016,42,378,594,235,707,44.57
+676,Indian Institute of Technology Bombay,India,2016,10,378,533,235,681,44.57
+677,University of Burgundy,France,2016,28,233,594,235,565,44.57
+678,Kagoshima University,Japan,2016,40,378,328,235,700,44.57
+679,Sharif University of Technology,Iran,2016,1,124,594,235,656,44.57
+680,Graz University of Technology,Austria,2016,8,378,594,235,626,44.57
+681,Lille 2 University of Health and Law,France,2016,29,378,594,235,671,44.56
+682,"University François Rabelais, Tours",France,2016,30,213,594,235,605,44.56
+683,Tilburg University,Netherlands,2016,13,378,279,235,613,44.56
+684,New Jersey Institute of Technology,USA,2016,190,273,448,235,637,44.56
+685,Kaiserslautern University of Technology,Germany,2016,47,378,548,235,632,44.56
+686,University of Kent,United Kingdom,2016,52,378,421,235,523,44.56
+687,Royal College of Surgeons in Ireland,Ireland,2016,5,378,594,235,643,44.56
+688,Osaka Prefecture University,Japan,2016,41,378,387,235,723,44.56
+689,University of L'Aquila,Italy,2016,36,378,594,235,675,44.56
+690,University of Insubria,Italy,2016,37,378,594,235,654,44.55
+691,"University of Nevada, Las Vegas",USA,2016,191,378,434,235,611,44.55
+692,University of Vigo,Spain,2016,23,378,594,235,614,44.55
+693,Heriot-Watt University,United Kingdom,2016,53,378,317,235,620,44.55
+694,"University of Science, Malaysia",Malaysia,2016,2,378,594,235,658,44.54
+695,University of Salerno,Italy,2016,38,378,594,235,641,44.54
+696,University of Texas at San Antonio,USA,2016,192,378,594,235,626,44.54
+697,University of Pretoria,South Africa,2016,5,378,295,235,528,44.54
+698,Gifu University,Japan,2016,42,378,532,235,693,44.54
+699,Rochester Institute of Technology,USA,2016,193,378,420,235,626,44.54
+700,Istanbul Technical University,Turkey,2016,4,378,436,235,681,44.54
+701,University of Picardie Jules Verne,France,2016,31,378,594,235,656,44.54
+702,Loughborough University,United Kingdom,2016,54,378,594,235,646,44.54
+703,Capital Medical University,China,2016,43,378,594,235,578,44.53
+704,King Abdullah University of Science and Technology,Saudi Arabia,2016,2,378,594,129,580,44.53
+705,Beihang University,China,2016,44,378,354,235,651,44.53
+706,Swansea University,United Kingdom,2016,55,378,456,235,566,44.53
+707,King Fahd University of Petroleum and Minerals,Saudi Arabia,2016,3,378,159,235,846,44.53
+708,University of Szeged,Hungary,2016,4,378,594,223,685,44.53
+709,University of Greifswald,Germany,2016,48,378,594,228,621,44.53
+710,Johannes Kepler University of Linz,Austria,2016,9,378,375,235,662,44.53
+711,Jichi Medical University,Japan,2016,43,378,594,235,702,44.52
+712,Kaohsiung Medical University,Taiwan,2016,10,378,594,235,686,44.52
+713,Loma Linda University,USA,2016,194,378,594,235,756,44.52
+714,University of Missouri–St. Louis,USA,2016,195,378,316,235,704,44.52
+715,University of Yamanashi,Japan,2016,44,282,594,235,826,44.52
+716,Jawaharlal Nehru Centre for Advanced Scientific Research,India,2016,11,378,594,146,735,44.52
+717,Roma Tre University,Italy,2016,39,378,594,235,606,44.52
+718,Yamaguchi University,Japan,2016,45,378,594,235,745,44.52
+719,Chongqing University,China,2016,45,378,263,235,718,44.52
+720,Ankara University,Turkey,2016,5,378,357,235,665,44.52
+721,University of Évry Val d'Essonne,France,2016,32,378,594,235,672,44.52
+722,University of Augsburg,Germany,2016,49,378,594,235,745,44.52
+723,University of Alabama in Huntsville,USA,2016,196,378,594,235,683,44.52
+724,Hasselt University,Belgium,2016,8,378,344,235,802,44.52
+725,"Paul Valéry University, Montpellier III",France,2016,33,378,594,235,549,44.51
+726,University of Mons,Belgium,2016,9,378,594,235,690,44.51
+727,University of Tehran,Iran,2016,2,200,594,194,684,44.51
+728,University of Alicante,Spain,2016,24,378,594,235,717,44.51
+729,Sapporo Medical University,Japan,2016,46,378,594,235,833,44.51
+730,National University of La Plata,Argentina,2016,2,378,534,235,591,44.51
+731,Masaryk University,Czech Republic,2016,4,378,594,235,619,44.5
+732,"University of Natural Resources and Life Sciences, Vienna",Austria,2016,10,378,594,235,613,44.5
+733,University of Messina,Italy,2016,40,378,594,235,703,44.5
+734,Institut national des sciences Appliquées de Lyon,France,2016,34,378,594,235,604,44.5
+735,University of Castilla–La Mancha,Spain,2016,25,378,594,235,683,44.5
+736,University of Málaga,Spain,2016,26,378,594,235,680,44.5
+737,University of Poitiers,France,2016,35,268,594,149,565,44.5
+738,Second Military Medical University,China,2016,46,378,594,235,607,44.5
+739,Vilnius University,Lithuania,2016,1,353,594,235,591,44.49
+740,Kindai University,Japan,2016,47,378,594,235,608,44.49
+741,Kurume University,Japan,2016,48,378,594,235,807,44.49
+742,Rio de Janeiro State University,Brazil,2016,8,378,562,235,650,44.49
+743,Missouri University of Science and Technology,USA,2016,197,378,266,235,797,44.49
+744,San Francisco State University,USA,2016,198,284,594,208,673,44.49
+745,North Dakota State University,USA,2016,199,180,594,235,728,44.49
+746,Florida Institute of Technology,USA,2016,200,378,594,235,649,44.48
+747,University of Haifa,Israel,2016,7,378,419,235,559,44.48
+748,University of North Texas,USA,2016,201,378,594,235,636,44.48
+749,Shizuoka University,Japan,2016,49,378,493,235,716,44.48
+750,Blaise Pascal University,France,2016,36,378,594,218,686,44.48
+751,East Carolina University,USA,2016,202,378,388,235,679,44.47
+752,Kyoto Prefectural University of Medicine,Japan,2016,50,378,594,235,770,44.47
+753,Marquette University,USA,2016,203,274,207,235,798,44.47
+754,University of Córdoba (Spain),Spain,2016,27,378,594,235,671,44.47
+755,Jaume I University,Spain,2016,28,378,594,235,794,44.47
+756,National Research Nuclear University MEPhI,Russia,2016,4,331,594,235,691,44.47
+757,University of Ulster,United Kingdom,2016,56,378,594,235,693,44.47
+758,"University of Technology, Sydney",Australia,2016,22,378,524,235,577,44.47
+759,Université de Namur,Belgium,2016,10,172,440,235,752,44.47
+760,Aston University,United Kingdom,2016,57,378,406,235,812,44.47
+761,Ege University,Turkey,2016,6,378,594,235,664,44.47
+762,Jacobs University Bremen,Germany,2016,50,378,594,235,696,44.46
+763,University of Salento,Italy,2016,41,378,594,235,647,44.46
+764,National Sun Yat-sen University,Taiwan,2016,11,378,594,235,605,44.46
+765,University of North Carolina at Charlotte,USA,2016,204,378,311,235,671,44.46
+766,École normale supérieure de Cachan,France,2016,37,131,337,235,646,44.46
+767,Indian Institute of Technology Kanpur,India,2016,12,186,531,235,712,44.46
+768,"G. d'Annunzio University, Chieti-Pescara",Italy,2016,42,378,594,235,683,44.46
+769,Sogang University,South Korea,2016,22,378,497,235,761,44.45
+770,Zhengzhou University,China,2016,47,378,467,235,681,44.45
+771,Cairo University,Egypt,2016,1,301,455,181,604,44.45
+772,Michigan Technological University,USA,2016,205,354,488,235,707,44.45
+773,Dublin City University,Ireland,2016,6,378,498,235,762,44.45
+774,Saga University,Japan,2016,51,378,594,235,766,44.45
+775,University of Neuchâtel,Switzerland,2016,9,364,594,235,742,44.45
+776,University of Salzburg,Austria,2016,11,378,293,235,782,44.45
+777,Miguel Hernández University of Elche,Spain,2016,29,378,594,235,685,44.45
+778,University of Calabria,Italy,2016,43,378,594,235,611,44.45
+779,Yamagata University,Japan,2016,52,378,594,235,735,44.44
+780,Åbo Akademi University,Finland,2016,9,378,594,235,672,44.44
+781,National Polytechnic Institute,Mexico,2016,2,347,594,235,538,44.44
+782,University of Caen Normandy,France,2016,38,218,594,235,691,44.44
+783,University of Electronic Science and Technology of China,China,2016,48,378,342,235,689,44.44
+784,Northeastern University (China),China,2016,49,378,268,235,796,44.44
+785,Saitama Medical University,Japan,2016,53,378,594,235,752,44.44
+786,University of Stirling,United Kingdom,2016,58,378,361,235,715,44.44
+787,Kangwon National University,South Korea,2016,23,378,594,235,620,44.44
+788,Jiangnan University,China,2016,50,378,594,235,770,44.43
+789,University of Hyogo,Japan,2016,54,378,594,235,592,44.43
+790,Jikei University School of Medicine,Japan,2016,55,378,594,235,789,44.43
+791,University of Hohenheim,Germany,2016,51,378,594,235,655,44.43
+792,University of Memphis,USA,2016,206,378,345,235,737,44.43
+793,Taipei Medical University,Taiwan,2016,12,378,594,235,677,44.43
+794,Howard University,USA,2016,207,195,594,235,761,44.43
+795,Norwegian University of Life Sciences,Norway,2016,5,378,594,235,662,44.43
+796,Toho University,Japan,2016,56,378,594,197,782,44.42
+797,Maynooth University,Ireland,2016,7,260,594,235,728,44.42
+798,Chung-Ang University,South Korea,2016,24,378,481,235,627,44.42
+799,University of Concepción,Chile,2016,3,378,594,235,628,44.42
+800,Tottori University,Japan,2016,57,378,352,235,735,44.41
+801,Dongguk University,South Korea,2016,25,378,314,235,834,44.41
+802,University of Bradford,United Kingdom,2016,59,378,252,235,776,44.41
+803,Yeungnam University,South Korea,2016,26,378,349,235,798,44.41
+804,University of Maribor,Slovenia,2016,2,378,594,235,757,44.41
+805,Bowling Green State University,USA,2016,208,378,373,235,766,44.41
+806,University of Brighton,United Kingdom,2016,60,378,594,235,779,44.41
+807,Nanjing University of Science and Technology,China,2016,51,378,360,235,744,44.41
+808,Chiang Mai University,Thailand,2016,3,378,570,235,677,44.41
+809,Aberystwyth University,United Kingdom,2016,61,378,535,235,650,44.41
+810,Magna Græcia University of Catanzaro,Italy,2016,44,378,594,235,824,44.41
+811,University of Sassari,Italy,2016,45,378,594,235,677,44.41
+812,Huazhong Agricultural University,China,2016,52,378,594,235,605,44.4
+813,Boğaziçi University,Turkey,2016,7,378,450,235,667,44.4
+814,University of Regina,Canada,2016,26,378,594,235,663,44.4
+815,Northwest University (China),China,2016,53,378,594,235,664,44.4
+816,Nanjing Medical University,China,2016,54,378,594,235,610,44.4
+817,University of Alcalá,Spain,2016,30,378,594,235,676,44.4
+818,University of Murcia,Spain,2016,31,378,594,235,604,44.4
+819,AGH University of Science and Technology,Poland,2016,4,278,299,235,745,44.4
+820,Tehran University of Medical Sciences,Iran,2016,3,378,594,235,754,44.39
+821,Mie University,Japan,2016,58,378,594,235,789,44.39
+822,Nanjing Agricultural University,China,2016,55,378,594,235,655,44.39
+823,Northern Arizona University,USA,2016,209,378,565,235,683,44.39
+824,Hefei University of Technology,China,2016,56,378,283,235,831,44.39
+825,Wright State University,USA,2016,210,378,594,235,759,44.39
+826,"All India Institute of Medical Sciences, New Delhi",India,2016,13,378,594,235,800,44.39
+827,University of Veterinary Medicine Vienna,Austria,2016,12,378,594,235,645,44.39
+828,Bilkent University,Turkey,2016,8,378,499,235,745,44.39
+829,Chungbuk National University,South Korea,2016,27,378,594,235,769,44.39
+830,University of Orléans,France,2016,39,378,545,235,636,44.39
+831,Ocean University of China,China,2016,57,378,594,235,680,44.39
+832,"Putra University, Malaysia",Malaysia,2016,3,378,594,235,815,44.38
+833,University of Massachusetts Boston,USA,2016,211,378,458,235,693,44.38
+834,Nanjing University of Aeronautics and Astronautics,China,2016,58,378,519,235,766,44.38
+835,Murdoch University,Australia,2016,23,378,502,235,624,44.38
+836,University of Perpignan Via Domitia,France,2016,40,167,594,235,677,44.38
+837,Jean Monnet University,France,2016,41,378,594,235,587,44.37
+838,University of Oldenburg,Germany,2016,52,378,594,235,649,44.37
+839,University of Angers,France,2016,42,378,594,235,764,44.37
+840,Showa University,Japan,2016,59,378,594,235,805,44.37
+841,Kōchi University,Japan,2016,60,378,594,235,802,44.37
+842,Inje University,South Korea,2016,28,378,594,235,791,44.37
+843,University of Rouen,France,2016,43,374,594,235,695,44.37
+844,Isfahan University of Technology,Iran,2016,4,378,594,235,649,44.37
+845,University of the Republic (Uruguay),Uruguay,2016,1,378,591,235,691,44.37
+846,Makerere University,Uganda,2016,1,378,594,235,712,44.37
+847,University of Electro-Communications,Japan,2016,61,169,594,235,787,44.37
+848,Western Sydney University,Australia,2016,24,378,594,235,596,44.37
+849,University of Siegen,Germany,2016,53,378,555,235,693,44.36
+850,Budapest University of Technology and Economics,Hungary,2016,5,265,594,235,733,44.36
+851,University of Extremadura,Spain,2016,32,378,594,235,804,44.36
+852,Brock University,Canada,2016,27,378,594,235,718,44.36
+853,Fourth Military Medical University,China,2016,59,378,594,235,632,44.36
+854,Sofia University,Bulgaria,2016,1,270,594,235,721,44.35
+855,Southwest University,China,2016,60,289,594,235,733,44.35
+856,University of Valladolid,Spain,2016,33,378,477,235,738,44.35
+857,Gazi University,Turkey,2016,9,378,507,235,790,44.35
+858,University of Miyazaki,Japan,2016,62,307,594,235,799,44.35
+859,University of New England (Australia),Australia,2016,25,378,273,235,760,44.35
+860,Nanjing Normal University,China,2016,61,378,438,235,707,44.35
+861,Shanghai Normal University,China,2016,62,378,486,235,841,44.35
+862,University of South Alabama,USA,2016,212,378,594,235,795,44.35
+863,"Royal Veterinary College, University of London",United Kingdom,2016,62,261,594,235,663,44.35
+864,Florida Atlantic University,USA,2016,213,378,594,235,758,44.34
+865,University of Seoul,South Korea,2016,29,378,594,235,797,44.34
+866,Sejong University,South Korea,2016,30,378,594,235,775,44.34
+867,University of Osnabrück,Germany,2016,54,378,594,235,716,44.34
+868,"University of Wales, Trinity Saint David",United Kingdom,2016,63,378,594,235,793,44.34
+869,RMIT University,Australia,2016,26,378,528,235,749,44.34
+870,China University of Geosciences (Wuhan),China,2016,63,378,511,235,717,44.34
+871,Manchester Metropolitan University,United Kingdom,2016,64,378,399,235,764,44.34
+872,Dankook University,South Korea,2016,31,378,594,235,829,44.33
+873,Fukuoka University,Japan,2016,63,378,594,235,850,44.33
+874,Ritsumeikan University,Japan,2016,64,378,324,235,772,44.33
+875,Hamamatsu University School of Medicine,Japan,2016,65,378,594,235,850,44.33
+876,Hunter College,USA,2016,214,276,464,235,696,44.33
+877,University of Pécs,Hungary,2016,6,378,594,235,814,44.33
+878,Nanjing University of Technology,China,2016,64,378,594,235,797,44.33
+879,Federal University of Santa Catarina,Brazil,2016,9,378,594,235,731,44.33
+880,University of Southern Mississippi,USA,2016,215,378,594,235,812,44.33
+881,University of Mannheim,Germany,2016,55,378,542,235,750,44.33
+882,University of New Brunswick,Canada,2016,28,378,404,235,740,44.33
+883,Jinan University,China,2016,65,378,323,235,743,44.32
+884,Trent University,Canada,2016,29,378,489,235,711,44.32
+885,National Chung Cheng University,Taiwan,2016,13,378,594,235,820,44.32
+886,Ulsan National Institute of Science and Technology,South Korea,2016,32,378,594,235,784,44.32
+887,Clarkson University,USA,2016,216,378,380,235,867,44.32
+888,Nicolaus Copernicus University in Toruń,Poland,2016,5,378,594,235,771,44.32
+889,Quaid-i-Azam University,Pakistan,2016,1,378,594,235,803,44.32
+890,University of Wrocław,Poland,2016,6,367,594,235,732,44.32
+891,China University of Geosciences (Beijing),China,2016,66,378,594,235,762,44.32
+892,University of North Dakota,USA,2016,217,378,547,235,771,44.32
+893,South China Normal University,China,2016,67,378,473,235,743,44.32
+894,University of Cyprus,Cyprus,2016,1,378,594,235,739,44.32
+895,Federico Santa María Technical University,Chile,2016,4,378,594,235,720,44.32
+896,Tarbiat Modares University,Iran,2016,5,378,594,235,804,44.32
+897,Saitama University,Japan,2016,66,170,393,235,773,44.31
+898,University of the Ryukyus,Japan,2016,67,378,594,235,768,44.31
+899,University of Western Brittany,France,2016,44,378,594,235,753,44.31
+900,Chung Yuan Christian University,Taiwan,2016,14,259,309,235,807,44.31
+901,The Catholic University of America,USA,2016,218,378,441,235,713,44.31
+902,Charles Darwin University,Australia,2016,27,378,594,235,741,44.31
+903,University of Cádiz,Spain,2016,34,378,594,235,793,44.31
+904,University of Basilicata,Italy,2016,46,378,594,235,789,44.31
+905,University of Lleida,Spain,2016,35,378,594,235,806,44.31
+906,Shimane University,Japan,2016,68,378,594,235,796,44.31
+907,"University of California, Merced",USA,2016,219,378,594,235,684,44.31
+908,Harbin Engineering University,China,2016,68,378,594,235,857,44.31
+909,University of Wuppertal,Germany,2016,56,378,594,235,829,44.31
+910,Wilfrid Laurier University,Canada,2016,30,378,296,235,850,44.31
+911,Fluminense Federal University,Brazil,2016,10,378,340,235,787,44.3
+912,Third Military Medical University,China,2016,69,378,594,235,702,44.3
+913,University of Brasília,Brazil,2016,11,378,413,235,713,44.3
+914,Federal University of ABC,Brazil,2016,12,378,594,235,777,44.3
+915,University of Massachusetts Lowell,USA,2016,220,378,505,235,754,44.3
+916,Amirkabir University of Technology,Iran,2016,6,378,594,235,775,44.3
+917,National Taiwan University of Science and Technology,Taiwan,2016,15,378,594,235,737,44.3
+918,Nagoya Institute of Technology,Japan,2016,69,378,530,235,811,44.3
+919,University of Thessaly,Greece,2016,7,378,594,235,835,44.3
+920,Yangzhou University,China,2016,70,378,594,235,802,44.3
+921,Jadavpur University,India,2016,14,378,538,235,783,44.3
+922,Adam Mickiewicz University in Poznań,Poland,2016,7,151,594,235,729,44.3
+923,University of Jaén,Spain,2016,36,378,594,235,781,44.3
+924,University of Central Lancashire,United Kingdom,2016,65,378,515,235,753,44.29
+925,University of Puerto Rico at Mayagüez,Puerto Rico,2016,1,378,594,235,731,44.29
+926,Federal University of Paraná,Brazil,2016,13,378,482,235,723,44.29
+927,Shahid Beheshti University of Medical Sciences,Iran,2016,7,378,594,235,805,44.29
+928,"Queens College, City University of New York",USA,2016,221,337,374,235,788,44.29
+929,Northwestern Polytechnical University,China,2016,71,378,334,235,726,44.29
+930,Oakland University,USA,2016,222,378,594,235,785,44.29
+931,University of Calcutta,India,2016,15,150,333,227,840,44.29
+932,Kyoto Institute of Technology,Japan,2016,70,378,594,235,856,44.29
+933,Teikyo University,Japan,2016,71,378,594,235,802,44.29
+934,National Taiwan Normal University,Taiwan,2016,16,378,501,235,763,44.28
+935,University of Waikato,New Zealand,2016,6,378,451,235,843,44.28
+936,Pukyong National University,South Korea,2016,33,378,594,235,859,44.28
+937,United Arab Emirates University,United Arab Emirates,2016,1,378,544,235,844,44.28
+938,Southern Medical University,China,2016,72,378,594,235,714,44.28
+939,Gachon University,South Korea,2016,34,378,594,235,789,44.28
+940,University of Lethbridge,Canada,2016,31,378,594,235,755,44.28
+941,National University of Córdoba,Argentina,2016,3,378,594,235,707,44.28
+942,Beijing University of Posts and Telecommunications,China,2016,73,378,301,235,871,44.28
+943,Shiraz University,Iran,2016,8,378,594,235,798,44.27
+944,Tianjin Medical University,China,2016,74,378,594,235,775,44.27
+945,Hallym University,South Korea,2016,35,378,594,235,818,44.27
+946,University of North Carolina at Greensboro,USA,2016,223,378,594,235,803,44.27
+947,Carlos III University of Madrid,Spain,2016,37,378,594,235,757,44.27
+948,Federal University of São Carlos,Brazil,2016,14,378,594,235,770,44.27
+949,National Taiwan Ocean University,Taiwan,2016,17,378,444,235,812,44.27
+950,University of Almería,Spain,2016,38,378,594,235,870,44.27
+951,University of Hyderabad,India,2016,16,378,594,235,825,44.27
+952,Xiangtan University,China,2016,75,378,445,235,820,44.27
+953,China Medical University (PRC),China,2016,76,378,594,235,710,44.27
+954,Dokuz Eylül University,Turkey,2016,10,378,594,235,858,44.27
+955,Jiangsu University,China,2016,77,378,578,235,771,44.27
+956,Zhejiang University of Technology,China,2016,78,378,594,235,824,44.26
+957,École centrale de Lyon,France,2016,45,378,304,235,796,44.26
+958,Hirosaki University,Japan,2016,72,378,487,235,822,44.26
+959,Novosibirsk State University,Russia,2016,5,173,594,235,718,44.26
+960,Ain Shams University,Egypt,2016,2,378,594,235,714,44.26
+961,Hunan Normal University,China,2016,79,378,594,235,822,44.26
+962,Federal University of Bahia,Brazil,2016,15,378,576,235,832,44.26
+963,Wrocław University of Technology,Poland,2016,8,378,408,235,802,44.26
+964,National University of Colombia,Colombia,2016,2,378,341,235,729,44.26
+965,Chosun University,South Korea,2016,36,378,594,235,863,44.26
+966,Federal University of Pernambuco,Brazil,2016,16,378,575,235,770,44.26
+967,University of Texas at El Paso,USA,2016,224,378,466,235,808,44.26
+968,Ryerson University,Canada,2016,32,378,594,235,726,44.26
+969,University of Silesia,Poland,2016,9,378,594,235,768,44.25
+970,Federal University of Santa Maria,Brazil,2016,17,378,396,235,859,44.25
+971,Beijing University of Technology,China,2016,80,378,594,235,799,44.25
+972,University of Limerick,Ireland,2016,8,378,503,235,804,44.25
+973,University of Camerino,Italy,2016,47,378,594,235,797,44.25
+974,University of Pau and Pays de l'Adour,France,2016,46,378,594,235,874,44.25
+975,Ca' Foscari University of Venice,Italy,2016,48,378,594,235,807,44.25
+976,Yuan Ze University,Taiwan,2016,18,378,594,235,868,44.25
+977,University of Bucharest,Romania,2016,1,238,594,235,781,44.25
+978,Xidian University,China,2016,81,378,566,235,794,44.25
+979,University of Fukui,Japan,2016,73,378,594,235,811,44.24
+980,Babeș-Bolyai University,Romania,2016,2,378,594,235,804,44.24
+981,Public University of Navarre,Spain,2016,39,378,594,235,826,44.24
+982,Qingdao University,China,2016,82,378,594,235,869,44.24
+983,King Juan Carlos University,Spain,2016,40,378,594,235,816,44.23
+984,Ibaraki University,Japan,2016,74,378,594,235,718,44.23
+985,Mansoura University,Egypt,2016,3,378,594,235,823,44.23
+986,Chung Shan Medical University,Taiwan,2016,19,378,594,235,789,44.23
+987,Shenzhen University,China,2016,83,378,409,235,728,44.23
+988,Henan Normal University,China,2016,84,378,594,235,866,44.23
+989,Harbin Medical University,China,2016,85,378,594,235,773,44.23
+990,Feng Chia University,Taiwan,2016,20,378,423,235,864,44.23
+991,University of Reims Champagne-Ardenne,France,2016,47,378,560,235,787,44.23
+992,University of A Coruña,Spain,2016,41,378,594,235,803,44.23
+993,South China Agricultural University,China,2016,86,378,579,235,781,44.23
+994,Zhejiang Normal University,China,2016,87,378,594,235,819,44.22
+995,Alexandria University,Egypt,2016,4,244,592,235,849,44.22
+996,University of Valenciennes and Hainaut-Cambresis,France,2016,48,378,594,235,844,44.22
+997,Fu Jen Catholic University,Taiwan,2016,21,378,469,235,867,44.22
+998,Chongqing Medical University,China,2016,88,378,594,235,833,44.22
+999,Northwest A&F University,China,2016,89,378,594,235,710,44.22
+1000,China Pharmaceutical University,China,2016,90,378,594,235,816,44.22

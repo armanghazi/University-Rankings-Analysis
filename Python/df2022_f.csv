@@ -1,0 +1,1001 @@
+World Rank,Institution,Location,Year,National Rank,Education Rank,Employability Rank,Faculty Rank,Research Rank,Score
+1,Harvard University,USA,2022,1,1.0,1.0,1.0,1.0,100.0
+2,Massachusetts Institute of Technology,USA,2022,2,4.0,12.0,2.0,7.0,96.7
+3,Stanford University,USA,2022,3,11.0,4.0,3.0,2.0,95.1
+4,University of Cambridge,United Kingdom,2022,1,3.0,25.0,4.0,10.0,94.1
+5,University of Oxford,United Kingdom,2022,2,7.0,27.0,9.0,4.0,93.3
+6,Princeton University,USA,2022,4,5.0,15.0,6.0,79.0,92.6
+7,University of Chicago,USA,2022,5,8.0,16.0,21.0,22.0,92.0
+8,Columbia University,USA,2022,6,12.0,14.0,10.0,14.0,91.5
+9,University of Pennsylvania,USA,2022,7,14.0,8.0,41.0,11.0,91.1
+10,California Institute of Technology,USA,2022,8,2.0,104.0,7.0,80.0,90.7
+11,Yale University,USA,2022,9,6.0,36.0,12.0,20.0,90.4
+12,"University of California, Berkeley",USA,2022,10,9.0,59.0,5.0,16.0,90.1
+13,University of Tokyo,Japan,2022,1,37.0,6.0,112.0,29.0,89.8
+14,Cornell University,USA,2022,11,16.0,28.0,18.0,24.0,89.5
+15,"University of Michigan, Ann Arbor",USA,2022,12,29.0,40.0,59.0,6.0,89.2
+16,Johns Hopkins University,USA,2022,13,24.0,192.0,23.0,8.0,89.0
+17,Northwestern University,USA,2022,14,138.0,17.0,47.0,31.0,88.8
+18,"University of California, Los Angeles",USA,2022,15,42.0,63.0,17.0,15.0,88.6
+19,PSL University,France,2022,1,17.0,30.0,107.0,86.0,88.4
+20,Duke University,USA,2022,16,50.0,48.0,19.0,25.0,88.2
+21,University College London,United Kingdom,2022,3,33.0,660.0,15.0,5.0,88.0
+22,University of Illinois at Urbana–Champaign,USA,2022,17,18.0,139.0,11.0,73.0,87.8
+23,New York University,USA,2022,18,36.0,43.0,43.0,46.0,87.6
+24,University of Toronto,Canada,2022,1,207.0,159.0,22.0,3.0,87.5
+25,University of Washington,USA,2022,19,71.0,231.0,25.0,9.0,87.3
+26,Kyoto University,Japan,2022,2,38.0,33.0,64.0,75.0,87.2
+27,University of Wisconsin–Madison,USA,2022,20,34.0,100.0,30.0,35.0,87.0
+28,McGill University,Canada,2022,2,25.0,103.0,44.0,45.0,86.9
+29,ETH Zurich,Switzerland,2022,1,60.0,89.0,24.0,42.0,86.8
+30,Imperial College London,United Kingdom,2022,4,69.0,117.0,53.0,17.0,86.6
+31,Seoul National University,South Korea,2022,1,336.0,22.0,150.0,57.0,86.5
+32,Paris-Saclay University,France,2022,2,172.0,136.0,45.0,13.0,86.4
+33,University of Texas at Austin,USA,2022,21,86.0,64.0,16.0,58.0,86.3
+34,"University of California, San Diego",USA,2022,22,118.0,1001.0,13.0,19.0,86.1
+35,"University of California, San Francisco",USA,2022,23,533.0,1001.0,14.0,26.0,86.0
+36,University of Copenhagen,Denmark,2022,1,93.0,383.0,50.0,27.0,85.9
+37,Karolinska Institute,Sweden,2022,1,40.0,1001.0,32.0,60.0,85.8
+38,Sorbonne University,France,2022,3,89.0,309.0,92.0,18.0,85.7
+39,University of North Carolina at Chapel Hill,USA,2022,24,85.0,96.0,78.0,38.0,85.6
+40,King's College London,United Kingdom,2022,5,58.0,463.0,29.0,54.0,85.5
+41,Dartmouth College,USA,2022,25,54.0,18.0,102.0,286.0,85.4
+42,Paris City University,France,2022,4,240.0,956.0,58.0,21.0,85.3
+43,Institut Polytechnique de Paris,France,2022,5,100.0,9.0,226.0,344.0,85.2
+44,Ludwig Maximilian University of Munich,Germany,2022,1,59.0,249.0,54.0,52.0,85.1
+45,University of Edinburgh,United Kingdom,2022,6,55.0,452.0,61.0,49.0,85.0
+46,Washington University in St. Louis,USA,2022,26,133.0,166.0,36.0,47.0,85.0
+47,Tsinghua University,China,2022,1,521.0,60.0,275.0,23.0,84.9
+48,University of Minnesota - Twin Cities,USA,2022,27,75.0,308.0,120.0,30.0,84.8
+49,University of British Columbia,Canada,2022,3,107.0,593.0,85.0,32.0,84.7
+50,University of Southern California,USA,2022,28,314.0,130.0,28.0,76.0,84.6
+51,Peking University,China,2022,2,366.0,65.0,275.0,28.0,84.5
+52,Vanderbilt University,USA,2022,29,384.0,86.0,65.0,70.0,84.5
+53,Pennsylvania State University,USA,2022,30,294.0,161.0,57.0,53.0,84.4
+54,"University of California, Davis",USA,2022,31,105.0,546.0,62.0,51.0,84.3
+55,Rockefeller University,USA,2022,32,15.0,1001.0,8.0,436.0,84.2
+56,Free University of Berlin,Germany,2022,2,72.0,1001.0,37.0,78.0,84.2
+57,Rutgers University,USA,2022,33,217.0,138.0,27.0,91.0,84.1
+58,University of Melbourne,Australia,2022,1,137.0,400.0,124.0,33.0,84.0
+59,Ohio State University,USA,2022,34,122.0,269.0,129.0,40.0,84.0
+60,University of Manchester,United Kingdom,2022,7,87.0,391.0,80.0,55.0,83.9
+61,Humboldt University of Berlin,Germany,2022,3,84.0,1001.0,49.0,71.0,83.8
+62,"Texas A&M University, College Station",USA,2022,35,533.0,124.0,70.0,65.0,83.8
+63,University of Chinese Academy of Sciences,China,2022,3,533.0,1001.0,275.0,12.0,83.7
+64,University of Zurich,Switzerland,2022,2,92.0,588.0,55.0,74.0,83.6
+65,Purdue University,USA,2022,36,91.0,91.0,72.0,110.0,83.6
+66,Brown University,USA,2022,37,76.0,56.0,116.0,134.0,83.5
+67,Hebrew University of Jerusalem,Israel,2022,1,30.0,380.0,35.0,194.0,83.4
+68,Georgia Institute of Technology,USA,2022,38,307.0,174.0,26.0,115.0,83.4
+69,University of Colorado Boulder,USA,2022,39,154.0,175.0,48.0,93.0,83.3
+70,Heidelberg University,Germany,2022,4,131.0,970.0,82.0,59.0,83.3
+71,University of Virginia,USA,2022,40,324.0,35.0,176.0,131.0,83.2
+72,University of Texas Southwestern Medical Center,USA,2022,41,39.0,1001.0,39.0,165.0,83.1
+73,Utrecht University,Netherlands,2022,1,171.0,456.0,159.0,43.0,83.1
+74,Weizmann Institute of Science,Israel,2022,2,21.0,1001.0,46.0,278.0,83.0
+75,University of Pittsburgh,USA,2022,42,234.0,205.0,262.0,34.0,83.0
+76,"University of Maryland, College Park",USA,2022,43,115.0,444.0,143.0,67.0,82.9
+77,University of Alberta,Canada,2022,4,323.0,467.0,67.0,87.0,82.9
+78,University of Oslo,Norway,2022,1,103.0,751.0,77.0,94.0,82.8
+79,Technical University of Munich,Germany,2022,5,79.0,356.0,141.0,84.0,82.8
+80,Shanghai Jiao Tong University,China,2022,4,533.0,162.0,275.0,36.0,82.7
+81,"University of California, Irvine",USA,2022,44,385.0,1001.0,31.0,108.0,82.6
+82,University of Birmingham,United Kingdom,2022,8,49.0,464.0,169.0,106.0,82.6
+83,University of Amsterdam,Netherlands,2022,2,241.0,748.0,197.0,44.0,82.5
+84,University of Florida,USA,2022,45,322.0,449.0,135.0,61.0,82.5
+85,National University of Singapore,Singapore,2022,1,342.0,172.0,275.0,41.0,82.4
+86,Carnegie Mellon University,USA,2022,46,57.0,121.0,38.0,220.0,82.4
+87,Leiden University,Netherlands,2022,3,112.0,1001.0,74.0,105.0,82.3
+88,Uppsala University,Sweden,2022,2,140.0,443.0,69.0,104.0,82.3
+89,University of Göttingen,Germany,2022,6,43.0,329.0,105.0,155.0,82.2
+90,"University of California, Santa Barbara",USA,2022,47,213.0,489.0,20.0,149.0,82.2
+91,University of Rochester,USA,2022,48,64.0,74.0,130.0,172.0,82.2
+92,Osaka University,Japan,2022,3,141.0,69.0,121.0,135.0,82.1
+93,University of Arizona,USA,2022,49,490.0,227.0,73.0,107.0,82.1
+94,University of Bristol,United Kingdom,2022,9,185.0,386.0,76.0,101.0,82.0
+95,Erasmus University Rotterdam,Netherlands,2022,4,526.0,72.0,267.0,89.0,82.0
+96,National Taiwan University,Taiwan,2022,1,300.0,42.0,275.0,125.0,81.9
+97,Zhejiang University,China,2022,5,533.0,370.0,275.0,37.0,81.9
+98,University of Sydney,Australia,2022,2,195.0,636.0,275.0,39.0,81.8
+99,Boston University,USA,2022,50,420.0,118.0,218.0,77.0,81.8
+100,Keio University,Japan,2022,4,505.0,13.0,275.0,392.0,81.8
+101,École Polytechnique Fédérale de Lausanne,Switzerland,2022,3,533.0,88.0,137.0,119.0,81.7
+102,Fudan University,China,2022,6,334.0,101.0,275.0,63.0,81.7
+103,University of São Paulo,Brazil,2022,1,480.0,364.0,138.0,83.0,81.6
+104,University of Leeds,United Kingdom,2022,10,126.0,436.0,51.0,137.0,81.6
+105,University of Groningen,Netherlands,2022,5,266.0,587.0,136.0,85.0,81.5
+106,University of Basel,Switzerland,2022,4,61.0,305.0,83.0,160.0,81.5
+107,University of Queensland,Australia,2022,3,415.0,662.0,240.0,48.0,81.5
+108,Aarhus University,Denmark,2022,2,249.0,304.0,155.0,88.0,81.4
+109,University of New South Wales,Australia,2022,4,519.0,116.0,275.0,62.0,81.4
+110,University of Geneva,Switzerland,2022,5,73.0,440.0,118.0,126.0,81.3
+111,University of Texas MD Anderson Cancer Center,USA,2022,51,533.0,1001.0,90.0,97.0,81.3
+112,Nagoya University,Japan,2022,5,65.0,220.0,56.0,201.0,81.3
+113,Sapienza University of Rome,Italy,2022,1,419.0,499.0,99.0,100.0,81.2
+114,University of Tübingen,Germany,2022,7,56.0,1001.0,98.0,154.0,81.2
+115,Indiana University Bloomington,USA,2022,52,258.0,92.0,177.0,118.0,81.1
+116,University of Utah,USA,2022,53,247.0,198.0,132.0,114.0,81.1
+117,University of Montreal,Canada,2022,5,457.0,490.0,122.0,99.0,81.1
+118,KU Leuven,Belgium,2022,1,533.0,416.0,275.0,50.0,81.0
+119,INSEAD,France,2022,6,533.0,2.0,275.0,1001.0,81.0
+120,University of Helsinki,Finland,2022,1,199.0,820.0,163.0,92.0,81.0
+121,University of Southampton,United Kingdom,2022,11,448.0,300.0,108.0,117.0,80.9
+122,Ghent University,Belgium,2022,2,339.0,576.0,192.0,82.0,80.9
+123,Monash University,Australia,2022,5,533.0,495.0,275.0,56.0,80.9
+124,Australian National University,Australia,2022,6,166.0,566.0,79.0,136.0,80.8
+125,University of Bonn,Germany,2022,8,128.0,586.0,87.0,141.0,80.8
+126,University of Glasgow,United Kingdom,2022,12,127.0,394.0,139.0,123.0,80.7
+127,University of Freiburg,Germany,2022,9,108.0,215.0,100.0,161.0,80.7
+128,University of Science and Technology of China,China,2022,7,533.0,292.0,275.0,64.0,80.7
+129,Emory University,USA,2022,54,467.0,245.0,275.0,72.0,80.6
+130,Sun Yat-sen University,China,2022,8,533.0,372.0,275.0,69.0,80.6
+131,Goethe University Frankfurt,Germany,2022,10,183.0,808.0,34.0,198.0,80.6
+132,University of Barcelona,Spain,2022,1,533.0,598.0,275.0,68.0,80.5
+133,Nanyang Technological University,Singapore,2022,2,533.0,843.0,275.0,66.0,80.5
+134,University of Liverpool,United Kingdom,2022,13,144.0,552.0,97.0,150.0,80.5
+135,University of Nottingham,United Kingdom,2022,14,181.0,533.0,109.0,140.0,80.4
+136,Case Western Reserve University,USA,2022,55,68.0,276.0,184.0,163.0,80.4
+137,Huazhong University of Science and Technology,China,2022,9,533.0,182.0,275.0,90.0,80.4
+138,Baylor College of Medicine,USA,2022,56,81.0,1001.0,209.0,127.0,80.3
+139,University of Bern,Switzerland,2022,6,151.0,1001.0,161.0,121.0,80.3
+140,KTH Royal Institute of Technology,Sweden,2022,3,237.0,53.0,182.0,236.0,80.3
+141,University of Strasbourg,France,2022,7,125.0,1001.0,52.0,203.0,80.3
+142,University of Iowa,USA,2022,57,102.0,278.0,186.0,143.0,80.2
+143,Lund University,Sweden,2022,4,192.0,500.0,255.0,95.0,80.2
+144,Tohoku University,Japan,2022,6,220.0,148.0,152.0,162.0,80.2
+145,Tufts University,USA,2022,58,80.0,67.0,167.0,257.0,80.1
+146,Stockholm University,Sweden,2022,5,159.0,228.0,94.0,182.0,80.1
+147,Grenoble Alpes University,France,2022,8,281.0,1001.0,237.0,102.0,80.1
+148,University of Colorado Anschutz Medical Campus,USA,2022,59,533.0,1001.0,95.0,153.0,80.0
+149,VU Amsterdam,Netherlands,2022,6,533.0,1001.0,275.0,81.0,80.0
+150,Michigan State University,USA,2022,60,186.0,204.0,275.0,109.0,80.0
+151,University of Sheffield,United Kingdom,2022,15,196.0,629.0,151.0,145.0,79.9
+152,University of Western Australia,Australia,2022,7,239.0,613.0,198.0,128.0,79.9
+153,Queen Mary University of London,United Kingdom,2022,16,109.0,689.0,144.0,166.0,79.9
+154,Nanjing University,China,2022,10,482.0,351.0,275.0,96.0,79.9
+155,Tel Aviv University,Israel,2022,3,348.0,123.0,275.0,120.0,79.8
+156,Cardiff University,United Kingdom,2022,17,398.0,408.0,91.0,184.0,79.8
+157,Tokyo Institute of Technology,Japan,2022,7,326.0,98.0,75.0,275.0,79.8
+158,Aix-Marseille University,France,2022,9,512.0,935.0,275.0,98.0,79.7
+159,Newcastle University,United Kingdom,2022,18,483.0,555.0,89.0,189.0,79.7
+160,Rice University,USA,2022,61,121.0,107.0,115.0,256.0,79.7
+161,Radboud University,Netherlands,2022,7,456.0,681.0,275.0,103.0,79.7
+162,University of Massachusetts Amherst,USA,2022,62,488.0,266.0,71.0,225.0,79.6
+163,University of Hong Kong,China,2022,11,533.0,164.0,275.0,129.0,79.6
+164,Korea University,South Korea,2022,2,533.0,79.0,275.0,167.0,79.6
+165,Technion – Israel Institute of Technology,Israel,2022,4,101.0,419.0,68.0,260.0,79.5
+166,Yonsei University,South Korea,2022,3,533.0,112.0,275.0,144.0,79.5
+167,University of Gothenburg,Sweden,2022,6,413.0,404.0,147.0,174.0,79.5
+168,University of Montpellier,France,2022,10,468.0,1001.0,275.0,111.0,79.5
+169,University of Hamburg,Germany,2022,11,245.0,527.0,275.0,116.0,79.4
+170,University of Padova,Italy,2022,2,460.0,1001.0,275.0,112.0,79.4
+171,Icahn School of Medicine at Mount Sinai,USA,2022,63,533.0,1001.0,275.0,113.0,79.4
+172,McMaster University,Canada,2022,6,429.0,764.0,228.0,138.0,79.4
+173,University of Warwick,United Kingdom,2022,19,433.0,189.0,224.0,170.0,79.3
+174,Iowa State University,USA,2022,64,333.0,149.0,154.0,219.0,79.3
+175,University of Notre Dame,USA,2022,65,305.0,38.0,275.0,292.0,79.3
+176,Norwegian University of Science and Technology,Norway,2022,2,254.0,508.0,60.0,258.0,79.2
+177,Chinese University of Hong Kong,China,2022,12,391.0,1001.0,246.0,133.0,79.2
+178,Wageningen University & Research,Netherlands,2022,8,414.0,827.0,206.0,159.0,79.2
+179,University of Milan,Italy,2022,3,459.0,573.0,275.0,124.0,79.2
+180,Xi'an Jiaotong University,China,2022,13,533.0,173.0,275.0,147.0,79.1
+181,University of Bologna,Italy,2022,4,533.0,790.0,275.0,122.0,79.1
+182,Arizona State University,USA,2022,66,435.0,635.0,261.0,142.0,79.1
+183,Wuhan University,China,2022,14,533.0,373.0,275.0,132.0,79.1
+184,Autonomous University of Barcelona,Spain,2022,2,533.0,1001.0,275.0,130.0,79.0
+185,University of Alabama at Birmingham,USA,2022,67,533.0,1001.0,204.0,164.0,79.0
+186,University of Cologne,Germany,2022,12,340.0,236.0,181.0,200.0,79.0
+187,University of Lausanne,Switzerland,2022,7,255.0,711.0,131.0,214.0,79.0
+188,North Carolina State University,USA,2022,68,367.0,401.0,179.0,191.0,78.9
+189,Western University,Canada,2022,7,416.0,80.0,275.0,213.0,78.9
+190,Sungkyunkwan University,South Korea,2022,4,533.0,225.0,275.0,151.0,78.9
+191,Institut national du service public,France,2022,11,533.0,3.0,275.0,1001.0,78.9
+192,University of Calgary,Canada,2022,8,533.0,232.0,275.0,152.0,78.8
+193,Technical University of Denmark,Denmark,2022,3,369.0,794.0,187.0,185.0,78.8
+194,Tianjin University,China,2022,15,533.0,156.0,275.0,169.0,78.8
+195,Harbin Institute of Technology,China,2022,16,533.0,524.0,275.0,139.0,78.8
+196,University of Kansas,USA,2022,69,251.0,477.0,111.0,242.0,78.8
+197,Xiamen University,China,2022,17,533.0,83.0,275.0,216.0,78.7
+198,University of Connecticut,USA,2022,70,487.0,398.0,114.0,239.0,78.7
+199,University of Münster,Germany,2022,13,443.0,803.0,191.0,188.0,78.7
+200,University of Lisbon,Portugal,2022,1,438.0,1001.0,234.0,168.0,78.7
+201,Waseda University,Japan,2022,8,346.0,26.0,275.0,496.0,78.6
+202,Lomonosov Moscow State University,Russia,2022,1,120.0,413.0,199.0,223.0,78.6
+203,Stony Brook University,USA,2022,71,368.0,1001.0,162.0,210.0,78.6
+204,University of Waterloo,Canada,2022,9,533.0,214.0,210.0,212.0,78.6
+205,Brandeis University,USA,2022,72,28.0,243.0,40.0,641.0,78.5
+206,Shandong University,China,2022,18,533.0,1001.0,275.0,146.0,78.5
+207,Université catholique de Louvain,Belgium,2022,3,533.0,514.0,128.0,235.0,78.5
+208,Sichuan University,China,2022,19,533.0,1001.0,275.0,148.0,78.5
+209,University of Adelaide,Australia,2022,8,175.0,891.0,275.0,156.0,78.5
+210,University of Georgia,USA,2022,73,405.0,296.0,170.0,228.0,78.4
+211,Johannes Gutenberg University Mainz,Germany,2022,14,533.0,1001.0,180.0,207.0,78.4
+212,University of Vienna,Austria,2022,1,147.0,491.0,157.0,241.0,78.4
+213,University of Ottawa,Canada,2022,10,533.0,470.0,275.0,157.0,78.4
+214,RWTH Aachen University,Germany,2022,15,503.0,216.0,275.0,176.0,78.3
+215,The Scripps Research Institute,USA,2022,74,533.0,1001.0,42.0,334.0,78.3
+216,Hong Kong University of Science and Technology,China,2022,20,533.0,521.0,140.0,244.0,78.3
+217,Technical University of Dresden,Germany,2022,16,533.0,1001.0,275.0,158.0,78.3
+218,University of Würzburg,Germany,2022,17,143.0,1001.0,232.0,211.0,78.3
+219,Tongji University,China,2022,21,533.0,200.0,275.0,187.0,78.2
+220,South China University of Technology,China,2022,22,533.0,301.0,275.0,178.0,78.2
+221,Hokkaido University,Japan,2022,9,350.0,242.0,164.0,262.0,78.2
+222,Université libre de Bruxelles,Belgium,2022,4,445.0,339.0,173.0,246.0,78.2
+223,Jilin University,China,2022,23,533.0,369.0,275.0,180.0,78.2
+224,University of Missouri–Columbia,USA,2022,75,431.0,246.0,88.0,313.0,78.1
+225,Georgetown University,USA,2022,76,352.0,47.0,275.0,345.0,78.1
+226,Central South University,China,2022,24,533.0,250.0,275.0,186.0,78.1
+227,Kiel University,Germany,2022,18,353.0,1001.0,142.0,254.0,78.1
+228,Nankai University,China,2022,25,533.0,131.0,275.0,217.0,78.0
+229,University of Erlangen–Nuremberg,Germany,2022,19,424.0,872.0,275.0,171.0,78.0
+230,University of Turin,Italy,2022,5,242.0,1001.0,275.0,177.0,78.0
+231,KAIST,South Korea,2022,5,533.0,129.0,275.0,222.0,78.0
+232,Claude Bernard University Lyon 1,France,2022,12,533.0,918.0,275.0,173.0,78.0
+233,University of Illinois at Chicago,USA,2022,77,491.0,763.0,274.0,181.0,77.9
+234,Charles University in Prague,Czech Republic,2022,1,328.0,1001.0,275.0,175.0,77.9
+235,Trinity College Dublin,Ireland,2022,1,205.0,85.0,245.0,293.0,77.9
+236,London School of Hygiene & Tropical Medicine,United Kingdom,2022,20,276.0,1001.0,175.0,240.0,77.9
+237,University of Miami,USA,2022,78,533.0,233.0,275.0,195.0,77.9
+238,University of Naples Federico II,Italy,2022,6,533.0,757.0,275.0,179.0,77.8
+239,Yeshiva University,USA,2022,79,99.0,1001.0,193.0,270.0,77.8
+240,Kyushu University,Japan,2022,10,270.0,119.0,275.0,232.0,77.8
+241,Karlsruhe Institute of Technology,Germany,2022,20,470.0,279.0,275.0,192.0,77.8
+242,University of Cincinnati,USA,2022,80,478.0,244.0,275.0,199.0,77.8
+243,University of Sussex,United Kingdom,2022,21,117.0,534.0,81.0,360.0,77.7
+244,Southeast University,China,2022,26,533.0,795.0,275.0,183.0,77.7
+245,University of Reading,United Kingdom,2022,22,116.0,122.0,110.0,398.0,77.7
+246,University of Leicester,United Kingdom,2022,23,533.0,1001.0,96.0,294.0,77.7
+247,Complutense University of Madrid,Spain,2022,3,203.0,183.0,220.0,272.0,77.7
+248,Hong Kong Polytechnic University,China,2022,27,533.0,298.0,275.0,206.0,77.6
+249,"University of California, Riverside",USA,2022,81,386.0,1001.0,212.0,234.0,77.6
+250,"Soochow University, China",China,2022,28,533.0,1001.0,275.0,190.0,77.6
+251,University of Texas Health Science Center at Houston,USA,2022,82,533.0,1001.0,148.0,274.0,77.6
+252,University of Bordeaux,France,2022,13,533.0,1001.0,275.0,193.0,77.6
+253,Maastricht University,Netherlands,2022,9,533.0,1001.0,275.0,196.0,77.6
+254,"University of Tennessee, Knoxville",USA,2022,83,423.0,511.0,275.0,204.0,77.5
+255,P.N. Lebedev Physical Institute of the Russian Academy of Sciences,Russia,2022,2,32.0,1001.0,113.0,527.0,77.5
+256,Paul Sabatier University,France,2022,14,533.0,1001.0,275.0,197.0,77.5
+257,Wake Forest University,USA,2022,84,533.0,66.0,275.0,318.0,77.5
+258,Colorado State University,USA,2022,85,454.0,1001.0,195.0,253.0,77.5
+259,City University of Hong Kong,China,2022,29,533.0,989.0,275.0,202.0,77.4
+260,Virginia Commonwealth University,USA,2022,86,533.0,984.0,117.0,306.0,77.4
+261,King Abdulaziz University,Saudi Arabia,2022,1,533.0,1001.0,275.0,205.0,77.4
+262,University of Houston,USA,2022,87,533.0,179.0,125.0,346.0,77.4
+263,University of Exeter,United Kingdom,2022,24,375.0,717.0,275.0,209.0,77.4
+264,University of Florence,Italy,2022,7,533.0,772.0,275.0,208.0,77.3
+265,Delft University of Technology,Netherlands,2022,10,260.0,422.0,275.0,221.0,77.3
+266,HEC Paris,France,2022,15,533.0,7.0,275.0,1001.0,77.3
+267,University of Tsukuba,Japan,2022,11,533.0,1001.0,145.0,296.0,77.3
+268,University of Pisa,Italy,2022,8,316.0,1001.0,275.0,215.0,77.3
+269,Beihang University,China,2022,30,533.0,865.0,275.0,218.0,77.3
+270,University of Cape Town,South Africa,2022,1,178.0,237.0,275.0,250.0,77.2
+271,University of Genoa,Italy,2022,9,529.0,1001.0,243.0,249.0,77.2
+272,University of Auckland,New Zealand,2022,1,511.0,459.0,275.0,227.0,77.2
+273,Oregon State University,USA,2022,88,226.0,516.0,217.0,280.0,77.2
+274,Virginia Tech,USA,2022,89,493.0,332.0,275.0,233.0,77.2
+275,National and Kapodistrian University of Athens,Greece,2022,1,533.0,607.0,275.0,226.0,77.2
+276,Oregon Health & Science University,USA,2022,90,533.0,1001.0,275.0,224.0,77.1
+277,National Autonomous University of Mexico,Mexico,2022,1,394.0,1001.0,239.0,261.0,77.1
+278,University of East Anglia,United Kingdom,2022,25,88.0,1001.0,171.0,358.0,77.1
+279,China Europe International Business School,China,2022,31,533.0,5.0,275.0,1001.0,77.1
+280,University of Lorraine,France,2022,16,525.0,492.0,174.0,298.0,77.1
+281,Leipzig University,Germany,2022,21,208.0,1001.0,203.0,287.0,77.0
+282,Dalian University of Technology,China,2022,32,533.0,280.0,275.0,243.0,77.0
+283,University of Manitoba,Canada,2022,11,329.0,297.0,190.0,303.0,77.0
+284,University of Valencia,Spain,2022,4,533.0,1001.0,275.0,229.0,77.0
+285,Autonomous University of Madrid,Spain,2022,5,533.0,1001.0,275.0,230.0,77.0
+286,University of Bergen,Norway,2022,3,376.0,1001.0,275.0,231.0,77.0
+287,King Abdullah University of Science and Technology,Saudi Arabia,2022,2,533.0,1001.0,166.0,311.0,76.9
+288,University College Dublin,Ireland,2022,2,533.0,264.0,275.0,252.0,76.9
+289,Florida State University,USA,2022,91,533.0,543.0,275.0,238.0,76.9
+290,University of Liège,Belgium,2022,5,180.0,1001.0,106.0,375.0,76.9
+291,University of Massachusetts Medical School,USA,2022,92,533.0,1001.0,84.0,386.0,76.9
+292,University of the Witwatersrand,South Africa,2022,2,193.0,99.0,275.0,327.0,76.9
+293,University of Antwerp,Belgium,2022,6,533.0,442.0,275.0,245.0,76.8
+294,George Washington University,USA,2022,93,401.0,160.0,275.0,281.0,76.8
+295,Medical University of Vienna,Austria,2022,2,533.0,1001.0,275.0,237.0,76.8
+296,University of Aberdeen,United Kingdom,2022,26,288.0,753.0,156.0,340.0,76.8
+297,Laval University,Canada,2022,12,516.0,367.0,275.0,255.0,76.8
+298,Washington State University,USA,2022,94,533.0,988.0,185.0,315.0,76.8
+299,"University of California, Santa Cruz",USA,2022,95,373.0,1001.0,265.0,263.0,76.7
+300,University at Buffalo,USA,2022,96,533.0,608.0,275.0,251.0,76.7
+301,"University of Maryland, Baltimore",USA,2022,97,533.0,1001.0,275.0,247.0,76.7
+302,University of Southern Denmark,Denmark,2022,4,533.0,1001.0,275.0,248.0,76.7
+303,University of Pavia,Italy,2022,10,472.0,787.0,220.0,295.0,76.7
+304,University of Delaware,USA,2022,98,380.0,487.0,164.0,348.0,76.7
+305,University of South Florida,USA,2022,99,533.0,836.0,275.0,259.0,76.6
+306,University of Kentucky,USA,2022,100,296.0,538.0,275.0,267.0,76.6
+307,Hanyang University,South Korea,2022,6,533.0,190.0,275.0,290.0,76.6
+308,University of Porto,Portugal,2022,2,508.0,756.0,275.0,264.0,76.6
+309,University of Nebraska–Lincoln,USA,2022,101,169.0,406.0,275.0,282.0,76.6
+310,National Yang Ming Chiao Tung University,Taiwan,2022,2,533.0,251.0,275.0,284.0,76.6
+311,Beijing Normal University,China,2022,33,533.0,1001.0,275.0,266.0,76.5
+312,University of Lille,France,2022,17,533.0,1001.0,275.0,265.0,76.5
+313,Beijing Institute of Technology,China,2022,34,533.0,881.0,275.0,269.0,76.5
+314,University of Duisburg-Essen,Germany,2022,22,533.0,996.0,275.0,268.0,76.5
+315,Wayne State University,USA,2022,102,486.0,395.0,275.0,277.0,76.5
+316,Ruhr University Bochum,Germany,2022,23,533.0,424.0,275.0,276.0,76.5
+317,Hunan University,China,2022,35,533.0,570.0,275.0,273.0,76.5
+318,University of New Mexico,USA,2022,103,533.0,1001.0,275.0,271.0,76.4
+319,University of Electronic Science and Technology of China,China,2022,36,533.0,637.0,275.0,279.0,76.4
+320,Queen's University,Canada,2022,13,462.0,388.0,211.0,359.0,76.4
+321,Northeastern University,USA,2022,104,315.0,188.0,275.0,321.0,76.4
+322,Friedrich Schiller University Jena,Germany,2022,24,524.0,1001.0,260.0,300.0,76.4
+323,University of York,United Kingdom,2022,27,214.0,1001.0,275.0,288.0,76.4
+324,London School of Economics and Political Science,United Kingdom,2022,28,259.0,82.0,256.0,440.0,76.3
+325,Ulm University,Germany,2022,25,533.0,1001.0,275.0,283.0,76.3
+326,Southern Methodist University,USA,2022,105,190.0,31.0,275.0,673.0,76.3
+327,University of Granada,Spain,2022,6,533.0,1001.0,275.0,285.0,76.3
+328,Polytechnic University of Milan,Italy,2022,11,371.0,468.0,200.0,371.0,76.3
+329,Durham University,United Kingdom,2022,29,341.0,353.0,275.0,305.0,76.3
+330,Zhengzhou University,China,2022,37,533.0,1001.0,275.0,289.0,76.3
+331,University of Rome Tor Vergata,Italy,2022,12,533.0,1001.0,275.0,291.0,76.2
+332,Chongqing University,China,2022,38,533.0,485.0,275.0,302.0,76.2
+333,Umeå University,Sweden,2022,7,533.0,1001.0,268.0,317.0,76.2
+334,École des ponts ParisTech,France,2022,18,174.0,23.0,275.0,952.0,76.2
+335,China Agricultural University,China,2022,39,533.0,1001.0,275.0,297.0,76.2
+336,University of Milano-Bicocca,Italy,2022,13,533.0,1001.0,275.0,299.0,76.2
+337,University of South Carolina - Columbia,USA,2022,106,533.0,632.0,275.0,307.0,76.2
+338,University of Düsseldorf,Germany,2022,26,221.0,1001.0,275.0,314.0,76.1
+339,Lancaster University,United Kingdom,2022,30,533.0,631.0,275.0,310.0,76.1
+340,Curtin University,Australia,2022,9,533.0,1001.0,275.0,301.0,76.1
+341,Dalhousie University,Canada,2022,14,313.0,344.0,275.0,326.0,76.1
+342,Lanzhou University,China,2022,40,533.0,1001.0,275.0,304.0,76.1
+343,Eindhoven University of Technology,Netherlands,2022,11,533.0,993.0,230.0,365.0,76.1
+344,Versailles Saint-Quentin-en-Yvelines University,France,2022,19,533.0,1001.0,275.0,308.0,76.0
+345,Aalto University,Finland,2022,2,533.0,213.0,275.0,351.0,76.0
+346,University of Campinas,Brazil,2022,2,533.0,1001.0,275.0,309.0,76.0
+347,University of the Basque Country,Spain,2022,7,533.0,1001.0,275.0,312.0,76.0
+348,University of Belgrade,Serbia,2022,1,474.0,1001.0,275.0,316.0,76.0
+349,National Cheng Kung University,Taiwan,2022,3,533.0,132.0,275.0,384.0,76.0
+350,University of Dundee,United Kingdom,2022,31,506.0,1001.0,133.0,437.0,76.0
+351,Temple University,USA,2022,107,533.0,601.0,275.0,324.0,75.9
+352,Islamic Azad University,Iran,2022,1,533.0,1001.0,275.0,319.0,75.9
+353,Hannover Medical School,Germany,2022,27,533.0,1001.0,268.0,332.0,75.9
+354,Simon Fraser University,Canada,2022,15,533.0,1001.0,275.0,320.0,75.9
+355,Ben-Gurion University of the Negev,Israel,2022,5,533.0,1001.0,205.0,391.0,75.9
+356,University of Technology Sydney,Australia,2022,10,533.0,1001.0,275.0,322.0,75.9
+357,King Saud University,Saudi Arabia,2022,3,533.0,352.0,275.0,336.0,75.9
+358,Shenzhen University,China,2022,41,533.0,835.0,275.0,325.0,75.8
+359,Vrije Universiteit Brussel,Belgium,2022,7,450.0,1001.0,275.0,323.0,75.8
+360,Macquarie University,Australia,2022,11,533.0,520.0,275.0,331.0,75.8
+361,Federal University of Rio de Janeiro,Brazil,2022,3,453.0,460.0,275.0,337.0,75.8
+362,Drexel University,USA,2022,108,533.0,261.0,227.0,414.0,75.8
+363,Polytechnic University of Catalonia,Spain,2022,8,533.0,510.0,275.0,338.0,75.8
+364,University of St Andrews,United Kingdom,2022,32,289.0,823.0,229.0,396.0,75.8
+365,University of Buenos Aires,Argentina,2022,1,319.0,1001.0,275.0,330.0,75.8
+366,Queen's University Belfast,United Kingdom,2022,33,397.0,999.0,275.0,328.0,75.7
+367,Northwestern Polytechnical University,China,2022,42,533.0,644.0,275.0,333.0,75.7
+368,Aalborg University,Denmark,2022,5,533.0,874.0,275.0,329.0,75.7
+369,East China Normal University,China,2022,43,533.0,390.0,275.0,354.0,75.7
+370,Peking Union Medical College,China,2022,44,533.0,1001.0,275.0,335.0,75.7
+371,Linköping University,Sweden,2022,8,533.0,647.0,275.0,343.0,75.7
+372,University of Otago,New Zealand,2022,2,533.0,886.0,275.0,339.0,75.7
+373,University of Parma,Italy,2022,14,297.0,1001.0,93.0,521.0,75.6
+374,University of Marburg,Germany,2022,28,165.0,1001.0,183.0,444.0,75.6
+375,Albert Einstein College of Medicine,USA,2022,109,533.0,1001.0,275.0,341.0,75.6
+376,Deakin University,Australia,2022,12,533.0,1001.0,275.0,342.0,75.6
+377,Louisiana State University,USA,2022,110,458.0,281.0,275.0,370.0,75.6
+378,International Institute for Management Development,Switzerland,2022,8,533.0,10.0,275.0,1001.0,75.6
+379,Kyung Hee University,South Korea,2022,7,533.0,932.0,275.0,350.0,75.6
+380,Capital Medical University,China,2022,45,533.0,1001.0,275.0,347.0,75.5
+381,Jagiellonian University,Poland,2022,1,533.0,1001.0,275.0,349.0,75.5
+382,Queensland University of Technology,Australia,2022,13,533.0,1001.0,275.0,353.0,75.5
+383,Technical University of Berlin,Germany,2022,29,177.0,612.0,275.0,369.0,75.5
+384,Griffith University,Australia,2022,14,533.0,1001.0,275.0,352.0,75.5
+385,Pontifical Catholic University of Chile,Chile,2022,1,510.0,207.0,275.0,389.0,75.5
+386,Justus Liebig University Giessen,Germany,2022,30,533.0,1001.0,275.0,355.0,75.5
+387,Pohang University of Science and Technology,South Korea,2022,8,533.0,1001.0,275.0,356.0,75.5
+388,East China University of Science and Technology,China,2022,46,533.0,1001.0,275.0,357.0,75.4
+389,University of Science and Technology Beijing,China,2022,47,533.0,202.0,275.0,394.0,75.4
+390,University of Wollongong,Australia,2022,15,533.0,659.0,275.0,364.0,75.4
+391,University of Malaya,Malaysia,2022,1,533.0,515.0,275.0,368.0,75.4
+392,City College of New York,USA,2022,111,22.0,482.0,275.0,843.0,75.4
+393,University of Innsbruck,Austria,2022,3,533.0,760.0,248.0,403.0,75.4
+394,University of Perugia,Italy,2022,15,533.0,1001.0,275.0,361.0,75.4
+395,University of Turku,Finland,2022,3,533.0,1001.0,275.0,362.0,75.4
+396,National Research Center «Kurchatov Institute»,Russia,2022,3,533.0,1001.0,275.0,363.0,75.3
+397,University of Victoria,Canada,2022,16,533.0,1001.0,275.0,366.0,75.3
+398,University of Newcastle,Australia,2022,16,533.0,1001.0,275.0,367.0,75.3
+399,Chalmers University of Technology,Sweden,2022,9,514.0,263.0,275.0,397.0,75.3
+400,"University of Oklahoma, Norman",USA,2022,112,533.0,392.0,275.0,383.0,75.3
+401,University Paris-Est Créteil,France,2022,20,533.0,938.0,275.0,372.0,75.3
+402,University of Warsaw,Poland,2022,2,489.0,880.0,275.0,374.0,75.3
+403,Pompeu Fabra University,Spain,2022,9,533.0,1001.0,275.0,373.0,75.2
+404,Medical University of South Carolina,USA,2022,113,533.0,1001.0,275.0,376.0,75.2
+405,Swedish University of Agricultural Sciences,Sweden,2022,10,282.0,1001.0,275.0,381.0,75.2
+406,University of Tasmania,Australia,2022,17,533.0,1001.0,275.0,377.0,75.2
+407,"University at Albany, SUNY",USA,2022,114,191.0,733.0,213.0,463.0,75.2
+408,University of Regensburg,Germany,2022,31,533.0,971.0,275.0,379.0,75.2
+409,University of Seville,Spain,2022,10,533.0,1001.0,275.0,378.0,75.2
+410,University of Oregon,USA,2022,115,152.0,1001.0,275.0,407.0,75.2
+411,University of Bari,Italy,2022,16,533.0,1001.0,275.0,380.0,75.1
+412,Kyungpook National University,South Korea,2022,9,533.0,1001.0,275.0,382.0,75.1
+413,University of Coimbra,Portugal,2022,3,421.0,1001.0,275.0,385.0,75.1
+414,University of Saskatchewan,Canada,2022,17,291.0,634.0,275.0,395.0,75.1
+415,National Tsing Hua University,Taiwan,2022,4,378.0,826.0,275.0,390.0,75.1
+416,University of Ljubljana,Slovenia,2022,1,533.0,1001.0,275.0,387.0,75.1
+417,Aristotle University of Thessaloniki,Greece,2022,2,533.0,1001.0,275.0,388.0,75.1
+418,Vienna University of Technology,Austria,2022,4,406.0,554.0,275.0,408.0,75.1
+419,São Paulo State University,Brazil,2022,4,533.0,1001.0,275.0,393.0,75.0
+420,University of Ulsan,South Korea,2022,10,533.0,730.0,275.0,401.0,75.0
+421,Indian Institute of Management Ahmedabad,India,2022,1,362.0,11.0,275.0,1001.0,75.0
+422,Nanjing Agricultural University,China,2022,48,533.0,1001.0,275.0,400.0,75.0
+423,University of Clermont Auvergne,France,2022,21,533.0,1001.0,275.0,399.0,75.0
+424,University of Texas at Dallas,USA,2022,116,377.0,603.0,275.0,409.0,75.0
+425,University of Twente,Netherlands,2022,12,533.0,1001.0,275.0,405.0,75.0
+426,Catholic University of the Sacred Heart,Italy,2022,17,533.0,1001.0,275.0,404.0,75.0
+427,University of Rennes 1,France,2022,22,533.0,1001.0,275.0,402.0,75.0
+428,University of Côte d'Azur,France,2022,23,533.0,1001.0,275.0,406.0,74.9
+429,Tampere University,Finland,2022,4,533.0,556.0,275.0,411.0,74.9
+430,Shanghai University,China,2022,49,533.0,1001.0,275.0,410.0,74.9
+431,University of Chile,Chile,2022,2,533.0,648.0,275.0,412.0,74.9
+432,Texas Tech University,USA,2022,117,533.0,518.0,275.0,418.0,74.9
+433,York University,Canada,2022,18,533.0,317.0,275.0,428.0,74.9
+434,Thomas Jefferson University,USA,2022,118,533.0,1001.0,275.0,413.0,74.9
+435,Chonnam National University,South Korea,2022,11,533.0,1001.0,275.0,415.0,74.9
+436,Amherst College,USA,2022,119,23.0,46.0,275.0,1001.0,74.8
+437,University of Mississippi,USA,2022,120,533.0,1001.0,275.0,416.0,74.8
+438,Nanjing Medical University,China,2022,50,533.0,1001.0,275.0,417.0,74.8
+439,Beijing University of Chemical Technology,China,2022,51,533.0,1001.0,275.0,419.0,74.8
+440,Nanjing University of Science and Technology,China,2022,52,533.0,643.0,275.0,421.0,74.8
+441,Stellenbosch University,South Africa,2022,3,533.0,195.0,275.0,462.0,74.8
+442,Stockholm School of Economics,Sweden,2022,11,533.0,19.0,264.0,1001.0,74.8
+443,University of Bath,United Kingdom,2022,34,533.0,597.0,275.0,423.0,74.8
+444,Pusan National University,South Korea,2022,12,533.0,368.0,275.0,432.0,74.7
+445,Hiroshima University,Japan,2022,12,533.0,1001.0,275.0,420.0,74.7
+446,Kansas State University,USA,2022,121,343.0,496.0,275.0,430.0,74.7
+447,Northwest A&F University,China,2022,53,533.0,1001.0,275.0,422.0,74.7
+448,Indiana University – Purdue University Indianapolis,USA,2022,122,533.0,817.0,275.0,425.0,74.7
+449,Huazhong Agricultural University,China,2022,54,533.0,1001.0,275.0,424.0,74.7
+450,Saint Louis University,USA,2022,123,533.0,350.0,187.0,536.0,74.7
+451,Kobe University,Japan,2022,13,298.0,428.0,275.0,441.0,74.7
+452,University of Trento,Italy,2022,18,533.0,1001.0,275.0,426.0,74.7
+453,Tulane University,USA,2022,124,218.0,324.0,275.0,460.0,74.6
+454,Vita-Salute San Raffaele University,Italy,2022,19,533.0,1001.0,275.0,427.0,74.6
+455,University of Navarra,Spain,2022,11,533.0,115.0,254.0,565.0,74.6
+456,University of Trieste,Italy,2022,20,533.0,953.0,275.0,429.0,74.6
+457,University of Alabama - Tuscaloosa,USA,2022,125,430.0,223.0,275.0,468.0,74.6
+458,Antioch College,USA,2022,126,10.0,1001.0,275.0,1001.0,74.6
+459,University of Oulu,Finland,2022,5,533.0,626.0,275.0,434.0,74.6
+460,Jinan University,China,2022,55,533.0,602.0,275.0,435.0,74.6
+461,Federal University of Rio Grande do Sul,Brazil,2022,5,533.0,1001.0,275.0,431.0,74.6
+462,Syracuse University,USA,2022,127,161.0,184.0,275.0,519.0,74.5
+463,Wuhan University of Technology,China,2022,56,533.0,960.0,275.0,433.0,74.5
+464,Chulalongkorn University,Thailand,2022,1,533.0,108.0,275.0,546.0,74.5
+465,George Mason University,USA,2022,128,533.0,1001.0,238.0,502.0,74.5
+466,Martin Luther University Halle-Wittenberg,Germany,2022,32,442.0,1001.0,251.0,484.0,74.5
+467,Florida International University,USA,2022,129,533.0,1001.0,275.0,438.0,74.5
+468,University of Catania,Italy,2022,21,358.0,1001.0,275.0,442.0,74.5
+469,Okayama University,Japan,2022,14,344.0,691.0,275.0,451.0,74.5
+470,Medical College of Wisconsin,USA,2022,130,533.0,1001.0,275.0,439.0,74.5
+471,Nanjing University of Aeronautics and Astronautics,China,2022,57,533.0,1001.0,275.0,443.0,74.4
+472,University of Santiago de Compostela,Spain,2022,12,533.0,895.0,275.0,446.0,74.4
+473,University of Central Florida,USA,2022,131,533.0,1001.0,275.0,445.0,74.4
+474,University of Vermont,USA,2022,132,533.0,450.0,275.0,459.0,74.4
+475,University of Louisville,USA,2022,133,533.0,777.0,275.0,449.0,74.4
+476,University of Stuttgart,Germany,2022,33,123.0,333.0,275.0,517.0,74.4
+477,La Trobe University,Australia,2022,18,533.0,1001.0,275.0,448.0,74.4
+478,University of Eastern Finland,Finland,2022,6,533.0,1001.0,275.0,447.0,74.4
+479,University of Guelph,Canada,2022,19,533.0,1001.0,275.0,450.0,74.4
+480,Xidian University,China,2022,58,349.0,1001.0,275.0,452.0,74.3
+481,University of Strathclyde,United Kingdom,2022,35,533.0,358.0,275.0,471.0,74.3
+482,RMIT University,Australia,2022,19,533.0,1001.0,275.0,453.0,74.3
+483,University of Zaragoza,Spain,2022,13,500.0,1001.0,275.0,454.0,74.3
+484,University of KwaZulu-Natal,South Africa,2022,4,497.0,361.0,275.0,475.0,74.3
+485,"Northeastern University, China",China,2022,59,533.0,509.0,275.0,465.0,74.3
+486,University of Texas Health Science Center at San Antonio,USA,2022,134,533.0,1001.0,275.0,455.0,74.3
+487,Southern University of Science and Technology,China,2022,60,533.0,1001.0,275.0,456.0,74.3
+488,Western Sydney University,Australia,2022,20,533.0,1001.0,275.0,457.0,74.3
+489,James Cook University,Australia,2022,21,533.0,1001.0,275.0,458.0,74.2
+490,University of Siena,Italy,2022,22,533.0,1001.0,275.0,461.0,74.2
+491,Indian Institute of Science,India,2022,2,330.0,838.0,275.0,464.0,74.2
+492,University of Surrey,United Kingdom,2022,36,204.0,483.0,275.0,492.0,74.2
+493,Technical University of Darmstadt,Germany,2022,34,345.0,550.0,275.0,478.0,74.2
+494,West Virginia University,USA,2022,135,533.0,357.0,275.0,493.0,74.2
+495,University of Tehran,Iran,2022,2,432.0,1001.0,275.0,466.0,74.2
+496,Novosibirsk State University,Russia,2022,4,409.0,1001.0,275.0,467.0,74.2
+497,Leibniz University Hannover,Germany,2022,35,533.0,735.0,275.0,469.0,74.2
+498,Fuzhou University,China,2022,61,533.0,738.0,275.0,470.0,74.1
+499,Baylor University,USA,2022,136,533.0,414.0,275.0,495.0,74.1
+500,Federal University of Minas Gerais,Brazil,2022,6,533.0,611.0,275.0,483.0,74.1
+501,University of Hawaii at Manoa,USA,2022,137,395.0,1001.0,275.0,474.0,74.1
+502,University of Ferrara,Italy,2022,23,533.0,1001.0,275.0,472.0,74.1
+503,Ulsan National Institute of Science and Technology,South Korea,2022,13,533.0,1001.0,275.0,473.0,74.1
+504,University of Colorado Denver,USA,2022,138,533.0,1001.0,275.0,476.0,74.1
+505,Polytechnic University of Valencia,Spain,2022,14,533.0,1001.0,275.0,477.0,74.1
+506,University of Rostock,Germany,2022,36,437.0,1001.0,275.0,479.0,74.1
+507,École normale supérieure de Lyon,France,2022,24,389.0,1001.0,270.0,509.0,74.1
+508,Jiangsu University,China,2022,62,533.0,1001.0,275.0,480.0,74.0
+509,Joint Institute for Nuclear Research,Russia,2022,5,533.0,1001.0,275.0,481.0,74.0
+510,University of Hull,United Kingdom,2022,37,168.0,320.0,134.0,707.0,74.0
+511,Technical University of Dortmund,Germany,2022,37,533.0,1001.0,275.0,482.0,74.0
+512,Scuola Normale Superiore di Pisa,Italy,2022,24,90.0,1001.0,241.0,613.0,74.0
+513,University of Tennessee Health Science Center,USA,2022,139,533.0,1001.0,275.0,485.0,74.0
+514,University of Oviedo,Spain,2022,15,533.0,944.0,275.0,487.0,74.0
+515,University of Potsdam,Germany,2022,38,533.0,1001.0,275.0,486.0,74.0
+516,Rovira i Virgili University,Spain,2022,16,533.0,1001.0,275.0,488.0,74.0
+517,Eötvös Loránd University,Hungary,2022,1,216.0,1001.0,233.0,556.0,74.0
+518,NOVA University of Lisbon,Portugal,2022,4,533.0,1001.0,275.0,489.0,73.9
+519,Mayo Clinic College of Medicine and Science,USA,2022,140,533.0,1001.0,275.0,490.0,73.9
+520,Southwest University,China,2022,63,485.0,1001.0,275.0,491.0,73.9
+521,Rush University,USA,2022,141,533.0,1001.0,275.0,494.0,73.9
+522,Lehigh University,USA,2022,142,162.0,61.0,275.0,790.0,73.9
+523,University of Modena and Reggio Emilia,Italy,2022,25,533.0,917.0,275.0,498.0,73.9
+524,Boston College,USA,2022,143,533.0,120.0,275.0,588.0,73.9
+525,University College Cork,Ireland,2022,3,533.0,706.0,275.0,503.0,73.9
+526,University of Tartu,Estonia,2022,1,469.0,1001.0,275.0,497.0,73.9
+527,Oklahoma State University,USA,2022,144,533.0,519.0,275.0,512.0,73.8
+528,Moscow Institute of Physics and Technology,Russia,2022,6,167.0,583.0,273.0,535.0,73.8
+529,University of Zagreb,Croatia,2022,1,533.0,1001.0,275.0,499.0,73.8
+530,University of Tromsø – The Arctic University of Norway,Norway,2022,4,533.0,1001.0,275.0,500.0,73.8
+531,Cairo University,Egypt,2022,1,533.0,1001.0,275.0,504.0,73.8
+532,"Royal Holloway, University of London",United Kingdom,2022,38,407.0,1001.0,219.0,576.0,73.8
+533,Nanjing Tech University,China,2022,64,533.0,1001.0,275.0,501.0,73.8
+534,Carleton University,Canada,2022,20,533.0,1001.0,275.0,507.0,73.8
+535,"China Medical University, Taiwan",Taiwan,2022,5,533.0,1001.0,275.0,505.0,73.8
+536,Savoie Mont Blanc University,France,2022,25,533.0,1001.0,275.0,506.0,73.8
+537,Georgia State University,USA,2022,145,533.0,844.0,275.0,508.0,73.7
+538,University of South Australia,Australia,2022,22,533.0,473.0,275.0,514.0,73.7
+539,University of Canterbury,New Zealand,2022,3,357.0,447.0,242.0,569.0,73.7
+540,University of Konstanz,Germany,2022,39,533.0,1001.0,202.0,594.0,73.7
+541,Flinders University,Australia,2022,23,471.0,1001.0,275.0,510.0,73.7
+542,University of Verona,Italy,2022,26,533.0,1001.0,275.0,511.0,73.7
+543,Polytechnic University of Madrid,Spain,2022,17,498.0,665.0,275.0,515.0,73.7
+544,Southern Medical University,China,2022,65,533.0,1001.0,275.0,513.0,73.7
+545,University of Bremen,Germany,2022,40,533.0,1001.0,275.0,516.0,73.7
+546,Nanjing University of Information Science and Technology,China,2022,66,533.0,1001.0,275.0,518.0,73.7
+547,Bar-Ilan University,Israel,2022,6,533.0,616.0,275.0,523.0,73.6
+548,University of Arkansas - Fayetteville,USA,2022,146,263.0,349.0,275.0,548.0,73.6
+549,Jiangnan University,China,2022,67,533.0,1001.0,275.0,520.0,73.6
+550,Saint Petersburg University,Russia,2022,7,155.0,418.0,275.0,562.0,73.6
+551,Mahidol University,Thailand,2022,2,533.0,1001.0,275.0,522.0,73.6
+552,Colorado School of Mines,USA,2022,147,533.0,75.0,275.0,745.0,73.6
+553,University of Nantes,France,2022,26,533.0,1001.0,275.0,524.0,73.6
+554,Auburn University,USA,2022,148,533.0,260.0,275.0,560.0,73.6
+555,University of Pretoria,South Africa,2022,5,533.0,739.0,275.0,526.0,73.6
+556,Hitotsubashi University,Japan,2022,15,533.0,20.0,275.0,1001.0,73.6
+557,Beijing Jiaotong University,China,2022,68,533.0,1001.0,275.0,525.0,73.6
+558,National Technical University of Athens,Greece,2022,3,481.0,774.0,275.0,531.0,73.5
+559,Indian Institute of Technology Madras,India,2022,3,533.0,180.0,275.0,602.0,73.5
+560,Brunel University London,United Kingdom,2022,39,533.0,599.0,275.0,540.0,73.5
+561,Medical University of Innsbruck,Austria,2022,5,533.0,1001.0,275.0,528.0,73.5
+562,Masaryk University,Czech Republic,2022,2,533.0,1001.0,275.0,529.0,73.5
+563,Tata Institute of Fundamental Research,India,2022,4,533.0,1001.0,275.0,530.0,73.5
+564,Indian Institute of Technology Bombay,India,2022,5,533.0,326.0,275.0,563.0,73.5
+565,Ocean University of China,China,2022,69,533.0,1001.0,275.0,532.0,73.5
+566,Palacký University Olomouc,Czech Republic,2022,3,533.0,1001.0,275.0,533.0,73.5
+567,Medical University of Graz,Austria,2022,6,533.0,1001.0,275.0,534.0,73.5
+568,University of Graz,Austria,2022,7,447.0,1001.0,160.0,701.0,73.4
+569,China University of Geosciences (Wuhan),China,2022,70,533.0,731.0,275.0,542.0,73.4
+570,Clemson University,USA,2022,149,533.0,929.0,275.0,538.0,73.4
+571,University of Minho,Portugal,2022,5,533.0,1001.0,275.0,537.0,73.4
+572,Swansea University,United Kingdom,2022,40,533.0,1001.0,275.0,539.0,73.4
+573,Central China Normal University,China,2022,71,533.0,1001.0,275.0,541.0,73.4
+574,Chiba University,Japan,2022,16,533.0,1001.0,275.0,543.0,73.4
+575,Bocconi University,Italy,2022,27,533.0,50.0,259.0,1001.0,73.4
+576,Ewha Womans University,South Korea,2022,14,533.0,1001.0,275.0,544.0,73.4
+577,North China Electric Power University,China,2022,72,533.0,302.0,275.0,578.0,73.4
+578,San Diego State University,USA,2022,150,309.0,421.0,275.0,567.0,73.4
+579,Chang Gung University,Taiwan,2022,6,533.0,1001.0,275.0,545.0,73.3
+580,Polytechnic University of Turin,Italy,2022,28,533.0,889.0,275.0,547.0,73.3
+581,National Central University,Taiwan,2022,7,533.0,1001.0,275.0,549.0,73.3
+582,University of Texas at Arlington,USA,2022,151,533.0,819.0,275.0,553.0,73.3
+583,University of Sherbrooke,Canada,2022,21,533.0,977.0,275.0,551.0,73.3
+584,Rensselaer Polytechnic Institute,USA,2022,152,436.0,147.0,275.0,646.0,73.3
+585,University of Jyväskylä,Finland,2022,7,533.0,1001.0,275.0,550.0,73.3
+586,University of Palermo,Italy,2022,29,533.0,1001.0,275.0,552.0,73.3
+587,University of Aveiro,Portugal,2022,6,533.0,1001.0,275.0,554.0,73.3
+588,Nanjing Normal University,China,2022,73,533.0,990.0,275.0,557.0,73.3
+589,Federal University of São Paulo,Brazil,2022,7,533.0,1001.0,275.0,555.0,73.2
+590,AGH University of Science and Technology,Poland,2022,3,533.0,913.0,275.0,561.0,73.2
+591,University of Delhi,India,2022,6,530.0,217.0,275.0,616.0,73.2
+592,Institut Agro,France,2022,27,533.0,1001.0,275.0,558.0,73.2
+593,University of Iceland,Iceland,2022,1,533.0,1001.0,275.0,559.0,73.2
+594,Hefei University of Technology,China,2022,74,533.0,892.0,275.0,564.0,73.2
+595,Middle East Technical University,Turkey,2022,1,533.0,314.0,275.0,592.0,73.2
+596,Ioffe Physical-Technical Institute of the Russian Academy of Sciences,Russia,2022,8,41.0,1001.0,222.0,1001.0,73.2
+597,University of Macau,China,2022,75,533.0,590.0,275.0,574.0,73.2
+598,University of Wisconsin–Milwaukee,USA,2022,153,279.0,493.0,275.0,587.0,73.2
+599,University of Salerno,Italy,2022,30,533.0,1001.0,275.0,566.0,73.2
+600,Brigham Young University,USA,2022,154,318.0,780.0,275.0,575.0,73.1
+601,Renmin University of China,China,2022,76,533.0,93.0,275.0,752.0,73.1
+602,University of Nebraska Medical Center,USA,2022,155,533.0,1001.0,275.0,568.0,73.1
+603,Zhejiang University of Technology,China,2022,77,533.0,1001.0,275.0,570.0,73.1
+604,Donghua University,China,2022,78,533.0,1001.0,275.0,571.0,73.1
+605,University of St.Gallen,Switzerland,2022,9,533.0,29.0,275.0,1001.0,73.1
+606,Illinois Institute of Technology,USA,2022,156,63.0,177.0,275.0,851.0,73.1
+607,University of Brescia,Italy,2022,31,533.0,1001.0,275.0,572.0,73.1
+608,Indian Institute of Technology Delhi,India,2022,7,533.0,127.0,275.0,690.0,73.1
+609,Qingdao University,China,2022,79,533.0,1001.0,275.0,573.0,73.1
+610,National Research Nuclear University MEPhI,Russia,2022,9,451.0,1001.0,275.0,577.0,73.1
+611,Nanchang University,China,2022,80,533.0,1001.0,275.0,580.0,73.0
+612,University of Udine,Italy,2022,32,533.0,1001.0,275.0,579.0,73.0
+613,Concordia University,Canada,2022,22,532.0,340.0,275.0,609.0,73.0
+614,College of William & Mary,USA,2022,157,533.0,95.0,275.0,760.0,73.0
+615,University of Cagliari,Italy,2022,33,533.0,1001.0,275.0,581.0,73.0
+616,Swinburne University of Technology,Australia,2022,24,533.0,1001.0,275.0,582.0,73.0
+617,Yangzhou University,China,2022,81,533.0,1001.0,275.0,583.0,73.0
+618,University of Burgundy,France,2022,28,170.0,1001.0,275.0,608.0,73.0
+619,Czech Technical University in Prague,Czech Republic,2022,4,400.0,1001.0,275.0,584.0,73.0
+620,"Institute of Cancer Research, University of London",United Kingdom,2022,41,246.0,1001.0,275.0,596.0,73.0
+621,University of Eastern Piedmont,Italy,2022,34,533.0,1001.0,275.0,585.0,73.0
+622,Tehran University of Medical Sciences,Iran,2022,3,533.0,1001.0,275.0,586.0,73.0
+623,Guangdong University of Technology,China,2022,82,533.0,1001.0,275.0,589.0,72.9
+624,University of Cantabria,Spain,2022,18,533.0,1001.0,275.0,590.0,72.9
+625,Jeonbuk National University,South Korea,2022,15,533.0,1001.0,275.0,591.0,72.9
+626,Utah State University,USA,2022,158,351.0,967.0,275.0,598.0,72.9
+627,Second Military Medical University,China,2022,83,533.0,1001.0,275.0,593.0,72.9
+628,CINVESTAV,Mexico,2022,2,533.0,1001.0,275.0,595.0,72.9
+629,University of Johannesburg,South Africa,2022,6,533.0,1001.0,275.0,599.0,72.9
+630,Comenius University in Bratislava,Slovak Republic,2022,1,533.0,1001.0,275.0,597.0,72.9
+631,Southwest Jiaotong University,China,2022,84,533.0,842.0,275.0,605.0,72.9
+632,"St George's, University of London",United Kingdom,2022,42,533.0,1001.0,275.0,600.0,72.9
+633,Tianjin Medical University,China,2022,85,533.0,1001.0,275.0,601.0,72.9
+634,University of Québec at Montreal,Canada,2022,23,533.0,1001.0,275.0,604.0,72.8
+635,Swarthmore College,USA,2022,159,19.0,303.0,275.0,1001.0,72.8
+636,Catholic University of Korea,South Korea,2022,16,533.0,1001.0,275.0,603.0,72.8
+637,Chung-Ang University,South Korea,2022,17,533.0,1001.0,275.0,606.0,72.8
+638,Henryk Niewodniczański Institute of Nuclear Physics,Poland,2022,4,533.0,1001.0,275.0,607.0,72.8
+639,National University of La Plata,Argentina,2022,2,533.0,1001.0,275.0,610.0,72.8
+640,National Polytechnic Institute,Mexico,2022,3,533.0,1001.0,275.0,611.0,72.8
+641,University of Bayreuth,Germany,2022,41,533.0,1001.0,275.0,612.0,72.8
+642,Loughborough University,United Kingdom,2022,43,533.0,1001.0,274.0,632.0,72.8
+643,University of New Hampshire,USA,2022,160,533.0,517.0,275.0,631.0,72.8
+644,Bielefeld University,Germany,2022,42,441.0,1001.0,275.0,614.0,72.8
+645,Konkuk University,South Korea,2022,18,533.0,1001.0,275.0,615.0,72.8
+646,Sharif University of Technology,Iran,2022,4,399.0,1001.0,275.0,617.0,72.7
+647,Boğaziçi University,Turkey,2022,2,533.0,523.0,275.0,634.0,72.7
+648,Memorial University of Newfoundland,Canada,2022,24,533.0,789.0,275.0,624.0,72.7
+649,"National University of Ireland, Galway",Ireland,2022,4,229.0,1001.0,275.0,635.0,72.7
+650,University of Plymouth,United Kingdom,2022,44,533.0,1001.0,275.0,618.0,72.7
+651,South China Normal University,China,2022,86,533.0,1001.0,275.0,620.0,72.7
+652,Hacettepe University,Turkey,2022,3,533.0,1001.0,275.0,619.0,72.7
+653,Rio de Janeiro State University,Brazil,2022,8,533.0,1001.0,275.0,621.0,72.7
+654,China University of Mining and Technology (Xuzhou),China,2022,87,533.0,628.0,275.0,633.0,72.7
+655,National University of Defense Technology,China,2022,88,533.0,1001.0,275.0,625.0,72.7
+656,University of Haifa,Israel,2022,7,533.0,991.0,275.0,626.0,72.7
+657,University of La Laguna,Spain,2022,19,533.0,1001.0,275.0,622.0,72.6
+658,"China University of Geosciences, Beijing",China,2022,89,533.0,1001.0,275.0,623.0,72.6
+659,Haverford College,USA,2022,161,20.0,1001.0,275.0,1001.0,72.6
+660,Gustave Eiffel University,France,2022,29,444.0,1001.0,275.0,629.0,72.6
+661,University of Texas at San Antonio,USA,2022,162,533.0,1001.0,275.0,627.0,72.6
+662,Cold Spring Harbor Laboratory,USA,2022,163,533.0,1001.0,101.0,923.0,72.6
+663,University of Málaga,Spain,2022,20,533.0,1001.0,275.0,628.0,72.6
+664,University of Campania Luigi Vanvitelli,Italy,2022,35,533.0,1001.0,275.0,630.0,72.6
+665,Ankara University,Turkey,2022,4,533.0,837.0,275.0,636.0,72.6
+666,Beijing University of Technology,China,2022,90,533.0,1001.0,275.0,637.0,72.6
+667,University of Oklahoma Health Sciences Center,USA,2022,164,533.0,1001.0,275.0,638.0,72.6
+668,University of Angers,France,2022,30,533.0,1001.0,275.0,639.0,72.6
+669,South China Agricultural University,China,2022,91,533.0,1001.0,275.0,640.0,72.5
+670,Tilburg University,Netherlands,2022,13,533.0,387.0,275.0,668.0,72.5
+671,Binghamton University,USA,2022,165,304.0,342.0,158.0,899.0,72.5
+672,University of Kent,United Kingdom,2022,45,533.0,934.0,275.0,645.0,72.5
+673,Semmelweis University,Hungary,2022,2,533.0,1001.0,275.0,642.0,72.5
+674,Hong Kong Baptist University,China,2022,92,533.0,1001.0,275.0,643.0,72.5
+675,Shinshu University,Japan,2022,17,533.0,1001.0,275.0,644.0,72.5
+676,University of Wyoming,USA,2022,166,533.0,778.0,275.0,650.0,72.5
+677,University of Fribourg,Switzerland,2022,10,533.0,294.0,275.0,685.0,72.5
+678,Guangzhou Medical University,China,2022,93,533.0,1001.0,275.0,647.0,72.5
+679,University of Szeged,Hungary,2022,3,449.0,1001.0,196.0,783.0,72.5
+680,Sciences Po,France,2022,31,533.0,58.0,66.0,1001.0,72.5
+681,King Fahd University of Petroleum and Minerals,Saudi Arabia,2022,4,533.0,111.0,275.0,797.0,72.5
+682,Institut national des sciences appliquées de Lyon,France,2022,32,533.0,1001.0,275.0,649.0,72.4
+683,Roma Tre University,Italy,2022,36,533.0,1001.0,275.0,648.0,72.4
+684,Hohai University,China,2022,94,533.0,1001.0,275.0,651.0,72.4
+685,"University of Nevada, Reno",USA,2022,167,533.0,1001.0,275.0,652.0,72.4
+686,Northeast Normal University,China,2022,95,533.0,1001.0,275.0,653.0,72.4
+687,Istanbul University,Turkey,2022,5,464.0,1001.0,275.0,654.0,72.4
+688,University of Maine,USA,2022,168,499.0,1001.0,123.0,909.0,72.4
+689,Yokohama City University,Japan,2022,18,533.0,194.0,275.0,724.0,72.4
+690,Chungnam National University,South Korea,2022,19,533.0,1001.0,275.0,655.0,72.4
+691,"Northwest University, Xi'an",China,2022,96,533.0,1001.0,275.0,656.0,72.4
+692,Massey University,New Zealand,2022,4,533.0,921.0,275.0,660.0,72.4
+693,University of Calabria,Italy,2022,37,533.0,1001.0,275.0,657.0,72.4
+694,Tokyo Medical and Dental University,Japan,2022,19,533.0,1001.0,275.0,658.0,72.3
+695,University of North Texas,USA,2022,169,533.0,767.0,275.0,666.0,72.3
+696,Sejong University,South Korea,2022,20,533.0,1001.0,275.0,659.0,72.3
+697,Oswaldo Cruz Foundation,Brazil,2022,9,533.0,1001.0,275.0,661.0,72.3
+698,Istanbul Technical University,Turkey,2022,6,533.0,914.0,275.0,665.0,72.3
+699,Vilnius University,Lithuania,2022,1,533.0,1001.0,275.0,662.0,72.3
+700,University of Poitiers,France,2022,33,338.0,1001.0,275.0,667.0,72.3
+701,Taipei Medical University,Taiwan,2022,8,533.0,1001.0,275.0,663.0,72.3
+702,Shaanxi Normal University,China,2022,97,533.0,1001.0,275.0,664.0,72.3
+703,Victoria University of Wellington,New Zealand,2022,5,379.0,809.0,275.0,674.0,72.3
+704,Loyola University Chicago,USA,2022,170,355.0,1001.0,275.0,669.0,72.3
+705,Tokyo Metropolitan University,Japan,2022,20,188.0,1001.0,275.0,688.0,72.3
+706,Heriot-Watt University,United Kingdom,2022,46,533.0,558.0,275.0,678.0,72.2
+707,University of Salamanca,Spain,2022,21,533.0,888.0,275.0,672.0,72.2
+708,Inha University,South Korea,2022,21,533.0,752.0,275.0,676.0,72.2
+709,University of Ioannina,Greece,2022,4,533.0,1001.0,275.0,670.0,72.2
+710,University of Texas Medical Branch,USA,2022,171,533.0,1001.0,275.0,671.0,72.2
+711,Warsaw University of Technology,Poland,2022,5,347.0,961.0,275.0,677.0,72.2
+712,Army Medical University,China,2022,98,533.0,1001.0,275.0,675.0,72.2
+713,Kanazawa University,Japan,2022,21,533.0,630.0,275.0,683.0,72.2
+714,Mississippi State University,USA,2022,172,317.0,429.0,275.0,702.0,72.2
+715,Beijing University of Posts and Telecommunications,China,2022,99,533.0,480.0,275.0,692.0,72.2
+716,Toulouse INP,France,2022,34,533.0,259.0,275.0,721.0,72.2
+717,University of Debrecen,Hungary,2022,4,533.0,1001.0,275.0,679.0,72.2
+718,Isfahan University of Technology,Iran,2022,5,533.0,1001.0,275.0,680.0,72.2
+719,Federal University of Santa Catarina,Brazil,2022,10,533.0,1001.0,275.0,682.0,72.1
+720,Otto von Guericke University Magdeburg,Germany,2022,43,533.0,1001.0,275.0,681.0,72.1
+721,Central Party School of the Communist Party of China,China,2022,100,533.0,21.0,275.0,1001.0,72.1
+722,Budker Institute of Nuclear Physics of the Siberian Branch of the Russian Academy of Sciences,Russia,2022,10,533.0,1001.0,275.0,684.0,72.1
+723,National Chung Hsing University,Taiwan,2022,9,533.0,235.0,275.0,734.0,72.1
+724,University of Missouri-Kansas City,USA,2022,173,473.0,585.0,275.0,696.0,72.1
+725,Wenzhou Medical University,China,2022,101,533.0,1001.0,275.0,686.0,72.1
+726,Shanxi University,China,2022,102,533.0,1001.0,275.0,687.0,72.1
+727,American University of Beirut,Lebanon,2022,1,262.0,191.0,275.0,775.0,72.1
+728,Montana State University - Bozeman,USA,2022,174,533.0,1001.0,275.0,689.0,72.1
+729,University of Massachusetts Boston,USA,2022,175,533.0,1001.0,189.0,839.0,72.1
+730,Panjab University,India,2022,8,513.0,705.0,275.0,694.0,72.1
+731,Courtauld Institute of Art,United Kingdom,2022,47,13.0,1001.0,275.0,1001.0,72.1
+732,Kumamoto University,Japan,2022,22,533.0,716.0,275.0,695.0,72.0
+733,Nanjing University of Posts and Telecommunications,China,2022,103,533.0,816.0,275.0,693.0,72.0
+734,Indian Institute of Technology Kharagpur,India,2022,9,533.0,494.0,275.0,711.0,72.0
+735,Kangwon National University,South Korea,2022,22,533.0,1001.0,275.0,691.0,72.0
+736,University of Crete,Greece,2022,5,533.0,1001.0,275.0,697.0,72.0
+737,China University of Petroleum (East China),China,2022,104,533.0,592.0,275.0,710.0,72.0
+738,"Birkbeck, University of London",United Kingdom,2022,48,225.0,1001.0,172.0,918.0,72.0
+739,Quaid-i-Azam University,Pakistan,2022,1,533.0,1001.0,275.0,698.0,72.0
+740,University of Murcia,Spain,2022,22,533.0,1001.0,275.0,699.0,72.0
+741,University of Arkansas for Medical Sciences,USA,2022,176,533.0,1001.0,275.0,700.0,72.0
+742,Saarland University,Germany,2022,44,533.0,481.0,275.0,719.0,72.0
+743,University of Cyprus,Cyprus,2022,1,533.0,1001.0,275.0,703.0,72.0
+744,Ajou University,South Korea,2022,23,533.0,1001.0,275.0,704.0,72.0
+745,COMSATS University Islamabad,Pakistan,2022,2,533.0,1001.0,275.0,705.0,71.9
+746,University of Castilla–La Mancha,Spain,2022,23,533.0,1001.0,275.0,706.0,71.9
+747,Bangor University,United Kingdom,2022,49,189.0,775.0,250.0,800.0,71.9
+748,Niigata University,Japan,2022,23,533.0,849.0,275.0,715.0,71.9
+749,Harbin Medical University,China,2022,105,533.0,1001.0,275.0,708.0,71.9
+750,"University of Córdoba, Spain",Spain,2022,24,533.0,1001.0,275.0,709.0,71.9
+751,Air Force Medical University,China,2022,106,533.0,1001.0,275.0,712.0,71.9
+752,ShanghaiTech University,China,2022,107,533.0,1001.0,275.0,713.0,71.9
+753,"China Medical University, PRC",China,2022,108,533.0,1001.0,275.0,714.0,71.9
+754,Yeungnam University,South Korea,2022,24,533.0,427.0,275.0,735.0,71.9
+755,International School for Advanced Studies,Italy,2022,38,533.0,1001.0,275.0,716.0,71.9
+756,University of Jinan,China,2022,109,533.0,1001.0,275.0,717.0,71.9
+757,University of Greifswald,Germany,2022,45,533.0,1001.0,253.0,776.0,71.9
+758,Kitasato University,Japan,2022,24,533.0,1001.0,126.0,986.0,71.8
+759,Beijing Forestry University,China,2022,110,533.0,1001.0,275.0,718.0,71.8
+760,University of Alaska Fairbanks,USA,2022,177,404.0,812.0,275.0,723.0,71.8
+761,University of Salento,Italy,2022,39,533.0,1001.0,275.0,720.0,71.8
+762,Technical University of Braunschweig,Germany,2022,46,476.0,1001.0,275.0,722.0,71.8
+763,Tokyo University of Science,Japan,2022,25,308.0,801.0,275.0,733.0,71.8
+764,Guangxi University,China,2022,111,533.0,1001.0,275.0,725.0,71.8
+765,University of Idaho,USA,2022,178,533.0,1001.0,275.0,726.0,71.8
+766,"University of the Andes, Colombia",Colombia,2022,1,533.0,433.0,275.0,758.0,71.8
+767,Federal University of Paraná,Brazil,2022,11,533.0,1001.0,275.0,727.0,71.8
+768,Tarbiat Modares University,Iran,2022,6,533.0,1001.0,275.0,728.0,71.8
+769,"University of Maryland, Baltimore County",USA,2022,179,533.0,1001.0,236.0,830.0,71.8
+770,Augusta University,USA,2022,180,533.0,1001.0,275.0,729.0,71.8
+771,Institute for Nuclear Research of the Russian Academy of Sciences,Russia,2022,11,533.0,1001.0,275.0,730.0,71.8
+772,Kent State University,USA,2022,181,533.0,1001.0,275.0,731.0,71.7
+773,University of Lübeck,Germany,2022,47,533.0,1001.0,275.0,732.0,71.7
+774,University of Essex,United Kingdom,2022,50,517.0,654.0,275.0,748.0,71.7
+775,Shandong University of Science and Technology,China,2022,112,533.0,833.0,275.0,738.0,71.7
+776,Marche Polytechnic University,Italy,2022,40,533.0,1001.0,275.0,736.0,71.7
+777,University of Girona,Spain,2022,25,533.0,1001.0,275.0,737.0,71.7
+778,National University of Colombia,Colombia,2022,2,533.0,856.0,275.0,746.0,71.7
+779,Osaka City University,Japan,2022,26,236.0,434.0,275.0,782.0,71.7
+780,Örebro University,Sweden,2022,12,533.0,946.0,275.0,747.0,71.7
+781,Henan University,China,2022,113,533.0,1001.0,275.0,739.0,71.7
+782,Chongqing Medical University,China,2022,114,533.0,1001.0,275.0,740.0,71.7
+783,"Putra University, Malaysia",Malaysia,2022,2,533.0,1001.0,275.0,741.0,71.7
+784,Ain Shams University,Egypt,2022,2,533.0,1001.0,275.0,742.0,71.7
+785,Kaohsiung Medical University,Taiwan,2022,10,533.0,1001.0,275.0,743.0,71.6
+786,University of Vigo,Spain,2022,26,533.0,1001.0,275.0,744.0,71.6
+787,Norwegian University of Life Sciences,Norway,2022,5,533.0,1001.0,275.0,751.0,71.6
+788,Anhui University,China,2022,115,533.0,948.0,275.0,753.0,71.6
+789,"University of Science, Malaysia",Malaysia,2022,3,533.0,1001.0,275.0,749.0,71.6
+790,Amirkabir University of Technology,Iran,2022,7,533.0,1001.0,275.0,750.0,71.6
+791,SUNY Downstate Medical Center,USA,2022,182,533.0,1001.0,148.0,996.0,71.6
+792,"Graduate School, GRINM",China,2022,116,533.0,24.0,275.0,1001.0,71.6
+793,China University of Petroleum-Beijing,China,2022,117,533.0,742.0,275.0,759.0,71.6
+794,University of the Balearic Islands,Spain,2022,27,533.0,1001.0,275.0,754.0,71.6
+795,Yerevan Physics Institute,Armenia,2022,1,533.0,1001.0,275.0,755.0,71.6
+796,"University of Natural Resources and Life Sciences, Vienna",Austria,2022,8,533.0,1001.0,275.0,756.0,71.6
+797,University of Wuppertal,Germany,2022,48,533.0,1001.0,275.0,757.0,71.6
+798,Ohio University,USA,2022,183,396.0,379.0,275.0,792.0,71.6
+799,Harbin Engineering University,China,2022,118,533.0,1001.0,275.0,761.0,71.5
+800,University of Patras,Greece,2022,6,533.0,1001.0,275.0,762.0,71.5
+801,University of Montana,USA,2022,184,272.0,1001.0,275.0,769.0,71.5
+802,Ningbo University,China,2022,119,533.0,1001.0,275.0,763.0,71.5
+803,University of Split,Croatia,2022,2,533.0,1001.0,275.0,764.0,71.5
+804,University of North Carolina at Charlotte,USA,2022,185,533.0,712.0,275.0,770.0,71.5
+805,University of Hohenheim,Germany,2022,49,533.0,1001.0,275.0,765.0,71.5
+806,Centrale Lille Institut,France,2022,35,533.0,94.0,275.0,1000.0,71.5
+807,Carl von Ossietzky University of Oldenburg,Germany,2022,50,533.0,1001.0,275.0,766.0,71.5
+808,National Research University Higher School of Economics,Russia,2022,12,533.0,1001.0,275.0,767.0,71.5
+809,University of Rhode Island,USA,2022,186,533.0,557.0,275.0,785.0,71.5
+810,University of Messina,Italy,2022,41,533.0,1001.0,275.0,768.0,71.5
+811,Belarusian State University,Belarus,2022,1,533.0,1001.0,275.0,771.0,71.5
+812,National Taiwan University of Science and Technology,Taiwan,2022,11,533.0,741.0,275.0,778.0,71.5
+813,Gwangju Institute of Science and Technology,South Korea,2022,25,533.0,1001.0,275.0,772.0,71.4
+814,Gyeongsang National University,South Korea,2022,26,533.0,1001.0,275.0,773.0,71.4
+815,USI - University of Italian Speaking Switzerland,Switzerland,2022,11,533.0,1001.0,275.0,774.0,71.4
+816,Jawaharlal Nehru University,India,2022,10,492.0,1001.0,86.0,1001.0,71.4
+817,"Open University, UK",United Kingdom,2022,51,533.0,1001.0,275.0,777.0,71.4
+818,Adam Mickiewicz University in Poznań,Poland,2022,6,533.0,1001.0,275.0,779.0,71.4
+819,University of Alcalá,Spain,2022,28,533.0,1001.0,275.0,780.0,71.4
+820,University of Siegen,Germany,2022,51,533.0,1001.0,275.0,781.0,71.4
+821,Northern Arizona University,USA,2022,187,533.0,1001.0,275.0,784.0,71.4
+822,Northern Illinois University,USA,2022,188,533.0,779.0,275.0,791.0,71.4
+823,University of Concepción,Chile,2022,3,533.0,1001.0,275.0,786.0,71.4
+824,Tomsk State University,Russia,2022,13,533.0,1001.0,275.0,787.0,71.4
+825,University of Basilicata,Italy,2022,42,533.0,1001.0,275.0,788.0,71.4
+826,National Centre for Nuclear Research,Poland,2022,7,533.0,1001.0,275.0,789.0,71.4
+827,National Sun Yat-sen University,Taiwan,2022,12,533.0,1001.0,275.0,794.0,71.3
+828,Polytechnic University of Bari,Italy,2022,43,533.0,1001.0,275.0,793.0,71.3
+829,"University of Nevada, Las Vegas",USA,2022,189,533.0,864.0,275.0,795.0,71.3
+830,Miami University,USA,2022,190,533.0,110.0,275.0,987.0,71.3
+831,Cranfield University,United Kingdom,2022,52,533.0,201.0,275.0,893.0,71.3
+832,University of Wrocław,Poland,2022,8,477.0,1001.0,258.0,869.0,71.3
+833,Graz University of Technology,Austria,2022,9,533.0,1001.0,275.0,796.0,71.3
+834,Indian Institute of Technology Kanpur,India,2022,11,533.0,371.0,275.0,836.0,71.3
+835,Liverpool John Moores University,United Kingdom,2022,53,533.0,1001.0,275.0,798.0,71.3
+836,Shandong Normal University,China,2022,120,533.0,1001.0,275.0,799.0,71.3
+837,Murdoch University,Australia,2022,25,533.0,887.0,275.0,806.0,71.3
+838,University of Denver,USA,2022,191,533.0,169.0,275.0,931.0,71.3
+839,University of Toledo,USA,2022,192,533.0,1001.0,275.0,801.0,71.3
+840,University of L'Aquila,Italy,2022,44,533.0,1001.0,275.0,802.0,71.3
+841,Indian Institute of Technology Roorkee,India,2022,12,533.0,288.0,275.0,855.0,71.3
+842,Hangzhou Normal University,China,2022,121,533.0,1001.0,275.0,803.0,71.2
+843,Dongguk University,South Korea,2022,27,533.0,532.0,275.0,825.0,71.2
+844,National University of Malaysia (UKM),Malaysia,2022,4,533.0,1001.0,275.0,804.0,71.2
+845,Kindai University,Japan,2022,27,533.0,1001.0,275.0,805.0,71.2
+846,Tokushima University,Japan,2022,28,74.0,769.0,275.0,980.0,71.2
+847,Hasselt University,Belgium,2022,8,533.0,749.0,275.0,812.0,71.2
+848,University of Alicante,Spain,2022,29,533.0,1001.0,275.0,807.0,71.2
+849,Carlos III University of Madrid,Spain,2022,30,533.0,1001.0,275.0,808.0,71.2
+850,Juntendo University,Japan,2022,29,533.0,1001.0,275.0,809.0,71.2
+851,Graduate University for Advanced Studies,Japan,2022,30,533.0,1001.0,275.0,810.0,71.2
+852,"University of Technology, Malaysia",Malaysia,2022,5,533.0,1001.0,275.0,811.0,71.2
+853,Ryerson University,Canada,2022,25,533.0,1001.0,275.0,813.0,71.2
+854,University of Luxembourg,Luxembourg,2022,1,533.0,1001.0,275.0,814.0,71.2
+855,Nagasaki University,Japan,2022,31,299.0,475.0,275.0,847.0,71.2
+856,"University of California, Merced",USA,2022,193,533.0,1001.0,275.0,815.0,71.1
+857,Old Dominion University,USA,2022,194,533.0,1001.0,275.0,816.0,71.1
+858,Shandong First Medical University & Shandong Academy of Medical Sciences,China,2022,122,533.0,1001.0,275.0,817.0,71.1
+859,University of Brasília,Brazil,2022,12,533.0,1001.0,275.0,819.0,71.1
+860,Sorbonne Paris Nord University,France,2022,36,533.0,1001.0,275.0,818.0,71.1
+861,Northumbria University,United Kingdom,2022,54,533.0,839.0,275.0,824.0,71.1
+862,"City, University of London",United Kingdom,2022,55,523.0,548.0,275.0,835.0,71.1
+863,Federal University of Pernambuco,Brazil,2022,13,533.0,1001.0,275.0,821.0,71.1
+864,Peter the Great St. Petersburg Polytechnic University,Russia,2022,14,504.0,926.0,275.0,827.0,71.1
+865,Brazilian Center for Research in Physics (CBPF),Brazil,2022,14,533.0,1001.0,275.0,820.0,71.1
+866,Getúlio Vargas Foundation,Brazil,2022,15,533.0,34.0,275.0,1001.0,71.1
+867,University of Brighton,United Kingdom,2022,56,533.0,1001.0,275.0,822.0,71.1
+868,Anhui Medical University,China,2022,123,533.0,1001.0,275.0,823.0,71.1
+869,China Pharmaceutical University,China,2022,124,533.0,1001.0,275.0,826.0,71.1
+870,London Business School,United Kingdom,2022,57,533.0,51.0,275.0,1001.0,71.1
+871,Federico Santa María Technical University,Chile,2022,4,533.0,1001.0,275.0,829.0,71.0
+872,Uniformed Services University of the Health Sciences,USA,2022,195,533.0,1001.0,275.0,828.0,71.0
+873,University of Tours,France,2022,37,158.0,1001.0,275.0,866.0,71.0
+874,Aberystwyth University,United Kingdom,2022,58,533.0,868.0,215.0,981.0,71.0
+875,Ivane Javakhishvili Tbilisi State University,Georgia,2022,1,533.0,1001.0,275.0,831.0,71.0
+876,Qingdao University of Science and Technology,China,2022,125,533.0,1001.0,275.0,832.0,71.0
+877,University of Portsmouth,United Kingdom,2022,59,533.0,1001.0,275.0,834.0,71.0
+878,Benemérita Autonomous University of Puebla,Mexico,2022,4,533.0,1001.0,275.0,833.0,71.0
+879,Guangzhou University,China,2022,126,533.0,952.0,275.0,841.0,71.0
+880,North-West University,South Africa,2022,7,533.0,1001.0,275.0,837.0,71.0
+881,University of Orléans,France,2022,38,533.0,1001.0,275.0,838.0,71.0
+882,University of Insubria,Italy,2022,45,533.0,1001.0,275.0,840.0,71.0
+883,Wesleyan University,USA,2022,196,533.0,55.0,275.0,1001.0,71.0
+884,Shandong Agricultural University,China,2022,127,533.0,1001.0,275.0,842.0,71.0
+885,Banaras Hindu University,India,2022,13,321.0,684.0,275.0,860.0,71.0
+886,Nanjing Forestry University,China,2022,128,533.0,1001.0,275.0,844.0,70.9
+887,Shizuoka University,Japan,2022,32,533.0,1001.0,102.0,1001.0,70.9
+888,Taiyuan University of Technology,China,2022,129,533.0,1001.0,275.0,845.0,70.9
+889,Fujian Agriculture and Forestry University,China,2022,130,533.0,1001.0,275.0,846.0,70.9
+890,Zhejiang Normal University,China,2022,131,533.0,1001.0,275.0,848.0,70.9
+891,L.D. Landau Institute for Theoretical Physics of the Russian Academy of Sciences,Russia,2022,15,35.0,1001.0,214.0,1001.0,70.9
+892,Ege University,Turkey,2022,7,533.0,1001.0,275.0,849.0,70.9
+893,New Mexico State University,USA,2022,197,461.0,680.0,275.0,865.0,70.9
+894,University of Mons,Belgium,2022,9,533.0,1001.0,275.0,850.0,70.9
+895,Babeș-Bolyai University,Romania,2022,1,533.0,1001.0,275.0,852.0,70.9
+896,Jaume I University,Spain,2022,31,533.0,1001.0,275.0,853.0,70.9
+897,University of Shanghai for Science and Technology,China,2022,132,533.0,1001.0,275.0,854.0,70.9
+898,Meijo University,Japan,2022,33,533.0,1001.0,33.0,1001.0,70.9
+899,"All India Institute of Medical Sciences, New Delhi",India,2022,14,533.0,1001.0,275.0,856.0,70.9
+900,University of Louisiana at Lafayette,USA,2022,198,533.0,1001.0,275.0,857.0,70.9
+901,Gachon University,South Korea,2022,28,533.0,1001.0,275.0,858.0,70.8
+902,University of Valladolid,Spain,2022,32,533.0,1001.0,275.0,861.0,70.8
+903,Jean Monnet University,France,2022,39,533.0,1001.0,275.0,859.0,70.8
+904,Norwegian School of Economics,Norway,2022,6,465.0,41.0,275.0,1001.0,70.8
+905,Sofia University,Bulgaria,2022,1,156.0,1001.0,275.0,905.0,70.8
+906,Gazi University,Turkey,2022,8,533.0,1001.0,275.0,863.0,70.8
+907,Jawaharlal Nehru Centre for Advanced Scientific Research,India,2022,15,533.0,1001.0,119.0,1001.0,70.8
+908,Iran University of Science and Technology,Iran,2022,8,533.0,1001.0,275.0,862.0,70.8
+909,Henan Normal University,China,2022,133,533.0,1001.0,275.0,864.0,70.8
+910,University of Stirling,United Kingdom,2022,60,533.0,615.0,275.0,882.0,70.8
+911,Kunming University of Science and Technology,China,2022,134,533.0,1001.0,275.0,867.0,70.8
+912,University of Seoul,South Korea,2022,29,533.0,1001.0,275.0,868.0,70.8
+913,"University of Science and Technology, Korea",South Korea,2022,30,533.0,1001.0,275.0,870.0,70.8
+914,Michigan Technological University,USA,2022,199,354.0,903.0,275.0,878.0,70.8
+915,Khalifa University,United Arab Emirates,2022,1,533.0,1001.0,275.0,871.0,70.8
+916,Inje University,South Korea,2022,31,533.0,1001.0,275.0,872.0,70.8
+917,Medical University of Warsaw,Poland,2022,9,533.0,1001.0,275.0,873.0,70.7
+918,Qatar University,Qatar,2022,1,533.0,879.0,275.0,877.0,70.7
+919,Federal University of Viçosa,Brazil,2022,16,533.0,1001.0,275.0,874.0,70.7
+920,Yanshan University,China,2022,135,533.0,1001.0,275.0,875.0,70.7
+921,Portland State University,USA,2022,200,533.0,389.0,275.0,916.0,70.7
+922,Shiraz University,Iran,2022,9,533.0,1001.0,275.0,876.0,70.7
+923,Missouri University of Science and Technology,USA,2022,201,533.0,410.0,275.0,917.0,70.7
+924,Nihon University,Japan,2022,34,522.0,1001.0,275.0,880.0,70.7
+925,Chungbuk National University,South Korea,2022,32,533.0,1001.0,275.0,879.0,70.7
+926,Wroclaw Medical University,Poland,2022,10,533.0,1001.0,275.0,881.0,70.7
+927,Gabriele d’Annunzio University,Italy,2022,46,533.0,1001.0,275.0,883.0,70.7
+928,Hunan Normal University,China,2022,136,533.0,1001.0,275.0,884.0,70.7
+929,Claremont McKenna College,USA,2022,202,533.0,37.0,275.0,1001.0,70.7
+930,Çukurova University,Turkey,2022,9,533.0,1001.0,275.0,885.0,70.7
+931,Budapest University of Technology and Economics,Hungary,2022,5,224.0,1001.0,275.0,911.0,70.7
+932,Mansoura University,Egypt,2022,3,533.0,1001.0,275.0,886.0,70.6
+933,Polytechnic University of Bucharest,Romania,2022,2,533.0,1001.0,275.0,887.0,70.6
+934,Academy of Scientific & Innovative Research,India,2022,16,533.0,1001.0,275.0,888.0,70.6
+935,Technical University of Kaiserslautern,Germany,2022,52,533.0,1001.0,275.0,889.0,70.6
+936,King Juan Carlos University,Spain,2022,33,533.0,1001.0,275.0,890.0,70.6
+937,Indian Institute of Technology Guwahati,India,2022,17,533.0,1001.0,275.0,891.0,70.6
+938,Shahid Beheshti University of Medical Sciences,Iran,2022,10,533.0,1001.0,275.0,892.0,70.6
+939,University of Limerick,Ireland,2022,5,533.0,620.0,275.0,906.0,70.6
+940,Federal University of ABC,Brazil,2022,17,533.0,1001.0,275.0,894.0,70.6
+941,Oberlin College,USA,2022,203,26.0,1001.0,275.0,1001.0,70.6
+942,Chiang Mai University,Thailand,2022,3,533.0,1001.0,275.0,895.0,70.6
+943,"University of the Republic, Uruguay",Uruguay,2022,1,533.0,1001.0,275.0,896.0,70.6
+944,Paul Valéry University,France,2022,40,533.0,1001.0,275.0,897.0,70.6
+945,Keele University,United Kingdom,2022,61,533.0,1001.0,275.0,898.0,70.6
+946,Institut national de la recherche scientifique,Canada,2022,26,533.0,1001.0,275.0,900.0,70.6
+947,Xiangtan University,China,2022,137,533.0,1001.0,275.0,903.0,70.6
+948,Yunnan University,China,2022,138,533.0,1001.0,275.0,901.0,70.5
+949,University of Akron,USA,2022,204,533.0,745.0,275.0,912.0,70.5
+950,Mohammed V University,Morocco,2022,1,533.0,1001.0,275.0,902.0,70.5
+951,Federal University of Ceará,Brazil,2022,18,533.0,1001.0,275.0,904.0,70.5
+952,North Dakota State University,USA,2022,205,293.0,986.0,275.0,920.0,70.5
+953,Federal University of Pelotas,Brazil,2022,19,533.0,1001.0,275.0,907.0,70.5
+954,University of Sassari,Italy,2022,47,533.0,1001.0,275.0,908.0,70.5
+955,Makerere University,Uganda,2022,1,533.0,1001.0,275.0,910.0,70.5
+956,INSA Toulouse,France,2022,41,533.0,582.0,275.0,927.0,70.5
+957,Southern Illinois University Carbondale,USA,2022,206,533.0,1001.0,275.0,914.0,70.5
+958,Sichuan Agricultural University,China,2022,139,533.0,1001.0,275.0,913.0,70.5
+959,Aston University,United Kingdom,2022,62,533.0,560.0,275.0,936.0,70.5
+960,Federal University of São Carlos,Brazil,2022,20,533.0,1001.0,275.0,915.0,70.5
+961,East Carolina University,USA,2022,207,533.0,813.0,275.0,921.0,70.5
+962,New Jersey Institute of Technology,USA,2022,208,425.0,682.0,275.0,928.0,70.5
+963,University of Windsor,Canada,2022,27,533.0,197.0,275.0,1001.0,70.5
+964,Johannes Kepler University Linz,Austria,2022,10,533.0,871.0,275.0,922.0,70.4
+965,Nantong University,China,2022,140,533.0,1001.0,275.0,919.0,70.4
+966,University of Hyogo,Japan,2022,35,533.0,1001.0,102.0,1001.0,70.4
+967,Fluminense Federal University,Brazil,2022,21,533.0,976.0,275.0,925.0,70.4
+968,Hangzhou Dianzi University,China,2022,141,533.0,1001.0,275.0,924.0,70.4
+969,Ulster University,United Kingdom,2022,63,533.0,1001.0,275.0,926.0,70.4
+970,University of Regina,Canada,2022,28,533.0,1001.0,275.0,929.0,70.4
+971,Shanghai Normal University,China,2022,142,533.0,1001.0,275.0,930.0,70.4
+972,University of Naples Parthenope,Italy,2022,48,533.0,1001.0,275.0,932.0,70.4
+973,Bucknell University,USA,2022,209,533.0,54.0,275.0,1001.0,70.4
+974,Marmara University,Turkey,2022,10,533.0,1001.0,275.0,933.0,70.4
+975,Tunis El Manar University,Tunisia,2022,1,533.0,1001.0,275.0,934.0,70.4
+976,National University of Córdoba,Argentina,2022,3,533.0,1001.0,275.0,935.0,70.4
+977,Pomona College,USA,2022,210,27.0,931.0,271.0,1001.0,70.4
+978,Ferdowsi University of Mashhad,Iran,2022,11,533.0,1001.0,275.0,937.0,70.4
+979,Hallym University,South Korea,2022,33,533.0,1001.0,275.0,938.0,70.4
+980,Colgate University,USA,2022,211,533.0,49.0,275.0,1001.0,70.4
+981,University of Memphis,USA,2022,212,533.0,446.0,275.0,961.0,70.3
+982,ITMO University,Russia,2022,16,533.0,1001.0,275.0,939.0,70.3
+983,Capital Normal University,China,2022,143,533.0,924.0,275.0,942.0,70.3
+984,Federal University of Rio Grande do Norte,Brazil,2022,22,533.0,1001.0,275.0,940.0,70.3
+985,University of Tabriz,Iran,2022,12,533.0,1001.0,275.0,941.0,70.3
+986,Lappeenranta University of Technology,Finland,2022,8,533.0,679.0,275.0,949.0,70.3
+987,Ritsumeikan University,Japan,2022,36,533.0,633.0,275.0,953.0,70.3
+988,Edith Cowan University,Australia,2022,26,533.0,1001.0,275.0,944.0,70.3
+989,Fujian Medical University,China,2022,144,533.0,1001.0,275.0,943.0,70.3
+990,Babson College,USA,2022,213,533.0,39.0,275.0,1001.0,70.3
+991,Alexandria University,Egypt,2022,4,408.0,1001.0,275.0,945.0,70.3
+992,Homi Bhabha National Institute,India,2022,18,533.0,1001.0,275.0,946.0,70.3
+993,Tokai University,Japan,2022,37,533.0,1001.0,275.0,947.0,70.3
+994,Autonomous University of San Luis Potosí,Mexico,2022,5,533.0,1001.0,275.0,948.0,70.3
+995,Federal University of Juiz de Fora,Brazil,2022,23,533.0,1001.0,275.0,950.0,70.3
+996,Qufu Normal University,China,2022,145,533.0,1001.0,275.0,951.0,70.3
+997,Pepperdine University,USA,2022,214,94.0,87.0,168.0,1001.0,70.2
+998,University of Extremadura,Spain,2022,34,533.0,1001.0,275.0,954.0,70.2
+999,Wrocław University of Science and Technology,Poland,2022,11,533.0,901.0,275.0,957.0,70.2
+1000,Bilkent University,Turkey,2022,11,533.0,893.0,275.0,958.0,70.2
